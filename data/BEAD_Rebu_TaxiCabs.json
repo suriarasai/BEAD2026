@@ -1,0 +1,4637 @@
+[
+ {
+   "TaxiID": 1,
+   "TaxiNumber": "SHZ2770",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA73889"
+ },
+ {
+   "TaxiID": 2,
+   "TaxiNumber": "SHY4378",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC04591"
+ },
+ {
+   "TaxiID": 3,
+   "TaxiNumber": "SHX6464",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA12020"
+ },
+ {
+   "TaxiID": 4,
+   "TaxiNumber": "SHX4872",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB02825"
+ },
+ {
+   "TaxiID": 5,
+   "TaxiNumber": "SHX2609",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC12882"
+ },
+ {
+   "TaxiID": 6,
+   "TaxiNumber": "SHY9111",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC45713"
+ },
+ {
+   "TaxiID": 7,
+   "TaxiNumber": "SHX5867",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA78092"
+ },
+ {
+   "TaxiID": 8,
+   "TaxiNumber": "SHY6907",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB17549"
+ },
+ {
+   "TaxiID": 9,
+   "TaxiNumber": "SHX7766",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB85775"
+ },
+ {
+   "TaxiID": 10,
+   "TaxiNumber": "SHX5844",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA15463"
+ },
+ {
+   "TaxiID": 11,
+   "TaxiNumber": "SHX3617",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB39828"
+ },
+ {
+   "TaxiID": 12,
+   "TaxiNumber": "SHX7492",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC91623"
+ },
+ {
+   "TaxiID": 13,
+   "TaxiNumber": "SHX6232",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA52923"
+ },
+ {
+   "TaxiID": 14,
+   "TaxiNumber": "SHY5882",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB11620"
+ },
+ {
+   "TaxiID": 15,
+   "TaxiNumber": "SHX7048",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA71532"
+ },
+ {
+   "TaxiID": 16,
+   "TaxiNumber": "SHY9209",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB67907"
+ },
+ {
+   "TaxiID": 17,
+   "TaxiNumber": "SHY9725",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA39051"
+ },
+ {
+   "TaxiID": 18,
+   "TaxiNumber": "SHY2915",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMC66738"
+ },
+ {
+   "TaxiID": 19,
+   "TaxiNumber": "SHX2226",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC76150"
+ },
+ {
+   "TaxiID": 20,
+   "TaxiNumber": "SHY4290",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA67971"
+ },
+ {
+   "TaxiID": 21,
+   "TaxiNumber": "SHY1696",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA85037"
+ },
+ {
+   "TaxiID": 22,
+   "TaxiNumber": "SHX1402",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA97955"
+ },
+ {
+   "TaxiID": 23,
+   "TaxiNumber": "SHY9485",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMC10802"
+ },
+ {
+   "TaxiID": 24,
+   "TaxiNumber": "SHY1586",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB58528"
+ },
+ {
+   "TaxiID": 25,
+   "TaxiNumber": "SHZ5353",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB70397"
+ },
+ {
+   "TaxiID": 26,
+   "TaxiNumber": "SHZ5684",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB97466"
+ },
+ {
+   "TaxiID": 27,
+   "TaxiNumber": "SHY0981",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA43810"
+ },
+ {
+   "TaxiID": 28,
+   "TaxiNumber": "SHZ8395",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC77567"
+ },
+ {
+   "TaxiID": 29,
+   "TaxiNumber": "SHX4403",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC05021"
+ },
+ {
+   "TaxiID": 30,
+   "TaxiNumber": "SHX7533",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC09261"
+ },
+ {
+   "TaxiID": 31,
+   "TaxiNumber": "SHY5335",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA29945"
+ },
+ {
+   "TaxiID": 32,
+   "TaxiNumber": "SHX0588",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB51371"
+ },
+ {
+   "TaxiID": 33,
+   "TaxiNumber": "SHZ9095",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA60181"
+ },
+ {
+   "TaxiID": 34,
+   "TaxiNumber": "SHY6405",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA17366"
+ },
+ {
+   "TaxiID": 35,
+   "TaxiNumber": "SHZ2123",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA50402"
+ },
+ {
+   "TaxiID": 36,
+   "TaxiNumber": "SHX4463",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA00136"
+ },
+ {
+   "TaxiID": 37,
+   "TaxiNumber": "SHY7838",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA12261"
+ },
+ {
+   "TaxiID": 38,
+   "TaxiNumber": "SHY0422",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA01855"
+ },
+ {
+   "TaxiID": 39,
+   "TaxiNumber": "SHY5194",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB36743"
+ },
+ {
+   "TaxiID": 40,
+   "TaxiNumber": "SHY2975",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB44276"
+ },
+ {
+   "TaxiID": 41,
+   "TaxiNumber": "SHY4413",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB82362"
+ },
+ {
+   "TaxiID": 42,
+   "TaxiNumber": "SHY4245",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC21115"
+ },
+ {
+   "TaxiID": 43,
+   "TaxiNumber": "SHX5153",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA41233"
+ },
+ {
+   "TaxiID": 44,
+   "TaxiNumber": "SHZ8314",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC89533"
+ },
+ {
+   "TaxiID": 45,
+   "TaxiNumber": "SHZ4390",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA55984"
+ },
+ {
+   "TaxiID": 46,
+   "TaxiNumber": "SHZ1978",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA85350"
+ },
+ {
+   "TaxiID": 47,
+   "TaxiNumber": "SHX7757",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB92775"
+ },
+ {
+   "TaxiID": 48,
+   "TaxiNumber": "SHY8339",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB31624"
+ },
+ {
+   "TaxiID": 49,
+   "TaxiNumber": "SHZ9447",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA88130"
+ },
+ {
+   "TaxiID": 50,
+   "TaxiNumber": "SHZ8921",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA32166"
+ },
+ {
+   "TaxiID": 51,
+   "TaxiNumber": "SHX1022",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB11317"
+ },
+ {
+   "TaxiID": 52,
+   "TaxiNumber": "SHY9384",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB25036"
+ },
+ {
+   "TaxiID": 53,
+   "TaxiNumber": "SHZ6071",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB46362"
+ },
+ {
+   "TaxiID": 54,
+   "TaxiNumber": "SHZ7647",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB09972"
+ },
+ {
+   "TaxiID": 55,
+   "TaxiNumber": "SHY6459",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC65942"
+ },
+ {
+   "TaxiID": 56,
+   "TaxiNumber": "SHY1284",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC95849"
+ },
+ {
+   "TaxiID": 57,
+   "TaxiNumber": "SHY3876",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA79747"
+ },
+ {
+   "TaxiID": 58,
+   "TaxiNumber": "SHY7467",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA57903"
+ },
+ {
+   "TaxiID": 59,
+   "TaxiNumber": "SHX0106",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB18597"
+ },
+ {
+   "TaxiID": 60,
+   "TaxiNumber": "SHZ3746",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB16199"
+ },
+ {
+   "TaxiID": 61,
+   "TaxiNumber": "SHY2630",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA65886"
+ },
+ {
+   "TaxiID": 62,
+   "TaxiNumber": "SHY7179",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB80337"
+ },
+ {
+   "TaxiID": 63,
+   "TaxiNumber": "SHX8594",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB75782"
+ },
+ {
+   "TaxiID": 64,
+   "TaxiNumber": "SHX6313",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB12927"
+ },
+ {
+   "TaxiID": 65,
+   "TaxiNumber": "SHY1153",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC03500"
+ },
+ {
+   "TaxiID": 66,
+   "TaxiNumber": "SHY7964",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA15130"
+ },
+ {
+   "TaxiID": 67,
+   "TaxiNumber": "SHY9782",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB72920"
+ },
+ {
+   "TaxiID": 68,
+   "TaxiNumber": "SHX4904",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMC85259"
+ },
+ {
+   "TaxiID": 69,
+   "TaxiNumber": "SHY2423",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB41254"
+ },
+ {
+   "TaxiID": 70,
+   "TaxiNumber": "SHY4199",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB69079"
+ },
+ {
+   "TaxiID": 71,
+   "TaxiNumber": "SHX3896",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC01363"
+ },
+ {
+   "TaxiID": 72,
+   "TaxiNumber": "SHY1172",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB91479"
+ },
+ {
+   "TaxiID": 73,
+   "TaxiNumber": "SHY8246",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB82970"
+ },
+ {
+   "TaxiID": 74,
+   "TaxiNumber": "SHX4157",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB18328"
+ },
+ {
+   "TaxiID": 75,
+   "TaxiNumber": "SHX4094",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC27818"
+ },
+ {
+   "TaxiID": 76,
+   "TaxiNumber": "SHZ2806",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC38544"
+ },
+ {
+   "TaxiID": 77,
+   "TaxiNumber": "SHX3161",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA04031"
+ },
+ {
+   "TaxiID": 78,
+   "TaxiNumber": "SHY5511",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC60884"
+ },
+ {
+   "TaxiID": 79,
+   "TaxiNumber": "SHX4686",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC73136"
+ },
+ {
+   "TaxiID": 80,
+   "TaxiNumber": "SHX4454",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA78634"
+ },
+ {
+   "TaxiID": 81,
+   "TaxiNumber": "SHX5280",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA75937"
+ },
+ {
+   "TaxiID": 82,
+   "TaxiNumber": "SHX7568",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC43035"
+ },
+ {
+   "TaxiID": 83,
+   "TaxiNumber": "SHY4550",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA47288"
+ },
+ {
+   "TaxiID": 84,
+   "TaxiNumber": "SHX4335",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC67061"
+ },
+ {
+   "TaxiID": 85,
+   "TaxiNumber": "SHY1413",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA73478"
+ },
+ {
+   "TaxiID": 86,
+   "TaxiNumber": "SHY0245",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC11518"
+ },
+ {
+   "TaxiID": 87,
+   "TaxiNumber": "SHZ8011",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA83526"
+ },
+ {
+   "TaxiID": 88,
+   "TaxiNumber": "SHX1778",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA38987"
+ },
+ {
+   "TaxiID": 89,
+   "TaxiNumber": "SHX5869",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA42232"
+ },
+ {
+   "TaxiID": 90,
+   "TaxiNumber": "SHY2990",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB02455"
+ },
+ {
+   "TaxiID": 91,
+   "TaxiNumber": "SHX5521",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA86640"
+ },
+ {
+   "TaxiID": 92,
+   "TaxiNumber": "SHZ8902",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA83741"
+ },
+ {
+   "TaxiID": 93,
+   "TaxiNumber": "SHY1448",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB81963"
+ },
+ {
+   "TaxiID": 94,
+   "TaxiNumber": "SHY4026",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB21659"
+ },
+ {
+   "TaxiID": 95,
+   "TaxiNumber": "SHZ8027",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC03100"
+ },
+ {
+   "TaxiID": 96,
+   "TaxiNumber": "SHZ7688",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA67866"
+ },
+ {
+   "TaxiID": 97,
+   "TaxiNumber": "SHY3633",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC09414"
+ },
+ {
+   "TaxiID": 98,
+   "TaxiNumber": "SHY2548",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA22969"
+ },
+ {
+   "TaxiID": 99,
+   "TaxiNumber": "SHY7967",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB39627"
+ },
+ {
+   "TaxiID": 100,
+   "TaxiNumber": "SHZ4353",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA71509"
+ },
+ {
+   "TaxiID": 101,
+   "TaxiNumber": "SHX7005",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA00446"
+ },
+ {
+   "TaxiID": 102,
+   "TaxiNumber": "SHX1081",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA49443"
+ },
+ {
+   "TaxiID": 103,
+   "TaxiNumber": "SHX1314",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA63111"
+ },
+ {
+   "TaxiID": 104,
+   "TaxiNumber": "SHX0897",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB27976"
+ },
+ {
+   "TaxiID": 105,
+   "TaxiNumber": "SHX1855",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB23912"
+ },
+ {
+   "TaxiID": 106,
+   "TaxiNumber": "SHX6522",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB89131"
+ },
+ {
+   "TaxiID": 107,
+   "TaxiNumber": "SHZ1790",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB39871"
+ },
+ {
+   "TaxiID": 108,
+   "TaxiNumber": "SHX7074",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA98590"
+ },
+ {
+   "TaxiID": 109,
+   "TaxiNumber": "SHY1850",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMC72597"
+ },
+ {
+   "TaxiID": 110,
+   "TaxiNumber": "SHX2471",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB51793"
+ },
+ {
+   "TaxiID": 111,
+   "TaxiNumber": "SHY4481",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB95983"
+ },
+ {
+   "TaxiID": 112,
+   "TaxiNumber": "SHX4502",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC13612"
+ },
+ {
+   "TaxiID": 113,
+   "TaxiNumber": "SHZ1333",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB74315"
+ },
+ {
+   "TaxiID": 114,
+   "TaxiNumber": "SHZ8248",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC92724"
+ },
+ {
+   "TaxiID": 115,
+   "TaxiNumber": "SHX1043",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMC80617"
+ },
+ {
+   "TaxiID": 116,
+   "TaxiNumber": "SHY5510",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA81513"
+ },
+ {
+   "TaxiID": 117,
+   "TaxiNumber": "SHZ6701",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA99125"
+ },
+ {
+   "TaxiID": 118,
+   "TaxiNumber": "SHX4630",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA30215"
+ },
+ {
+   "TaxiID": 119,
+   "TaxiNumber": "SHX9715",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB53701"
+ },
+ {
+   "TaxiID": 120,
+   "TaxiNumber": "SHY6415",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB59185"
+ },
+ {
+   "TaxiID": 121,
+   "TaxiNumber": "SHY5792",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB57421"
+ },
+ {
+   "TaxiID": 122,
+   "TaxiNumber": "SHX7554",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC73677"
+ },
+ {
+   "TaxiID": 123,
+   "TaxiNumber": "SHY8469",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC22462"
+ },
+ {
+   "TaxiID": 124,
+   "TaxiNumber": "SHX2351",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA07188"
+ },
+ {
+   "TaxiID": 125,
+   "TaxiNumber": "SHX4161",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB67411"
+ },
+ {
+   "TaxiID": 126,
+   "TaxiNumber": "SHX1363",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA28239"
+ },
+ {
+   "TaxiID": 127,
+   "TaxiNumber": "SHX7806",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA64845"
+ },
+ {
+   "TaxiID": 128,
+   "TaxiNumber": "SHY6572",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMB27923"
+ },
+ {
+   "TaxiID": 129,
+   "TaxiNumber": "SHZ7567",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA51814"
+ },
+ {
+   "TaxiID": 130,
+   "TaxiNumber": "SHY7140",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA85058"
+ },
+ {
+   "TaxiID": 131,
+   "TaxiNumber": "SHZ0775",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA37858"
+ },
+ {
+   "TaxiID": 132,
+   "TaxiNumber": "SHX0830",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA66613"
+ },
+ {
+   "TaxiID": 133,
+   "TaxiNumber": "SHY7440",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC63729"
+ },
+ {
+   "TaxiID": 134,
+   "TaxiNumber": "SHZ4308",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB59930"
+ },
+ {
+   "TaxiID": 135,
+   "TaxiNumber": "SHY6905",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB40380"
+ },
+ {
+   "TaxiID": 136,
+   "TaxiNumber": "SHY8248",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMB53093"
+ },
+ {
+   "TaxiID": 137,
+   "TaxiNumber": "SHZ8477",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB02535"
+ },
+ {
+   "TaxiID": 138,
+   "TaxiNumber": "SHY7111",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB07383"
+ },
+ {
+   "TaxiID": 139,
+   "TaxiNumber": "SHZ2238",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB02086"
+ },
+ {
+   "TaxiID": 140,
+   "TaxiNumber": "SHY6224",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC93920"
+ },
+ {
+   "TaxiID": 141,
+   "TaxiNumber": "SHY4138",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMB12414"
+ },
+ {
+   "TaxiID": 142,
+   "TaxiNumber": "SHY6515",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC22525"
+ },
+ {
+   "TaxiID": 143,
+   "TaxiNumber": "SHX3971",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC31918"
+ },
+ {
+   "TaxiID": 144,
+   "TaxiNumber": "SHY6685",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA82709"
+ },
+ {
+   "TaxiID": 145,
+   "TaxiNumber": "SHX8110",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA88476"
+ },
+ {
+   "TaxiID": 146,
+   "TaxiNumber": "SHY8685",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA73962"
+ },
+ {
+   "TaxiID": 147,
+   "TaxiNumber": "SHY1437",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB57912"
+ },
+ {
+   "TaxiID": 148,
+   "TaxiNumber": "SHY2282",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB94122"
+ },
+ {
+   "TaxiID": 149,
+   "TaxiNumber": "SHZ7300",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB35280"
+ },
+ {
+   "TaxiID": 150,
+   "TaxiNumber": "SHX9522",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB19741"
+ },
+ {
+   "TaxiID": 151,
+   "TaxiNumber": "SHZ3454",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMC87924"
+ },
+ {
+   "TaxiID": 152,
+   "TaxiNumber": "SHY8172",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB49478"
+ },
+ {
+   "TaxiID": 153,
+   "TaxiNumber": "SHZ8877",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB20705"
+ },
+ {
+   "TaxiID": 154,
+   "TaxiNumber": "SHZ7873",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC24319"
+ },
+ {
+   "TaxiID": 155,
+   "TaxiNumber": "SHZ2957",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA94698"
+ },
+ {
+   "TaxiID": 156,
+   "TaxiNumber": "SHY9814",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC41231"
+ },
+ {
+   "TaxiID": 157,
+   "TaxiNumber": "SHY7162",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMC54957"
+ },
+ {
+   "TaxiID": 158,
+   "TaxiNumber": "SHY4188",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA24241"
+ },
+ {
+   "TaxiID": 159,
+   "TaxiNumber": "SHX1131",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA65308"
+ },
+ {
+   "TaxiID": 160,
+   "TaxiNumber": "SHY1295",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC58379"
+ },
+ {
+   "TaxiID": 161,
+   "TaxiNumber": "SHX3746",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA60943"
+ },
+ {
+   "TaxiID": 162,
+   "TaxiNumber": "SHY1148",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA19903"
+ },
+ {
+   "TaxiID": 163,
+   "TaxiNumber": "SHY5616",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA33718"
+ },
+ {
+   "TaxiID": 164,
+   "TaxiNumber": "SHX0941",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA38948"
+ },
+ {
+   "TaxiID": 165,
+   "TaxiNumber": "SHX3040",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB61545"
+ },
+ {
+   "TaxiID": 166,
+   "TaxiNumber": "SHY3294",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA52713"
+ },
+ {
+   "TaxiID": 167,
+   "TaxiNumber": "SHY4629",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC46427"
+ },
+ {
+   "TaxiID": 168,
+   "TaxiNumber": "SHX8045",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA96671"
+ },
+ {
+   "TaxiID": 169,
+   "TaxiNumber": "SHX9442",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB56988"
+ },
+ {
+   "TaxiID": 170,
+   "TaxiNumber": "SHY0735",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB15468"
+ },
+ {
+   "TaxiID": 171,
+   "TaxiNumber": "SHX8982",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB15875"
+ },
+ {
+   "TaxiID": 172,
+   "TaxiNumber": "SHY8407",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB76857"
+ },
+ {
+   "TaxiID": 173,
+   "TaxiNumber": "SHY5757",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC18281"
+ },
+ {
+   "TaxiID": 174,
+   "TaxiNumber": "SHY4078",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC70256"
+ },
+ {
+   "TaxiID": 175,
+   "TaxiNumber": "SHY0937",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB01468"
+ },
+ {
+   "TaxiID": 176,
+   "TaxiNumber": "SHX4006",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC40630"
+ },
+ {
+   "TaxiID": 177,
+   "TaxiNumber": "SHY6162",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC89736"
+ },
+ {
+   "TaxiID": 178,
+   "TaxiNumber": "SHY1493",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA58481"
+ },
+ {
+   "TaxiID": 179,
+   "TaxiNumber": "SHY9774",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB39874"
+ },
+ {
+   "TaxiID": 180,
+   "TaxiNumber": "SHY7702",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA16687"
+ },
+ {
+   "TaxiID": 181,
+   "TaxiNumber": "SHY4279",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB17493"
+ },
+ {
+   "TaxiID": 182,
+   "TaxiNumber": "SHX8712",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA95705"
+ },
+ {
+   "TaxiID": 183,
+   "TaxiNumber": "SHX8884",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA70054"
+ },
+ {
+   "TaxiID": 184,
+   "TaxiNumber": "SHY6637",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA42394"
+ },
+ {
+   "TaxiID": 185,
+   "TaxiNumber": "SHY6607",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB15666"
+ },
+ {
+   "TaxiID": 186,
+   "TaxiNumber": "SHY3029",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB13784"
+ },
+ {
+   "TaxiID": 187,
+   "TaxiNumber": "SHY5133",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC91478"
+ },
+ {
+   "TaxiID": 188,
+   "TaxiNumber": "SHX0541",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA25750"
+ },
+ {
+   "TaxiID": 189,
+   "TaxiNumber": "SHY0142",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC12880"
+ },
+ {
+   "TaxiID": 190,
+   "TaxiNumber": "SHX2430",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA31077"
+ },
+ {
+   "TaxiID": 191,
+   "TaxiNumber": "SHX5836",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB71163"
+ },
+ {
+   "TaxiID": 192,
+   "TaxiNumber": "SHY3409",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA74858"
+ },
+ {
+   "TaxiID": 193,
+   "TaxiNumber": "SHY5775",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA36546"
+ },
+ {
+   "TaxiID": 194,
+   "TaxiNumber": "SHX1122",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB74518"
+ },
+ {
+   "TaxiID": 195,
+   "TaxiNumber": "SHZ0338",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC78634"
+ },
+ {
+   "TaxiID": 196,
+   "TaxiNumber": "SHY3769",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB96389"
+ },
+ {
+   "TaxiID": 197,
+   "TaxiNumber": "SHX5731",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB93905"
+ },
+ {
+   "TaxiID": 198,
+   "TaxiNumber": "SHY7639",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMC84909"
+ },
+ {
+   "TaxiID": 199,
+   "TaxiNumber": "SHX6044",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA29795"
+ },
+ {
+   "TaxiID": 200,
+   "TaxiNumber": "SHZ9323",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC59226"
+ },
+ {
+   "TaxiID": 201,
+   "TaxiNumber": "SHY2443",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA08777"
+ },
+ {
+   "TaxiID": 202,
+   "TaxiNumber": "SHY9591",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB82385"
+ },
+ {
+   "TaxiID": 203,
+   "TaxiNumber": "SHY8074",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA02218"
+ },
+ {
+   "TaxiID": 204,
+   "TaxiNumber": "SHZ9673",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB75474"
+ },
+ {
+   "TaxiID": 205,
+   "TaxiNumber": "SHX1954",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB78980"
+ },
+ {
+   "TaxiID": 206,
+   "TaxiNumber": "SHX1788",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA12933"
+ },
+ {
+   "TaxiID": 207,
+   "TaxiNumber": "SHY1860",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA64192"
+ },
+ {
+   "TaxiID": 208,
+   "TaxiNumber": "SHZ5227",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB10357"
+ },
+ {
+   "TaxiID": 209,
+   "TaxiNumber": "SHZ8671",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMC51051"
+ },
+ {
+   "TaxiID": 210,
+   "TaxiNumber": "SHY4144",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB71454"
+ },
+ {
+   "TaxiID": 211,
+   "TaxiNumber": "SHX6558",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB33145"
+ },
+ {
+   "TaxiID": 212,
+   "TaxiNumber": "SHZ6643",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB15278"
+ },
+ {
+   "TaxiID": 213,
+   "TaxiNumber": "SHX6384",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC17519"
+ },
+ {
+   "TaxiID": 214,
+   "TaxiNumber": "SHY1298",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB10100"
+ },
+ {
+   "TaxiID": 215,
+   "TaxiNumber": "SHZ5077",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC82364"
+ },
+ {
+   "TaxiID": 216,
+   "TaxiNumber": "SHY8962",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC57081"
+ },
+ {
+   "TaxiID": 217,
+   "TaxiNumber": "SHZ0086",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMA64420"
+ },
+ {
+   "TaxiID": 218,
+   "TaxiNumber": "SHY4376",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC09801"
+ },
+ {
+   "TaxiID": 219,
+   "TaxiNumber": "SHZ8441",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA47494"
+ },
+ {
+   "TaxiID": 220,
+   "TaxiNumber": "SHY0270",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA93631"
+ },
+ {
+   "TaxiID": 221,
+   "TaxiNumber": "SHX1271",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMA84048"
+ },
+ {
+   "TaxiID": 222,
+   "TaxiNumber": "SHZ7871",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMC80081"
+ },
+ {
+   "TaxiID": 223,
+   "TaxiNumber": "SHY6024",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC61153"
+ },
+ {
+   "TaxiID": 224,
+   "TaxiNumber": "SHY5402",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA98844"
+ },
+ {
+   "TaxiID": 225,
+   "TaxiNumber": "SHX8772",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMA00370"
+ },
+ {
+   "TaxiID": 226,
+   "TaxiNumber": "SHY7734",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB21591"
+ },
+ {
+   "TaxiID": 227,
+   "TaxiNumber": "SHY2458",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA31650"
+ },
+ {
+   "TaxiID": 228,
+   "TaxiNumber": "SHY2306",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA38700"
+ },
+ {
+   "TaxiID": 229,
+   "TaxiNumber": "SHZ8401",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB12878"
+ },
+ {
+   "TaxiID": 230,
+   "TaxiNumber": "SHY5709",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB71208"
+ },
+ {
+   "TaxiID": 231,
+   "TaxiNumber": "SHY4334",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB64825"
+ },
+ {
+   "TaxiID": 232,
+   "TaxiNumber": "SHX8229",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA48993"
+ },
+ {
+   "TaxiID": 233,
+   "TaxiNumber": "SHY2331",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB05773"
+ },
+ {
+   "TaxiID": 234,
+   "TaxiNumber": "SHX5482",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA68327"
+ },
+ {
+   "TaxiID": 235,
+   "TaxiNumber": "SHY7097",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA28427"
+ },
+ {
+   "TaxiID": 236,
+   "TaxiNumber": "SHX0399",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB30762"
+ },
+ {
+   "TaxiID": 237,
+   "TaxiNumber": "SHX6624",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB72211"
+ },
+ {
+   "TaxiID": 238,
+   "TaxiNumber": "SHX2553",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC39185"
+ },
+ {
+   "TaxiID": 239,
+   "TaxiNumber": "SHX0907",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC78239"
+ },
+ {
+   "TaxiID": 240,
+   "TaxiNumber": "SHY5095",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA01403"
+ },
+ {
+   "TaxiID": 241,
+   "TaxiNumber": "SHY6935",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB53278"
+ },
+ {
+   "TaxiID": 242,
+   "TaxiNumber": "SHZ1171",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB02251"
+ },
+ {
+   "TaxiID": 243,
+   "TaxiNumber": "SHZ4182",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA54829"
+ },
+ {
+   "TaxiID": 244,
+   "TaxiNumber": "SHY7172",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMC88858"
+ },
+ {
+   "TaxiID": 245,
+   "TaxiNumber": "SHY6042",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA70141"
+ },
+ {
+   "TaxiID": 246,
+   "TaxiNumber": "SHY9347",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB02081"
+ },
+ {
+   "TaxiID": 247,
+   "TaxiNumber": "SHX0732",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC96842"
+ },
+ {
+   "TaxiID": 248,
+   "TaxiNumber": "SHY1495",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA93430"
+ },
+ {
+   "TaxiID": 249,
+   "TaxiNumber": "SHX5961",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC52026"
+ },
+ {
+   "TaxiID": 250,
+   "TaxiNumber": "SHX1102",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA42041"
+ },
+ {
+   "TaxiID": 251,
+   "TaxiNumber": "SHX6145",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB55924"
+ },
+ {
+   "TaxiID": 252,
+   "TaxiNumber": "SHY5409",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC21819"
+ },
+ {
+   "TaxiID": 253,
+   "TaxiNumber": "SHX5447",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA89751"
+ },
+ {
+   "TaxiID": 254,
+   "TaxiNumber": "SHY6373",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA75354"
+ },
+ {
+   "TaxiID": 255,
+   "TaxiNumber": "SHY9000",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA34853"
+ },
+ {
+   "TaxiID": 256,
+   "TaxiNumber": "SHX3051",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA60172"
+ },
+ {
+   "TaxiID": 257,
+   "TaxiNumber": "SHX8923",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA26246"
+ },
+ {
+   "TaxiID": 258,
+   "TaxiNumber": "SHX9762",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB58886"
+ },
+ {
+   "TaxiID": 259,
+   "TaxiNumber": "SHY2517",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB56281"
+ },
+ {
+   "TaxiID": 260,
+   "TaxiNumber": "SHX0791",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC20008"
+ },
+ {
+   "TaxiID": 261,
+   "TaxiNumber": "SHZ5870",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC01627"
+ },
+ {
+   "TaxiID": 262,
+   "TaxiNumber": "SHX8432",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA10511"
+ },
+ {
+   "TaxiID": 263,
+   "TaxiNumber": "SHY4829",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB19121"
+ },
+ {
+   "TaxiID": 264,
+   "TaxiNumber": "SHY4842",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB30109"
+ },
+ {
+   "TaxiID": 265,
+   "TaxiNumber": "SHZ2606",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB44295"
+ },
+ {
+   "TaxiID": 266,
+   "TaxiNumber": "SHY3565",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB19633"
+ },
+ {
+   "TaxiID": 267,
+   "TaxiNumber": "SHY8251",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB09552"
+ },
+ {
+   "TaxiID": 268,
+   "TaxiNumber": "SHZ9192",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA69531"
+ },
+ {
+   "TaxiID": 269,
+   "TaxiNumber": "SHZ6874",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC98345"
+ },
+ {
+   "TaxiID": 270,
+   "TaxiNumber": "SHY5810",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB85001"
+ },
+ {
+   "TaxiID": 271,
+   "TaxiNumber": "SHX8463",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA01164"
+ },
+ {
+   "TaxiID": 272,
+   "TaxiNumber": "SHX1030",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC80644"
+ },
+ {
+   "TaxiID": 273,
+   "TaxiNumber": "SHZ6738",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB37982"
+ },
+ {
+   "TaxiID": 274,
+   "TaxiNumber": "SHX4064",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA12942"
+ },
+ {
+   "TaxiID": 275,
+   "TaxiNumber": "SHX5620",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB73126"
+ },
+ {
+   "TaxiID": 276,
+   "TaxiNumber": "SHX9583",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC44575"
+ },
+ {
+   "TaxiID": 277,
+   "TaxiNumber": "SHZ4775",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB26278"
+ },
+ {
+   "TaxiID": 278,
+   "TaxiNumber": "SHZ9458",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB36053"
+ },
+ {
+   "TaxiID": 279,
+   "TaxiNumber": "SHX5415",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC40174"
+ },
+ {
+   "TaxiID": 280,
+   "TaxiNumber": "SHX5054",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC60862"
+ },
+ {
+   "TaxiID": 281,
+   "TaxiNumber": "SHX5071",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB99822"
+ },
+ {
+   "TaxiID": 282,
+   "TaxiNumber": "SHX2369",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA79715"
+ },
+ {
+   "TaxiID": 283,
+   "TaxiNumber": "SHX1982",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA05186"
+ },
+ {
+   "TaxiID": 284,
+   "TaxiNumber": "SHY4458",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC71611"
+ },
+ {
+   "TaxiID": 285,
+   "TaxiNumber": "SHY3466",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA49410"
+ },
+ {
+   "TaxiID": 286,
+   "TaxiNumber": "SHY5827",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA87134"
+ },
+ {
+   "TaxiID": 287,
+   "TaxiNumber": "SHZ8017",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMA19273"
+ },
+ {
+   "TaxiID": 288,
+   "TaxiNumber": "SHY6201",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMA41273"
+ },
+ {
+   "TaxiID": 289,
+   "TaxiNumber": "SHY9781",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA26836"
+ },
+ {
+   "TaxiID": 290,
+   "TaxiNumber": "SHX8368",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB33223"
+ },
+ {
+   "TaxiID": 291,
+   "TaxiNumber": "SHZ7283",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB76497"
+ },
+ {
+   "TaxiID": 292,
+   "TaxiNumber": "SHZ7952",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB43167"
+ },
+ {
+   "TaxiID": 293,
+   "TaxiNumber": "SHY8005",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB01965"
+ },
+ {
+   "TaxiID": 294,
+   "TaxiNumber": "SHY3356",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC39909"
+ },
+ {
+   "TaxiID": 295,
+   "TaxiNumber": "SHX2394",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB85330"
+ },
+ {
+   "TaxiID": 296,
+   "TaxiNumber": "SHY7521",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC13811"
+ },
+ {
+   "TaxiID": 297,
+   "TaxiNumber": "SHY7191",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB33156"
+ },
+ {
+   "TaxiID": 298,
+   "TaxiNumber": "SHY2377",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA69542"
+ },
+ {
+   "TaxiID": 299,
+   "TaxiNumber": "SHZ0818",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB46096"
+ },
+ {
+   "TaxiID": 300,
+   "TaxiNumber": "SHX3153",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC24183"
+ },
+ {
+   "TaxiID": 301,
+   "TaxiNumber": "SHX7603",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMC49668"
+ },
+ {
+   "TaxiID": 302,
+   "TaxiNumber": "SHY5445",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA21908"
+ },
+ {
+   "TaxiID": 303,
+   "TaxiNumber": "SHX3754",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC27365"
+ },
+ {
+   "TaxiID": 304,
+   "TaxiNumber": "SHZ4891",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC83612"
+ },
+ {
+   "TaxiID": 305,
+   "TaxiNumber": "SHZ7564",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA47629"
+ },
+ {
+   "TaxiID": 306,
+   "TaxiNumber": "SHZ8497",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB51188"
+ },
+ {
+   "TaxiID": 307,
+   "TaxiNumber": "SHZ8166",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB57427"
+ },
+ {
+   "TaxiID": 308,
+   "TaxiNumber": "SHY2103",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA66216"
+ },
+ {
+   "TaxiID": 309,
+   "TaxiNumber": "SHY9787",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA74670"
+ },
+ {
+   "TaxiID": 310,
+   "TaxiNumber": "SHY2275",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA72830"
+ },
+ {
+   "TaxiID": 311,
+   "TaxiNumber": "SHX5811",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMA57179"
+ },
+ {
+   "TaxiID": 312,
+   "TaxiNumber": "SHX9313",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB36801"
+ },
+ {
+   "TaxiID": 313,
+   "TaxiNumber": "SHY3051",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB71971"
+ },
+ {
+   "TaxiID": 314,
+   "TaxiNumber": "SHY2803",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA34820"
+ },
+ {
+   "TaxiID": 315,
+   "TaxiNumber": "SHY0615",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA04544"
+ },
+ {
+   "TaxiID": 316,
+   "TaxiNumber": "SHY0965",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC09737"
+ },
+ {
+   "TaxiID": 317,
+   "TaxiNumber": "SHZ0587",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC11246"
+ },
+ {
+   "TaxiID": 318,
+   "TaxiNumber": "SHX9696",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB00977"
+ },
+ {
+   "TaxiID": 319,
+   "TaxiNumber": "SHX4666",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA47280"
+ },
+ {
+   "TaxiID": 320,
+   "TaxiNumber": "SHY1409",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMA00394"
+ },
+ {
+   "TaxiID": 321,
+   "TaxiNumber": "SHZ3551",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA20840"
+ },
+ {
+   "TaxiID": 322,
+   "TaxiNumber": "SHY4332",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA28983"
+ },
+ {
+   "TaxiID": 323,
+   "TaxiNumber": "SHY2828",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "White",
+   "TMDTID": "TMA07103"
+ },
+ {
+   "TaxiID": 324,
+   "TaxiNumber": "SHY8033",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB58105"
+ },
+ {
+   "TaxiID": 325,
+   "TaxiNumber": "SHX8902",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB06856"
+ },
+ {
+   "TaxiID": 326,
+   "TaxiNumber": "SHX1283",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB70022"
+ },
+ {
+   "TaxiID": 327,
+   "TaxiNumber": "SHY6747",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB84684"
+ },
+ {
+   "TaxiID": 328,
+   "TaxiNumber": "SHX3135",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB98925"
+ },
+ {
+   "TaxiID": 329,
+   "TaxiNumber": "SHZ0685",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB94617"
+ },
+ {
+   "TaxiID": 330,
+   "TaxiNumber": "SHX2202",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC12458"
+ },
+ {
+   "TaxiID": 331,
+   "TaxiNumber": "SHZ4131",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB15688"
+ },
+ {
+   "TaxiID": 332,
+   "TaxiNumber": "SHY0482",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB21873"
+ },
+ {
+   "TaxiID": 333,
+   "TaxiNumber": "SHY1488",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Mercedes Viano",
+   "TaxiPassengerCapacity": 7,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB35640"
+ },
+ {
+   "TaxiID": 334,
+   "TaxiNumber": "SHZ5650",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMC00095"
+ },
+ {
+   "TaxiID": 335,
+   "TaxiNumber": "SHY1429",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC19640"
+ },
+ {
+   "TaxiID": 336,
+   "TaxiNumber": "SHY7220",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA01160"
+ },
+ {
+   "TaxiID": 337,
+   "TaxiNumber": "SHX2282",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMC59918"
+ },
+ {
+   "TaxiID": 338,
+   "TaxiNumber": "SHY8709",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA82478"
+ },
+ {
+   "TaxiID": 339,
+   "TaxiNumber": "SHY5946",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC35992"
+ },
+ {
+   "TaxiID": 340,
+   "TaxiNumber": "SHY5653",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA45089"
+ },
+ {
+   "TaxiID": 341,
+   "TaxiNumber": "SHZ5046",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB01623"
+ },
+ {
+   "TaxiID": 342,
+   "TaxiNumber": "SHX5957",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB17561"
+ },
+ {
+   "TaxiID": 343,
+   "TaxiNumber": "SHY0218",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB55449"
+ },
+ {
+   "TaxiID": 344,
+   "TaxiNumber": "SHY7432",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB23835"
+ },
+ {
+   "TaxiID": 345,
+   "TaxiNumber": "SHX8625",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC73914"
+ },
+ {
+   "TaxiID": 346,
+   "TaxiNumber": "SHY4969",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB17661"
+ },
+ {
+   "TaxiID": 347,
+   "TaxiNumber": "SHZ9337",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA67748"
+ },
+ {
+   "TaxiID": 348,
+   "TaxiNumber": "SHX5835",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA81129"
+ },
+ {
+   "TaxiID": 349,
+   "TaxiNumber": "SHZ6022",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC82641"
+ },
+ {
+   "TaxiID": 350,
+   "TaxiNumber": "SHZ9148",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA45884"
+ },
+ {
+   "TaxiID": 351,
+   "TaxiNumber": "SHY4388",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB60520"
+ },
+ {
+   "TaxiID": 352,
+   "TaxiNumber": "SHX0354",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA22172"
+ },
+ {
+   "TaxiID": 353,
+   "TaxiNumber": "SHZ4342",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA86913"
+ },
+ {
+   "TaxiID": 354,
+   "TaxiNumber": "SHZ8297",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB12264"
+ },
+ {
+   "TaxiID": 355,
+   "TaxiNumber": "SHX2912",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB64235"
+ },
+ {
+   "TaxiID": 356,
+   "TaxiNumber": "SHY5235",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB64192"
+ },
+ {
+   "TaxiID": 357,
+   "TaxiNumber": "SHY2216",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA41637"
+ },
+ {
+   "TaxiID": 358,
+   "TaxiNumber": "SHY2418",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC04575"
+ },
+ {
+   "TaxiID": 359,
+   "TaxiNumber": "SHX4592",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC81587"
+ },
+ {
+   "TaxiID": 360,
+   "TaxiNumber": "SHY6715",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA48868"
+ },
+ {
+   "TaxiID": 361,
+   "TaxiNumber": "SHZ1386",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB56520"
+ },
+ {
+   "TaxiID": 362,
+   "TaxiNumber": "SHY7607",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA92897"
+ },
+ {
+   "TaxiID": 363,
+   "TaxiNumber": "SHY9157",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA47503"
+ },
+ {
+   "TaxiID": 364,
+   "TaxiNumber": "SHX5618",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB99234"
+ },
+ {
+   "TaxiID": 365,
+   "TaxiNumber": "SHY6817",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB40927"
+ },
+ {
+   "TaxiID": 366,
+   "TaxiNumber": "SHX8437",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB64040"
+ },
+ {
+   "TaxiID": 367,
+   "TaxiNumber": "SHY9716",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB56579"
+ },
+ {
+   "TaxiID": 368,
+   "TaxiNumber": "SHY8331",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC60202"
+ },
+ {
+   "TaxiID": 369,
+   "TaxiNumber": "SHX9215",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC41483"
+ },
+ {
+   "TaxiID": 370,
+   "TaxiNumber": "SHZ5899",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC35446"
+ },
+ {
+   "TaxiID": 371,
+   "TaxiNumber": "SHX1740",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB69269"
+ },
+ {
+   "TaxiID": 372,
+   "TaxiNumber": "SHY6298",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA86450"
+ },
+ {
+   "TaxiID": 373,
+   "TaxiNumber": "SHY7965",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC20199"
+ },
+ {
+   "TaxiID": 374,
+   "TaxiNumber": "SHY3130",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC20725"
+ },
+ {
+   "TaxiID": 375,
+   "TaxiNumber": "SHY6044",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA34171"
+ },
+ {
+   "TaxiID": 376,
+   "TaxiNumber": "SHX5045",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA05265"
+ },
+ {
+   "TaxiID": 377,
+   "TaxiNumber": "SHY0519",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC06855"
+ },
+ {
+   "TaxiID": 378,
+   "TaxiNumber": "SHX0613",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMC74051"
+ },
+ {
+   "TaxiID": 379,
+   "TaxiNumber": "SHY0460",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB80845"
+ },
+ {
+   "TaxiID": 380,
+   "TaxiNumber": "SHX1945",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMC47874"
+ },
+ {
+   "TaxiID": 381,
+   "TaxiNumber": "SHY0063",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB99746"
+ },
+ {
+   "TaxiID": 382,
+   "TaxiNumber": "SHY1757",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA77064"
+ },
+ {
+   "TaxiID": 383,
+   "TaxiNumber": "SHZ6343",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA77724"
+ },
+ {
+   "TaxiID": 384,
+   "TaxiNumber": "SHY8077",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMC69757"
+ },
+ {
+   "TaxiID": 385,
+   "TaxiNumber": "SHY9217",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA35593"
+ },
+ {
+   "TaxiID": 386,
+   "TaxiNumber": "SHX5287",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB20606"
+ },
+ {
+   "TaxiID": 387,
+   "TaxiNumber": "SHY0107",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC16531"
+ },
+ {
+   "TaxiID": 388,
+   "TaxiNumber": "SHY5031",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMA68685"
+ },
+ {
+   "TaxiID": 389,
+   "TaxiNumber": "SHY9777",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC34240"
+ },
+ {
+   "TaxiID": 390,
+   "TaxiNumber": "SHZ6247",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA14577"
+ },
+ {
+   "TaxiID": 391,
+   "TaxiNumber": "SHY4510",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA61293"
+ },
+ {
+   "TaxiID": 392,
+   "TaxiNumber": "SHX1639",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA57130"
+ },
+ {
+   "TaxiID": 393,
+   "TaxiNumber": "SHY1314",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA88643"
+ },
+ {
+   "TaxiID": 394,
+   "TaxiNumber": "SHZ3155",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA34416"
+ },
+ {
+   "TaxiID": 395,
+   "TaxiNumber": "SHY3622",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB11224"
+ },
+ {
+   "TaxiID": 396,
+   "TaxiNumber": "SHX2511",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA05932"
+ },
+ {
+   "TaxiID": 397,
+   "TaxiNumber": "SHX4488",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB28615"
+ },
+ {
+   "TaxiID": 398,
+   "TaxiNumber": "SHZ0359",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA55196"
+ },
+ {
+   "TaxiID": 399,
+   "TaxiNumber": "SHY2966",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB44492"
+ },
+ {
+   "TaxiID": 400,
+   "TaxiNumber": "SHY7922",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC92452"
+ },
+ {
+   "TaxiID": 401,
+   "TaxiNumber": "SHY0745",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC88108"
+ },
+ {
+   "TaxiID": 402,
+   "TaxiNumber": "SHX7524",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA02891"
+ },
+ {
+   "TaxiID": 403,
+   "TaxiNumber": "SHZ9117",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA28846"
+ },
+ {
+   "TaxiID": 404,
+   "TaxiNumber": "SHY0376",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA08136"
+ },
+ {
+   "TaxiID": 405,
+   "TaxiNumber": "SHZ3681",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB90263"
+ },
+ {
+   "TaxiID": 406,
+   "TaxiNumber": "SHY0337",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB90112"
+ },
+ {
+   "TaxiID": 407,
+   "TaxiNumber": "SHX6319",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA99689"
+ },
+ {
+   "TaxiID": 408,
+   "TaxiNumber": "SHZ6724",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB34373"
+ },
+ {
+   "TaxiID": 409,
+   "TaxiNumber": "SHZ7002",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC47530"
+ },
+ {
+   "TaxiID": 410,
+   "TaxiNumber": "SHZ9481",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMB45689"
+ },
+ {
+   "TaxiID": 411,
+   "TaxiNumber": "SHY2440",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC75939"
+ },
+ {
+   "TaxiID": 412,
+   "TaxiNumber": "SHZ2972",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA97261"
+ },
+ {
+   "TaxiID": 413,
+   "TaxiNumber": "SHZ3996",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Brown",
+   "TMDTID": "TMB74133"
+ },
+ {
+   "TaxiID": 414,
+   "TaxiNumber": "SHZ7452",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA09564"
+ },
+ {
+   "TaxiID": 415,
+   "TaxiNumber": "SHX8212",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA38437"
+ },
+ {
+   "TaxiID": 416,
+   "TaxiNumber": "SHZ0395",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA82311"
+ },
+ {
+   "TaxiID": 417,
+   "TaxiNumber": "SHX5905",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA98172"
+ },
+ {
+   "TaxiID": 418,
+   "TaxiNumber": "SHY0224",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB32340"
+ },
+ {
+   "TaxiID": 419,
+   "TaxiNumber": "SHZ5967",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB53851"
+ },
+ {
+   "TaxiID": 420,
+   "TaxiNumber": "SHX3493",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB57862"
+ },
+ {
+   "TaxiID": 421,
+   "TaxiNumber": "SHY5937",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC17702"
+ },
+ {
+   "TaxiID": 422,
+   "TaxiNumber": "SHY1121",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB93180"
+ },
+ {
+   "TaxiID": 423,
+   "TaxiNumber": "SHY4677",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB40726"
+ },
+ {
+   "TaxiID": 424,
+   "TaxiNumber": "SHX4801",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB69022"
+ },
+ {
+   "TaxiID": 425,
+   "TaxiNumber": "SHX7047",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB88154"
+ },
+ {
+   "TaxiID": 426,
+   "TaxiNumber": "SHX1870",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB39032"
+ },
+ {
+   "TaxiID": 427,
+   "TaxiNumber": "SHY6250",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB02955"
+ },
+ {
+   "TaxiID": 428,
+   "TaxiNumber": "SHX9197",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC01188"
+ },
+ {
+   "TaxiID": 429,
+   "TaxiNumber": "SHX4103",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC15605"
+ },
+ {
+   "TaxiID": 430,
+   "TaxiNumber": "SHY3709",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA45376"
+ },
+ {
+   "TaxiID": 431,
+   "TaxiNumber": "SHY9585",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC84627"
+ },
+ {
+   "TaxiID": 432,
+   "TaxiNumber": "SHX8105",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA56908"
+ },
+ {
+   "TaxiID": 433,
+   "TaxiNumber": "SHX3643",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA61455"
+ },
+ {
+   "TaxiID": 434,
+   "TaxiNumber": "SHX8996",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB80679"
+ },
+ {
+   "TaxiID": 435,
+   "TaxiNumber": "SHZ3504",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB48573"
+ },
+ {
+   "TaxiID": 436,
+   "TaxiNumber": "SHX5322",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA95261"
+ },
+ {
+   "TaxiID": 437,
+   "TaxiNumber": "SHZ9410",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB75273"
+ },
+ {
+   "TaxiID": 438,
+   "TaxiNumber": "SHY8435",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB17749"
+ },
+ {
+   "TaxiID": 439,
+   "TaxiNumber": "SHY9309",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB66576"
+ },
+ {
+   "TaxiID": 440,
+   "TaxiNumber": "SHY2348",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC18265"
+ },
+ {
+   "TaxiID": 441,
+   "TaxiNumber": "SHY0353",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB00020"
+ },
+ {
+   "TaxiID": 442,
+   "TaxiNumber": "SHY9530",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC91842"
+ },
+ {
+   "TaxiID": 443,
+   "TaxiNumber": "SHY2369",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC72090"
+ },
+ {
+   "TaxiID": 444,
+   "TaxiNumber": "SHZ4188",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA50425"
+ },
+ {
+   "TaxiID": 445,
+   "TaxiNumber": "SHY2540",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC67210"
+ },
+ {
+   "TaxiID": 446,
+   "TaxiNumber": "SHY9299",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC53780"
+ },
+ {
+   "TaxiID": 447,
+   "TaxiNumber": "SHX7485",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA28131"
+ },
+ {
+   "TaxiID": 448,
+   "TaxiNumber": "SHY5241",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA82157"
+ },
+ {
+   "TaxiID": 449,
+   "TaxiNumber": "SHY7746",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB21383"
+ },
+ {
+   "TaxiID": 450,
+   "TaxiNumber": "SHZ4361",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB92110"
+ },
+ {
+   "TaxiID": 451,
+   "TaxiNumber": "SHZ7585",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMA47357"
+ },
+ {
+   "TaxiID": 452,
+   "TaxiNumber": "SHY1339",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB43678"
+ },
+ {
+   "TaxiID": 453,
+   "TaxiNumber": "SHX7923",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC46089"
+ },
+ {
+   "TaxiID": 454,
+   "TaxiNumber": "SHX1318",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB19073"
+ },
+ {
+   "TaxiID": 455,
+   "TaxiNumber": "SHY8754",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMC46155"
+ },
+ {
+   "TaxiID": 456,
+   "TaxiNumber": "SHY9425",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMC40178"
+ },
+ {
+   "TaxiID": 457,
+   "TaxiNumber": "SHY5480",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC84447"
+ },
+ {
+   "TaxiID": 458,
+   "TaxiNumber": "SHX2380",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA87732"
+ },
+ {
+   "TaxiID": 459,
+   "TaxiNumber": "SHZ7886",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA01451"
+ },
+ {
+   "TaxiID": 460,
+   "TaxiNumber": "SHX0694",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA27837"
+ },
+ {
+   "TaxiID": 461,
+   "TaxiNumber": "SHZ8528",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB18975"
+ },
+ {
+   "TaxiID": 462,
+   "TaxiNumber": "SHZ3589",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMC37252"
+ },
+ {
+   "TaxiID": 463,
+   "TaxiNumber": "SHZ4961",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB63935"
+ },
+ {
+   "TaxiID": 464,
+   "TaxiNumber": "SHX0278",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB76389"
+ },
+ {
+   "TaxiID": 465,
+   "TaxiNumber": "SHX3491",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA87774"
+ },
+ {
+   "TaxiID": 466,
+   "TaxiNumber": "SHX5562",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC10075"
+ },
+ {
+   "TaxiID": 467,
+   "TaxiNumber": "SHX2233",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA40387"
+ },
+ {
+   "TaxiID": 468,
+   "TaxiNumber": "SHY7286",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMA24924"
+ },
+ {
+   "TaxiID": 469,
+   "TaxiNumber": "SHZ6559",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC32702"
+ },
+ {
+   "TaxiID": 470,
+   "TaxiNumber": "SHZ3894",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA61159"
+ },
+ {
+   "TaxiID": 471,
+   "TaxiNumber": "SHY8948",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA36956"
+ },
+ {
+   "TaxiID": 472,
+   "TaxiNumber": "SHZ3085",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA33137"
+ },
+ {
+   "TaxiID": 473,
+   "TaxiNumber": "SHZ8771",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA22850"
+ },
+ {
+   "TaxiID": 474,
+   "TaxiNumber": "SHX6011",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA02456"
+ },
+ {
+   "TaxiID": 475,
+   "TaxiNumber": "SHY4624",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMA03439"
+ },
+ {
+   "TaxiID": 476,
+   "TaxiNumber": "SHY8474",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMA29363"
+ },
+ {
+   "TaxiID": 477,
+   "TaxiNumber": "SHY4520",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Carolla",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA86371"
+ },
+ {
+   "TaxiID": 478,
+   "TaxiNumber": "SHZ2063",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB12787"
+ },
+ {
+   "TaxiID": 479,
+   "TaxiNumber": "SHX9385",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMB56637"
+ },
+ {
+   "TaxiID": 480,
+   "TaxiNumber": "SHX2834",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA33851"
+ },
+ {
+   "TaxiID": 481,
+   "TaxiNumber": "SHY4765",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB01529"
+ },
+ {
+   "TaxiID": 482,
+   "TaxiNumber": "SHY9327",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMB43698"
+ },
+ {
+   "TaxiID": 483,
+   "TaxiNumber": "SHY8444",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB72601"
+ },
+ {
+   "TaxiID": 484,
+   "TaxiNumber": "SHY9142",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB01934"
+ },
+ {
+   "TaxiID": 485,
+   "TaxiNumber": "SHY9357",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Pink",
+   "TMDTID": "TMB12670"
+ },
+ {
+   "TaxiID": 486,
+   "TaxiNumber": "SHX6399",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB40106"
+ },
+ {
+   "TaxiID": 487,
+   "TaxiNumber": "SHY1797",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Grey",
+   "TMDTID": "TMB79055"
+ },
+ {
+   "TaxiID": 488,
+   "TaxiNumber": "SHY5396",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC54316"
+ },
+ {
+   "TaxiID": 489,
+   "TaxiNumber": "SHZ7538",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC94345"
+ },
+ {
+   "TaxiID": 490,
+   "TaxiNumber": "SHZ0656",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMA93692"
+ },
+ {
+   "TaxiID": 491,
+   "TaxiNumber": "SHX8631",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC30498"
+ },
+ {
+   "TaxiID": 492,
+   "TaxiNumber": "SHX3386",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Toyota Camry Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Silver",
+   "TMDTID": "TMC08953"
+ },
+ {
+   "TaxiID": 493,
+   "TaxiNumber": "SHZ5254",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB38818"
+ },
+ {
+   "TaxiID": 494,
+   "TaxiNumber": "SHZ1715",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMA18377"
+ },
+ {
+   "TaxiID": 495,
+   "TaxiNumber": "SHX4299",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA43798"
+ },
+ {
+   "TaxiID": 496,
+   "TaxiNumber": "SHY6600",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Black",
+   "TMDTID": "TMB10438"
+ },
+ {
+   "TaxiID": 497,
+   "TaxiNumber": "SHX5407",
+   "TaxiType": "Maxi Cab",
+   "TaxiMakeModel": "Toyota Vellfire",
+   "TaxiPassengerCapacity": 6,
+   "TaxiColor": "Cream",
+   "TMDTID": "TMB41918"
+ },
+ {
+   "TaxiID": 498,
+   "TaxiNumber": "SHY4222",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Toyota Prius",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA76275"
+ },
+ {
+   "TaxiID": 499,
+   "TaxiNumber": "SHY9613",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB66118"
+ },
+ {
+   "TaxiID": 500,
+   "TaxiNumber": "SHX4244",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB77393"
+ },
+ {
+   "TaxiID": 501,
+   "TaxiNumber": "SHY4297",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA01995"
+ },
+ {
+   "TaxiID": 502,
+   "TaxiNumber": "SHY9694",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB11197"
+ },
+ {
+   "TaxiID": 503,
+   "TaxiNumber": "SHY2772",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMB81172"
+ },
+ {
+   "TaxiID": 504,
+   "TaxiNumber": "SHX2473",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Suzuki Swift",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Green",
+   "TMDTID": "TMC09338"
+ },
+ {
+   "TaxiID": 505,
+   "TaxiNumber": "SHZ7377",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMB24993"
+ },
+ {
+   "TaxiID": 506,
+   "TaxiNumber": "SHY9805",
+   "TaxiType": "Premier",
+   "TaxiMakeModel": "Kia EV6",
+   "TaxiPassengerCapacity": 5,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC65550"
+ },
+ {
+   "TaxiID": 507,
+   "TaxiNumber": "SHX0915",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA72574"
+ },
+ {
+   "TaxiID": 508,
+   "TaxiNumber": "SHZ8918",
+   "TaxiType": "Limosine",
+   "TaxiMakeModel": "Mercedes Benz",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "White",
+   "TMDTID": "TMB86801"
+ },
+ {
+   "TaxiID": 509,
+   "TaxiNumber": "SHX3015",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMC12883"
+ },
+ {
+   "TaxiID": 510,
+   "TaxiNumber": "SHX2773",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMC00244"
+ },
+ {
+   "TaxiID": 511,
+   "TaxiNumber": "SHY9805",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA98942"
+ },
+ {
+   "TaxiID": 512,
+   "TaxiNumber": "SHX0915",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA63673"
+ },
+ {
+   "TaxiID": 513,
+   "TaxiNumber": "SHZ8918",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai i40",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Blue",
+   "TMDTID": "TMA87612"
+ },
+ {
+   "TaxiID": 514,
+   "TaxiNumber": "SHX3015",
+   "TaxiType": "Mini Cab",
+   "TaxiMakeModel": "Honda Fit",
+   "TaxiPassengerCapacity": 3,
+   "TaxiColor": "Red",
+   "TMDTID": "TMA45778"
+ },
+ {
+   "TaxiID": 515,
+   "TaxiNumber": "SHX2773",
+   "TaxiType": "Standard",
+   "TaxiMakeModel": "Hyundai Ioniq Hybrid",
+   "TaxiPassengerCapacity": 4,
+   "TaxiColor": "Yellow",
+   "TMDTID": "TMA38125"
+ }
+]

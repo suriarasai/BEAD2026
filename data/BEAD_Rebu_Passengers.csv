@@ -1,0 +1,2489 @@
+PassengerID,PassengerName,MemberStatus,Age,Gender,AmountSpent,Address,ContactTitle,Phone
+1000,Lou Anna Tan,Gold,29,F,41.40,"Blk 26, Telok Blangah Crescent #22-87, Singapore 0409",Ms,88580897
+1001,Wong Sook Huey,Gold,37,F,671.00,"Blk 1007 Teresa Ville Lower Delta Road #06-02, Singapore 0410",Ms,87669747
+1002,Ng Choon Seng,Bronze,23,M,631.80,"Blk 63 Bishan St 21 #06-01, Singapore 1057",Mr,90274984
+1003,Chew Teck Kuan,Bronze,63,M,644.90,"Blk 109 Bedok North Rd #06-2316, Singapore 1046",Mr,92380943
+1111,Steven Ou,Silver,61,M,445.10,"Blk 244, Bukit Panjang Ring Road, #11-184, Singapore 2367",Mr,87150838
+1634,Sridharan Jayanthi,Gold,55,F,615.10,"Blk 232, Jurong East Street 21 #02-436, Singapore 1234",Ms,86848253
+1681,Terence Lim,Bronze,30,M,596.20,"Blk 99, Balestier Road, #12-168, Singapore 1232",Mr,92210824
+1810,Vanessa Ong,Bronze,32,F,809.70,"Blk 20, Eunos Crescent, #04-2965, Singapore 1400",Ms,92700883
+1811,Koh Ting Ting,Silver,57,F,215.20,"Blk 61, Upper Paya Lebar Road, Singapore 1953",Ms,92415399
+1818,Chionh Choon Lee,Gold,57,M,71.30,"Blk 89, Zion Road, #16-137, Singapore 0316",Mr,92246417
+2131,Jon,Gold,64,F,834.50,"Block 88 Demsey Road #01-01, Singapore 1234",Ms,90191253
+2233,Too Siew Hong,Silver,35,F,218.30,"Blk 749, Pasir Ris St 71, #09-66, Singapore 1651",Ms,91033498
+2270,Chao Tah Jin Alex,Bronze,22,M,870.70,"Blk 12, Dover Close East, #08-208, Singapore 1027",Mr,92373520
+2323,Richard Kwan,Gold,26,M,895.20,"Blk 27, Marine Crescent, #05-05, Singapore 2345",Mr,86427018
+2345,Ng Teck Kie Anthony,Gold,56,M,739.30,"Blk 105, Gangsa Road, #02-103, Singapore 2367",Mr,91805125
+2626,Steven Teo,Gold,56,M,81.70,"Blk 253, Kim Keat Link, #01-126 Singapore 2345",Mr,90656197
+2669,Boh Lee Ming Lynn,Bronze,23,F,419.90,"Blk 671, Woodlands Dr 71 #04-51, Singapore 0512",Ms,92219334
+2688,Kathleen Loh Swat Hong,Gold,38,F,391.60,"Blk 56, #08-161 Telok Blangah Heights, Singapore 0410",Ms,89993761
+2741,Goh Chee Eng,Bronze,45,F,259.10,Blk 267 Sembawang Drive #08-349 Singapore 2369,Ms,91527509
+2820,Ng Wee Hock John,Gold,56,M,662.20,"Blk 417, Woodlands St 41, #02-143, Singapore 2573",Mr,86479216
+2828,Cheryl Song,Bronze,35,F,835.90,"Blk 26, Bayshore Road, #23-07, Singapore 1647",Ms,90673545
+2876,Kan May Yoke Michelle,Bronze,43,F,566.10,"Blk 710 Ang Mo Kio Ave 8 #04-2613, Singapore 2056",Ms,89201948
+2983,Cheryl Tan,Gold,37,F,139.90,"Blk 84, Telok Blangah Heights, #06-323, Singapore 1004",Ms,91111051
+3845,Tan Choon Heong,Gold,21,M,108.20,"Blk 303, Shunfu Road, #03-59, Singapore 4567",Mr,89058865
+4312,Leong Wai Fun,Gold,23,F,562.50,"Blk 43, Hindhede Walk, #04-06, Singapore 1234",Ms,91682172
+4321,Kok Kah Chee,Bronze,51,M,995.20,"Blk 224, Jurong North St 2, #100-01, Singapore 2264",Mr,91688871
+4567,Abdul Zaidi,Gold,29,M,316.50,"Blk 24, Telok Blangah Crescent, #14-14, Singapore 0409",Mr,90039648
+5108,Cho Wee Weng,Gold,50,M,248.00,"Blk 208, Toa Payoh North, #08-1271, Singapore 1234",Mr,91165012
+5156,Lee Boon Kiat,Gold,32,M,739.10,"26A, Lengkong Satu, Singapore 1441",Mr,89581509
+5168,Constance Yong,Bronze,46,F,306.40,Blk 673 Bukit Batok St 67 #08-987 Singapore 1968,Ms,87705662
+5489,Ang Kim Beng,Gold,45,M,320.90,Blk 208 Bedok North St 3 #12-234 Singapore 1644,Mr,93459333
+5568,Kam Teng Mun,Gold,26,M,178.40,"Blk 894, Tampines St 81,#10-933,Singapore 1646",Mr,90378790
+5968,Tan Wei Wei,Gold,48,F,716.00,"3, Kismis Place, Singapore 2159",Ms,89939655
+6542,Lam Yen Hsia,Bronze,44,F,818.00,"Blk 92, Bedok North Ave 4, #08-1491, Singapore 1646",Ms,87020416
+6598,Choey Choon Yen,Gold,28,M,880.10,"30, Dedap Road, Singapore 2880",Mr,88847439
+6628,Margaret Ng,Gold,30,F,571.90,"Blk 835, Hougang Green, #11-221, Singapore 1953",Ms,86933988
+6932,Ng Hwee Ling,Gold,37,F,178.30,"280, Bedok Road, Singapore 1646",Ms,88169761
+6969,Jason Young,Bronze,52,M,158.50,blk 48 dorset rd #24-111 singapore 0821,Mr,90430649
+7345,P Ravichandran,Silver,34,M,787.30,"Blk 612, Clementi West Street 1, #09-290, Singapore 2612",Mr,89127767
+7616,Cheong Pei Sian,Silver,57,F,925.70,"8 Westwood Walk, Singapore 1234",Ms,94003039
+7856,Rajaram Venkatesh,Gold,57,M,45.60,"Blk 143, Petir road, #07-232, Singapore 3226",Mr,89854916
+8080,Chan Chin Fung,Silver,56,M,249.50,"6 Dover Rise, #17-11, Singapore 1234",Mr,87418806
+8756,Lu Yun Christine,Silver,22,F,805.60,"Blk 302, Clementi Ave 4, #05-539, Singapore 0302",Ms,93206562
+8788,Fu Shou Jeen,Gold,59,M,754.30,"9 Broadrick Road, Singapore 1543",Mr,86703981
+8888,Kelvin Koh,Silver,53,M,160.00,"Blk 25, Towner Road, #04-09, Singapore 2345",Mr,89135801
+8929,Neo Keng Hoe,Silver,25,M,834.40,Blk 492 Yishun Ave 4 #18-168 Singapore 2776,Mr,86525240
+8973,Loke Je Hong,Gold,50,M,511.80,"503 Elias Road, Singapore 1851",Mr,88576657
+9394,Khoo Chee Huat,Silver,24,M,29.80,"Blk 315, Ubi Avenue 1, #05-393, Singapore 1234",Mr,87560883
+9847,Low Soo Chiew,Silver,51,M,333.20,"Blk 42, Bedok South Road, #05-747, Singapore 1646",Mr,88698362
+9999,Seah Yang Hwee Raymond,Gold,61,M,671.80,"Blk 410, Sembawang Drive, #14-768, Singapore 1675",Mr,92468715
+10001,Raymond Goh,Silver,,M,518.10,"Blk 192, Lor 4 Toa Payoh #01-674 Singapore 310192",Mr,89254736
+10002,Derek Qiu,Silver,,M,663.90,50 Raffles Place #22-03a Land Tower Singapore 48623,Mr,86137942
+10003,Alan Su,Silver,,M,423.60,46 Penjuru Lane Singapore 609206,Mr,89619939
+10004,Andrew Xiong,Silver,,M,311.10,100 Tras Street #18-01 Amara Corporate Tower Singapore 79027,Mr,89012079
+10005,Patrick Gu,Silver,,M,512.50,218 Orchard Rd #01-07 Singapore 238851,Mr,88167677
+10006,Meera Gopal,Bronze,,F,165.80,27 Jln Ishak Singapore 419358,Ms,93103897
+10007,Vera Miao,Silver,,F,264.10,144 Tampines Street 12 #01-392 Singapore 521144,Ms,88376474
+10008,Iris Liao,Bronze,,F,136.90,Foo Chow Building 21 Tyrwhitt Road #05-08 Singapore 207530,Ms,91723687
+10009,Alison Kong,Bronze,,F,94.30,18 Dublin Rd  Singapore 239807,Ms,89408276
+10010,Stewart Bi,Bronze,,M,167.10,89 Short Street #08-09 Golden Wall Centre Singapore 188216,Mr,89903273
+10011,Marie Pok,Gold,,F,1403.70,3 Phillip St #10-03 Singapore 48693,Ms,93479534
+10012,Cameron Ge,Gold,,M,679.80,362 Geylang Road Singapore 389378,Mr,91920032
+10013,Winifred Pang,Bronze,,F,77.20,"Blk 13, Haig Rd #01-01 Singapore 430013",Ms,91526241
+10014,Allan Chew,Bronze,,M,12.70,"10 Ubi Crescent, #04-89, Ubi Techpark Singapore 408564",Mr,87419479
+10015,Mildred Wu,Silver,,F,385.60,36 Pekin St #01-01 Singapore 48766,Ms,89942634
+10016,Raymond Quan,Bronze,,M,103.10,"150, Yunnan Cres Singapore 637996",Mr,88322214
+10017,Elizabeth Lau,Bronze,,F,142.50,218 Orchard Road 05-02/03 Orc Singapore 238851,Ms,86806807
+10018,Ross Win,Gold,,M,1264.10,1 Science Centre Road The Enterprise Singapore 609077,Mr,91581104
+10019,Sian Lau,Bronze,,F,8.50,3 Church St #14-02/04 Samsung Hub  Singapore 49483,Ms,91380976
+10020,Samuel Foo,Gold,,M,918.70,206 Upper East Coast Road #01-01 Capricorn Block Singapore 455286,Mr,93770336
+10021,Brian Leung,Silver,,M,484.70,Balestier Road 04-03 Le Shantier Singapore 329852,Mr,90751362
+10022,Sonia Yun,Bronze,,F,264.10,4 Jln Asas Singapore 678762,Ms,87373549
+10023,Dean Lye,Bronze,,M,146.80,77 High Street 05-01 High Street Plaza Singapore 179433,Mr,88637307
+10024,Daphne Cheung,Bronze,,F,298.90,"Blk 221 Bukit Batok East Ave 3 ,12-174 Singapore 650221",Ms,88878271
+10025,Rajiv Chana,Gold,,M,570.90,49 Jalan Pemimpin #05-04 Aps Industrial Building Singapore 577203,Mr,91527110
+10026,Stanley Han,Silver,,M,676.60,Octagon System Furniture Pte Ltd 3 Sungei Kadut Crescent Singapore 728686,Mr,88226130
+10027,Nicholas Son,Gold,,M,739.80,61 Ubi Avenue 2 08-03 Automobile Megamart Singapore 408898,Mr,86851545
+10028,Marion Zhan,Bronze,,F,293.30,315 Outram Road #10-02 Tan Boon Liat Building Singapore 169074,Ms,89098281
+10029,Richard ,Bronze,,M,109.50,2 Cheong Chin Nam Road Singapore 599727,Mr,90469541
+10030,Ashley Pok,Gold,,M,1327.90,10 Anson Road 34-16 International Plaza Singapore 79903,Mr,91703368
+10031,Patrick Pang,Bronze,,M,166.20,612 Telok Blangah Road 05-02 Fairways Singapore 109026,Mr,90380235
+10032,Ian Teh,Bronze,,M,118.90,501 Jurong West Street 51 01-263 Singapore 640501,Mr,91416488
+10033,Roger Son,Gold,,M,726.80,391 Orchard Road 05-01 Ngee Ann City Singapore 238872,Mr,92056909
+10034,Russell Tan,Bronze,,M,123.50,133 New Bridge Road#09-09 Singapore 59413,Mr,86490595
+10035,Joseph Lei,Bronze,,M,213.40,42 Sungei Kadut Loop Singapore 729474,Mr,93063409
+10036,Pauline Goh,Gold,,F,1274.20,3 Mount Elizabeth Unit #01-01/02/06 Mount Elizabeth Medical Centre Singapore 228510,Ms,88842787
+10037,Hubert Hu,Silver,,M,460.90,"653 Jalan Tenaga ,12-58 S Singapore 410653",Mr,90664462
+10038,Iris Cai,Bronze,,F,165.50,1 Goldhill Plaza #02-43 Goldhill Plaza Singapore 308899,Ms,92997171
+10039,Roy Kwong,Bronze,,M,268.00,"194 Pandan Loop, #07-10 Singapore 128383",Mr,91396628
+10040,Andrew Chan,Bronze,,M,20.90,29 Havelock Road 01-651 Singapore 160029,Mr,89122488
+10041,Kyle Chou,Bronze,,M,55.10,568 Ganges Ave #01-108 Singapore 160568,Mr,89673549
+10042,Jack Koo,Silver,,M,447.50,39 Sg Kadut St 6 Singapore 728870,Mr,89624589
+10043,Stacey Han,Bronze,,F,133.20,6 Battery Road #37-03 6 Battery Road Singapore 49909,Ms,92578261
+10044,Divya Yadav,Bronze,,F,23.70,2 Handy Rd 08-04 Singapore 229233,Ms,89612901
+10045,Christine Liao,Silver,,F,230.90,Hdb-Woodlands 2 Marsiling Drive #01-09 Singapore 730002,Ms,86528785
+10046,Horace Ni,Silver,,M,312.20,14 14 Scotts Road 04-83 Far East Plaza Singapore 228213,Mr,86693786
+10047,Dylan Quek,Gold,,M,517.50,160 Changi Rd #03-21 Singapore 419728,Mr,92567591
+10048,Alison Ye,Bronze,,F,124.10,180 Tagore Lane  Singapore 787580,Ms,93864453
+10049,Eva Chang,Bronze,,F,204.80,335 Smith St #02-203 Singapore 50335,Ms,92295291
+10050,Rita Kim,Bronze,,F,164.00,120 Cantonment Road 03-00 Singapore 89760,Ms,87584837
+10051,Sharon Han,Bronze,,F,208.20,Spirits And Tobacco 151 Pasir Panjang Road 02-18 Pasir Panjang Distripark Singapore 118480,Ms,87818079
+10052,Marc Win,Gold,,M,816.90,1 Sophia Road #05-05 Peace Centre Singapore 228149,Mr,88314525
+10053,Eleanor Mak,Gold,,F,935.60,60 Robertson Quay #01-14 The Quayside  Singapore 238252,Ms,88387585
+10054,Andrew Huang,Gold,,M,1351.40,130 Jurong East Street 13 04-233 Singapore 600130,Mr,89784881
+10055,Helen Yi,Silver,,F,664.90,"190 Middle Road ,19-05 Fortune Centre Singapore 188979",Ms,93896120
+10056,Charlie Xing,Silver,,M,616.90,123 Bukit Merah Lane 1 #03-96 Alexandra Village Singapore 150123,Mr,88703012
+10057,Martyn Liao,Gold,,M,1049.90,"391-B Orchard Rd., ,13-01 Singapore 238874",Mr,92020394
+10058,Dominic Wu,Bronze,,M,231.30,4 Tampines Central 5 #B1-13 Tampines Mall  Singapore 529510,Mr,90009556
+10059,Emily Cheng,Bronze,,F,21.70,107 Tampines Rd Singapore 535129,Ms,91547137
+10060,Rosemary Soo,Bronze,,F,191.00,808 French Rd #01-171 Singapore 200808,Ms,91390811
+10061,Janet Chang,Gold,,F,882.30,10 North Bridge Rd #02-5125 Singapore 190010,Ms,89571883
+10062,Benjamin Fok,Silver,,M,294.90,231 Lavender St  Singapore 338779,Mr,89386208
+10063,Ashleigh Sim,Silver,,F,530.40,9 Wan Lee Road Singapore 627941,Ms,88019531
+10064,Pamela Cho,Bronze,,F,127.50,"Textile Centre #10-11, 200 Jalan Sultan, Singapore 199018",Ms,94003107
+10065,Sally Lew,Bronze,,F,160.40,Imm Building 2 Jurong East Street 21 #03-92 Singapore 609601,Ms,88768963
+10066,Philip Zhang,Bronze,,M,14.90,Blk 687 Jurong West Central 1 Singapore 640687,Mr,93745185
+10067,Kirsty Han,Silver,,F,490.30,194 Pandan Loop 06-09 Pantech Ind Complex Singapore 128383,Ms,88242141
+10068,Henry Shi,Bronze,,M,111.40,"Blk 523 ,10-723 Bukit Batok St 52 Singapore 650523",Mr,93468584
+10069,Florence Pak,Silver,,F,404.40,123 Genting Lane #05-04 Yenom Industrial Building Singapore 349574,Ms,93978561
+10070,Jonathan Qin,Bronze,,M,3.70,930 Yishun Ave 2 #B1-18 Northpoint Shopping Centre Singapore 769098,Mr,86482280
+10071,Brian Song,Silver,,M,318.20,20 Benoi Sector Jurong Town Singapore 629852,Mr,89102244
+10072,Gloria Li,Bronze,,F,125.30,151 Chin Swee Rd #12-06 Singapore 169876,Ms,90713490
+10073,Kevin Yin,Bronze,,M,282.40,9 Kaki Bukit Rd 2 #01-09 Singapore 417842,Mr,86540198
+10074,Lesley Tan,Gold,,F,709.40,"1003 Bukit Merah Central, #05-35 Technopreneur Centre, Singapore 159836",Ms,93133718
+10075,Barbara Soo,Silver,,F,651.70,9 Jalan Seh Chuan Singapore 598415,Ms,91730565
+10076,Reece Lei,Gold,,M,1154.30,Hdb Kallang Bahru 68 Geylang Bahru #01-3201 Singapore 330068,Mr,93981578
+10077,Mark He,Gold,,M,786.40,151 Chin Swee Road #14-01 Manhattan House Singapore 169876,Mr,90797343
+10078,Blanche Cheng,Silver,,F,434.30,Loyang Point 258 Pasir Ris Street 21 #03-311 Singapore 510258,Ms,86311040
+10079,Pauline Yim,Bronze,,F,25.20,123 Genting Lane #07-01 Singapore 349574,Ms,92725656
+10080,Frances Quan,Bronze,,F,103.20,Grand Building 17 Phillip Street #07-00 Singapore 48695,Ms,91769398
+10081,Teresa Hang,Gold,,F,1384.60,Blk 611 Hougang Ave 8 01-K1 Singapore 530611,Ms,90664514
+10082,Russell Hao,Gold,,M,1068.10,20 Ang Mo Kio Industrial Park 2a 02-02 Singapore 567761,Mr,91531226
+10083,Valerie Xiao,Bronze,,F,292.90,90 Cecil Street 10-02 Singapore 69531,Ms,89990732
+10084,Margaret Sha,Bronze,,F,130.90,"Blk 32 New Market Road, #03-1246 Singapore 50032",Ms,88462112
+10085,Percy Win,Bronze,,M,174.00,14 Rochdale Rd Singapore 535817,Mr,87069720
+10086,Gary Ng,Silver,,M,390.50,1 Park Road #01-K95c People's Park Complex Singapore 59108,Mr,89881780
+10087,Ann Lau,Bronze,,F,55.50,16 Sin Ming Walk #03-07 Singapore 575568,Ms,86971426
+10088,Elaine Seng,Gold,,F,1357.50,"6 Raffles Quay, #14-01 Singapore 48580",Ms,90137313
+10089,Caroline Tong,Silver,,F,667.50,2022 Bukit Batok Street 23 01-166 Bukit Batok Ind Park A Singapore 659527,Ms,93255792
+10090,Daisy Tai,Silver,,F,409.70,"Blk 358 Woodlands Avenue 5, #04-380 Singapore 730358",Ms,89072594
+10091,Agnes Huang,Bronze,,F,252.00,514 Chye Chee St Bedok Industrial Estate Singapore 469029,Ms,91387421
+10092,Kenneth Zhong,Bronze,,M,56.20,2021 Bukit Batok Street 23 02-180 Singapore 659526,Mr,91713140
+10093,Abbie Yeung,Bronze,,F,120.50,No.260 Orchard Road #B1-04 The Heeren Singapore 238855,Ms,88092614
+10094,Robert Lui,Silver,,M,369.90,3 Jalan Lengkok Sembawang Singapore 759196,Mr,93514541
+10095,Sidney You,Silver,,M,695.90,11 Collyer Quay 18-01 The Arcade Singapore 49317,Mr,90556503
+10096,Alexander Lin,Bronze,,M,70.60,112 East Coast Road B2-07 Katong Mall Singapore 428802,Mr,91099034
+10097,Rose Siu,Silver,,F,338.80,21 Jalan Melati Singapore 368907,Ms,89701938
+10098,Jacqueline Sheng,Bronze,,F,264.00,921 Upper Bukit Timah Road Khek Association Building Singapore 678202,Ms,91968016
+10099,Paul Mai,Silver,,M,323.30,Hougang Green Shopping Centre 21 Hougang Street 51 #01-51 Singapore 538719,Mr,88944624
+10100,Iris Gan,Gold,,F,1165.10,180 Orchard Road #02-00 Peranakan Place Singapore 238846,Ms,90776735
+10101,Sean Qiu,Bronze,,M,160.40,"1 Yishun Street 23, #03-03, Ys-One Singapore 768441",Mr,91249903
+10102,Martin Chee,Gold,,M,791.00,828 Tampines St 81 #01-264 Singapore 520828,Mr,87235337
+10103,Robert Yao,Bronze,,M,167.60,18 Kaki Bukit Road 3 Singapore 415978,Mr,90300088
+10104,Simon Neo,Silver,,M,692.70,74 Commonwealth Drive 01-465 Singapore 140074,Mr,93713051
+10105,Kailash Bhagat,Gold,,M,1319.90,38 Shelford Road 01-03 Singapore 288431,Mr,92883860
+10106,Marian Tan,Gold,,F,584.00,2 Kwong Min Road Singapore 628705,Ms,86738150
+10107,Vera Pok,Bronze,,F,274.30,192 Pandan Loop #04-10 Pantech Industrial Complex Singapore 128381,Ms,89750268
+10108,Paige Win,Silver,,F,464.60,45 Kallang Pudding Road 08-02 Alpha Building Singapore 349317,Ms,89731253
+10109,Antony Lan,Silver,,M,358.00,1016 Geylang East Avenue 3 03-143 Singapore 389731,Mr,86522973
+10110,Julian Mo,Bronze,,M,270.80,"25, Claymore Rd #09-03 Singapore 229543",Mr,92156535
+10111,Mathew Fong,Bronze,,M,215.60,337 Bt Batok St 34 #07-08 Singapore 650337,Mr,90251110
+10112,Trevor Zhou,Gold,,M,879.00,6 Ubi Road 1 Singapore 408726,Mr,92679748
+10113,Linda Lau,Gold,,F,516.20,"Blk 217 Choa Chu Kang Central, 04-220 Singapore 680217",Ms,90544521
+10114,Constance Tsui,Bronze,,F,297.40,"Blk 333 Kreta Ayer Road, #01-21 Singapore 80333",Ms,88080593
+10115,Terence Chiu,Bronze,,M,133.80,9 Raffles Boulevard #01-00 Millenia Walk (Service Desk) Singapore 39596,Mr,87205850
+10116,Charles He,Silver,,M,342.80,"200 Upper Thomson Road, #01-01 Singapore 574424",Mr,90761970
+10117,Reginald Pang,Gold,,M,843.20,200 Pandan Loop 08-03 Pantech 21 Singapore 128388,Mr,92706175
+10118,Scott Zhong,Silver,,M,547.00,31 Penjuru Lane Singapore 609198,Mr,90521623
+10119,Richard Qi,Gold,,M,1409.20,8 Lor 7 Toa Payoh #01-283 Singapore 310008,Mr,89159871
+10120,Kenneth Liu,Silver,,M,232.00,"Blk 970 Hougang Ave 9 St 91 Level 2 St 91, Hougang Singapore 530970",Mr,92116715
+10121,Doris Wu,Silver,,F,570.30,3 Temasek Ave #32-02 Singapore 39190,Ms,93841612
+10122,Ethel Hong,Bronze,,F,211.90,1 Normanton Park #04-159 Singapore 118998,Ms,88628459
+10123,Derek Jin,Bronze,,M,77.60,304 Orchard Rd 06-48 Singapore 238863,Mr,92158531
+10124,Joyce Ho,Gold,,F,517.40,950 Old Choa Chu Kang Road Columbarium Complex Singapore 699816,Ms,92179668
+10125,Isabella Hong,Bronze,,F,184.50,"Vivocity, 1 Harbourfront Walk, #02-48 Singapore 98585",Ms,90823989
+10126,Matthew Feng,Gold,,M,1240.10,"Blk 1002 Eunos Ave 8, 04-56 Singapore 409497",Mr,92850376
+10127,Patricia Tian,Gold,,F,1364.60,767 Geylang Road Singapore 389664,Ms,93996080
+10128,Cynthia Zhou,Gold,,F,1454.40,"140 Upper Bukit Timah Road, #03-02 Singapore 588176",Ms,89713357
+10129,Shankar Goda,Gold,,M,731.20,Ban Guan Park 5 Greenleaf Avenue Singapore 279587,Mr,93461585
+10130,Joan Song,Gold,,F,1482.00,48 Serangoon Road 01-23 Singapore 217959,Ms,90661870
+10131,Neil Wu,Gold,,M,658.60,"400 Orchard Road, #1 Singapore 238875",Mr,88591566
+10132,Brian Seow,Silver,,M,594.90,5 Depot Road #05-06 Tower B Defence Technology Towres Singapore 109681,Mr,87329662
+10133,Ivan Jong,Bronze,,M,237.40,"10 Anson Road 33-17, International Plaza, Singapore 79903",Mr,87261693
+10134,Onkar Bhattacharyya,Gold,,M,1425.90,422 Hougang Ave 6 Singapore 530422,Mr,87681264
+10135,Hazel Kim,Gold,,F,1006.20,3 Temasek Boulevard #01-052 Suntec City Mall Singapore 38983,Ms,86799191
+10136,Lawrence Yan,Bronze,,M,188.50,297 Tanjong Katong Road Singapore 437080,Mr,87106058
+10137,Stanley Zhong,Silver,,M,358.50,"Blk 105 Ang Mo Kio Avenue 4, #06-194 Singapore 560105",Mr,92360423
+10138,Gemma Pang,Gold,,F,1355.90,Peace Centre 1 Sophia Road #05-19 Singapore 228149,Ms,92502865
+10139,Pran Chahal,Silver,,M,664.30,18 Boon Lay Way #03-113 Tradehub 21  Singapore 609966,Mr,88372521
+10140,Glen Kum,Silver,,M,278.70,9 Jurong Town Hall Road #01-29 Ihub Singapore 609431,Mr,89712459
+10141,Timothy Tang,Bronze,,M,126.60,"902 East Coast Parkway, Big Splash (Pool Side) Aquatic Complex, Singapore 449874",Mr,93524184
+10142,Theresa Cho,Silver,,F,680.20,Blk 531a Upper Cross Street 03-102 Hong Lim Complex-Blk 531a Singapore 51531,Ms,92594112
+10143,Rhiannon Koh,Bronze,,F,215.60,8 Loyang Drive Singapore 508939,Ms,92284679
+10144,Anthony Luo,Bronze,,M,48.70,10 Anson Rd #11-06 Singapore 79903,Mr,88368353
+10145,Frances Zhang,Bronze,,F,160.60,11 Ubi Crescent Ubi Techpark Singapore 408573,Ms,87919747
+10146,Sai Merchant,Gold,,M,611.20,"111 North Bridge Road B1-07d, Peninsula Plaza Singapore 179098",Mr,86954344
+10147,Roy Liang,Silver,,M,638.60,Ang Mo Kio St.23 Singapore 248152,Mr,88035344
+10148,Cheryl Feng,Gold,,F,1198.00,5001 Beach Rd 03-47 Singapore 199588,Ms,91211544
+10149,Edith Zhang,Bronze,,F,66.90,483 Segar Rd #11-338 Singapore 670483,Ms,92897149
+10150,Marian Su,Bronze,,F,121.70,31 Pandan Road Singapore 609278,Ms,91288192
+10151,Maria Low,Bronze,,F,100.60,33 Borthwick Drive Singapore 559536,Ms,91626782
+10152,Hilda Fang,Silver,,F,654.60,Aia Alexandra 371 Alexandra Road #02-15 Singapore 159963,Ms,89046303
+10153,Adam Kwee,Silver,,M,659.50,15 Cedar Ave Singapore 349700,Mr,90417244
+10154,Shaun Gan,Silver,,M,663.90,3 Church St #14-02/04 Samsung Hub  Singapore 49483,Mr,86775741
+10155,Alexander Chao,Gold,,M,508.80,1 Bt Batok Central Link #B1-06 West Mall  Singapore 658713,Mr,87124608
+10156,Doreen Sim,Gold,,F,563.50,30 Marsiling Industrial Estate Road 5 03-02 Singapore 739211,Ms,86634314
+10157,Frances Tun,Bronze,,F,138.50,"59 Ubi Ave 1, ,05-13 Singapore 408938",Ms,92229256
+10158,Gwendoline Liew,Bronze,,F,263.30,Hdb Jurong 326 Jurong East Street 31 #01-120 Singapore 600326,Ms,92570865
+10159,Jessie Pei,Silver,,F,553.10,10 Anson Road #25-07/08 International Plaza Singapore 79903,Ms,86204308
+10160,Sarah Chang,Bronze,,F,45.20,"21, Kaki Bt Viewkaki Bukit Techpark Ii Singapore 415957",Ms,88671523
+10161,Hazel Kong,Silver,,F,676.20,161 Pasir Panjang Road 01-08 Pasir Panjang Distripark Singapore 118497,Ms,93796310
+10162,Glenn Wei,Silver,,M,253.50,200 Jalan Sultan 08-02 Textile Centre Singapore 199018,Mr,88912892
+10163,Sheila Yin,Gold,,F,1071.30,10 Admiralty Street 03-11 Northlink Singapore 757695,Ms,89242349
+10164,Patrick Tong,Bronze,,M,187.10,Golden Sultan Plaza 100 Jalan Sultan #03-31 Singapore 199001,Mr,90895745
+10165,Rajesh Chakraborty,Bronze,,M,36.20,97 Pemimpin Pi Singapore 576094,Mr,92195222
+10166,George Leung,Silver,,M,553.10,"201 Tanjong Rhu Road, #03-15 Singapore 436917",Mr,92863016
+10167,Roy Ma,Gold,,M,715.10,30 Cecil St #28-01 Prudential Tower  Singapore 49712,Mr,86636796
+10168,Peter Chang,Gold,,M,1037.00,511 Bt Batok St 52 #08-199 Singapore 650511,Mr,86015254
+10169,Sophie Xue,Bronze,,F,115.20,21 Toh Guan Road East #05-06 Toh Guan Ctr Singapore 608609,Ms,93284909
+10170,Hilda Fung,Bronze,,F,187.80,2 Kallang Pudding Road 05-11 Mactech Industrial Building Singapore 349307,Ms,89896156
+10171,Karl Sze,Gold,,M,983.40,"9 Pasir Panjang Road, Wholesale Centre Singapore 110009",Mr,93481095
+10172,Declan Tu,Gold,,M,614.70,20 Kramat Lane #04-04 United Hse  Singapore 228773,Mr,92312903
+10173,Mirza Atwal,Silver,,F,468.60,Hdb Tampines 214 Tampines Street 23 #06-65 Singapore 520214,Ms,86626945
+10174,Caroline Kong,Gold,,F,817.20,Hdb-Bukit Merah 7 Everton Park #01-01 Singapore 80007,Ms,91114160
+10175,Margery Shin,Gold,,F,1271.10,2 Clementi Loop 04-01 Logis Hub Clementi Singapore 129809,Ms,93803336
+10176,Henry Ow,Silver,,M,698.40,371 Beach Road 07-01 Keypoint Singapore 199597,Mr,92324696
+10177,Ruby Lam,Bronze,,F,126.20,11 Tuas Avenue 10 Singapore 639135,Ms,90083725
+10178,Elizabeth Won,Silver,,F,498.70,"Blk 3006, Ubi Road, #04-366 Singapore 407800",Ms,87690275
+10179,Ivy Jain,Silver,,F,463.50,1 Sophia Road #05-05 Peace Centre Singapore 228149,Ms,92165653
+10180,Mahavir Sehgal,Gold,,M,1213.00,37 Kreta Ayer Rd  Singapore 89001,Mr,87228118
+10181,Geraldine Pan,Bronze,,F,38.90,"726 Clementi West Street 2 #01-151 , S Singapore 120726",Ms,91115747
+10182,Connor Mao,Gold,,M,1095.50,"9 Jurong Town Hall Rd, 02-15 Ihub Singapore 609431",Mr,88551521
+10183,Diana Tay,Gold,,F,562.40,80 Robinson Road 80 Robinson Road #17-01b Singapore 68898,Ms,87260569
+10184,Terence Cho,Gold,,M,618.30,12 Tuas West Road Singapore 638378,Mr,86270627
+10185,Ruth Xin,Silver,,F,329.50,111 Somerset Road #02-03 Power Building Singapore 238164,Ms,89174450
+10186,Brenda Sha,Bronze,,F,174.50,605 Hougang Ave 4 #12-181 Singapore 530605,Ms,88139902
+10187,Gladys Che,Bronze,,F,116.60,54 Serangoon North Ave 4 #06-72 Cyberhub North Singapore 555854,Ms,93056357
+10188,Brenda Ong,Gold,,F,730.50,246 Macpherson Road 07-01 Betime Building Singapore 348578,Ms,93342690
+10189,Denis Fong,Bronze,,M,290.00,11 Defu Lane 9 Singapore 539253,Mr,93378188
+10190,Royston Guan,Silver,,M,261.60,Thomson Ridge Estate 237 Upper Thomson Road Singapore 574368,Mr,91178229
+10191,Thomas Chen,Bronze,,M,64.80,Lorong 4 Toa Payoh Block 93 Market And Food Centre 93 Lorong 4 Toa Payoh #01-154 Singapore 310093,Mr,88982748
+10192,Christopher Thia,Silver,,M,212.90,Blk 164 Bt Merah Central Singapore 150164,Mr,89063683
+10193,Frederick Jiang,Bronze,,M,97.80,"420 North Bridge Road, , 04-32 North Bridge Centre Singapore 188727",Mr,91960089
+10194,Stanley Kwee,Gold,,M,1389.60,Furama City Centre 60 Eu Tong Sen Street #02-02 Singapore 59804,Mr,87906057
+10195,David Teng,Gold,,M,686.90,100 Jalan Sultan #03-24 Sultan Plaza Singapore 199001,Mr,87189028
+10196,Constance Xin,Gold,,F,542.30,19 Link Road Singapore 619035,Ms,91289576
+10197,Barry Tian,Silver,,M,340.20,4 Tampines Central 5 B1-28 Tampines Mall Singapore 529510,Mr,90159588
+10198,Amber Ni,Silver,,F,653.30,152a Serangoon North Avenue 1 #01-368 Singapore 551152,Ms,91912001
+10199,Vincent Lian,Bronze,,M,168.20,"3 Shenton Way, #07-05 Singapore 68805",Mr,93407809
+10200,Kathleen Boon,Bronze,,F,122.30,802 Bukit Batok West Avenue 5 01-01 Bukit Gombak Mrt Station Singapore 659083,Ms,89398976
+10201,Penelope Shi,Silver,,F,302.30,Mayfair Gardens 2 Rifle Range Road #03-01 Singapore 588373,Ms,93942687
+10202,Derek Kong,Gold,,M,982.90,20 Changi North Crescent #01-00 Singapore 499613,Mr,90453652
+10203,Wendy Wen,Bronze,,F,131.50,"3 Mount Elizabeth, #04-03/04 Singapore 228510",Ms,88129845
+10204,Carol Fan,Silver,,F,218.50,402 Orchard Road 05-08 Delfi Orchard Singapore 238876,Ms,86629210
+10205,Cecil Liu,Bronze,,M,217.90,30 Raffles Pl #01-37 Singapore 48622,Mr,92691997
+10206,Ivy Hao,Silver,,F,275.30,"9 Jurong Town Hall Road, #02-09 Singapore 609431",Ms,89645296
+10207,Sally Wee,Silver,,F,539.90,1 Sophia Road 04-10r Peace Centre Singapore 228149,Ms,91438648
+10208,Robin Lau,Silver,,M,401.10,19 Loyang Way 02-04 Changi International Logistics Centre Singapore 508724,Mr,86822421
+10209,Helen Wei,Silver,,F,348.80,"Blk 212 Lorong 8 Toa Payoh, #01-25 Singapore 310212",Ms,87334992
+10210,Ann Cha,Bronze,,F,141.20,225a East Coast Rd Singapore 428922,Ms,89801602
+10211,Alan Chong,Bronze,,M,1.80,Blk 38 Defu Lane 10#02-03 Singapore 539215,Mr,90937845
+10212,Alice Lam,Bronze,,F,6.10,"3 Coleman Street, #01-35 Singapore 179804",Ms,89707739
+10213,Jeffrey Au,Silver,,M,535.90,196 Pandan Loop 04-15 Tan Tech Industrial Complex Singapore 128384,Mr,93956326
+10214,Eva Lui,Silver,,F,435.50,410 Bedok Nth Ave 2 #01-58 Singapore 460410,Ms,87430033
+10215,Leanne Lan,Bronze,,F,79.00,10 Anson Road #03-09 International Plaza Singapore 79903,Ms,93807287
+10216,Daisy Ng,Silver,,F,610.50,Aia Alexandra 371 Alexandra Road #10-04 Singapore 159963,Ms,90259127
+10217,Deborah Chng,Gold,,F,944.40,8d Dempsey Road Singapore 249672,Ms,93484572
+10218,Paul Low,Silver,,M,488.70,7b Keppel Road Tanjong Pagar Complex Singapore 89055,Mr,93382936
+10219,Keith Ong,Bronze,,M,263.20,101a Upper Cross Street #12-22 Singapore 58358,Mr,91365191
+10220,Minnie Pang,Bronze,,F,254.60,399 Yung Sheng Rd #01-40 Singapore 610399,Ms,88767075
+10221,Rosina Yeung,Bronze,,F,285.40,101 Towner Road Singapore 322101,Ms,90629978
+10222,Janice Che,Bronze,,F,51.30,1 Bt Batok Central Link #B1-08 Singapore 658713,Ms,90112919
+10223,Phillip Feng,Gold,,M,600.70,1 Chin Bee Crescent Singapore 619890,Mr,87512954
+10224,Eileen Chua,Gold,,F,645.90,"10, Will Road Singapore 460460",Ms,89196869
+10225,Catherine Yao,Silver,,F,378.90,665 Hougang Avenue 4 07-359 Singapore 530665,Ms,91200439
+10226,Thomas Choo,Gold,,M,815.20,"1 Sophia Road, #07-23 Singapore 228149",Mr,86959411
+10227,Evan Gao,Bronze,,M,181.90,135 Joo Seng Road 02-01 Singapore 368363,Mr,92223039
+10228,Sean Deng,Bronze,,M,35.50,113 Eunos Avenue 3 07-17 Gordon Industrial Building Singapore 409838,Mr,88210573
+10229,Philip Man,Silver,,M,558.10,492 Jurong West Street 4 01-72 Singapore 640492,Mr,90382266
+10230,Gareth An,Silver,,M,536.90,Ghim Moh Market And Food Centre 20 Ghim Moh Road #01-208 Singapore 270020,Mr,88039571
+10231,Alma Tong,Bronze,,F,193.60,312 Telok Kurau Road Singapore 423860,Ms,93615181
+10232,Marion Fung,Bronze,,F,210.90,Ron Manufacture 7 Joo Koon Road Singapore 628971,Ms,90694971
+10233,James Min,Bronze,,M,66.40,1 Harbourfront Walk #02-125 Vivocity Singapore 98585,Mr,93759814
+10234,Philip Lwin,Gold,,M,794.50,Aljunied Industrial Complex 623 Aljunied Road #05-03 Singapore 389835,Mr,90778055
+10235,Scott Xie,Bronze,,M,0.90,51 Ubi Avenue 1 01-01 Singapore 408933,Mr,88300865
+10236,Chetan Yadav,Gold,,M,1240.30,"21 Pasir Panjang Roa, Wholesale Centre, #01-147 Singapore 110021",Mr,92164636
+10237,Jane Naing,Silver,,F,625.60,Blk 626 Singapore 730626,Ms,93934379
+10238,Nicholas Yin,Bronze,,M,261.20,50 Gul Rd Singapore 629351,Mr,91420506
+10239,Evelyn Ng,Silver,,F,446.70,Tanglin Shopping Centre 19 Tanglin Road #B1-06 Singapore 247909,Ms,93081950
+10240,Steven Zhang,Bronze,,M,69.90,Vista Point 548 Woodlands Drive 44 #01-50 Singapore 730548,Mr,87790553
+10241,Amanda Yap,Gold,,F,570.00,263 Serangoon Central Dr #01-49 Singapore 550263,Ms,93164033
+10242,Lyndsey Loo,Bronze,,F,142.20,260 Orchard Road#03-15 Singapore 238855,Ms,88162848
+10243,Amy Lim,Bronze,,F,224.00,100e Pasir Panjang Road #04-01 Century Warehouse Singapore 118521,Ms,86558941
+10244,Graham Zhai,Bronze,,M,3.40,King George's Medical Centre 803 King George's Avenue #02-216 Singapore 200803,Mr,93675236
+10245,Agnes Tong,Bronze,,F,113.10,"Bedok North Ave 2 ,01-31 Singapore 460416",Ms,93633442
+10246,Harold Aung,Bronze,,M,69.40,587 Bt Timah Rd #02-13 Singapore 269707,Mr,88029168
+10247,Lee Tanaka,Bronze,,M,182.80,57 Kaki Bukit View Kaki Bukit Techpark Ii Singapore 415977,Mr,88834965
+10248,Leonard ,Bronze,,M,93.20,2 Defu Lane 8 Singapore 539306,Mr,93817417
+10249,Pamela Liang,Bronze,,F,227.80,165 Tg Pagar Rd #04-17 Singapore 88539,Ms,93775771
+10250,Natasha Zhang,Gold,,F,785.00,458 Geylang Road Singapore 389417,Ms,92354729
+10251,David Yi,Bronze,,M,65.80,Talib Centre 36 Purvis Street #02-01 Singapore 188613,Mr,89212107
+10252,Ryan Xiong,Bronze,,M,96.40,130 Jurong East Street 13 04-233 Singapore 600130,Mr,93145013
+10253,Derek Wan,Bronze,,M,16.10,"510 Upper Serangoon Road, ,04-04 Sunshine Lodge Singapore 534530",Mr,87538276
+10254,Alisha Abdou,Silver,,F,602.30,706 Upper Changi Road East#01-08 Singapore 486836,Ms,90754592
+10255,Dora Wang,Silver,,F,489.00,"1 Bilal Lane , Zipcode: Singapore 469075",Ms,93484842
+10256,Shaun Wang,Bronze,,M,225.30,Bedok Shopping Complex 342 Bedok Road Singapore 469524,Mr,91564737
+10257,Mildred Phang,Gold,,F,726.70,1 Keong Saik Road #03-18 Aia Tg Pagar Agency Office Singapore 89109,Ms,88568146
+10258,William Lee,Gold,,M,1371.00,62b Temple Street Singapore 58607,Mr,93950351
+10259,Hugh Luo,Silver,,M,477.30,"Blk 105 Hougang Avenue 1, #01-154 Singapore 530105",Mr,92856748
+10260,Kavya Dubey,Bronze,,F,43.60,46 Temple Street Singapore 58591,Ms,93194768
+10261,Carol Pang,Silver,,F,377.90,9 Jurong Town Hall Road #02-86 Ihub Singapore 609431,Ms,86917047
+10262,Albert Loh,Gold,,M,687.80,515 Bedok North Avenue 2 01-205 Singapore 460515,Mr,86100982
+10263,Ralph Low,Silver,,M,233.50,"164 Lentor Loop, #14-03, Bullion Park Singapore 789096",Mr,92647470
+10264,Emily Kwok,Gold,,F,1211.80,12 Tuas Avenue 20 Singapore 638824,Ms,87300915
+10265,Jacqueline Ng,Silver,,F,398.00,"1 North Bridge Road, #21-04, High Street Centre Singapore 179094",Ms,93327880
+10266,Alice Woon,Bronze,,F,258.80,2003 Lor 8 Toa Payoh Singapore 319260,Ms,93549567
+10267,Jacqueline Bi,Bronze,,F,166.20,5001 Beach Road 08-50 Golden Mile Complex Singapore 199588,Ms,93987104
+10268,Jay Lau,Silver,,M,385.30,9 Sungei Kadut Street 3 Singapore 729143,Mr,90520581
+10269,Cynthia Lwin,Gold,,F,1440.50,8 Shenton Way 8 Shenton Way #11-02 Singapore 68811,Ms,87608957
+10270,Gavin Kwa,Bronze,,M,13.90,164 Bukit Merah Central #03-3619/3621 Singapore 150164,Mr,89798402
+10271,Ivan Wee,Silver,,M,247.30,Shun Li Industrial Park 127 Kaki Bukit Avenue 1 #04-00 Singapore 415998,Mr,87871265
+10272,Audrey Mei,Gold,,F,950.90,Sembawang Hills Estate 2 Jalan Kuras Singapore 577722,Ms,86059324
+10273,Lynne Yang,Gold,,F,1363.20,18 Toh Yi Drive #01-105 (Along Jln Jurong Kechil Road) Singapore 590018,Ms,89654562
+10274,Enid Leow,Silver,,F,478.50,Funan The Digitalife Mall 109 North Bridge Road #03-36 Singapore 179097,Ms,93417171
+10275,Lilian Yew,Gold,,F,954.60,20 Mccallum Street 14-03 Asia Chambers Singapore 69046,Ms,92306629
+10276,Ranveer Gole,Silver,,M,673.80,New Market Road Block 32 Food Centre 32 New Market Road #03-1116 Singapore 50032,Mr,89335369
+10277,Sidney Song,Gold,,M,1270.00,Maxwell House 20 Maxwell Road #12-05 Singapore 69113,Mr,87348201
+10278,Chitaksh Bava,Silver,,M,220.50,"Blk-268c, , 16-554 Boonlay Drive Singapore 643268",Mr,89376437
+10279,Marion Hwee,Bronze,,F,127.80,"Blk 32 Chai Chee Ave, ,09-204 Singapore 461032",Ms,91170066
+10280,Lorraine Foo,Bronze,,F,174.60,"218 Changi Road, #03-00 Singapore 419737",Ms,92105942
+10281,Henry Ng,Silver,,M,231.80,53 Ang Mo Kio Ave 3 #03-12 Ang Mo Kio Hub  Singapore 569933,Mr,93769788
+10282,Constance Tan,Bronze,,F,209.40,1 Fullerton Square Singapore 49178,Ms,88617579
+10283,Malcolm Choo,Gold,,M,1439.00,59 Jln Pemimpin #02-02 L & Y Bldg  Singapore 577218,Mr,93678352
+10284,Jeffrey Mu,Bronze,,M,255.30,West Coast Car Mart 31 West Coast Highway #01-18 Singapore 117864,Mr,93122725
+10285,Jack Xu,Bronze,,M,197.00,234 Jurong East St 21 01-K1 Singapore 600234,Mr,89226422
+10286,Doris Choi,Bronze,,F,154.30,26 Clementi Loop #01-55 Clementi Camp Singapore 129817,Ms,93773657
+10287,Donald Ming,Gold,,M,922.90,35 Selegie Road 03-10 Park Lane Shopping Mall Singapore 188307,Mr,91414252
+10288,Graham Tse,Bronze,,M,175.40,253 Alexandra Rd 02-00 Singapore 159936,Mr,88128221
+10289,Joseph Cheung,Bronze,,M,53.60,1 Clementi Loop #03-05 Clementi West Logis Park Singapore 129808,Mr,90096093
+10290,Pauline Tian,Silver,,F,616.00,5 Shenton Way #24-06 Uic Building Singapore 68808,Ms,91485794
+10291,Alex Hua,Bronze,,M,20.80,4 Penjuru Lane G & U Districentre Singapore 609185,Mr,92539772
+10292,Olive Tan,Gold,,F,603.20,161 Lavender Street 02-19 Lavender Place Singapore 338750,Ms,91121154
+10293,Howard Woo,Gold,,M,790.40,20 Jalan Afifi #05-02 Certis Cisco Centre Singapore 409179,Mr,86695382
+10294,Guy Tham,Silver,,M,483.30,Katong Mall 112 East Coast Road #02-38 Singapore 428802,Mr,91633129
+10295,Eric Shen,Gold,,M,1112.10,"11, Unity Street, 01-03/ 04 Robertson Walk Singapore 237995",Mr,89376598
+10296,Patrick Chen,Bronze,,M,259.20,161 Ceylon Road Singapore 429722,Mr,86329200
+10297,Frederick Su,Gold,,M,979.10,Aia Alexandra 371 Alexandra Road #11-25 Singapore 159963,Mr,91406436
+10298,Charles Chi,Gold,,M,831.90,96 Tagore Lane Sindo Industrial Estate Singapore 787538,Mr,86775285
+10299,Anthony Chang,Silver,,M,269.50,Citimac Industrial Complex 605a Macpherson Road #06-02 Singapore 368240,Mr,86114717
+10300,Joyce Sim,Bronze,,F,187.70,190 Middle Road #01-34 Singapore 188978,Ms,89925607
+10301,Joseph Jang,Gold,,M,707.60,467 Ang Mo Kio Ave 10 #01-1004 Singapore 560467,Mr,91312352
+10302,Eric Liao,Bronze,,M,267.60,3 Coleman Street 06-00 Peninsula Hotel Singapore 179804,Mr,91954294
+10303,Owen Yao,Bronze,,M,252.80,10 Anson Road #20-14 International Plaza Singapore 79903,Mr,90772586
+10304,Millicent Chng,Bronze,,F,179.60,1 Clover Way Singapore 579077,Ms,87168387
+10305,Terence Xiang,Bronze,,M,229.00,33 Jalan Afifi #07-13 Eton House Singapore 409180,Mr,93082474
+10306,Sheila Quek,Gold,,F,592.10,970 Toa Payoh North #05-01 Singapore 318992,Ms,88388339
+10307,Annette Luo,Bronze,,F,226.20,3018 Bedok North Street 5 06-35 Eastlink Singapore 486132,Ms,89597312
+10308,Archibald Soh,Bronze,,M,127.50,760 Choa Chu Kang North 5 10-169 Singapore 680760,Mr,89118701
+10309,Elizabeth Kee,Silver,,F,450.90,5022 Ang Mo Kio Lnd Pk 2 #02-05 Avenue Singapore 569525,Ms,91904976
+10310,Betty Seng,Silver,,F,298.70,112 East Coast Road #03-03 Katong Mall Singapore 428802,Ms,89480228
+10311,Geoffrey Teoh,Silver,,M,207.40,8 Eu Tong Sen Street #14-94 Central Singapore 59818,Mr,90349695
+10312,Clive Guo,Silver,,M,673.00,362 Upper Paya Lebar Road #04-11 Da Jin Factory Building Singapore 534963,Mr,91555477
+10313,May Miao,Bronze,,F,59.40,99 Bukit Timah Road 03-06 Singapore 229835,Ms,90141940
+10314,Manoj Gour,Bronze,,M,227.60,27a Jurong Port Road 01-28 Singapore 619101,Mr,87847442
+10315,Derrick Tsui,Silver,,M,216.80,180 Clemenceau Avenue 01-01a Haw Par Centre Singapore 239922,Mr,86008851
+10316,Stella Kwek,Bronze,,F,173.70,Olivine Building 130 Joo Seng Road #05-02 Singapore 368357,Ms,90268466
+10317,Lee Chang,Gold,,M,603.70,9008 Tampines Street 93 02-19 Singapore 528843,Mr,89931512
+10318,Veronica Loh,Bronze,,F,160.80,80 Robinson Road 80 Robinson Road #13-03 Singapore 68898,Ms,86108166
+10319,Ben Mun,Silver,,M,640.10,46 Broadrick Road Singapore 439498,Mr,92402268
+10320,Duncan Ng,Bronze,,M,135.60,"Blk 693, 03-107, Jurong West Central 1 Singapore 640693",Mr,90866932
+10321,Andrew Chong,Silver,,M,432.60,Blk 131 Jalan Bukit Merah 01-1585 Singapore 160131,Mr,91294088
+10322,Brian Wang,Bronze,,M,22.80,Orchard Road Singapore 247729,Mr,93310064
+10323,Mitchell Lin,Silver,,M,343.70,1 Scotts Road 19-12 Shaw Centre Singapore 228208,Mr,87676781
+10324,Amelia Chang,Bronze,,F,274.40,8c Kim Keat Road Singapore 328845,Ms,86413413
+10325,Ruth Hang,Gold,,F,512.40,77 Science Park Drive #02-59 Cintech Iii Singapore 118256,Ms,92470635
+10326,Glenys Son,Gold,,F,1132.80,"Blk 154 Serangoon North Avenue 1, #01-398 Singapore 550154",Ms,87677707
+10327,Clive Chin,Bronze,,M,74.40,218 Tagore Lane Singapore 787599,Mr,91095408
+10328,Edward Lou,Bronze,,M,6.20,331 River Valley Rd #01-01  Singapore 238363,Mr,89801534
+10329,Matthew Xiong,Silver,,M,439.70,4 Jalan Ayer Singapore 389142,Mr,87458419
+10330,Ivy Chan,Silver,,F,537.10,519 Balestier Road #02-05 Singapore 329852,Ms,91203939
+10331,Nellie Soe,Silver,,F,287.70,"194 Pandan Loop, #06-07 Singapore 128383",Ms,90556785
+10332,Mahi Gole,Gold,,F,1258.70,30 East Coast Road 02-14 Singapore 428751,Ms,86268149
+10333,Laurence Ou,Gold,,M,1064.30,5 Shenton Way Uic Building Singapore 68808,Mr,89360371
+10334,Chelsea Cui,Silver,,F,492.30,110 Middle Road #03-02d Chiat Hong Building Singapore 188968,Ms,92056453
+10335,Albert Chee,Silver,,M,536.30,14 Scotts Road 02-96 Far East Plaza Singapore 228213,Mr,88841070
+10336,June Xu,Bronze,,F,148.90,Geylang Road 01-09 City Plaza Singapore 409286,Ms,92879677
+10337,Audrey Zou,Silver,,F,529.50,298 Beach Road The Concourse Singapore 199554,Ms,93690769
+10338,Sydney Lin,Gold,,M,1477.90,627a Aljunied Road #10-09 Biztech Centre Singapore 389842,Mr,87763436
+10339,Christian Wu,Bronze,,M,237.60,40 Jalan Pemimpin 02-06 Tat Ann Building Singapore 577185,Mr,93442289
+10340,Ronald Chng,Bronze,,M,229.50,39 Lorong 24 Geylang Singapore 398636,Mr,91393883
+10341,Darren Shu,Silver,,M,380.20,51 Telok Ayer St #01-11 Singapore 48441,Mr,86347109
+10342,Jane Pang,Gold,,F,600.00,67 Ubi Crescent #02-10 Techniques Centre Singapore 408560,Ms,93107658
+10343,Philip Seet,Gold,,M,785.80,"Blk 1003 Toa Payoh Ind. Park Lorong 8 ,07-1509 Singapore 319075",Mr,91424404
+10344,Carol Peng,Gold,,F,700.80,10 Ubi Cresent #02-26 Ubi Techpark Singapore 408564,Ms,91965823
+10345,Diane Chu,Bronze,,F,16.10,239 Bedok St 21 Singapore 881056,Ms,87207319
+10346,Walter Mo,Silver,,M,375.00,21 Moonstone Lane #09-02 Poh Leng Bldg  Singapore 328462,Mr,87375356
+10347,Courtney Lei,Gold,,F,1156.90,3 Temasek Boulevard #01-K18/K19 Suntec City Mall Singapore 38985,Ms,89524670
+10348,Nancy Chu,Bronze,,F,82.90,10 Sinaran Drive #01-21 Novena Square 2 Singapore 307506,Ms,92577463
+10349,Leslie Hwee,Silver,,M,651.10,23 Changi South Street 1 Ohio Building Singapore 486775,Mr,93868906
+10350,Holly Wang,Silver,,F,594.60,Highgate 68 Toh Tuck Road #03-06 Singapore 596733,Ms,91385559
+10351,Bruce Zhang,Silver,,M,506.80,"3 Coleman Street, #03-22 Singapore 179804",Mr,88519808
+10352,Lorraine Chow,Bronze,,F,241.90,10 Hoe Chiang Road #05-03 Keppel Towers Singapore 89315,Ms,89125881
+10353,William Tan,Gold,,M,999.20,21 Lor Mambong Singapore 277680,Mr,88037592
+10354,Lily Loo,Silver,,F,480.40,196 196 Pandan Loop 05-23 Pantech Industrial Complex Singapore 128384,Ms,91773861
+10355,Max Jung,Silver,,M,546.00,19 Keppel Road #06-06 Jit Poh Building Singapore 89058,Mr,93883390
+10356,Mildred Seow,Silver,,F,254.10,2 Kallang Pudding Road 07-07 Singapore 349307,Ms,91419807
+10357,Elsie Choong,Bronze,,F,275.40,"Top3 Media Pte Ltd 401 Havelock Road #02-13, Singapore Singapore 169631",Ms,87896654
+10358,Hazel Peh,Bronze,,F,288.30,164 Bukit Merah Central #04-3643 Singapore 150164,Ms,93146035
+10359,Oliver Chen,Gold,,M,1149.00,"Sin Ming Ave Blk 408 ,20-205 Singapore 570408",Mr,91839538
+10360,Graham Kang,Gold,,M,1029.40,Blk 7 Marine Terrace Singapore 440007,Mr,94004267
+10361,George Tun,Silver,,M,548.20,"507, Kailash Esplanade Singapore 400086",Mr,86322246
+10362,Nadira Baksh,Silver,,F,640.60,Lip Hing Industrial Building 3 Pemimpin Drive #05-05 Singapore 576147,Ms,87370696
+10363,Malcolm Foo,Gold,,M,737.90,237 Arcadia Road 02-03 Singapore 289844,Mr,90123371
+10364,Charles Lan,Gold,,M,540.80,1 Rochor Road #02-628 Rochor Centre Singapore 180001,Mr,92988690
+10365,Gerard Dong,Bronze,,M,81.60,11 Defu Lane 11 Singapore 539167,Mr,91944771
+10366,Christina Seah,Bronze,,F,75.50,1 Thomson Ridge Singapore 574633,Ms,87011698
+10367,Basil Png,Gold,,M,868.70,"Blk 807 Yishun Ring Road, #01-4195 Singapore 760807",Mr,88133151
+10368,Kerry Poon,Silver,,M,441.70,Blk 1012 Aljunied Ave 3 #01-51  Singapore 389935,Mr,88005045
+10369,Laura Xiong,Silver,,F,479.60,Ren Ci Hospital 50 Jalan Tan Tock Seng Singapore 308438,Ms,91081668
+10370,Ben Lay,Bronze,,M,187.00,5 Pereira Road 04-04 Asiawide Industrial Building Singapore 368025,Mr,91292136
+10371,Trevor Shang,Bronze,,M,282.80,391b Orchard Road #23-01 Singapore 238874,Mr,87755167
+10372,Ella Mok,Silver,,F,464.20,1 Sophia Rd #05-13 Peace Centre  Singapore 228149,Ms,88800473
+10373,Alexander Kang,Silver,,M,282.80,31 International Business Park 02-05 Creative Resource Singapore 609921,Mr,90915734
+10374,Vera Guan,Bronze,,F,149.00,10 Kaki Bukit Road 1 #01-36 Kb Industrial Building Singapore 416175,Ms,92222635
+10375,Shaun Lim,Gold,,M,1389.10,Block 1027 Woodlands Industrial Park D 01-172 Singapore 738778,Mr,88656080
+10376,Anand Bath,Bronze,,M,218.00,10 Anson Rd #19-06a Singapore 79903,Mr,92380566
+10377,Gregory Aung,Silver,,M,669.40,170 Up Bt Timah Rd 01-31/32 Singapore 588179,Mr,92488480
+10378,May Teo,Gold,,F,1401.50,"Blk 204 Hougang Street 21, #02-103 Singapore 530204",Ms,86185911
+10379,Bernard Chai,Bronze,,M,189.90,John Hochstadt Building 131 Lavender Street Singapore 338737,Mr,89229962
+10380,Karl Sim,Gold,,M,1141.20,34 Chai Chee Ave #06-250 Singapore 461034,Mr,89481585
+10381,Divya Doshi,Gold,,F,554.00,96 Whampoa Dr #14-246 Singapore 320096,Ms,89920940
+10382,James Wang,Bronze,,M,113.00,At Ubi Road 3 Singapore 999999,Mr,88095659
+10383,Thomas Seng,Bronze,,M,3.20,1301 Bedok Nth Ave 4 #04-05 Singapore 489945,Mr,91595618
+10384,Ethel Chen,Bronze,,F,255.40,Blk 678a Woodlands Ave 6 #01-15  Singapore 731678,Ms,89272162
+10385,Jean Lai,Bronze,,F,159.70,"1 Sengkang Square, #02-18 Singapore 545078",Ms,93662691
+10386,Marie Zhou,Bronze,,F,11.30,80 Genting Lane #04-02a Singapore 349565,Ms,87236515
+10387,Evelyn Wu,Silver,,F,250.40,548 Woodlands Drive 44 01-28 Vista Point Singapore 730548,Ms,90202942
+10388,Muhammad Salim,Gold,,M,893.80,200 Jalan Sultan #03-03 Textile Centre Singapore 199018,Mr,88820130
+10389,Josephine Mei,Silver,,F,234.80,"68, Senoko Road Singapore 758128",Ms,90638560
+10390,Amber Pang,Silver,,F,677.00,133 New Bridge Rd #03-08 Singapore 59413,Ms,87461000
+10391,Lillian Loh,Silver,,F,445.30,32 Pandan Road Singapore 609279,Ms,86487868
+10392,Garry Han,Bronze,,M,214.60,176 Orchard Rd #03-29 Singapore 238843,Mr,93215825
+10393,Kenneth Wong,Bronze,,M,262.20,449 Tagore Industrial Ave #04-01  Singapore 787820,Mr,87573435
+10394,Shirley Neo,Bronze,,F,209.10,10 Eunos Road 8 #10-04b Post Centre Singapore 408600,Ms,93808645
+10395,Ann Xiang,Bronze,,F,190.60,502 Sims Avenue Singapore 387567,Ms,93178693
+10396,Justin Dai,Bronze,,M,238.80,12 Soon Lee Road Singapore 628076,Mr,90133766
+10397,Amir Jalil,Gold,,M,1012.60,453 Ang Mo Kio Avenue 10 Singapore 560453,Mr,87967130
+10398,Charlotte Wong,Bronze,,F,82.60,1 Fourth Chin Bee Road Singapore 619697,Ms,87185428
+10399,Mathew Khoo,Silver,,M,490.70,Uic Building 5 Shenton Way #14-08 Singapore 68808,Mr,86485359
+10400,Dominic Yee,Gold,,M,1119.80,4010 Ang Mo Kio Ave 10 07-01 Techplace I Singapore 569626,Mr,87689566
+10401,Edward Lan,Silver,,M,249.00,"38 Woodlands Industrial Park E1, #01-06 Singapore 757700",Mr,90420005
+10402,Marion Pak,Silver,,F,289.20,92 Flora Road #03-38 Edelweiss Park Singapore 507005,Ms,91935083
+10403,James Goh,Gold,,M,728.10,3 Senoko Way  Singapore 758057,Mr,86214757
+10404,Douglas Ku,Bronze,,M,173.30,"11 Collyer Quay, #12-04 Singapore 49317",Mr,87729324
+10405,Zakariya Dallal,Silver,,M,511.00,362 Geylang Road Singapore 389378,Mr,91248299
+10406,Carl Ng,Silver,,M,540.70,555 Serangoon Rd Singapore 218174,Mr,93192880
+10407,Annette Yan,Bronze,,F,170.40,116 Lavender Street 04-10 Singapore 338730,Ms,89660918
+10408,Hazel Won,Silver,,F,419.80,101 Cecil Street #10-07 Tong Eng Building Singapore 69533,Ms,91249919
+10409,Angela Kwok,Gold,,F,962.10,"Site Office Banyan Place Lot 1877l(A0), 627841 Singapore 217390",Ms,87042442
+10410,Dennis Shen,Silver,,M,460.80,"13, Pandan Crescent Singapore 128470",Mr,91190720
+10411,Marjorie Yin,Gold,,F,1019.70,"Blk 304 Yishun Central, #01-147 Singapore 760304",Ms,87757172
+10412,Colin Kong,Bronze,,M,72.80,56 New Upper Changi Road #01-1292 Singapore 461056,Mr,89375116
+10413,Raymond Lam,Gold,,M,627.00,Keypoint 371 Beach Road #01-00 Singapore 199597,Mr,93763155
+10414,Hayley Dong,Silver,,F,537.10,"279 Balestier Rd 02-07, Balestier Point, Singapore 329727",Ms,92793480
+10415,Danny Gan,Bronze,,M,255.90,102 Flora Road #08-67 Singapore 509744,Mr,93584974
+10416,Sam Chee,Bronze,,M,223.30,German Centre 25 International Business Park #03-77 Singapore 609916,Mr,91351613
+10417,Alison Tan,Bronze,,F,209.90,"Blk 105 Hougang Avenue 1, #01-154 Singapore 530105",Ms,89260187
+10418,Florence Han,Bronze,,F,185.10,141 Cecil Street #07-04 Tung Ann Association Building Singapore 69541,Ms,93285278
+10419,Hannah Chia,Bronze,,F,82.30,9 Raffles Place 27-00 Republic Plaza Singapore 48619,Ms,86763636
+10420,Shaun Gu,Silver,,M,540.00,22 Pasir Ris Farmway 2 Singapore 519325,Mr,92873355
+10421,Shirley Ting,Gold,,F,1293.10,23b Amoy Street Singapore 69858,Ms,91068200
+10422,Marina Hui,Gold,,F,1026.80,9 Penang Rd #B1-09a Singapore 238459,Ms,92093323
+10423,David Chow,Gold,,M,538.50,9 Senoko Crescent Singapore 758265,Mr,90618109
+10424,Jack Ni,Gold,,M,801.70,16 Sin Ming Industrial Estate Sector A 01-91 Singapore 575674,Mr,90382526
+10425,Gareth Foong,Bronze,,M,247.10,20 Harbour Drive 04-03a Psa Vista Singapore 117612,Mr,90554307
+10426,Naomi Ng,Bronze,,F,15.20,Blk 204 Hougang St 21 #03-101  Singapore 530204,Ms,90450875
+10427,Richard Pak,Silver,,M,503.70,6 Duke's Road Singapore 268886,Mr,92079520
+10428,Zeenat Rahaman,Silver,,F,217.70,146 Market Street Singapore 48945,Ms,91284566
+10429,Mark Lwin,Bronze,,M,86.00,32/34 Hamilton Road Singapore 209201,Mr,89726458
+10430,Michael Mao,Gold,,M,1255.90,10 Admiralty Street #02-82 North Link Building Singapore 757695,Mr,91959299
+10431,Sarika Walla,Bronze,,F,271.40,625 Changi Airfreight Centre #05-25  Building E Singapore 918105,Ms,86383229
+10432,Martyn Win,Silver,,M,422.40,238a Thomson Road #21-01/10 Novena Square Singapore 307684,Mr,93782795
+10433,Glenys Chew,Silver,,F,449.30,16 Jalan Kilang Timor #04-04 Singapore 159308,Ms,86821130
+10434,Paul Chin,Gold,,M,913.40,320 Lavender St Singapore 338820,Mr,93838274
+10435,Christopher Chou,Gold,,M,1100.40,545 Orchard Road 05-12 Far East Shopping Centre Singapore 238882,Mr,91091077
+10436,Enid Poon,Gold,,F,973.70,Tampines 1c Tampines Industrial St 61 Singapore 528750,Ms,92219494
+10437,Maxine Lui,Bronze,,F,222.00,53 Genting Lane Parpia House Singapore 349561,Ms,90935335
+10438,Christopher Woon,Silver,,M,308.40,35 Selegie Road Parklane Shopping Mall Singapore 188307,Mr,90717950
+10439,Donald Qiu,Bronze,,M,166.20,74 Senoko Drive Singapore 758241,Mr,93674916
+10440,Alexander Xia,Gold,,M,1165.70,138 Robinson Road #15-00 The Corporate Office Singapore 68906,Mr,86138650
+10441,Eva Peh,Bronze,,F,145.00,38 Tagore Lane Singapore 787488,Ms,88674326
+10442,Jennifer Sim,Silver,,F,221.40,Hdb Bishan 130 Bishan Street 12 #09-237 Singapore 570130,Ms,88498416
+10443,Ivor Lian,Bronze,,M,261.30,31 Marsiling Drive 01-325 Singapore 730031,Mr,93443799
+10444,Natalie Liao,Gold,,F,1156.90,Product Purchases Potong Pasir Ave 1 Singapore 350101,Ms,90215991
+10445,Edith Sin,Silver,,F,413.20,971 Upper Changi Rd North Singapore 507668,Ms,87538993
+10446,Stephen Tu,Silver,,M,355.10,"1 North Bridge Road, #21-04, High Street Centre Singapore 179094",Mr,91564159
+10447,Annie Sim,Bronze,,F,50.50,5001 Beach Road #06-03 Golden Mile Complex Singapore 199588,Ms,89662039
+10448,Cynthia Cheah,Bronze,,F,201.90,"No. 23 Peck Seah Street #01-120, Office Bty The Park Singapore 79313",Ms,88679167
+10449,Noel Quek,Bronze,,M,132.10,218 Pandan Loop Singapore 128408,Mr,89810981
+10450,Ethel Oo,Bronze,,F,113.20,171 Marina Square Singapore 39594,Ms,86431310
+10451,Lynne Yap,Gold,,F,834.60,194 Pandan Loop #07-15 Pantech Industrial Complex Singapore 128383,Ms,88950860
+10452,Catherine Zhang,Silver,,F,305.40,2022 Bukit Batok Street 23 01-166  Singapore 659527,Ms,89155305
+10453,Howard Meng,Silver,,M,310.00,"Blk 685 Hougang Street 61, #01-160 Singapore 530685",Mr,88689875
+10454,Akshay Basu,Silver,,M,463.30,26 Kallang Place #03-09 Singapore 339157,Mr,92666021
+10455,Julie Tang,Silver,,F,390.40,480 Lorong 6 Toa Payoh Atrium 4th Storey Hdb Hub Singapore 310480,Ms,92826811
+10456,Roger Ling,Bronze,,M,99.30,320 Serangoon Road #04-36 Serangoon Plaza Singapore 218108,Mr,87210923
+10457,Martin Ding,Bronze,,M,25.60,21 Choa Chu Kang Nth 6 #B1-23 Yew Tee Point  Singapore 689578,Mr,93738412
+10458,Francesca Zhang,Bronze,,F,228.80,28 Ayer Rajah Crescent #05-01  Singapore 139959,Ms,90799762
+10459,Bruce Heng,Gold,,M,1050.70,7 Kaki Bukit Road 1 04-07 Singapore 415937,Mr,89583783
+10460,Michael Han,Bronze,,M,119.70,222 Tagore Lane #01-11 Singapore 787603,Mr,93684549
+10461,Martin Tun,Silver,,M,422.40,"Oud Metha Road, Dubai Singapore 211169",Mr,88987991
+10462,Eric Chan,Silver,,M,547.80,Henley Industrial Building 22a Lim Teck Boo Road #04-05 Singapore 537002,Mr,93610481
+10463,Darren Chew,Gold,,M,903.00,219 Yishun Street 21 #04-387 Singapore 760219,Mr,87687682
+10464,Muriel Khoo,Silver,,F,405.30,7 Jln Hikayat Singapore 769852,Ms,91814986
+10465,Phillip Lay,Bronze,,M,76.10,"150 South Bridge Road Fook Hai Building, #02-14 Singapore 58727",Mr,91013199
+10466,Wayne Wang,Silver,,M,593.40,1 Jln Hari Raya Singapore 578093,Mr,87698222
+10467,Roy Duan,Silver,,M,699.30,2 Senang Cres Singapore 416576,Mr,92615257
+10468,Jay Ou,Gold,,M,837.60,Woodlands Singapore 730000,Mr,88174466
+10469,Tracey Chia,Silver,,F,410.20,1003 Toa Payoh Industrial Park 07-1513 Singapore 319075,Ms,87343481
+10470,Harold Pan,Silver,,M,253.50,Block 2022 Bukit Batok Street 23 #04-174  Singapore 659527,Mr,91923663
+10471,Mary Ting,Gold,,F,781.10,"22, Third Lok Yang Rd Singapore 628013",Ms,86363812
+10472,Donald Mok,Bronze,,M,204.40,2 Taman Nakhoda  Singapore 257743,Mr,88055419
+10473,Sarah Shu,Bronze,,F,221.60,Signode 2 Joo Koon Circle Singapore 629031,Ms,88406826
+10474,Constance Hwang,Bronze,,F,193.70,64 Namly Place Singapore 267208,Ms,87949317
+10475,Kathryn Wong,Gold,,F,1163.70,Loyang Point 258 Pasir Ris Street 21 #03-311 Singapore 510258,Ms,86364978
+10476,Derrick Wee,Bronze,,M,173.50,6 Battery Road #30-00 Six Batteryroad Building Singapore 49909,Mr,91924886
+10477,Joanne Han,Silver,,F,556.80,"2, Senoko Cres Singapore 758259",Ms,86643834
+10478,Victor Chu,Gold,,M,1187.80,Block 509b Wellington Circle Singapore 752509,Mr,86248015
+10479,Tony Soh,Silver,,M,386.70,1014 Geylang Avenue 3 04-218 Singapore 389729,Mr,93412056
+10480,Lewis Guo,Bronze,,M,117.00,"203 Henderson Road, 10-06 S Singapore 159547",Mr,91441031
+10481,Jean Win,Gold,,F,852.10,Siong Bee Industries 8 Benoi Road Singapore 629883,Ms,93138083
+10482,Sylvia Wei,Gold,,F,522.50,111 North Bridge Rd 05-06 Peninsular Plaza Singapore 179098,Ms,86499341
+10483,Lauren Shu,Bronze,,F,137.60,135 Joo Seng Rd #03-01 Singapore 368363,Ms,93372415
+10484,Timothy Xie,Silver,,M,505.60,28 Jalan Shaer Singapore 769374,Mr,91356128
+10485,Lynda Ngai,Gold,,F,642.30,3017 Bedok Nth St 5 #04-03 Singapore 486121,Ms,91063511
+10486,Beatrice Kang,Silver,,F,205.00,50 Kallang Ave 09-00 Nobel Corporation Building Singapore 339505,Ms,88691265
+10487,Bethany Gong,Gold,,F,1166.80,8 Kaki Bukit Road 2 02-10 Ruby Warehouse Complex Singapore 417841,Ms,93746518
+10488,Katie Pang,Silver,,F,289.80,275 Thomson Road Singapore 307645,Ms,89052652
+10489,Melvyn Leung,Bronze,,M,39.60,2 Balestier Road 04-697 Singapore 320002,Mr,86328414
+10490,Judith Tse,Bronze,,F,86.10,164 Kallang Way 02-32 Singapore 349248,Ms,92486447
+10491,Kathleen Ming,Gold,,F,1239.70,33 Jalan Afifi #07-13 Eton House Singapore 409180,Ms,90138965
+10492,Ishan Dora,Bronze,,M,72.50,8 Balmoral Cres #04-00 Singapore 259928,Mr,89767569
+10493,Uma Wason,Silver,,F,348.60,"35 Tannery Rd 07-03 Ruby Indl Cplx, Tannery Blk, Singapore 347740",Ms,86197794
+10494,Maureen Zhang,Gold,,F,1008.20,168 Punggol Field 02-08d Singapore 820168,Ms,93259958
+10495,Christine Sim,Bronze,,F,85.60,Jurong Point 1 Jurong West Central 2 #03-42 Singapore 648886,Ms,93527787
+10496,Joan Low,Bronze,,F,94.60,3016 Bedok North Avenue 4 07-04 Eastech Singapore 489947,Ms,93959489
+10497,Betty Tan,Gold,,F,842.30,Telok Blangah House 52 Telok Blangah Road #02-13 Singapore 98829,Ms,87160007
+10498,Jenny Kum,Bronze,,F,128.50,"Blk 18 Jalan Membina, #01-05 Singapore 164018",Ms,90730393
+10499,Rachel Peng,Gold,,F,667.50,950 Jurong West Street 91 02-637 Singapore 640950,Ms,91920789
+10500,Stanley Loh,Gold,,M,820.10,Hys Enterprises Pte Ltd 11 Sungei Kadut Way Singapore 728774,Mr,88549774
+10501,Alan Weng,Gold,,M,833.70,"Blk 26a Chai Chee Road, #01-389 Singapore 461026",Mr,91918630
+10502,Joseph Leong,Silver,,M,257.80,Hdb-Bedok 89 Bedok North Street 4 #01-107 Singapore 460089,Mr,90484051
+10503,Charlotte Chou,Bronze,,F,103.20,3 Pioneer Sector Lane Singapore 628322,Ms,87565102
+10504,Francis Choong,Bronze,,M,196.80,"118 Joo Chiat Road ,05-04 Singapore 520305",Mr,92754322
+10505,John Zhai,Silver,,M,625.80,25 Anderson Rd #01-05  Singapore 259986,Mr,92651447
+10506,Michael Soo,Bronze,,M,91.80,16 Raffles Quay #34-04 Hong Leong Building Singapore 48581,Mr,87936435
+10507,Ralph So,Gold,,M,601.50,"29, Hillview Singapore 650156",Mr,92248227
+10508,Elizabeth Ng,Bronze,,F,34.10,"Textile Centre #10-11, 200 Jalan Sultan, Singapore 199018",Ms,91136022
+10509,Maurice Choy,Gold,,M,1276.60,292 Joo Chiat Rd Singapore 427544,Mr,88216237
+10510,Terry Hong,Silver,,M,451.40,181 Ubi Avenue 4 Evan Lim Warehouse Singapore 408794,Mr,93790973
+10511,Michele Heng,Bronze,,F,0.10,1 Park Road #03-62 People's Park Complex Singapore 59108,Ms,86254013
+10512, Amara Doctor,Bronze,,F,170.60,1013 Geylang East Avenue 3 #06-110 Singapore 389728,Ms,88198135
+10513,Frank Low,Silver,,M,316.20,93 Toa Payoh Central #06-01 Singapore 319194,Mr,92679164
+10514,Damian Lau,Bronze,,M,235.40,1 Netheravon Road Singapore 508502,Mr,90519676
+10515,William Qu,Gold,,M,980.10,"9 Pasir Panjang Road, #01-132 Singapore 110009",Mr,86607339
+10516,Aimee Xia,Bronze,,F,263.70,65a Jalan Tenteram #07-08/12 St. Michael Industrial Estate Singapore 328958,Ms,92519445
+10517,Maria Chiu,Silver,,F,626.90,14 Scotts Road #03-96 Far East Plaza Singapore 228213,Ms,88426536
+10518,Jay Bera,Gold,,M,788.30,32 Maxwell Road #03-10 White House Singapore 69115,Mr,86893146
+10519,Rose Ong,Silver,,F,479.30,141 Cecil Street #07-04 Tung Ann Association Building Singapore 69541,Ms,90652353
+10520,Eileen Jung,Silver,,F,654.30,5 Depot Road #05-06 Tower B Defence Technology Towres Singapore 109681,Ms,90506588
+10521,Joy Xia,Silver,,F,661.80,3 Shenton Way 18-02 Shenton House Singapore 68805,Ms,90011039
+10522,Joseph Toh,Bronze,,M,120.10,403 Sin Ming Avenue #01-309 Singapore 570403,Mr,93443475
+10523,Daniel Xu,Gold,,M,1132.40,58 Senoko Road Singapore 758122,Mr,89437868
+10524,Danny Xue,Silver,,M,421.40,456 Alexandra Rd #11-03 Nol Bldg  Singapore 119962,Mr,88718290
+10525,Megan Tan,Silver,,F,241.40,680 North Bridge Road Singapore 188807,Ms,89096305
+10526,Connor Lau,Bronze,,M,285.20,125 Upper Paya Lebar Road Singapore 534838,Mr,87493014
+10527,Martyn Hao,Bronze,,M,190.80,80 Marine Parade Road Singapore 449269,Mr,90843503
+10528,Edwin Kum,Bronze,,M,295.20,"Blk 634 Veerasamy Road, 19-140 Singapore 200634",Mr,88121585
+10529,Catherine Lim,Gold,,F,1490.70,11 East Coast Rd #01-09 Singapore 428722,Ms,93691219
+10530,Timothy Chong,Bronze,,M,267.90,Afpn 1255 1078 East Camp Road #01-00 Singapore 797783,Mr,87506035
+10531,Aaron Hou,Silver,,M,679.60,115 Airport Cargo Rd #08-01 Cargo Agents Bldg C  Singapore 819466,Mr,89209398
+10532,Owen Tu,Bronze,,M,208.90,194 Pandan Loop #04-25 Singapore 128383,Mr,90206639
+10533,Harry Xin,Bronze,,M,92.30,Gillman Village 9 Lock Road #01-02 Singapore 108937,Mr,89994426
+10534,Jennifer Leow,Silver,,F,497.80,Shaw Towers 100 Beach Road #23-08 Singapore 189702,Ms,89801437
+10535,George Xue,Gold,,M,1279.40,3025 Ubi Road 3 03-129 Singapore 408653,Mr,93871175
+10536,Julie Fang,Gold,,F,1053.60,150 Cecil Street #09-01 Singapore 69543,Ms,89166190
+10537,Bessie Ng,Silver,,F,357.70,177 Toa Payoh Central 03-142 Singapore 310177,Ms,86251851
+10538,Stuart Neo,Bronze,,M,149.40,11 Tuas Avenue 10 Singapore 639135,Mr,92308970
+10539,Lorraine Toh,Bronze,,F,268.00,9 Battery Road 21-00 Straits Trading Building Singapore 49910,Ms,91806339
+10540,Josh Liu,Gold,,M,1475.70,"Blk 12 Lorong Bakar Batu, , 04-01 Kolam Ayer Indusrial Estate Singapore 348745",Mr,89787732
+10541,Edna Yue,Gold,,F,1177.30,"Blk 119 Aljunied Avenue 2, #01-62 Singapore 380119",Ms,91482903
+10542,Nora Lim,Bronze,,F,241.80,Funan The Digitalife Mall 109 North Bridge Road #03-36 Singapore 179097,Ms,91094582
+10543,Clifford Hwang,Silver,,M,368.30,7a Circular Road Singapore 49363,Mr,92701560
+10544,Jesse Ye,Gold,,M,695.60,10 Anson Road #05-16 International Plaza Singapore 79903,Mr,91760943
+10545,Steven Lau,Gold,,M,578.20,373a Serangoon Road Singapore 218121,Mr,88049710
+10546,Daniel Yuen,Silver,,M,218.80,Aia Alexandra 371 Alexandra Road #02-15 Singapore 159963,Mr,88759312
+10547,Kalidas Bhalla,Silver,,M,334.80,Mactech Industrial Building 2 Kallang Pudding Road #05-15 Singapore 349307,Mr,89232933
+10548,Terry Cheong,Gold,,M,1469.80,131 Jurong East Street 13 #03-241 Singapore 600131,Mr,87200101
+10549,Violet Chong,Bronze,,F,250.20,166 Bukit Merah Central 01-3531 Singapore 150166,Ms,89906165
+10550,Julian Ren,Bronze,,M,287.80,Miyoshi Precision 5 Second Chin Bee Road Singapore 618772,Mr,93422022
+10551,Helen Mo,Silver,,F,589.10,Hdb Bedok 717 Bedok Reservoir Road #01-K1 Singapore 470717,Ms,90768101
+10552,Julia Goh,Gold,,F,1456.30,9 Defu Lane 4 Singapore 539413,Ms,86375995
+10553,Richard Seah,Silver,,M,426.50,Hdb Bedok 122 Bedok North Street 2 #01-120 Singapore 460122,Mr,91904815
+10554,Leslie Gan,Bronze,,M,25.00,35 Selegie Road #10-02 Parklane Shopping Mall Singapore 188307,Mr,89245808
+10555,Doris Lim,Bronze,,F,18.00,"1 Maritime Square, #10-22 Singapore 99253",Ms,93219589
+10556,Frances Zhong,Silver,,F,538.30,7 Sungei Kadut Street 3 Singapore 729142,Ms,89917225
+10557,Edwin Chua,Bronze,,M,53.10,"450 Lorong 6 Toa Payoh, #01-01 Singapore 319394",Mr,91022509
+10558,Alfred Yin,Silver,,M,438.80,33 Allanbrooke Road Sentosa Singapore 99981,Mr,87323995
+10559,Lucy Choy,Gold,,F,780.50,18 Kaki Bukit Road 3 04-06 Singapore 415978,Ms,86803867
+10560,Doreen Tu,Gold,,F,1117.10,64d Kallang Pudding Road #10-00 Singapore 349323,Ms,86249858
+10561,Shane Chan,Bronze,,M,263.50,333a Orchard Road #01-18 Mandarin Gallery Singapore 238897,Mr,93040476
+10562,Chelsea Neo,Silver,,F,226.60,"163 Tanglin Road, #02-K2 Singapore 247933",Ms,87998275
+10563,Sharon Chew,Bronze,,F,224.00,21 Yung Ho Road#02-02 Singapore 618593,Ms,88592405
+10564,Marion Han,Silver,,F,640.60,238a Thomson Road 25-09 Novena Square Singapore 307684,Ms,87822597
+10565,Mahendra Sekhon,Silver,,M,463.70,9 Raffles Place #19-08/ #20-00 Republic Plaza Singapore 48619,Mr,87941243
+10566,George Kan,Bronze,,M,177.60,20 Upper Circular Road #01-19 The Riverwalk Singapore 58416,Mr,88211367
+10567,Jonathan Lau,Silver,,M,317.90," 726 Clementi West Street 2 #01-151 , S Singapore 120726",Mr,90452780
+10568,Jean Li,Gold,,F,503.40,22 Lorong 21a Geylang Singapore 388431,Ms,92513918
+10569,Tony Shao,Silver,,M,296.50,Upper Chin Swee Road Singapore 733788,Mr,89457091
+10570,John Kwek,Gold,,M,924.20,6 Battery Road 31-00 Six Battery Road Building Singapore 49909,Mr,90888731
+10571,Maud Han,Silver,,F,510.90,46 Easter Coast Road 08-06 East Gate Singapore 428766,Ms,86574593
+10572,Grace Gan,Gold,,F,1183.40,"13 Pasir Panjang Road, Wholesale Centre #01-600 Singapore 110013",Ms,88658153
+10573,Joel Woo,Gold,,M,1144.50,"211 Holland Ave, , 02-25 Holland Shopping Centre Singapore 278967",Mr,88030404
+10574,Jean Hao,Gold,,F,1119.40,1 Finlayson Green #13-00 Singapore 49246,Ms,93423154
+10575,Reginald Xin,Gold,,M,1138.10,328 North Bridge Rd #03-09 Raffles Shopping Arcade  Singapore 188719,Mr,93297035
+10576,Charles Chang,Bronze,,M,245.20,9 Third Lok Yang Rd Singapore 628004,Mr,92243491
+10577,Christine Leng,Silver,,F,413.90,50 Kallang Avenue #01-01a Noel Corporate Building Singapore 339505,Ms,93178231
+10578,Jane Heng,Silver,,F,443.90,56 New Upper Changi Road #01-1292 Singapore 461056,Ms,90197755
+10579,Clive Qian,Silver,,M,416.80,International 4 Jalan Ampas 4-03 Singapore 329727,Mr,93319417
+10580,Clifford Koh,Silver,,M,485.90,3 International Business Park #07-15 Nordic European Centre Singapore 609927,Mr,91880935
+10581,Marlene Jing,Gold,,F,910.90,170 Upper Bukit Timah Road 02-51 Bukit Timah Shopping Centre Singapore 588179,Ms,89029021
+10582,Edward Zhang,Silver,,M,569.20,"Blk 49 Sims Place, #01-55 Singapore 380049",Mr,89304937
+10583,Alex Yeoh,Bronze,,M,217.40," 01-18, Roxy Square Singapore 428769",Mr,89257892
+10584,Nellie Lim,Bronze,,F,0.20,2019 Bukit Batok Street 23 #03-264 Singapore 659524,Ms,86750449
+10585,Frances Phua,Gold,,F,1489.30,Golden Mile Tower 6001 Beach Road #01-02 Singapore 199589,Ms,90420936
+10586,Margaret Tanaka,Bronze,,F,99.60,"170 Upper Bukit Timah Road, #05-32 Singapore 588179",Ms,86655268
+10587,Neville Chong,Silver,,M,386.00,192 Pandan Loop #04-15 Singapore 128381,Mr,89099209
+10588,May Lau,Silver,,F,352.60,34 Craig Road #B1-11 Chinatown Plaza Singapore 89673,Ms,91395025
+10589,James Chong,Bronze,,M,62.00,66 Lorong 4 Toa Payoh #01-327 Singapore 310066,Mr,91817863
+10590,Walter Seah,Bronze,,M,247.00,3 Pioneer Sec 3 #1m-03 Jurong Districentre  Singapore 628342,Mr,91377288
+10591,Norman Seet,Gold,,M,685.70,Sis Building 4 Leng Kee Road #03-07 Singapore 159088,Mr,91913904
+10592,Ryan Shin,Silver,,M,363.70,85 Science Park Drive #01-01 The Cavendish Singapore 118259,Mr,87563056
+10593,Ellen Mai,Silver,,F,574.40,1013 Geylang East Ave 3 #05-120 Singapore 389728,Ms,86967118
+10594,Allan Tai,Bronze,,M,66.40,30 Victoria St #B1-03 Singapore 187996,Mr,91614947
+10595,Noor Barakat,Gold,,F,1187.90,20 Up Circular Rd #01-06 The Riverwalk  Singapore 58416,Ms,93171155
+10596,Julian Han,Bronze,,M,9.90,14a Upper Cross Street Singapore 58330,Mr,91109555
+10597,Thomas Cheung,Gold,,M,1457.70,111 North Bridge Road Singapore 179098,Mr,92561957
+10598,Adrian Zeng,Bronze,,M,175.10,1 Jln Anak Bukit #02-08 Singapore 588996,Mr,91894053
+10599,Jason Hang,Silver,,M,444.00,435 Orchard Road 04-27 Wisma Atria Singapore 238877,Mr,91380695
+10600,Adrian Soe,Bronze,,M,170.20,St 72 Lorong Semangka Singapore 690000,Mr,90444245
+10601,Gail Sun,Gold,,F,716.00,Tampines Singapore,Ms,90323996
+10602,Dorothy Kee,Gold,,F,1055.10,Simei Singapore,Ms,93124721
+10603,Francis Zhu,Silver,,M,466.70,Pasir Ris Singapore,Mr,86053737
+10604,Monica Lay,Bronze,,F,272.10,Loyang Singapore,Ms,92223927
+10605,Martha Jain,Silver,,F,573.40,Bedok Singapore,Ms,87039374
+10606,Timothy Aung,Silver,,M,590.80,Chai Chee Singapore,Mr,91924629
+10607,Neville Gao,Bronze,,M,266.10,Ubi Singapore,Mr,89528238
+10608,Nicola Mak,Bronze,,F,298.80,Bedok South Singapore,Ms,92122860
+10609,Leah Lim,Bronze,,F,114.30,Bedok North Singapore,Ms,90072224
+10610,Harry Tse,Silver,,M,647.30,Eunos Singapore,Mr,88881819
+10611,Lillian Lim,Bronze,,F,88.70,Tampines West Singapore,Ms,87330637
+10612,Dale Naing,Silver,,M,603.70,Tampines East Singapore,Mr,88450943
+10613,Rose Lai,Bronze,,F,93.50,Tampines Central Singapore,Ms,88635700
+10614,Robin Seow,Gold,,M,1313.80,McPherson Singapore,Mr,92659112
+10615,Monica Jiang,Silver,,F,364.30,Upper Serangoon Singapore,Ms,90881415
+10616,Enid Lan,Gold,,F,1366.80,Serangoon North Singapore,Ms,88286877
+10617,Neil Lai,Silver,,M,428.60,Serangoon Singapore,Mr,88642529
+10618,Ellen Seo,Gold,,F,1037.80,Pungol Singapore,Ms,91918563
+10619,Helen Chen,Silver,,F,690.00,Hougang Singapore,Ms,86209716
+10620,Brandon Jong,Gold,,M,1330.00,Ang Mo Kio Singapore,Mr,92869950
+10621,Sandra Tsui,Bronze,,F,175.30,Tao Payo Singapore,Ms,91449051
+10622,Gloria Qu,Silver,,F,462.20,Bishan Singapore,Ms,89905554
+10623, Soon,Silver,,F,294.00,Bradell Singapore,Ms,86374629
+10624,Mary Chong,Bronze,,F,72.10,Chou Chu Kang Singapore,Ms,86999134
+10625,Margaret Seet,Silver,,F,228.50,Khatib Singapore,Ms,89228943
+10626,Fred Teng,Bronze,,M,22.80,Yishun Singapore,Mr,88767195
+10627,Anita Jang,Gold,,F,590.90,Yishun East Singapore,Ms,86139936
+10628,Ian Ou,Bronze,,M,45.00,Yishun South Singapore,Mr,89715939
+10629,Phillip Lim,Silver,,M,432.20,Punol South Singapore,Mr,89032132
+10630,Samantha Chen,Bronze,,F,275.50,Admiralty Singapore,Ms,87654382
+10631,Craig Lau,Silver,,M,685.00,Woodlands Singapore  ,Mr,91024032
+10632,Martin Leong,Bronze,,M,83.90,Yio Chu Kang Singapore,Mr,91335872
+10633,Stewart Fok,Silver,,M,252.50,Sletar Singapore,Mr,89975287
+10634,Francis Chui,Bronze,,M,213.50,Mandai Singapore,Mr,94004189
+10635,Beryl Oo,Silver,,F,542.40,Bukhit Batock Singapore,Ms,93226266
+10636,Michael Gao,Gold,,M,1059.20,Bukhit Gombak Singapore,Mr,90024499
+10637,Gabrielle Teh,Silver,,F,273.10,Jurong East Singapore,Ms,92680861
+10638,Kenneth Zhu,Bronze,,M,161.20,Jurong West Singapore,Mr,88369369
+10639,Barry Deng,Bronze,,M,197.40,Boon Lay Singapore,Mr,90222688
+10640,Tracy Gan,Bronze,,F,4.40,Lake Side Singapore,Ms,88043533
+10641,Edmund Tsang,Gold,,M,1477.00,Chinese Garden Singapore,Mr,90471449
+10642,Marion Gao,Gold,,F,1034.20,Bartley Singapore,Ms,90448331
+10643,Bertie Kwan,Silver,,M,216.00,Bendemeer Singapore,Mr,87269644
+10644,Ruth Cao,Bronze,,F,66.30,Newton Singapore,Ms,89246040
+10645,Dylan Pong,Bronze,,M,119.90,Orchard Singapore,Mr,93467869
+10646,Ivan Lau,Silver,,M,542.50,Scotts Road Singapore,Mr,88101530
+10647,Katy Ying,Bronze,,F,231.90,Grange Road Singapore,Ms,86877186
+10648,Bessie Kai,Gold,,F,717.40,Holland Singapore,Ms,86114043
+10649,Marjorie Chong,Bronze,,F,245.70,Clementi Singapore,Ms,90325294
+10650,Kieran Lew,Bronze,,M,269.60,Clementi South Singpaore,Mr,90075975
+10651,Jill Chan,Gold,,F,654.20,Clementi North Singapore,Ms,93223581
+10652,Siddh Goswami,Bronze,,M,282.90,Dover Singapore,Mr,87091232
+10653,Winifred Tang,Silver,,F,416.50,Queensway Singapore,Ms,86426563
+10654,Albert Teh,Silver,,M,486.80,Queenstown Singapore,Mr,86587961
+10655,Amy Yi,Silver,,F,663.80,Commonwealth Singapore,Ms,89697213
+10656,Ellen Phua,Bronze,,F,230.80,Bouna Vista Singapore,Ms,88289885
+10657,Nidhi Gour,Silver,,F,233.10,South Buona Vista Singapore,Ms,88112764
+10658,Douglas Pok,Bronze,,M,122.90,NUS Singapore,Mr,90861892
+10659,Philip Lui,Bronze,,M,18.30,West Coast Singapore,Mr,88719894
+10660,Glenn Tang,Bronze,,M,210.00,Teban Garden Singapore,Mr,87257664
+10661,Andrew Kang,Silver,,M,375.80,Pasir Panjang Singapore,Mr,91830777
+10662,Shane Heng,Silver,,M,258.20,Potong Pasir Singapore,Mr,92286912
+10663,Patricia Tsang,Bronze,,F,76.50,Sennette Singapore,Ms,89817337
+10664,Ivy Pan,Silver,,F,672.90,Thomson Singapore,Ms,89023603
+10665,Jacqueline Low,Gold,,F,949.50,Upper Thomson Singapore,Ms,86161076
+10666,Thomas Peng,Silver,,M,269.50,Farer Road Singapore,Mr,92087789
+10667,Kelly Chang,Gold,,F,1298.50,Adam Road Singapore,Ms,92338971
+10668,Cyril Yeoh,Gold,,M,768.60,Geylang Singapore,Mr,92924135
+10669,Donna Gao,Bronze,,F,249.10,Eunos West Singapore,Ms,88182470
+10670,Percival Xiao,Gold,,M,718.60,Paya Lebar Singapore,Mr,89097429
+10671,Eleanor Quek,Bronze,,F,68.70,Kallang Singapore,Ms,91562728
+10672,Ellen Kwa,Silver,,F,429.70,Victoria St Singapore,Ms,91447052
+10673,Jennifer Dai,Gold,,F,1269.30,Market St Singapore,Ms,91093455
+10674,Maria Ong,Gold,,F,881.30,Tanjong Pagar Singapore,Ms,88847499
+10675,Anne Yeoh,Bronze,,F,60.20,Raffles Singapore,Ms,93498742
+10676,Heather Lin,Silver,,F,523.20,Dhoby Ghaut Singapore,Ms,90108754
+10677,Lisa Yue,Silver,,F,686.00,Somerset Singapore,Ms,88887820
+10678,Arthur Chu,Silver,,M,684.90,Bedok Reservoir Singapore,Mr,87080234
+10679,Benjamin Zhou,Bronze,,M,6.40,McRicthie Singapore,Mr,88740125
+10680,Umar Ghazi,Bronze,,M,7.20,Keppel Singapore,Mr,88891314
+10681,Edgar Lu,Bronze,,M,153.90,Marina Singapore,Mr,86568603
+10682,Daphne Su,Silver,,F,436.40,East Coast Singapore,Ms,93298926
+10683,Stuart Kwong,Silver,,M,275.90,Tanah Merah Singapore,Mr,89732161
+10684,Norman Jing,Bronze,,M,26.20,One North Singapore,Mr,91319512
+10685,Jacob Bao,Gold,,M,571.10,Woodleigh Singapore,Mr,86296160
+10686,Wendy Liu,Silver,,F,336.60,Tampines Singapore,Ms,88413743
+10687,Deborah Lian,Silver,,F,348.90,Simei Singapore,Ms,91576464
+10688,Bernard Shum,Bronze,,M,197.40,Pasir Ris Singapore,Mr,86324109
+10689,Rosie Sim,Bronze,,F,160.80,Loyang Singapore,Ms,87596084
+10690,Elaine Tai,Silver,,F,322.30,Bedok Singapore,Ms,89043867
+10691,Luke Chow,Silver,,M,441.70,Chai Chee Singapore,Mr,91425795
+10692,Cheryl Zhu,Gold,,F,1385.30,Ubi Singapore,Ms,91550822
+10693,Debra Ding,Silver,,F,368.10,Bedok South Singapore,Ms,91221875
+10694,Lily Kang,Silver,,F,666.40,Bedok North Singapore,Ms,87727530
+10695,Amy Pok,Gold,,F,877.20,Eunos Singapore,Ms,89219819
+10696,Annie Mei,Silver,,F,481.20,Tampines West Singapore,Ms,87289374
+10697,Bridget Kwee,Silver,,F,241.00,Tampines East Singapore,Ms,93425792
+10698,Barbara Lim,Bronze,,F,156.90,Tampines Central Singapore,Ms,89170242
+10699,Thelma Kung,Silver,,F,684.10,McPherson Singapore,Ms,86786426
+10700,Billy Tse,Bronze,,M,17.80,Upper Serangoon Singapore,Mr,86817710
+10701,Nora Siu,Bronze,,F,71.00,Serangoon North Singapore,Ms,92180406
+10702,Luke Chia,Bronze,,M,152.30,Serangoon Singapore,Mr,88279882
+10703,Colin Duan,Silver,,M,459.10,Pungol Singapore,Mr,93645190
+10704,Helen Sha,Gold,,F,894.30,Hougang Singapore,Ms,86161094
+10705,Paul Ren,Silver,,M,398.30,Ang Mo Kio Singapore,Mr,90353249
+10706,Usman Hussain,Gold,,M,1321.10,Tao Payo Singapore,Mr,86139179
+10707,Nathan Tang,Silver,,M,270.10,Bishan Singapore,Mr,93596587
+10708,Cecil Ong,Gold,,M,1344.10,Bradell Singapore,Mr,90546527
+10709,Ralph Kwon,Bronze,,M,77.80,Chou Chu Kang Singapore,Mr,88723411
+10710,Harry Huang,Gold,,M,516.40,Khatib Singapore,Mr,89057456
+10711,Allan Chong,Gold,,M,1039.10,Yishun Singapore,Mr,86390197
+10712,Lawrence Phang,Silver,,M,525.90,Yishun East Singapore,Mr,88031981
+10713,Jack Poh,Silver,,M,355.80,Yishun South Singapore,Mr,86266886
+10714,Bernard Tham,Bronze,,M,289.00,Punol South Singapore,Mr,92774427
+10715,Marlene Yan,Gold,,F,1031.80,Admiralty Singapore,Ms,93401282
+10716,Joyce Thia,Silver,,F,470.40,Woodlands Singapore  ,Ms,89647635
+10717,Jordan Yim,Gold,,M,958.70,Yio Chu Kang Singapore,Mr,92262844
+10718,Jonathan Ko,Bronze,,M,5.90,Sletar Singapore,Mr,92868769
+10719,Anne Hui,Silver,,F,638.80,Mandai Singapore,Ms,86289240
+10720,Adam Shaheed,Silver,,M,258.70,Bukhit Batock Singapore,Mr,87588684
+10721,Graeme Kwon,Bronze,,M,29.10,Bukhit Gombak Singapore,Mr,87408977
+10722,Joshua Yeung,Bronze,,M,152.90,Jurong East Singapore,Mr,90663352
+10723,Zoe Liu,Bronze,,F,266.60,Jurong West Singapore,Ms,86524490
+10724,Marilyn Loke,Silver,,F,693.00,Boon Lay Singapore,Ms,87871794
+10725,Iris Yung,Silver,,F,432.20,Lake Side Singapore,Ms,92427676
+10726,Yvonne Yeoh,Bronze,,F,40.40,Chinese Garden Singapore,Ms,87205891
+10727,Sylvia Ren,Bronze,,F,151.60,Bartley Singapore,Ms,88953574
+10728,Saanvi Walia,Gold,,F,903.70,Bendemeer Singapore,Ms,87944165
+10729,Lily Tan,Gold,,F,550.10,Newton Singapore,Ms,87959577
+10730,Denis Jain,Gold,,M,743.70,Orchard Singapore,Mr,91288049
+10731,Beverley Choi,Silver,,F,567.80,Scotts Road Singapore,Ms,92981121
+10732,Eleanor Xue,Bronze,,F,258.10,Grange Road Singapore,Ms,89746144
+10733,Emma Hou,Silver,,F,202.20,Holland Singapore,Ms,88961395
+10734,Jacqueline Sin,Bronze,,F,31.90,Clementi Singapore,Ms,92587925
+10735,Evelyn Chong,Bronze,,F,171.70,Clementi South Singpaore,Ms,89789357
+10736,Raymond Liao,Gold,,M,1405.20,Clementi North Singapore,Mr,88614430
+10737,Howard Choi,Bronze,,M,228.70,Dover Singapore,Mr,90138110
+10738,Lawrence Fan,Gold,,M,656.00,Queensway Singapore,Mr,88327307
+10739,Trevor Liew,Bronze,,M,138.70,Queenstown Singapore,Mr,90462856
+10740,Joseph Ban,Gold,,M,738.30,Commonwealth Singapore,Mr,86366416
+10741,Kimaya Zacharia,Silver,,F,442.80,Bouna Vista Singapore,Ms,87010475
+10742,Rose Chi,Silver,,F,431.60,South Buona Vista Singapore,Ms,92065730
+10743,Mildred Ko,Silver,,F,435.60,NUS Singapore,Ms,91476254
+10744,Graham Lim,Bronze,,M,136.40,West Coast Singapore,Mr,88455350
+10745,Gillian Cho,Bronze,,F,280.90,Teban Garden Singapore,Ms,90045139
+10746,Arthur Leung,Silver,,M,687.20,Pasir Panjang Singapore,Mr,87236810
+10747,Eric Xia,Bronze,,M,152.50,Potong Pasir Singapore,Mr,91748784
+10748,John Xiao,Gold,,M,724.40,Sennette Singapore,Mr,89582156
+10749,Karen Seah,Silver,,F,452.10,Thomson Singapore,Ms,86415971
+10750,Eliza Chong,Silver,,F,618.70,Upper Thomson Singapore,Ms,88271317
+10751,Gillian Teh,Bronze,,F,145.40,Farer Road Singapore,Ms,93144972
+10752,Minnie Aung,Gold,,F,678.40,Adam Road Singapore,Ms,91180787
+10753,Lucy Chiu,Silver,,F,380.90,Geylang Singapore,Ms,86135786
+10754,Dawn Tan,Gold,,F,1165.30,Eunos West Singapore,Ms,86191473
+10755,Emma Chang,Silver,,F,213.10,Paya Lebar Singapore,Ms,90613342
+10756,William Nai,Silver,,M,615.60,Kallang Singapore,Mr,93010214
+10757,Rosie Yim,Gold,,F,1102.80,Victoria St Singapore,Ms,87609377
+10758,Rosina Chen,Bronze,,F,156.00,Market St Singapore,Ms,87751502
+10759,Krish Savant,Bronze,,M,179.50,Tanjong Pagar Singapore,Mr,89445858
+10760,Ivor An,Bronze,,M,97.10,Raffles Singapore,Mr,87011561
+10761,Amanda Leng,Bronze,,F,200.30,Dhoby Ghaut Singapore,Ms,90726890
+10762,Martin Lin,Gold,,M,1399.90,Somerset Singapore,Mr,89587973
+10763,Nathan Lin,Silver,,M,514.90,Bedok Reservoir Singapore,Mr,92830164
+10764,Jordan Kwa,Silver,,M,233.30,McRicthie Singapore,Mr,88774812
+10765,Reece Si,Gold,,M,1296.00,Keppel Singapore,Mr,86097929
+10766,Christopher Cui,Silver,,M,612.80,Marina Singapore,Mr,87147275
+10767,Guy Tsui,Bronze,,M,126.10,East Coast Singapore,Mr,92184532
+10768,Gladys Mu,Gold,,F,1036.50,Tanah Merah Singapore,Ms,91401692
+10769,Barrie Zhang,Bronze,,M,271.60,One North Singapore,Mr,86219440
+10770,Christine Lew,Gold,,F,1455.80,Woodleigh Singapore,Ms,89571213
+10771,Pamela Ong,Silver,,F,427.40,Tampines Singapore,Ms,89196413
+10772,Joyce Yuen,Silver,,F,604.00,Simei Singapore,Ms,87294652
+10773,Harold Kung,Silver,,M,424.90,Pasir Ris Singapore,Mr,86939932
+10774,Peggy Chang,Silver,,F,345.30,Loyang Singapore,Ms,89194472
+10775,Eric Ee,Bronze,,M,271.80,Bedok Singapore,Mr,86820275
+10776,Jamie Tang,Bronze,,M,115.40,Chai Chee Singapore,Mr,89404633
+10777,Dean Pei,Bronze,,M,97.70,Ubi Singapore,Mr,86488375
+10778,Rita Ming,Gold,,F,727.20,Bedok South Singapore,Ms,92843107
+10779,Laura Foong,Gold,,F,820.20,Bedok North Singapore,Ms,86805308
+10780,Sarah Kung,Bronze,,F,38.90,Eunos Singapore,Ms,87831211
+10781,Roland Loh,Gold,,M,814.70,Tampines West Singapore,Mr,92352933
+10782,Eileen Sui,Bronze,,F,99.60,Tampines East Singapore,Ms,88257282
+10783,Matthew Chng,Silver,,M,306.50,Tampines Central Singapore,Mr,88781738
+10784,Phyllis Jie,Bronze,,F,265.60,McPherson Singapore,Ms,86267939
+10785,Brenda Yip,Bronze,,F,243.90,Upper Serangoon Singapore,Ms,88550244
+10786,Ruth Chang,Bronze,,F,276.70,Serangoon North Singapore,Ms,91370809
+10787,Kathleen Bao,Silver,,F,646.20,Serangoon Singapore,Ms,86660721
+10788,Martyn Tan,Gold,,M,1004.70,Pungol Singapore,Mr,90056221
+10789,Grace Chng,Gold,,F,1027.30,Hougang Singapore,Ms,91495731
+10790,Bertha Shao,Silver,,F,547.80,Ang Mo Kio Singapore,Ms,90876054
+10791,Heather Chow,Bronze,,F,143.20,Tao Payo Singapore,Ms,91434159
+10792,Julie Meng,Bronze,,F,219.80,Bishan Singapore,Ms,91490505
+10793,Veronica Cha,Bronze,,F,178.40,Bradell Singapore,Ms,93464772
+10794,Martin Chionh,Silver,,M,618.70,Chou Chu Kang Singapore,Mr,92552494
+10795,Elliot Chong,Bronze,,M,274.30,Khatib Singapore,Mr,91429819
+10796,Nigel Fu,Gold,,M,1328.20,Yishun Singapore,Mr,89884919
+10797,Harold Liu,Bronze,,M,54.50,Yishun East Singapore,Mr,89023214
+10798,Joel Cheng,Silver,,M,460.40,Yishun South Singapore,Mr,91619044
+10799,Eleanor Koo,Gold,,F,584.50,Punol South Singapore,Ms,87828756
+10800,Billy Lau,Bronze,,M,158.70,Admiralty Singapore,Mr,92098057
+10801,Joshua Dong,Gold,,M,1108.20,Woodlands Singapore  ,Mr,88899270
+10802,Elsie Zhang,Bronze,,F,22.10,Yio Chu Kang Singapore,Ms,90492773
+10803,Daniel Zou,Gold,,M,809.60,Sletar Singapore,Mr,87473990
+10804,Daniel Tay,Silver,,M,243.40,Mandai Singapore,Mr,90284279
+10805,Raymond Lai,Silver,,M,563.80,Bukhit Batock Singapore,Mr,89158338
+10806,Anne Soh,Gold,,F,1371.30,Bukhit Gombak Singapore,Ms,89852044
+10807,Christine Chai,Bronze,,F,226.90,Jurong East Singapore,Ms,87578126
+10808,Esther Kwon,Bronze,,F,82.80,Jurong West Singapore,Ms,93069352
+10809,Gareth Khoo,Gold,,M,1158.50,Boon Lay Singapore,Mr,91335544
+10810,Ella Ng,Bronze,,F,254.90,Lake Side Singapore,Ms,87009418
+10811,Megan Chao,Silver,,F,370.40,Chinese Garden Singapore,Ms,87212222
+10812,Lillian Tanaka,Bronze,,F,134.50,Bartley Singapore,Ms,93015643
+10813,David Chiu,Bronze,,M,144.80,Bendemeer Singapore,Mr,86888347
+10814,Norma Ang,Gold,,F,1120.30,Newton Singapore,Ms,93855992
+10815,Sheila Yu,Bronze,,F,138.30,Orchard Singapore,Ms,88994922
+10816,Terence Soe,Bronze,,M,68.10,Scotts Road Singapore,Mr,89799145
+10817,Ada Liu,Bronze,,F,178.80,Grange Road Singapore,Ms,93748802
+10818,James Che,Bronze,,M,258.10,Holland Singapore,Mr,86585550
+10819,Eileen Chan,Bronze,,F,211.90,Clementi Singapore,Ms,87297641
+10820,Harry Lay,Bronze,,M,89.40,Clementi South Singpaore,Mr,87665744
+10821,Kathleen Chen,Gold,,F,639.50,Clementi North Singapore,Ms,90453174
+10822,Gary Leong,Gold,,M,1444.50,Dover Singapore,Mr,87880145
+10823,Barbara Xie,Silver,,F,644.00,Queensway Singapore,Ms,87752277
+10824,Zoe Poh,Bronze,,F,239.90,Queenstown Singapore,Ms,93968951
+10825,Amelia Sim,Silver,,F,648.00,Commonwealth Singapore,Ms,92868127
+10826,Edith Ooi,Silver,,F,670.30,Bouna Vista Singapore,Ms,86092190
+10827,Norman Liew,Gold,,M,717.50,South Buona Vista Singapore,Mr,91905283
+10828,Ian Choo,Silver,,M,463.10,NUS Singapore,Mr,89312126
+10829,Shane Xia,Bronze,,M,168.90,West Coast Singapore,Mr,87658261
+10830,Muriel Ping,Silver,,F,441.00,Teban Garden Singapore,Ms,88310031
+10831,Sarah Liang,Silver,,F,209.00,Pasir Panjang Singapore,Ms,86486988
+10832,Carole Ko,Gold,,F,561.20,Potong Pasir Singapore,Ms,91579706
+10833,Mark Mun,Silver,,M,677.10,Sennette Singapore,Mr,88674468
+10834,Georgia Hou,Bronze,,F,168.40,Thomson Singapore,Ms,91759844
+10835,Harriet Wei,Bronze,,F,227.70,Upper Thomson Singapore,Ms,87561764
+10836,Karl Lwin,Silver,,M,577.70,Farer Road Singapore,Mr,87314238
+10837,Martyn Wu,Silver,,M,385.90,Adam Road Singapore,Mr,91436579
+10838,Ann Xiao,Bronze,,F,57.20,Geylang Singapore,Ms,91640513
+10839,Scott Pang,Gold,,M,831.50,Eunos West Singapore,Mr,89151838
+10840,Marie Yu,Gold,,F,508.50,Paya Lebar Singapore,Ms,86180373
+10841,Paul Guan,Silver,,M,697.00,Kallang Singapore,Mr,92031512
+10842,Alexander Meng,Bronze,,M,123.90,Victoria St Singapore,Mr,89385730
+10843,Ellen Ling,Silver,,F,638.70,Market St Singapore,Ms,86985012
+10844,Helen Deng,Gold,,F,830.10,Tanjong Pagar Singapore,Ms,90549249
+10845,Jill Law,Bronze,,F,285.60,Raffles Singapore,Ms,90234226
+10846,Sheila Jong,Bronze,,F,260.80,Dhoby Ghaut Singapore,Ms,90405402
+10847,Kay Fu,Silver,,F,495.80,Somerset Singapore,Ms,89637395
+10848,David Ng,Gold,,M,1071.60,Bedok Reservoir Singapore,Mr,91340722
+10849,Keith Li,Gold,,M,1033.40,McRicthie Singapore,Mr,87647418
+10850,Ruth Wan,Silver,,F,281.70,Keppel Singapore,Ms,89594845
+10851,Jane Wang,Silver,,F,297.50,Marina Singapore,Ms,87485663
+10852,Akash Mishra,Bronze,,M,148.00,East Coast Singapore,Mr,92462671
+10853,Florence Meng,Gold,,F,1333.20,Tanah Merah Singapore,Ms,87982602
+10854,Lily Goh,Gold,,F,1102.90,One North Singapore,Ms,87669875
+10855,Josephine Bao,Gold,,F,1419.70,Woodleigh Singapore,Ms,89514776
+10856,Toby Soo,Bronze,,M,160.60,Tampines Singapore,Mr,92555345
+10857,Carl Lan,Gold,,M,1027.80,Simei Singapore,Mr,92500478
+10858,Rita Teng,Silver,,F,658.00,Pasir Ris Singapore,Ms,86091174
+10859,Doris Yeoh,Gold,,F,759.80,Loyang Singapore,Ms,88341615
+10860,Sandra Mok,Bronze,,F,231.30,Bedok Singapore,Ms,88602157
+10861,Alec Jia,Silver,,M,453.80,Chai Chee Singapore,Mr,90722199
+10862,Timothy Tan,Silver,,M,282.90,Ubi Singapore,Mr,91796030
+10863,Samardh Chanda,Bronze,,M,44.10,Bedok South Singapore,Mr,92318026
+10864,Susan Liu,Silver,,F,653.90,Bedok North Singapore,Ms,88029802
+10865,Adam Sato,Gold,,M,826.30,Eunos Singapore,Mr,93917040
+10866,Dora Shi,Bronze,,F,50.20,Tampines West Singapore,Ms,91745792
+10867,Edwin Rao,Gold,,M,1479.20,Tampines East Singapore,Mr,92389726
+10868,Thelma Dong,Bronze,,F,271.20,Tampines Central Singapore,Ms,87250795
+10869,Sarah Zhang,Gold,,F,1216.60,McPherson Singapore,Ms,88795453
+10870,Carla Sheng,Gold,,F,1276.80,Upper Serangoon Singapore,Ms,87723835
+10871,Muriel Quek,Bronze,,F,195.30,Serangoon North Singapore,Ms,86089031
+10872,Mathew Lim,Bronze,,M,13.80,Serangoon Singapore,Mr,88984985
+10873,Michael Chua,Gold,,M,1327.60,Pungol Singapore,Mr,88355273
+10874,Scott Kung,Bronze,,M,130.80,Hougang Singapore,Mr,89204003
+10875,Royston Png,Silver,,M,668.10,Ang Mo Kio Singapore,Mr,86817240
+10876,Gwendoline Lau,Silver,,F,241.00,Tao Payo Singapore,Ms,88716649
+10877,Leigh Yu,Bronze,,M,275.40,Bishan Singapore,Mr,93520419
+10878,Gordon Ji,Gold,,M,986.50,Bradell Singapore,Mr,86792468
+10879,Stuart Ching,Gold,,M,1431.50,Chou Chu Kang Singapore,Mr,92152727
+10880,Judith Guo,Silver,,F,637.70,Khatib Singapore,Ms,87965843
+10881,Benjamin Mok,Bronze,,M,261.10,Yishun Singapore,Mr,91045769
+10882,Evelyn Kuang,Silver,,F,275.20,Yishun East Singapore,Ms,91200013
+10883,Noel Yue,Bronze,,M,88.50,Yishun South Singapore,Mr,88582865
+10884,Terence Huang,Silver,,M,315.70,Punol South Singapore,Mr,88700343
+10885,Rosina Teng,Gold,,F,937.50,Admiralty Singapore,Ms,92922708
+10886,Francesca Shin,Gold,,F,726.70,Woodlands Singapore  ,Ms,86366441
+10887,Stacey Sze,Silver,,F,553.10,Yio Chu Kang Singapore,Ms,90337130
+10888,Mitchell Soon,Bronze,,M,61.80,Sletar Singapore,Mr,88299519
+10889,Joanne Luo,Gold,,F,537.80,Mandai Singapore,Ms,88841114
+10890,Margaret Chan,Gold,,F,1327.70,Bukhit Batock Singapore,Ms,93858146
+10891,Paul Foong,Bronze,,M,88.40,Bukhit Gombak Singapore,Mr,86676899
+10892,Tony Liao,Bronze,,M,222.10,Jurong East Singapore,Mr,87292080
+10893,Ada Lau,Bronze,,F,221.50,Jurong West Singapore,Ms,87129682
+10894,James Kwek,Bronze,,M,184.10,Boon Lay Singapore,Mr,92307282
+10895,Enid Shang,Gold,,F,1307.00,Lake Side Singapore,Ms,91235367
+10896,Stewart Mun,Bronze,,M,77.40,Chinese Garden Singapore,Mr,93288443
+10897,Carl Tan,Bronze,,M,202.40,Bartley Singapore,Mr,89590175
+10898,Evelyn Teoh,Bronze,,F,52.60,Bendemeer Singapore,Ms,90795626
+10899,Sandra Lim,Silver,,F,331.80,Newton Singapore,Ms,93363645
+10900,Charles Khoo,Bronze,,M,89.20,Orchard Singapore,Mr,90617805
+10901,Olivia Lim,Bronze,,F,268.30,Scotts Road Singapore,Ms,87844817
+10902,Martha Sim,Bronze,,F,261.00,Grange Road Singapore,Ms,86948359
+10903,Marian Ping,Silver,,F,555.70,Holland Singapore,Ms,88128665
+10904,Yasmin Xing,Bronze,,F,259.80,Clementi Singapore,Ms,92174284
+10905,Jeanette Hu,Bronze,,F,224.80,Clementi South Singpaore,Ms,88468707
+10906,Dean Yap,Silver,,M,492.70,Clementi North Singapore,Mr,89563411
+10907,Jagannath Ben,Gold,,M,891.00,Dover Singapore,Mr,91543891
+10908,Diane Neo,Silver,,F,275.80,Queensway Singapore,Ms,93731662
+10909,Audrey Lau,Silver,,F,342.10,Queenstown Singapore,Ms,88241010
+10910,Samuel An,Silver,,M,562.90,Commonwealth Singapore,Mr,91196188
+10911,Karen Quek,Gold,,F,1172.50,Bouna Vista Singapore,Ms,88078368
+10912,Francis Naing,Bronze,,M,184.30,South Buona Vista Singapore,Mr,93845249
+10913,Catherine Song,Silver,,F,543.20,NUS Singapore,Ms,89306246
+10914,Amelia Xu,Gold,,F,582.80,West Coast Singapore,Ms,89922887
+10915,Danush Nandkar,Gold,,M,749.70,Teban Garden Singapore,Mr,91561786
+10916,Jasmine Han,Bronze,,F,72.40,Pasir Panjang Singapore,Ms,89452444
+10917,Ruth Liew,Silver,,F,540.30,Potong Pasir Singapore,Ms,90818590
+10918,Alexander Kai,Bronze,,M,166.10,Sennette Singapore,Mr,91624519
+10919,Shaun Lang,Silver,,M,395.90,Thomson Singapore,Mr,92782649
+10920,Kevin Cao,Silver,,M,378.50,Upper Thomson Singapore,Mr,93859906
+10921,Elizabeth An,Silver,,F,641.10,Farer Road Singapore,Ms,92440986
+10922,Graham Yong,Bronze,,M,51.20,Adam Road Singapore,Mr,89097413
+10923,Geoffrey Hua,Gold,,M,500.30,Geylang Singapore,Mr,92474601
+10924,Ethel Xie,Gold,,F,1036.50,Eunos West Singapore,Ms,86705510
+10925,Nancy Pang,Gold,,F,785.20,Paya Lebar Singapore,Ms,86555062
+10926,Georgina Yi,Gold,,F,1389.60,Kallang Singapore,Ms,87373067
+10927,Eileen Lau,Silver,,F,476.40,Victoria St Singapore,Ms,93283441
+10928,Carol Kai,Bronze,,F,49.00,Market St Singapore,Ms,89035506
+10929,Percival Peng,Bronze,,M,97.50,Tanjong Pagar Singapore,Mr,90554729
+10930,Natalie Lai,Gold,,F,1403.20,Raffles Singapore,Ms,90831511
+10931,Kieran Shin,Gold,,M,878.70,Dhoby Ghaut Singapore,Mr,91290600
+10932,Tom Yuen,Bronze,,M,83.10,Somerset Singapore,Mr,89743007
+10933,Mabel Ching,Silver,,F,448.20,Bedok Reservoir Singapore,Ms,89970143
+10934,Barry Lee,Silver,,M,649.10,McRicthie Singapore,Mr,87121452
+10935,Annie Huang,Bronze,,F,252.10,Keppel Singapore,Ms,90333898
+10936,Edward Cao,Gold,,M,1252.60,Marina Singapore,Mr,90364871
+10937,Iris Zhang,Bronze,,F,49.80,East Coast Singapore,Ms,89792701
+10938,Samay Gopal,Gold,,M,1297.40,Tanah Merah Singapore,Mr,86965265
+10939,Ruth Ee,Gold,,F,954.10,One North Singapore,Ms,93290713
+10940,Dawn Cai,Bronze,,F,85.70,Woodleigh Singapore,Ms,88654991
+10941,Yvonne Peh,Bronze,,F,267.40,Singapore,Ms,92554467
+10942,Violet Yap,Bronze,,F,34.30,Singapore,Ms,86857841
+10943,Olivia So,Bronze,,F,181.00,Singapore,Ms,90753390
+10944,Ellie Lim,Silver,,F,358.80,Singapore,Ms,93875541
+10945,Linda Jain,Silver,,F,333.30,Singapore,Ms,91379234
+10946,Ernest Fung,Bronze,,M,253.90,Singapore,Mr,86009528
+10947,Christopher Yue,Gold,,M,1078.80,Singapore,Mr,91208712
+10948,Victor Leow,Bronze,,M,89.80,Singapore,Mr,91583327
+10949,Georgina Seah,Silver,,F,680.00,Singapore,Ms,93548858
+10950,Gladys Fu,Gold,,F,1157.90,Singapore,Ms,91519413
+10951,Freda Chua,Bronze,,F,34.40,Singapore,Ms,90988960
+10952,Simon You,Silver,,M,368.60,Singapore,Mr,88232909
+10953,Frank Quek,Silver,,M,365.60,Singapore,Mr,90861404
+10954,Gloria Poon,Gold,,F,1420.80,Singapore,Ms,87884381
+10955,Hollie Pang,Silver,,F,565.60,Singapore,Ms,92545988
+10956,Wayne Qiu,Bronze,,M,10.30,Singapore,Mr,91389908
+10957,Janice Jiang,Bronze,,F,166.50,Singapore,Ms,92831224
+10958,Sean Han,Gold,,M,947.60,Singapore,Mr,87187772
+10959,Lakshmi Gokhale,Silver,,F,600.40,Singapore,Ms,89656431
+10960,Bethan Wu,Silver,,F,544.50,Singapore,Ms,90986867
+10961,Brian Huang,Silver,,M,490.50,Singapore,Mr,92072306
+10962,Nancy Chua,Silver,,F,348.70,Singapore,Ms,90226575
+10963,Jean Kwek,Silver,,F,204.10,Singapore,Ms,89063528
+10964,Bernard Sheng,Gold,,M,1397.00,Singapore,Mr,92737753
+10965,Brenda Lei,Gold,,F,1308.90,Singapore,Ms,90236841
+10966,Heather Kwan,Bronze,,F,75.30,Tampines Singapore,Ms,86821073
+10967,Adrian Xiang,Silver,,M,695.60,Simei Singapore,Mr,89915319
+10968,Stephen Kwok,Bronze,,M,226.70,Pasir Ris Singapore,Mr,92860666
+10969,Derek Ngai,Silver,,M,609.40,Loyang Singapore,Mr,93883680
+10970,Sean Woon,Silver,,M,273.40,Bedok Singapore,Mr,90271201
+10971,Edna Lin,Bronze,,F,9.80,Chai Chee Singapore,Ms,92169651
+10972,Lilian ,Bronze,,F,291.20,Ubi Singapore,Ms,90131528
+10973,Matthew Gan,Bronze,,M,98.20,Bedok South Singapore,Mr,87172370
+10974,Wendy Wu,Silver,,F,593.20,Bedok North Singapore,Ms,88771642
+10975,Colin Ku,Bronze,,M,279.40,Eunos Singapore,Mr,91942346
+10976,Dorothy Tan,Gold,,F,1210.40,Tampines West Singapore,Ms,89874402
+10977,Charles Kung,Bronze,,M,89.80,Tampines East Singapore,Mr,93518612
+10978,Marjorie Ee,Gold,,F,632.40,Tampines Central Singapore,Ms,92582292
+10979,Iris Qu,Silver,,F,291.20,McPherson Singapore,Ms,87426787
+10980,Keith Feng,Silver,,M,599.70,Upper Serangoon Singapore,Mr,92269665
+10981,Simon Tai,Silver,,M,460.20,Serangoon North Singapore,Mr,90465903
+10982,Isabella Naing,Bronze,,F,27.60,Serangoon Singapore,Ms,91801614
+10983,Timothy Qi,Bronze,,M,17.20,Pungol Singapore,Mr,90551002
+10984,Gerald Sim,Bronze,,M,3.10,Hougang Singapore,Mr,90697729
+10985,Richard Sato,Gold,,M,1108.00,Ang Mo Kio Singapore,Mr,92878394
+10986,Anita Shen,Silver,,F,253.60,Tao Payo Singapore,Ms,90314021
+10987,Olive Leung,Bronze,,F,15.60,Bishan Singapore,Ms,93321769
+10988,Demi Teng,Bronze,,F,188.10,Bradell Singapore,Ms,93965456
+10989,Chantelle Kong,Bronze,,F,112.70,Chou Chu Kang Singapore,Ms,91282136
+10990,Pamela Che,Gold,,F,900.90,Khatib Singapore,Ms,91235730
+10991,Liam Seow,Silver,,M,279.90,Yishun Singapore,Mr,87532980
+10992,Leon Fung,Silver,,M,534.00,Yishun East Singapore,Mr,91823037
+10993,Ali Ebrahim,Gold,,M,874.60,Yishun South Singapore,Mr,91857804
+10994,Callum Leow,Bronze,,M,110.10,Punol South Singapore,Mr,88083248
+10995,Yvonne Qi,Silver,,F,630.00,Admiralty Singapore,Ms,90251739
+10996,Anusha Ramachandran,Bronze,,M,217.90,Woodlands Singapore  ,Mr,93850216
+10997,Jane Si,Bronze,,F,235.40,Yio Chu Kang Singapore,Ms,91452575
+10998,Denis Wen,Bronze,,M,101.30,Sletar Singapore,Mr,88185666
+10999,Jamie Lim,Silver,,M,403.20,Mandai Singapore,Mr,91148553
+11000,Dorothy Loh,Gold,,F,1285.30,Bukhit Batock Singapore,Ms,86139794
+11001,Shaheen Pashia,Gold,,F,1068.60,Bukhit Gombak Singapore,Ms,92060588
+11002,Jeremy Gong,Bronze,,M,91.00,Jurong East Singapore,Mr,93360263
+11003,Roja Minhas,Bronze,,F,114.40,Jurong West Singapore,Ms,87789871
+11004,Leah Tao,Bronze,,F,124.20,Boon Lay Singapore,Ms,91384828
+11005,Ross Quek,Silver,,M,335.20,Lake Side Singapore,Mr,93699165
+11006,Brian Lam,Gold,,M,748.40,Chinese Garden Singapore,Mr,88645007
+11007,Maya Golla,Silver,,F,438.00,Bartley Singapore,Ms,86434428
+11008,Sylvia Teo,Bronze,,F,105.20,Bendemeer Singapore,Ms,86795135
+11009,Georgia Cheng,Gold,,F,1404.40,Newton Singapore,Ms,86484118
+11010,William Thia,Silver,,M,447.60,Orchard Singapore,Mr,92019308
+11011,Leonard Deng,Bronze,,M,134.60,Scotts Road Singapore,Mr,91233784
+11012,Peter Heng,Silver,,M,326.10,Grange Road Singapore,Mr,88276660
+11013,Susan Kwek,Silver,,F,344.10,Holland Singapore,Ms,92775899
+11014,Tracey Tian,Bronze,,F,195.90,Clementi Singapore,Ms,93005153
+11015,Raymond Lim,Gold,,M,522.70,Clementi South Singpaore,Mr,88326442
+11016,Clare Choo,Bronze,,F,10.20,Clementi North Singapore,Ms,90779484
+11017,Daniel Shao,Gold,,M,573.80,Dover Singapore,Mr,91819290
+11018,Matthew Zou,Silver,,M,600.40,Queensway Singapore,Mr,88940812
+11019,Tony Chee,Silver,,M,648.70,Queenstown Singapore,Mr,92223185
+11020,Charles Li,Gold,,M,684.60,Commonwealth Singapore,Mr,86026281
+11021,Lydia Lau,Bronze,,F,221.40,Bouna Vista Singapore,Ms,88777051
+11022,Kay Ko,Silver,,F,420.90,South Buona Vista Singapore,Ms,89621153
+11023,Diana Oo,Bronze,,F,116.00,NUS Singapore,Ms,86239545
+11024,Navi Aurora,Silver,,F,649.90,West Coast Singapore,Ms,91127467
+11025,Daisy Lew,Bronze,,F,203.50,Teban Garden Singapore,Ms,87022795
+11026,Christian Zhuang,Gold,,M,1424.70,Pasir Panjang Singapore,Mr,93706931
+11027,Dean Yun,Bronze,,M,136.90,Potong Pasir Singapore,Mr,88170315
+11028,Fanny Koh,Gold,,F,1348.20,Sennette Singapore,Ms,89486078
+11029,Alice Lim,Gold,,F,1452.60,Thomson Singapore,Ms,91312409
+11030,Ann Hang,Silver,,F,418.80,Upper Thomson Singapore,Ms,90000788
+11031,Neil Weng,Bronze,,M,147.60,Farer Road Singapore,Mr,86119358
+11032,Sarah Qu,Silver,,F,586.70,Adam Road Singapore,Ms,93673970
+11033,Norah Cheung,Bronze,,F,55.30,Geylang Singapore,Ms,87099755
+11034,Aaron Tang,Silver,,M,653.40,Eunos West Singapore,Mr,86009630
+11035,Lewis Ma,Bronze,,M,134.60,Paya Lebar Singapore,Mr,86557429
+11036,Terry Deng,Bronze,,M,104.10,Kallang Singapore,Mr,87288224
+11037,Dean Chen,Bronze,,M,46.60,Victoria St Singapore,Mr,93998797
+11038,Mathew Zhang,Silver,,M,425.90,Market St Singapore,Mr,87593593
+11039,Geoffrey Chai,Silver,,M,334.00,Tanjong Pagar Singapore,Mr,89885950
+11040,Robert Ting,Silver,,M,486.30,Raffles Singapore,Mr,87230181
+11041,Benjamin Chou,Bronze,,M,260.70,Dhoby Ghaut Singapore,Mr,86982397
+11042,Marlene Ji,Bronze,,F,178.30,Somerset Singapore,Ms,93742070
+11043,Keith Xing,Gold,,M,611.80,Bedok Reservoir Singapore,Mr,89169989
+11044,Zarina Rahaim,Silver,,F,363.50,McRicthie Singapore,Ms,89685768
+11045,May Tao,Silver,,F,464.20,Keppel Singapore,Ms,92939350
+11046,Garry Shin,Silver,,M,479.50,Marina Singapore,Mr,93377853
+11047,Marcus Lai,Gold,,M,731.10,East Coast Singapore,Mr,92849091
+11048,Jane Law,Gold,,F,990.70,Tanah Merah Singapore,Ms,93305600
+11049,Yousuf Hakim,Silver,,M,631.70,One North Singapore,Mr,93090779
+11050,Dorothy Lian,Silver,,F,411.10,Woodleigh Singapore,Ms,89913963
+11051,Gwendoline Chow,Bronze,,F,25.40,Tampines Singapore,Ms,87996577
+11052,Toni Ku,Gold,,F,1002.20,Simei Singapore,Ms,90552506
+11053,Stephanie Tai,Bronze,,F,147.80,Pasir Ris Singapore,Ms,90466347
+11054,Tony Shang,Bronze,,M,37.00,Loyang Singapore,Mr,86183531
+11055,Vincent Ding,Silver,,M,591.80,Bedok Singapore,Mr,93975632
+11056,Roger Yeow,Bronze,,M,93.20,Chai Chee Singapore,Mr,91405405
+11057,Linda Ye,Silver,,F,437.40,Ubi Singapore,Ms,88676055
+11058,Anthony Sim,Bronze,,M,223.80,Bedok South Singapore,Mr,90583601
+11059,May Liu,Gold,,F,552.50,Bedok North Singapore,Ms,93553410
+11060,Andrew Alsagoff,Silver,,M,675.40,Eunos Singapore,Mr,87658495
+11061,Liam Zhang,Silver,,M,474.90,Tampines West Singapore,Mr,90962155
+11062,Russell Leung,Silver,,M,335.20,Tampines East Singapore,Mr,92750101
+11063,David Wang,Gold,,M,1164.80,Tampines Central Singapore,Mr,88340933
+11064,Gwendoline Lwin,Bronze,,F,32.80,McPherson Singapore,Ms,90667124
+11065,Louisa Yun,Bronze,,F,273.40,Upper Serangoon Singapore,Ms,88648837
+11066,Ronald Boon,Gold,,M,1286.70,Serangoon North Singapore,Mr,86267308
+11067,Patricia Hwee,Bronze,,F,137.40,Serangoon Singapore,Ms,91426377
+11068,Allan Yeung,Bronze,,M,88.10,Pungol Singapore,Mr,87460485
+11069,Adam Ji,Gold,,M,655.30,Hougang Singapore,Mr,92559747
+11070,Valerie Xiong,Bronze,,F,236.50,Ang Mo Kio Singapore,Ms,88058234
+11071,Cyril Tian,Bronze,,M,80.70,Tao Payo Singapore,Mr,86926691
+11072,Charles Siu,Silver,,M,643.00,Bishan Singapore,Mr,88945257
+11073,Aashvi Badami,Silver,,F,286.20,Bradell Singapore,Ms,88717728
+11074,Nora Lee,Silver,,F,682.40,Chou Chu Kang Singapore,Ms,92185300
+11075,Heather Lou,Silver,,F,594.80,Khatib Singapore,Ms,89239100
+11076,Heidi Lam,Silver,,F,213.90,Yishun Singapore,Ms,93252118
+11077,Oliver Xue,Bronze,,M,150.80,Yishun East Singapore,Mr,93085316
+11078,Clarence Tian,Gold,,M,1259.60,Yishun South Singapore,Mr,92818647
+11079,Jacob Eng,Gold,,M,1138.30,Punol South Singapore,Mr,89874866
+11080,Aum Doctor,Gold,,M,990.30,Admiralty Singapore,Mr,90514414
+11081,Diane Jong,Silver,,F,289.90,Woodlands Singapore  ,Ms,90921647
+11082,Lynsey Fong,Silver,,F,572.00,Yio Chu Kang Singapore,Ms,89506575
+11083,Joan Kumar,Silver,,F,220.10,Sletar Singapore,Ms,91510576
+11084,Peter Lao,Silver,,M,646.40,Mandai Singapore,Mr,93244604
+11085,Mary Pang,Gold,,F,1129.70,Bukhit Batock Singapore,Ms,88921864
+11086,Fiona Jia,Bronze,,F,229.00,Bukhit Gombak Singapore,Ms,93223756
+11087,Stuart Yi,Silver,,M,677.70,Jurong East Singapore,Mr,86595662
+11088,Gary Yong,Silver,,M,278.00,Jurong West Singapore,Mr,90655065
+11089,Patrick Qin,Silver,,M,475.00,Boon Lay Singapore,Mr,86534888
+11090,Martin Wang,Gold,,M,1001.80,Lake Side Singapore,Mr,90502824
+11091,Jennifer Chang,Bronze,,F,146.50,Chinese Garden Singapore,Ms,93580831
+11092,Ida Qiu,Bronze,,F,84.30,Bartley Singapore,Ms,92298596
+11093,Gregory Xing,Bronze,,M,43.30,Bendemeer Singapore,Mr,93823796
+11094,Sylvia Won,Bronze,,F,245.80,Newton Singapore,Ms,86272055
+11095,Mary Jiang,Bronze,,F,78.10,Orchard Singapore,Ms,88614502
+11096,Duncan Yeow,Gold,,M,614.20,Scotts Road Singapore,Mr,87029657
+11097,Kyle Mo,Bronze,,M,235.80,Grange Road Singapore,Mr,86128142
+11098,Linda Zhu,Bronze,,F,150.60,Holland Singapore,Ms,86798082
+11099,James Mei,Bronze,,M,185.60,Clementi Singapore,Mr,88267219
+11100,Gloria Kum,Gold,,F,934.20,Clementi South Singpaore,Ms,89325639
+11101,Lewis Lee,Gold,,M,796.70,Clementi North Singapore,Mr,93345503
+11102,Lily Lou,Silver,,F,346.00,Dover Singapore,Ms,93324651
+11103,Mark Tsang,Bronze,,M,150.90,Queensway Singapore,Mr,92111925
+11104,Steven Won,Gold,,M,1250.90,Queenstown Singapore,Mr,86875480
+11105,Sandra Yeung,Silver,,F,547.20,Commonwealth Singapore,Ms,88736814
+11106,Kelly Zhong,Silver,,F,587.70,Bouna Vista Singapore,Ms,87521978
+11107,Elsie Tun,Gold,,F,1217.30,South Buona Vista Singapore,Ms,91043013
+11108,Elliott Huang,Bronze,,M,181.00,NUS Singapore,Mr,89292597
+11109,Stephen Yim,Bronze,,M,94.90,West Coast Singapore,Mr,89247792
+11110,Samantha Chee,Silver,,F,533.00,Teban Garden Singapore,Ms,89295393
+11111,Hilda Koo,Silver,,F,636.70,Pasir Panjang Singapore,Ms,88791020
+11112,Andrea He,Silver,,F,221.30,Potong Pasir Singapore,Ms,89944376
+11113,Dominic Mai,Gold,,M,1247.50,Sennette Singapore,Mr,93633946
+11114,Neil Chiu,Bronze,,M,1.40,Thomson Singapore,Mr,91183739
+11115,Doreen So,Bronze,,F,206.00,Upper Thomson Singapore,Ms,87818295
+11116,Henry Mun,Bronze,,M,222.20,Farer Road Singapore,Mr,90473076
+11117,Anna Wee,Silver,,F,592.70,Adam Road Singapore,Ms,87543168
+11118,Christopher Zheng,Silver,,M,335.90,Geylang Singapore,Mr,88933986
+11119,Louis Jin,Gold,,M,1104.30,Eunos West Singapore,Mr,91795076
+11120,Neil Shu,Silver,,M,245.40,Paya Lebar Singapore,Mr,92907913
+11121,Anna Guo,Bronze,,F,44.70,Kallang Singapore,Ms,92891499
+11122,Marie Chao,Gold,,F,1179.80,Victoria St Singapore,Ms,89597022
+11123,Bryan Toh,Bronze,,M,224.10,Market St Singapore,Mr,91906731
+11124,Arnold Fan,Gold,,M,1000.00,Tanjong Pagar Singapore,Mr,88568590
+11125,Lewis Soo,Gold,,M,536.70,Raffles Singapore,Mr,91391298
+11126,Samuel Loo,Gold,,M,860.90,Dhoby Ghaut Singapore,Mr,88725960
+11127,Helen Hua,Bronze,,F,168.70,Somerset Singapore,Ms,91385727
+11128,Jill Zhou,Gold,,F,847.80,Bedok Reservoir Singapore,Ms,90028099
+11129,Norah Lao,Bronze,,F,145.10,McRicthie Singapore,Ms,86047047
+11130,Lilian Zhai,Silver,,F,645.90,Keppel Singapore,Ms,87121716
+11131,Joanna Leung,Gold,,F,634.70,Marina Singapore,Ms,93688000
+11132,Bryan Zou,Silver,,M,494.00,East Coast Singapore,Mr,89555347
+11133,Matthew Pok,Bronze,,M,113.90,Tanah Merah Singapore,Mr,92554000
+11134,Thomas Xu,Bronze,,M,265.10,One North Singapore,Mr,91543522
+11135,Francis Man,Bronze,,M,215.30,Woodleigh Singapore,Mr,91298005
+11136,Bernard Tay,Bronze,,M,216.20,Tampines Singapore,Mr,92152633
+11137,Nicholas Lou,Bronze,,M,260.80,Simei Singapore,Mr,90085676
+11138,Rhiannon Ge,Silver,,F,442.70,Pasir Ris Singapore,Ms,93398392
+11139,Suzanne Jin,Silver,,F,480.30,Loyang Singapore,Ms,86990663
+11140,Chetan Batta,Gold,,M,621.10,Bedok Singapore,Mr,86896894
+11141,Ian Jia,Bronze,,M,41.20,Chai Chee Singapore,Mr,90679571
+11142,Lionel Rao,Silver,,M,443.50,Ubi Singapore,Mr,87095212
+11143,Vincent Kwee,Gold,,M,1412.50,Bedok South Singapore,Mr,87953502
+11144,Emily Tang,Silver,,F,493.80,Bedok North Singapore,Ms,92538643
+11145,Kirsty Liew,Silver,,F,341.70,Eunos Singapore,Ms,91282616
+11146,Archibald Kwok,Gold,,M,900.40,Tampines West Singapore,Mr,88503623
+11147,Gabrielle Chua,Gold,,F,506.40,Tampines East Singapore,Ms,87111151
+11148,Gary Boon,Bronze,,M,12.30,Tampines Central Singapore,Mr,88676307
+11149,Colin Cheah,Silver,,M,305.40,McPherson Singapore,Mr,89178291
+11150,Duncan Cheang,Gold,,M,1485.20,Upper Serangoon Singapore,Mr,90496809
+11151,Philip Sim,Silver,,M,284.50,Serangoon North Singapore,Mr,91844727
+11152,Madhukar Saxena,Silver,,M,620.20,Serangoon Singapore,Mr,92420099
+11153,Winifred Seng,Bronze,,F,208.80,Pungol Singapore,Ms,88455514
+11154,Nora Wan,Bronze,,F,200.10,Hougang Singapore,Ms,90721044
+11155,Sarika Mishra,Bronze,,F,78.50,Ang Mo Kio Singapore,Ms,89185076
+11156,Karen Leong,Bronze,,F,106.60,Tao Payo Singapore,Ms,88128850
+11157,Gladys Hua,Bronze,,F,262.10,Bishan Singapore,Ms,88020592
+11158,Bradley Yun,Bronze,,M,63.40,Bradell Singapore,Mr,88444213
+11159,Eesha Dua,Silver,,F,527.50,Chou Chu Kang Singapore,Ms,89879517
+11160,Bala Sharma,Bronze,,M,289.10,Khatib Singapore,Mr,89342549
+11161,George Chen,Bronze,,M,37.60,Yishun Singapore,Mr,87077780
+11162,Lucy Zhai,Bronze,,F,166.00,Yishun East Singapore,Ms,93937100
+11163,Gillian Ho,Bronze,,F,267.40,Yishun South Singapore,Ms,87714194
+11164,Frank Loo,Gold,,M,1312.90,Punol South Singapore,Mr,90883468
+11165,Joshua Shin,Bronze,,M,281.40,Admiralty Singapore,Mr,92302620
+11166,Basil Yuen,Gold,,M,700.90,Woodlands Singapore  ,Mr,91667824
+11167,Mabel Ho,Bronze,,F,96.70,Yio Chu Kang Singapore,Ms,89113756
+11168,Joan Chen,Bronze,,F,149.50,Sletar Singapore,Ms,88846697
+11169,Sajan Golla,Silver,,M,285.20,Mandai Singapore,Mr,89999807
+11170,Mary Yuan,Silver,,F,657.00,Bukhit Batock Singapore,Ms,87714177
+11171,Diana Foong,Gold,,F,1309.10,Bukhit Gombak Singapore,Ms,91613722
+11172,Barry Liew,Gold,,M,1287.80,Jurong East Singapore,Mr,90529471
+11173,Margaret Tse,Silver,,F,582.60,Jurong West Singapore,Ms,88044461
+11174,Sylvia Gan,Bronze,,F,276.50,Boon Lay Singapore,Ms,87490923
+11175,Ross Bi,Gold,,M,710.60,Lake Side Singapore,Mr,93064203
+11176,Percy Wong,Gold,,M,1183.80,Chinese Garden Singapore,Mr,92465276
+11177,Nicola Lau,Bronze,,F,102.00,Bartley Singapore,Ms,87050814
+11178,Judith Gong,Bronze,,F,20.70,Bendemeer Singapore,Ms,92182951
+11179,Robert Wu,Bronze,,M,269.30,Newton Singapore,Mr,91006875
+11180,Harriet Tan,Bronze,,F,229.90,Orchard Singapore,Ms,86666214
+11181,Justin Qi,Gold,,M,728.60,Scotts Road Singapore,Mr,92131806
+11182,Neil Cha,Silver,,M,395.90,Grange Road Singapore,Mr,87063354
+11183,Jack Yun,Bronze,,M,244.80,Holland Singapore,Mr,88599366
+11184,Frances Hui,Gold,,F,677.20,Clementi Singapore,Ms,87713277
+11185,Sian Zhuo,Silver,,F,371.50,Clementi South Singpaore,Ms,90895377
+11186,Barbara Chee,Bronze,,F,241.50,Clementi North Singapore,Ms,88005091
+11187,Roy Mai,Silver,,M,303.50,Dover Singapore,Mr,91481605
+11188,Charulata Mehta,Gold,,M,1011.40,Queensway Singapore,Mr,91392167
+11189,James Yang,Bronze,,M,278.80,Queenstown Singapore,Mr,86764772
+11190,Frederick Ching,Bronze,,M,156.70,Commonwealth Singapore,Mr,92656392
+11191,Terry Lei,Bronze,,M,142.10,Bouna Vista Singapore,Mr,89159241
+11192,Tina Guan,Bronze,,F,192.20,South Buona Vista Singapore,Ms,93283924
+11193,Anthony Kai,Bronze,,M,111.90,NUS Singapore,Mr,93953043
+11194,Amelia Lei,Silver,,F,250.60,West Coast Singapore,Ms,91254718
+11195,William Chee,Silver,,M,343.90,Teban Garden Singapore,Mr,87077664
+11196,Deepa Jadav,Bronze,,M,24.80,Pasir Panjang Singapore,Mr,88232764
+11197,Nancy Cheang,Gold,,F,1436.70,Potong Pasir Singapore,Ms,93707996
+11198,Jean Woo,Bronze,,F,268.20,Sennette Singapore,Ms,92292023
+11199,Nigel Dong,Silver,,M,210.00,Thomson Singapore,Mr,92892839
+11200,Maureen Leong,Silver,,F,297.80,Upper Thomson Singapore,Ms,90264297
+11201,Sarah Koh,Gold,,F,1454.70,Farer Road Singapore,Ms,90681896
+11202,Amanda Poon,Bronze,,F,97.00,Adam Road Singapore,Ms,86068754
+11203,Alfred Lau,Gold,,M,973.70,Geylang Singapore,Mr,87628900
+11204,Herbert Hang,Gold,,M,662.40,Eunos West Singapore,Mr,87488429
+11205,Janet Yeow,Gold,,F,1030.20,Paya Lebar Singapore,Ms,86366976
+11206,Norman Yu,Gold,,M,613.30,Kallang Singapore,Mr,92380103
+11207,Alan Ye,Silver,,M,594.00,Victoria St Singapore,Mr,90819207
+11208,Paula Choi,Bronze,,F,242.00,Market St Singapore,Ms,86964185
+11209,Terence Ping,Bronze,,M,118.20,Tanjong Pagar Singapore,Mr,92779055
+11210,Jake Teh,Silver,,M,670.60,Raffles Singapore,Mr,90251396
+11211,Connor Lin,Gold,,M,1092.40,Dhoby Ghaut Singapore,Mr,92944388
+11212,Carolyn Sin,Bronze,,F,164.80,Somerset Singapore,Ms,86451424
+11213,Bryan Nai,Bronze,,M,172.90,Bedok Reservoir Singapore,Mr,92418149
+11214,Holly You,Silver,,F,307.20,McRicthie Singapore,Ms,89037562
+11215,Maud Mun,Silver,,F,641.30,Keppel Singapore,Ms,90338729
+11216,Evelyn Lee,Bronze,,F,40.10,Marina Singapore,Ms,89341613
+11217,Vivek Murty,Gold,,M,1196.10,East Coast Singapore,Mr,88242756
+11218,Jane Qian,Silver,,F,346.00,Tanah Merah Singapore,Ms,93186215
+11219,Albert Ngai,Gold,,M,532.60,One North Singapore,Mr,88650342
+11220,Terence Teng,Silver,,M,695.30,Woodleigh Singapore,Mr,91887553
+11221,Claude Shi,Silver,,M,562.00,Tampines Singapore,Mr,86118378
+11222,Ann Feng,Bronze,,F,162.30,Simei Singapore,Ms,89587159
+11223,Darren Wang,Bronze,,M,205.10,Pasir Ris Singapore,Mr,86923805
+11224,Hilda Tan,Silver,,F,634.50,Loyang Singapore,Ms,87472289
+11225,Peter Pak,Bronze,,M,54.80,Bedok Singapore,Mr,87248655
+11226,Sidney Kai,Gold,,M,744.30,Chai Chee Singapore,Mr,93954131
+11227,Irene Wu,Silver,,F,327.90,Ubi Singapore,Ms,93559660
+11228,Agnes Yee,Bronze,,F,45.30,Bedok South Singapore,Ms,89456104
+11229,Daniyal Mohamed,Silver,,M,561.20,Bedok North Singapore,Mr,93178312
+11230,Freda Wang,Bronze,,F,229.00,Eunos Singapore,Ms,92232124
+11231,Edith Chang,Silver,,F,225.10,Tampines West Singapore,Ms,86754745
+11232,Jeremy Wang,Silver,,M,630.10,Tampines East Singapore,Mr,86913436
+11233,Bertha Si,Bronze,,F,197.50,Tampines Central Singapore,Ms,89018383
+11234,Jill Zhan,Bronze,,F,115.70,McPherson Singapore,Ms,90333539
+11235,Betty Wee,Bronze,,F,81.00,Upper Serangoon Singapore,Ms,93193991
+11236,Barrie Yi,Bronze,,M,288.00,Serangoon North Singapore,Mr,88380583
+11237,Alec Chung,Gold,,M,805.00,Serangoon Singapore,Mr,93594313
+11238,Paul Fan,Gold,,M,1474.10,Pungol Singapore,Mr,90473977
+11239,Ekambaram Chidambaram,Gold,,M,795.50,Hougang Singapore,Mr,87574180
+11240,Alec Pang,Silver,,M,514.70,Ang Mo Kio Singapore,Mr,90053989
+11241,Hugh Peh,Gold,,M,1379.20,Tao Payo Singapore,Mr,92539550
+11242,Kate Tan,Bronze,,F,2.60,Bishan Singapore,Ms,86702990
+11243,Mary Seow,Bronze,,F,219.00,Bradell Singapore,Ms,88125312
+11244,Joan Kwee,Silver,,F,385.00,Chou Chu Kang Singapore,Ms,90806449
+11245,Catherine Pang,Bronze,,F,141.10,Khatib Singapore,Ms,86478069
+11246,Annie Gu,Bronze,,F,44.10,Yishun Singapore,Ms,86203392
+11247,Jennifer Zheng,Gold,,F,1146.40,Yishun East Singapore,Ms,93351125
+11248,Pauline Hu,Silver,,F,313.70,Yishun South Singapore,Ms,86175602
+11249,Nathan Wu,Silver,,M,510.30,Punol South Singapore,Mr,90706332
+11250,Frederick Ke,Bronze,,M,238.00,Admiralty Singapore,Mr,86375734
+11251,Nicholas Ng,Gold,,M,1222.90,Woodlands Singapore  ,Mr,89137973
+11252,Debbie Cheong,Bronze,,F,61.60,Yio Chu Kang Singapore,Ms,88148082
+11253,Alok Subramanian,Gold,,M,568.20,Sletar Singapore,Mr,93917714
+11254,Sybil Yip,Gold,,F,699.20,Mandai Singapore,Ms,92043785
+11255,Clair Qi,Bronze,,F,99.70,Bukhit Batock Singapore,Ms,91826723
+11256,Mary Chung,Bronze,,F,54.10,Bukhit Gombak Singapore,Ms,93841960
+11257,Maurice Liang,Bronze,,M,231.40,Jurong East Singapore,Mr,92396253
+11258,Helen Woon,Bronze,,F,217.60,Jurong West Singapore,Ms,87375816
+11259,Agnes Bi,Gold,,F,1189.50,Boon Lay Singapore,Ms,93966906
+11260,Louis Tai,Bronze,,M,296.70,Lake Side Singapore,Mr,87199007
+11261,Olive Ng,Bronze,,F,0.80,Chinese Garden Singapore,Ms,90583220
+11262,Tanya Qiu,Gold,,F,967.10,Bartley Singapore,Ms,87134227
+11263,Craig Koo,Gold,,M,1008.30,Bendemeer Singapore,Mr,92217232
+11264,Jemma Chui,Bronze,,F,117.20,Newton Singapore,Ms,93316111
+11265,Irene Yung,Bronze,,F,204.70,Orchard Singapore,Ms,86169365
+11266,Betty Deng,Gold,,F,713.80,Scotts Road Singapore,Ms,86854710
+11267,David Woo,Silver,,M,553.90,Grange Road Singapore,Mr,93612361
+11268,Ian Siu,Silver,,M,366.40,Holland Singapore,Mr,90796375
+11269,Kevin Zeng,Gold,,M,607.20,Clementi Singapore,Mr,92664892
+11270,Jordan Kwee,Silver,,M,255.20,Clementi South Singpaore,Mr,89038797
+11271,Anne Duan,Silver,,F,407.70,Clementi North Singapore,Ms,90341247
+11272,Gordon Chui,Silver,,M,486.40,Dover Singapore,Mr,91596031
+11273,Molly Ng,Bronze,,F,115.40,Queensway Singapore,Ms,91083772
+11274,Kathleen He,Silver,,F,622.40,Queenstown Singapore,Ms,90639494
+11275,Gerald Zhuo,Silver,,M,628.60,Commonwealth Singapore,Mr,90905741
+11276,Edward Seah,Silver,,M,299.90,Bouna Vista Singapore,Mr,91731151
+11277,Daniel Foong,Gold,,M,550.40,South Buona Vista Singapore,Mr,91087325
+11278,Phyllis Lang,Gold,,F,1207.50,NUS Singapore,Ms,93539581
+11279,Florence Cheng,Gold,,F,506.90,West Coast Singapore,Ms,92614776
+11280,Marjorie Chin,Gold,,F,1082.30,Teban Garden Singapore,Ms,92012101
+11281,Beatrice Zhang,Gold,,F,1179.80,Pasir Panjang Singapore,Ms,87232396
+11282,Muriel Lao,Bronze,,F,248.20,Potong Pasir Singapore,Ms,91070977
+11283,Marie Alsagoff,Gold,,F,1171.00,Sennette Singapore,Ms,93269544
+11284,Denise Chia,Gold,,F,1016.10,Thomson Singapore,Ms,92338571
+11285,Wendy Zhao,Gold,,F,964.70,Upper Thomson Singapore,Ms,90069486
+11286,Herbert Yee,Gold,,M,836.10,Farer Road Singapore,Mr,90003400
+11287,Graham Lai,Gold,,M,1216.70,Adam Road Singapore,Mr,91361506
+11288,Darren Nai,Bronze,,M,205.90,Geylang Singapore,Mr,87378136
+11289,Nicola Wang,Bronze,,F,193.30,Eunos West Singapore,Ms,92758198
+11290,Julie Mo,Bronze,,F,95.70,Paya Lebar Singapore,Ms,89121397
+11291,Carl Wang,Silver,,M,459.10,Kallang Singapore,Mr,90135197
+11292,Roger Png,Gold,,M,1058.10,Victoria St Singapore,Mr,88126685
+11293,Reginald Gu,Silver,,M,452.30,Market St Singapore,Mr,93354394
+11294,Gladys Chen,Bronze,,F,51.90,Tanjong Pagar Singapore,Ms,86831109
+11295,Anthony Tan,Gold,,M,1455.40,Raffles Singapore,Mr,91636712
+11296,Geraldine Kwok,Bronze,,F,114.20,Dhoby Ghaut Singapore,Ms,92897013
+11297,Harry Leong,Bronze,,M,66.40,Somerset Singapore,Mr,88408221
+11298,Lisa Ling,Bronze,,F,211.30,Bedok Reservoir Singapore,Ms,93965645
+11299,Mandy Yao,Silver,,F,603.80,McRicthie Singapore,Ms,88985439
+11300,Kevin Tang,Gold,,M,1119.20,Keppel Singapore,Mr,92644257
+11301,Samuel Liew,Bronze,,M,85.40,Marina Singapore,Mr,91517141
+11302,Jaya Yogi,Bronze,,F,120.30,East Coast Singapore,Ms,93394451
+11303,Elizabeth Shen,Gold,,F,1106.00,Tanah Merah Singapore,Ms,88150983
+11304,Rahul Chakrabarti,Silver,,M,241.30,One North Singapore,Mr,89424437
+11305,Patricia Pan,Bronze,,F,126.80,Woodleigh Singapore,Ms,92364562
+11306,Olive Quek,Gold,,F,624.10,Singapore,Ms,88567342
+11307,Ronald Mok,Gold,,M,1056.90,Singapore,Mr,93390299
+11308,Marian Yu,Silver,,F,557.30,Singapore,Ms,86237292
+11309,Veronica Naing,Silver,,F,621.30,Singapore,Ms,89555770
+11310,Danielle Sim,Gold,,F,980.30,Singapore,Ms,91516813
+11311,Melissa Yee,Gold,,F,767.30,Singapore,Ms,90516244
+11312,Jamie Hwang,Silver,,M,268.20,Singapore,Mr,88091589
+11313,Eileen Rao,Bronze,,F,131.60,Singapore,Ms,87241964
+11314,John Ting,Gold,,M,710.60,Singapore,Mr,87039852
+11315,Yvonne Kee,Gold,,F,1283.00,Singapore,Ms,90127425
+11316,Rajesh Gokhale,Gold,,M,911.30,Singapore,Mr,92831614
+11317,Caroline Woon,Gold,,F,569.10,Singapore,Ms,88776354
+11318,Rhys Teh,Bronze,,M,23.60,Singapore,Mr,89177175
+11319,Luke Yeung,Bronze,,M,200.00,Singapore,Mr,92831965
+11320,May Lin,Bronze,,F,61.60,Singapore,Ms,91183833
+11321,Christine Si,Silver,,F,458.90,Singapore,Ms,93318432
+11322,Ivy Neo,Bronze,,F,2.00,Singapore,Ms,93055732
+11323,Jordan An,Silver,,M,627.20,Singapore,Mr,90637780
+11324,Elizabeth Yuen,Bronze,,F,163.40,Singapore,Ms,90161741
+11325,Marion Zhang,Silver,,F,282.40,Singapore,Ms,92619657
+11326,Olive Shum,Bronze,,F,75.60,Singapore,Ms,93793573
+11327,Maria Yan,Bronze,,F,279.70,Singapore,Ms,86240148
+11328,Florence Heng,Silver,,F,373.80,Singapore,Ms,87995641
+11329,Douglas Peng,Silver,,M,234.50,Singapore,Mr,89005523
+11330,Frances Han,Bronze,,F,214.40,Singapore,Ms,88926949
+11331,Imogen Ren,Silver,,F,599.00,Singapore,Ms,89512445
+11332,Anthony Seet,Silver,,M,574.60,Singapore,Mr,87442670
+11333,Shannon Ng,Gold,,F,554.10,Singapore,Ms,93119050
+11334,Joseph Fok,Silver,,M,261.10,Singapore,Mr,89017389
+11335,Abdullah Hadi,Silver,,M,699.40,Singapore,Mr,91282157
+11336,June Chung,Bronze,,F,171.90,Singapore,Ms,90875470
+11337,Frank Dong,Bronze,,M,203.10,Singapore,Mr,93656332
+11338,Pamela Mao,Gold,,F,1090.80,Singapore,Ms,92187884
+11339,Kimberley Cheang,Bronze,,F,49.10,Singapore,Ms,86964933
+11340,Bilal Farhat,Silver,,M,214.30,Singapore,Mr,91646699
+11341,Hugh Bao,Gold,,M,1412.40,Singapore,Mr,89309487
+11342,Norman Law,Silver,,M,644.90,Singapore,Mr,91814243
+11343,Nila Merchant,Gold,,F,880.50,Singapore,Ms,86284937
+11344,Monica Zhang,Bronze,,F,4.20,Singapore,Ms,88633407
+11345,Lionel Sin,Bronze,,M,178.50,Singapore,Mr,89212914
+11346,Andrew Zeng,Bronze,,M,81.90,Singapore,Mr,89957040
+11347,Ethel Man,Silver,,F,560.40,Singapore,Ms,89191452
+11348,Janet Kang,Bronze,,F,74.80,Singapore,Ms,87868130
+11349,Brenda Yu,Silver,,F,237.60,Singapore,Ms,86445443
+11350,Kevin Cheung,Silver,,M,447.10,Singapore,Mr,88877908
+11351,Leslie Kwa,Bronze,,M,253.60,Singapore,Mr,91123393
+11352,Katie Mun,Bronze,,F,257.50,Singapore,Ms,92992653
+11353,James Zeng,Silver,,M,598.90,Singapore,Mr,91650025
+11354,Jack Lian,Bronze,,M,120.80,Singapore,Mr,86064869
+11355,Marina Au,Bronze,,F,194.20,Singapore,Ms,93014399
+11356,Maria Chionh,Gold,,F,511.80,Singapore,Ms,93337442
+11357,Irene Tsang,Gold,,F,1224.20,Singapore,Ms,90328264
+11358,Hannah Lan,Bronze,,F,201.20,Tampines Singapore,Ms,91543165
+11359,Edna Sim,Bronze,,F,293.70,Simei Singapore,Ms,91800913
+11360,Mavis Chng,Bronze,,F,170.60,Pasir Ris Singapore,Ms,92284929
+11361,Sylvia Xiang,Bronze,,F,125.60,Loyang Singapore,Ms,93213079
+11362,Kayleigh Zou,Gold,,F,895.90,Bedok Singapore,Ms,89464176
+11363,Michael Leow,Silver,,M,691.70,Chai Chee Singapore,Mr,92739985
+11364,Norah Chang,Bronze,,F,3.00,Ubi Singapore,Ms,87490842
+11365,Douglas Hang,Bronze,,M,40.00,Bedok South Singapore,Mr,92715520
+11366,Vincent Jain,Silver,,M,482.80,Bedok North Singapore,Mr,90729637
+11367,Barry Chua,Bronze,,M,148.40,Eunos Singapore,Mr,91359752
+11368,Kate Pang,Bronze,,F,284.60,Tampines West Singapore,Ms,93790613
+11369,Gwendoline Shang,Silver,,F,643.30,Tampines East Singapore,Ms,90851812
+11370,Helen Yang,Silver,,F,667.10,Tampines Central Singapore,Ms,92648152
+11371,Alexandra Gan,Bronze,,F,256.40,McPherson Singapore,Ms,90651895
+11372,Alexandra Deng,Gold,,F,952.30,Upper Serangoon Singapore,Ms,87359310
+11373,Anne Poh,Silver,,F,569.30,Serangoon North Singapore,Ms,91557400
+11374,Grace Phang,Silver,,F,431.50,Serangoon Singapore,Ms,89689415
+11375,Ben Tan,Silver,,M,438.60,Pungol Singapore,Mr,93370136
+11376,Gerald See,Gold,,M,825.30,Hougang Singapore,Mr,90367774
+11377,Jeffrey Kwek,Silver,,M,208.70,Ang Mo Kio Singapore,Mr,90694728
+11378,Joy Kwek,Gold,,F,687.70,Tao Payo Singapore,Ms,89266106
+11379,Margery Huang,Bronze,,F,194.80,Bishan Singapore,Ms,90876330
+11380,Chloe Lau,Bronze,,F,45.00,Bradell Singapore,Ms,90990326
+11381,Gareth Cheng,Bronze,,M,132.40,Chou Chu Kang Singapore,Mr,88892822
+11382,Daniel Hou,Bronze,,M,292.40,Khatib Singapore,Mr,93446045
+11383,Neeraj Sem,Gold,,M,1142.00,Yishun Singapore,Mr,91099030
+11384,Edna Ye,Gold,,F,745.10,Yishun East Singapore,Ms,87332991
+11385,Jeanette Leong,Gold,,F,1215.40,Yishun South Singapore,Ms,87490559
+11386,Steven Hwee,Silver,,M,309.00,Punol South Singapore,Mr,87618543
+11387,Richard Miao,Bronze,,M,128.30,Admiralty Singapore,Mr,93403970
+11388,Bridget Kwong,Bronze,,F,220.60,Woodlands Singapore  ,Ms,89802996
+11389,Jason Ye,Bronze,,M,64.20,Yio Chu Kang Singapore,Mr,93128761
+11390,Glen Ng,Bronze,,M,13.30,Sletar Singapore,Mr,91047877
+11391,Roy Tham,Gold,,M,885.80,Mandai Singapore,Mr,87071892
+11392,Henry Yeung,Bronze,,M,296.30,Bukhit Batock Singapore,Mr,89262845
+11393,Phyllis Nai,Silver,,F,530.10,Bukhit Gombak Singapore,Ms,88094760
+11394,Stephen Chen,Bronze,,M,234.00,Jurong East Singapore,Mr,93068083
+11395,Alexander Leow,Silver,,M,365.70,Jurong West Singapore,Mr,92751033
+11396,Edmund Chu,Bronze,,M,97.80,Boon Lay Singapore,Mr,88664910
+11397,Susan Mai,Bronze,,F,183.80,Lake Side Singapore,Ms,90631843
+11398,Jodie Lim,Silver,,F,632.50,Chinese Garden Singapore,Ms,86681799
+11399,Phyllis Huang,Silver,,F,506.30,Bartley Singapore,Ms,93074881
+11400,Fred Chao,Gold,,M,913.80,Bendemeer Singapore,Mr,89125237
+11401,Carol Shin,Bronze,,F,202.00,Newton Singapore,Ms,92466855
+11402,Alan Liu,Gold,,M,895.20,Orchard Singapore,Mr,93635435
+11403,Elsie Li,Bronze,,F,169.40,Scotts Road Singapore,Ms,91841634
+11404,Valerie Liang,Gold,,F,829.20,Grange Road Singapore,Ms,89538535
+11405,Nathan See,Bronze,,M,149.70,Holland Singapore,Mr,91649891
+11406,Nellie Li,Gold,,F,576.90,Clementi Singapore,Ms,87497733
+11407,Anthony Mei,Bronze,,M,30.30,Clementi South Singpaore,Mr,90946566
+11408,Audrey Chi,Gold,,F,1327.30,Clementi North Singapore,Ms,91713261
+11409,Christina Law,Silver,,F,219.50,Dover Singapore,Ms,88371179
+11410,Edward Mak,Bronze,,M,98.90,Queensway Singapore,Mr,88023718
+11411,Kenneth Teoh,Bronze,,M,23.20,Queenstown Singapore,Mr,86968613
+11412,Alan Chao,Bronze,,M,30.10,Commonwealth Singapore,Mr,91913357
+11413,Janet Loke,Bronze,,F,123.10,Bouna Vista Singapore,Ms,93444149
+11414,Phyllis Chew,Gold,,F,793.80,South Buona Vista Singapore,Ms,89608452
+11415,Wilfred Sheng,Bronze,,M,254.40,NUS Singapore,Mr,86941002
+11416,Vivienne Siu,Gold,,F,1105.70,West Coast Singapore,Ms,89588674
+11417,Vanessa Fung,Bronze,,F,27.30,Teban Garden Singapore,Ms,86637456
+11418,Terence Ong,Gold,,M,593.70,Pasir Panjang Singapore,Mr,91123811
+11419,Conor Tan,Bronze,,M,297.20,Potong Pasir Singapore,Mr,88621867
+11420,Tracey Seah,Gold,,F,788.70,Sennette Singapore,Ms,87512605
+11421,Christine Hou,Silver,,F,434.80,Thomson Singapore,Ms,91713337
+11422,Stewart Ng,Silver,,M,449.50,Upper Thomson Singapore,Mr,92826266
+11423,Lynn Huang,Gold,,F,822.00,Farer Road Singapore,Ms,90424910
+11424,Laura Han,Silver,,F,345.20,Adam Road Singapore,Ms,92736882
+11425,Chantelle Chou,Gold,,F,935.10,Geylang Singapore,Ms,88200823
+11426,Maureen Ooi,Silver,,F,402.50,Eunos West Singapore,Ms,93680536
+11427,Michelle Feng,Bronze,,F,285.50,Paya Lebar Singapore,Ms,89524216
+11428,Krish Doshi,Silver,,M,249.80,Kallang Singapore,Mr,91560264
+11429,Beth Leow,Silver,,F,370.80,Victoria St Singapore,Ms,91111948
+11430,Alex Zou,Bronze,,M,156.50,Market St Singapore,Mr,92371484
+11431,Joseph Yan,Bronze,,M,36.90,Tanjong Pagar Singapore,Mr,89053725
+11432,Adrian Sim,Bronze,,M,152.40,Raffles Singapore,Mr,89789740
+11433,Nicholas Cheong,Gold,,M,1066.40,Dhoby Ghaut Singapore,Mr,89895772
+11434,Grace Lau,Silver,,F,553.20,Somerset Singapore,Ms,92227523
+11435,Lucy Wu,Bronze,,F,150.40,Bedok Reservoir Singapore,Ms,92505657
+11436,Donald Yap,Bronze,,M,297.20,McRicthie Singapore,Mr,89135789
+11437,Robert Che,Bronze,,M,170.70,Keppel Singapore,Mr,91029978
+11438,Leonard Xiang,Gold,,M,1240.20,Marina Singapore,Mr,92327500
+11439,Paula Yong,Silver,,F,642.30,East Coast Singapore,Ms,90878218
+11440,Esther Cui,Gold,,F,1478.60,Tanah Merah Singapore,Ms,90346134
+11441,Doreen Ou,Silver,,F,444.60,One North Singapore,Ms,90095587
+11442,Rebecca Cao,Gold,,F,520.30,Woodleigh Singapore,Ms,93583407
+11443,William Kwan,Bronze,,M,106.90,Tampines Singapore,Mr,86512890
+11444,Miriam Guo,Gold,,F,657.80,Simei Singapore,Ms,92262318
+11445,Edward Sze,Gold,,M,1116.00,Pasir Ris Singapore,Mr,91946540
+11446,Frank Jie,Silver,,M,601.00,Loyang Singapore,Mr,89024701
+11447,Clifford Sato,Bronze,,M,169.50,Bedok Singapore,Mr,92627745
+11448,Edith Quan,Silver,,F,530.40,Chai Chee Singapore,Ms,88607800
+11449,Keith Zhan,Silver,,M,235.30,Ubi Singapore,Mr,92032667
+11450,Wendy See,Bronze,,F,146.60,Bedok South Singapore,Ms,88862884
+11451,Liam Teh,Gold,,M,1402.90,Bedok North Singapore,Mr,92819845
+11452,Chandra Gupta,Bronze,,M,227.80,Eunos Singapore,Mr,86617039
+11453,Norah Peng,Silver,,F,215.10,Tampines West Singapore,Ms,89753992
+11454,Robyn Ong,Gold,,F,1056.90,Tampines East Singapore,Ms,89749212
+11455,Robert Li,Bronze,,M,136.00,Tampines Central Singapore,Mr,87540604
+11456,Rose Aung,Silver,,F,224.60,McPherson Singapore,Ms,89648320
+11457,Dora Mo,Bronze,,F,172.80,Upper Serangoon Singapore,Ms,88307673
+11458,Angela Wu,Gold,,F,891.60,Serangoon North Singapore,Ms,89380548
+11459,Leslie Peh,Gold,,M,607.70,Serangoon Singapore,Mr,88529173
+11460,Emma Lim,Silver,,F,260.90,Pungol Singapore,Ms,90098537
+11461,Desmond Leng,Silver,,M,662.90,Hougang Singapore,Mr,88796959
+11462,Doreen Han,Bronze,,F,152.20,Ang Mo Kio Singapore,Ms,88125130
+11463,Sharon Chai,Gold,,F,1390.20,Tao Payo Singapore,Ms,87888425
+11464,Bridget Chang,Bronze,,F,93.90,Bishan Singapore,Ms,90456358
+11465,Gerard Chen,Gold,,M,703.90,Bradell Singapore,Mr,90723051
+11466,Stuart Kan,Bronze,,M,17.10,Chou Chu Kang Singapore,Mr,89695512
+11467,Rebekah Tee,Silver,,F,204.30,Khatib Singapore,Ms,89900048
+11468,Aaron Qi,Bronze,,M,4.90,Yishun Singapore,Mr,90905915
+11469,Kayleigh Wu,Gold,,F,1222.40,Yishun East Singapore,Ms,90987380
+11470,Marie Poh,Silver,,F,622.70,Yishun South Singapore,Ms,89407963
+11471,Joy Koo,Silver,,F,434.70,Punol South Singapore,Ms,86512585
+11472,Gregory Deng,Bronze,,M,109.30,Admiralty Singapore,Mr,92288658
+11473,Catherine Ee,Gold,,F,547.70,Woodlands Singapore  ,Ms,93535727
+11474,Frederick Lim,Silver,,M,526.80,Yio Chu Kang Singapore,Mr,89930157
+11475,Kiran Sahni,Bronze,,M,77.00,Sletar Singapore,Mr,89772352
+11476,Lynda Ling,Gold,,F,501.20,Mandai Singapore,Ms,93661441
+11477,Ashley Sim,Bronze,,M,201.30,Bukhit Batock Singapore,Mr,88112065
+11478,Miriam Liu,Gold,,F,1375.90,Bukhit Gombak Singapore,Ms,92444069
+11479,Claude Au,Gold,,M,1260.60,Jurong East Singapore,Mr,92842697
+11480,George Sim,Silver,,M,530.00,Jurong West Singapore,Mr,90409246
+11481,Scott Ying,Bronze,,M,25.80,Boon Lay Singapore,Mr,93387917
+11482,John Yang,Gold,,M,1187.60,Lake Side Singapore,Mr,91249414
+11483,Frank Chia,Gold,,M,1206.30,Chinese Garden Singapore,Mr,93707880
+11484,Daniel Lim,Silver,,M,446.50,Bartley Singapore,Mr,89190131
+11485,John Chan,Bronze,,M,163.10,Bendemeer Singapore,Mr,89471477
+11486,Graham Ming,Bronze,,M,255.60,Newton Singapore,Mr,89433152
+11487,Eileen Pang,Gold,,F,1438.40,Orchard Singapore,Ms,86092716
+11488,Fatima Afzal,Bronze,,F,56.60,Scotts Road Singapore,Ms,86848129
+11489,Jamie Zhang,Bronze,,M,255.00,Grange Road Singapore,Mr,89649536
+11490,Nicholas Lee,Silver,,M,272.20,Holland Singapore,Mr,87266552
+11491,Joseph Chang,Silver,,M,512.80,Clementi Singapore,Mr,92238691
+11492,James Ni,Silver,,M,602.40,Clementi South Singpaore,Mr,93500557
+11493,Tracy Fang,Silver,,F,267.30,Clementi North Singapore,Ms,89031220
+11494,Rosemary Teoh,Bronze,,F,92.10,Dover Singapore,Ms,86291255
+11495,Margaret Wang,Bronze,,F,111.20,Queensway Singapore,Ms,93723341
+11496,Alan Oo,Bronze,,M,287.50,Queenstown Singapore,Mr,93448287
+11497,Saumya Divan,Silver,,F,275.00,Commonwealth Singapore,Ms,89680855
+11498,Faizia Abdullah,Silver,,F,314.50,Bouna Vista Singapore,Ms,87322403
+11499,Deborah Shen,Bronze,,F,25.10,South Buona Vista Singapore,Ms,91316418
+11500,Eva Jang,Gold,,F,857.10,NUS Singapore,Ms,87182878
+11501,Edwin Naing,Gold,,M,1024.60,West Coast Singapore,Mr,90910609
+11502,Joy Hu,Bronze,,F,161.90,Teban Garden Singapore,Ms,93773904
+11503,Cyril Chang,Bronze,,M,148.50,Pasir Panjang Singapore,Mr,88783780
+11504,Jade Tan,Gold,,F,1060.50,Potong Pasir Singapore,Ms,91283694
+11505,Gregory Sui,Bronze,,M,8.90,Sennette Singapore,Mr,87140466
+11506,Nicola Soh,Gold,,F,1226.30,Thomson Singapore,Ms,91248704
+11507,Melvyn Yap,Silver,,M,529.10,Upper Thomson Singapore,Mr,87083918
+11508,Mavis Mok,Silver,,F,394.40,Farer Road Singapore,Ms,93643423
+11509,Martin Poh,Bronze,,M,161.50,Adam Road Singapore,Mr,92230279
+11510,Tarik Qadir,Gold,,F,1101.80,Geylang Singapore,Ms,88099999
+11511,Phillip Guan,Silver,,M,606.90,Eunos West Singapore,Mr,88181161
+11512,Gregory Chang,Gold,,M,625.30,Paya Lebar Singapore,Mr,93053834
+11513,Kathryn Kang,Bronze,,F,113.90,Kallang Singapore,Ms,87418643
+11514,Maria Yim,Silver,,F,403.50,Victoria St Singapore,Ms,92719033
+11515,Chloe Ke,Gold,,F,1136.60,Market St Singapore,Ms,90405238
+11516,Prema Rao,Bronze,,F,275.30,Tanjong Pagar Singapore,Ms,88269362
+11517,Laurence Yong,Gold,,M,1254.30,Raffles Singapore,Mr,89269594
+11518,Zain Hassan,Silver,,M,433.40,Dhoby Ghaut Singapore,Mr,88194840
+11519,Allan Foo,Bronze,,M,257.80,Somerset Singapore,Mr,90442084
+11520,Lavanya Yohannan,Silver,,F,473.00,Bedok Reservoir Singapore,Ms,90568341
+11521,Vedant Murthy,Bronze,,M,66.60,McRicthie Singapore,Mr,86331540
+11522,John Jong,Bronze,,M,185.40,Keppel Singapore,Mr,88605563
+11523,Harry Toh,Silver,,M,332.20,Marina Singapore,Mr,89278674
+11524,Catherine Ooi,Bronze,,F,202.10,East Coast Singapore,Ms,93557083
+11525,Kiyana Goel,Bronze,,F,186.80,Tanah Merah Singapore,Ms,88881078
+11526,Naomi Hwang,Silver,,F,286.30,One North Singapore,Ms,86439963
+11527,Antony Lam,Gold,,M,631.30,Woodleigh Singapore,Mr,88178969
+11528,June Guo,Gold,,F,779.50,Tampines Singapore,Ms,91438263
+11529,Keith Cheong,Bronze,,M,167.90,Simei Singapore,Mr,93337307
+11530,Hilda Cha,Bronze,,F,142.10,Pasir Ris Singapore,Ms,91029487
+11531,Ruby Tay,Silver,,F,696.80,Loyang Singapore,Ms,90314521
+11532,Roger Yu,Gold,,M,1043.50,Bedok Singapore,Mr,88798998
+11533,Samesh Mital,Bronze,,M,29.20,Chai Chee Singapore,Mr,87130096
+11534,Peter Ooi,Gold,,M,1402.60,Ubi Singapore,Mr,87915948
+11535,Valerie Ban,Gold,,F,707.00,Bedok South Singapore,Ms,93520394
+11536,Abigail See,Bronze,,F,171.30,Bedok North Singapore,Ms,93493157
+11537,Carolyn Su,Silver,,F,291.10,Eunos Singapore,Ms,92504286
+11538,Beverley Tay,Bronze,,F,177.00,Tampines West Singapore,Ms,93457068
+11539,Peter Loh,Silver,,M,227.40,Tampines East Singapore,Mr,89038699
+11540,Peggy Ling,Gold,,F,1218.20,Tampines Central Singapore,Ms,86234287
+11541,Ronald Teo,Silver,,M,670.60,McPherson Singapore,Mr,86865255
+11542,Alexander Tanaka,Silver,,M,620.60,Upper Serangoon Singapore,Mr,93685449
+11543,John Cai,Bronze,,M,53.80,Serangoon North Singapore,Mr,88813703
+11544,Roland Wee,Gold,,M,595.90,Serangoon Singapore,Mr,90121933
+11545,William Lim,Gold,,M,1188.90,Pungol Singapore,Mr,89822554
+11546,Damian Man,Silver,,M,448.80,Hougang Singapore,Mr,88344651
+11547,Wayne Kuang,Silver,,M,410.40,Ang Mo Kio Singapore,Mr,88500114
+11548,Alec Yi,Silver,,M,228.70,Tao Payo Singapore,Mr,92356442
+11549,Nikhil Sen,Silver,,M,275.00,Bishan Singapore,Mr,90346957
+11550,Steven Khoo,Silver,,M,271.70,Bradell Singapore,Mr,87264656
+11551,David Li,Silver,,M,463.00,Chou Chu Kang Singapore,Mr,92469619
+11552,Lavanya Gola,Gold,,F,910.50,Khatib Singapore,Ms,91379880
+11553,Thomas Cheng,Silver,,M,459.70,Yishun Singapore,Mr,88954422
+11554,Ruby Ling,Bronze,,F,138.70,Yishun East Singapore,Ms,93190173
+11555,Robin Choi,Gold,,M,1381.80,Yishun South Singapore,Mr,89472322
+11556,Phillip Luo,Bronze,,M,109.80,Punol South Singapore,Mr,90618069
+11557,Richard Wu,Bronze,,M,140.40,Admiralty Singapore,Mr,90157886
+11558,Marilyn Mak,Silver,,F,563.90,Woodlands Singapore  ,Ms,87661409
+11559,Gareth Liew,Gold,,M,1104.20,Yio Chu Kang Singapore,Mr,93443431
+11560,Ian Sin,Bronze,,M,158.00,Sletar Singapore,Mr,90094209
+11561,Freda Teng,Bronze,,F,104.70,Mandai Singapore,Ms,91882482
+11562,Janet Yong,Gold,,F,629.30,Bukhit Batock Singapore,Ms,86380959
+11563,Jenna Kwong,Gold,,F,1102.70,Bukhit Gombak Singapore,Ms,92289595
+11564,Amy Zhong,Silver,,F,606.60,Jurong East Singapore,Ms,91636120
+11565,Janet Ni,Bronze,,F,74.70,Jurong West Singapore,Ms,90856095
+11566,Derek Heng,Gold,,M,1226.70,Boon Lay Singapore,Mr,89584869
+11567,Patricia So,Bronze,,F,254.40,Lake Side Singapore,Ms,86525546
+11568,Wayne Gu,Bronze,,M,12.70,Chinese Garden Singapore,Mr,91848487
+11569,Lionel Jung,Silver,,M,572.40,Bartley Singapore,Mr,91749292
+11570,Graham Tang,Gold,,M,680.70,Bendemeer Singapore,Mr,90415321
+11571,Bryan Yuan,Bronze,,M,40.80,Newton Singapore,Mr,88693666
+11572,Charles Sun,Silver,,M,676.70,Orchard Singapore,Mr,88359887
+11573,Diane Seet,Silver,,F,325.60,Scotts Road Singapore,Ms,92638956
+11574,Sidney Yuan,Gold,,M,965.80,Grange Road Singapore,Mr,88354252
+11575,Maria Zhai,Silver,,F,671.20,Holland Singapore,Ms,86530606
+11576,June Ou,Gold,,F,1113.20,Clementi Singapore,Ms,88831601
+11577,Beryl Song,Bronze,,F,29.50,Clementi South Singpaore,Ms,88096245
+11578,Veer Goel,Bronze,,M,84.60,Clementi North Singapore,Mr,93562686
+11579,Naeem Khatib,Bronze,,M,270.70,Dover Singapore,Mr,87463027
+11580,Melanie Zeng,Silver,,F,457.80,Queensway Singapore,Ms,90910817
+11581,Danielle Qian,Silver,,F,533.80,Queenstown Singapore,Ms,89697135
+11582,Lucy Ng,Bronze,,F,280.20,Commonwealth Singapore,Ms,87901880
+11583,Parin Dubey,Silver,,M,386.30,Bouna Vista Singapore,Mr,87971605
+11584,Jeffrey Wang,Bronze,,M,225.90,South Buona Vista Singapore,Mr,92282959
+11585,Lesley Loh,Bronze,,F,177.60,NUS Singapore,Ms,86406726
+11586,Jayne Weng,Bronze,,F,95.20,West Coast Singapore,Ms,86159421
+11587,Gail Ma,Bronze,,F,194.40,Teban Garden Singapore,Ms,91067432
+11588,Wayne Han,Bronze,,M,279.40,Pasir Panjang Singapore,Mr,91267861
+11589,Anil Batra,Silver,,M,632.80,Potong Pasir Singapore,Mr,87954318
+11590,Rubeina Bari,Gold,,F,1360.80,Sennette Singapore,Ms,88247146
+11591,Julie Lai,Silver,,F,596.00,Thomson Singapore,Ms,88143820
+11592,Rosemary Shen,Bronze,,F,158.50,Upper Thomson Singapore,Ms,91154242
+11593,Craig Qian,Bronze,,M,48.20,Farer Road Singapore,Mr,92165687
+11594,Katherine Wang,Gold,,F,1455.10,Adam Road Singapore,Ms,88313519
+11595,Catherine Lau,Bronze,,F,296.50,Geylang Singapore,Ms,91211372
+11596,Glynis Chu,Gold,,F,641.60,Eunos West Singapore,Ms,87902513
+11597,Brenda Ma,Bronze,,F,58.60,Paya Lebar Singapore,Ms,93259687
+11598,Audrey Choy,Bronze,,F,234.20,Kallang Singapore,Ms,89043182
+11599,Hazel Ngai,Gold,,F,1103.80,Victoria St Singapore,Ms,90455555
+11600,George Chng,Bronze,,M,168.10,Market St Singapore,Mr,89553536
+11601,Donald Kum,Bronze,,M,223.20,Tanjong Pagar Singapore,Mr,91875704
+11602,Molly Tang,Bronze,,F,208.50,Raffles Singapore,Ms,93787166
+11603,George Chong,Silver,,M,468.60,Dhoby Ghaut Singapore,Mr,93701626
+11604,Leslie Poh,Gold,,M,1338.40,Somerset Singapore,Mr,90983970
+11605,Thomas Cui,Silver,,M,484.70,Bedok Reservoir Singapore,Mr,87454655
+11606,Vera Lau,Silver,,F,488.50,McRicthie Singapore,Ms,90747970
+11607,Ross Hou,Gold,,M,705.10,Keppel Singapore,Mr,87026990
+11608,Kareena Dube,Gold,,F,929.70,Marina Singapore,Ms,89867792
+11609,Geoffrey Qian,Bronze,,M,179.70,East Coast Singapore,Mr,90835949
+11610,Henry Fang,Silver,,M,502.60,Tanah Merah Singapore,Mr,87580235
+11611,Doris Thia,Silver,,F,508.00,One North Singapore,Ms,86084378
+11612,Saumya Divan,Gold,,F,981.80,Woodleigh Singapore,Ms,89024723
+11613,Michael Teo,Silver,,M,214.50,Tampines Singapore,Mr,91310550
+11614,Michelle Chin,Silver,,F,691.20,Simei Singapore,Ms,86152282
+11615,Hazel Min,Gold,,F,1114.80,Pasir Ris Singapore,Ms,86401776
+11616,Marcus Tan,Bronze,,M,67.80,Loyang Singapore,Mr,91159075
+11617,Julia Choy,Bronze,,F,102.70,Bedok Singapore,Ms,90655268
+11618,Mavis Yuan,Bronze,,F,124.80,Chai Chee Singapore,Ms,89690399
+11619,Audrey Wen,Silver,,F,637.90,Ubi Singapore,Ms,91021043
+11620,Glynis Ding,Gold,,F,752.20,Bedok South Singapore,Ms,87045266
+11621,Joan Pong,Silver,,F,323.00,Bedok North Singapore,Ms,87394239
+11622,Lindsay Man,Bronze,,F,30.80,Eunos Singapore,Ms,93847948
+11623,Margaret Chin,Bronze,,F,175.60,Tampines West Singapore,Ms,88848764
+11624,Kenneth Won,Silver,,M,251.90,Tampines East Singapore,Mr,86647080
+11625,Maureen Teo,Bronze,,F,232.80,Tampines Central Singapore,Ms,86625885
+11626,Maud Mu,Bronze,,F,142.50,McPherson Singapore,Ms,91395961
+11627,Lewis Chen,Bronze,,M,210.40,Upper Serangoon Singapore,Mr,86095766
+11628,Desmond Lim,Silver,,M,491.30,Serangoon North Singapore,Mr,92439990
+11629,Claire ,Gold,,F,871.00,Serangoon Singapore,Ms,92418850
+11630,Vivienne Kumar,Bronze,,F,223.70,Pungol Singapore,Ms,90593256
+11631,Millicent Li,Bronze,,F,158.60,Hougang Singapore,Ms,86223214
+11632,Emily Ban,Silver,,F,699.00,Ang Mo Kio Singapore,Ms,87845834
+11633,Kate Fok,Gold,,F,1171.50,Tao Payo Singapore,Ms,92006585
+11634,Russell Lew,Silver,,M,499.80,Bishan Singapore,Mr,92124100
+11635,Yasmin Chng,Bronze,,F,24.40,Bradell Singapore,Ms,88403450
+11636,Edward Nai,Bronze,,M,55.70,Chou Chu Kang Singapore,Mr,91368147
+11637,Gillian Nai,Bronze,,F,244.90,Khatib Singapore,Ms,88594954
+11638,Dawn Rao,Bronze,,F,255.60,Yishun Singapore,Ms,89562094
+11639,Stephanie Tang,Bronze,,F,52.90,Yishun East Singapore,Ms,87148083
+11640,Oliver Wang,Bronze,,M,80.60,Yishun South Singapore,Mr,90773531
+11641,Samuel Han,Gold,,M,1107.10,Punol South Singapore,Mr,92408308
+11642,Stella Chua,Bronze,,F,298.80,Admiralty Singapore,Ms,91030516
+11643,Joseph Cheng,Bronze,,M,108.40,Woodlands Singapore  ,Mr,90438143
+11644,Owen Zhang,Bronze,,M,215.00,Yio Chu Kang Singapore,Mr,91628458
+11645,Clara Gong,Gold,,F,1171.40,Sletar Singapore,Ms,93603497
+11646,Asad Kazmi,Gold,,M,1264.80,Mandai Singapore,Mr,86564405
+11647,Christopher Pang,Silver,,M,278.30,Bukhit Batock Singapore,Mr,91768720
+11648,Debra Xiao,Gold,,F,1249.60,Bukhit Gombak Singapore,Ms,89972473
+11649,Yvonne Pang,Silver,,F,275.80,Jurong East Singapore,Ms,88440323
+11650,Robin Yeoh,Bronze,,M,50.30,Jurong West Singapore,Mr,86539779
+11651,Andrew Kwek,Bronze,,M,230.80,Boon Lay Singapore,Mr,88910081
+11652,Josephine Ang,Gold,,F,1498.00,Lake Side Singapore,Ms,89322085
+11653,David Kee,Bronze,,M,226.80,Chinese Garden Singapore,Mr,91986898
+11654,Jeanette Quan,Silver,,F,315.00,Bartley Singapore,Ms,92120804
+11655,William Chen,Bronze,,M,291.30,Bendemeer Singapore,Mr,92432908
+11656,Joanne Png,Gold,,F,896.10,Newton Singapore,Ms,89152705
+11657,Maria Gan,Bronze,,F,57.80,Orchard Singapore,Ms,86834856
+11658,Monica Ku,Silver,,F,466.00,Scotts Road Singapore,Ms,86514398
+11659,Ernest Lew,Bronze,,M,235.00,Grange Road Singapore,Mr,87691446
+11660,Marie Soe,Silver,,F,542.20,Holland Singapore,Ms,87770982
+11661,Irene Ding,Bronze,,F,245.70,Clementi Singapore,Ms,88810680
+11662,Samay Mistry,Bronze,,M,219.20,Clementi South Singpaore,Mr,86123796
+11663,Ravi Menon,Silver,,M,543.90,Clementi North Singapore,Mr,92415491
+11664,Marlene Hwee,Silver,,F,541.60,Dover Singapore,Ms,91219864
+11665,Alice Seet,Gold,,F,850.70,Queensway Singapore,Ms,87064707
+11666,Joan Lin,Bronze,,F,297.50,Queenstown Singapore,Ms,89175082
+11667,Barry Lai,Gold,,M,1461.00,Commonwealth Singapore,Mr,89208911
+11668,Penelope Zhao,Gold,,F,605.60,Bouna Vista Singapore,Ms,93362400
+11669,Trevor Zeng,Bronze,,M,266.20,South Buona Vista Singapore,Mr,91308764
+11670,Josephine Chi,Silver,,F,444.80,NUS Singapore,Ms,86975913
+11671,Neil Ye,Silver,,M,236.60,West Coast Singapore,Mr,87082751
+11672,Mavis Miao,Bronze,,F,135.60,Teban Garden Singapore,Ms,89669778
+11673,Shirley Lu,Silver,,F,205.50,Pasir Panjang Singapore,Ms,88191556
+11674,Dale Ni,Silver,,M,403.20,Potong Pasir Singapore,Mr,93801444
+11675,Raymond Mok,Bronze,,M,224.30,Sennette Singapore,Mr,91097541
+11676,George Eng,Silver,,M,614.40,Thomson Singapore,Mr,89198443
+11677,Timothy Lui,Silver,,M,308.10,Upper Thomson Singapore,Mr,87026847
+11678,John Yue,Silver,,M,589.00,Farer Road Singapore,Mr,90768614
+11679,Josh Chung,Silver,,M,204.60,Adam Road Singapore,Mr,91432929
+11680,Gerald Kwan,Silver,,M,421.50,Geylang Singapore,Mr,87361906
+11681,Stuart Ko,Bronze,,M,122.60,Eunos West Singapore,Mr,90210338
+11682,Donald Cheng,Gold,,M,892.00,Paya Lebar Singapore,Mr,93170789
+11683,Monica Koh,Silver,,F,593.90,Kallang Singapore,Ms,87330689
+11684,Declan Tan,Bronze,,M,249.00,Victoria St Singapore,Mr,93015471
+11685,Elizabeth Luo,Silver,,F,499.50,Market St Singapore,Ms,93605143
+11686,Adrian Yee,Gold,,M,990.10,Tanjong Pagar Singapore,Mr,87446090
+11687,Howard Pan,Silver,,M,536.80,Raffles Singapore,Mr,93539682
+11688,Hari Bedi,Gold,,M,674.10,Dhoby Ghaut Singapore,Mr,91816946
+11689,John Tan,Gold,,M,585.50,Somerset Singapore,Mr,89589473
+11690,Lewis Sim,Bronze,,M,144.70,Bedok Reservoir Singapore,Mr,92399891
+11691,Mary Fang,Gold,,F,797.00,McRicthie Singapore,Ms,91725151
+11692,Beverley Wen,Silver,,F,264.30,Keppel Singapore,Ms,91124987
+11693,Edna Jing,Silver,,F,581.20,Marina Singapore,Ms,86289463
+11694,Carl Chi,Silver,,M,458.00,East Coast Singapore,Mr,92220550
+11695,Marjorie Ban,Gold,,F,1048.80,Tanah Merah Singapore,Ms,86947126
+11696,Clara Shang,Silver,,F,628.90,One North Singapore,Ms,89873241
+11697,Enid Hong,Bronze,,F,91.30,Woodleigh Singapore,Ms,87478654
+11698,Cyril Hao,Silver,,M,379.80,Singapore,Mr,91704536
+11699,Bethany Han,Bronze,,F,240.40,Singapore,Ms,91299324
+11700,Georgina Eng,Silver,,F,306.20,Singapore,Ms,91301755
+11701,Molly Fong,Bronze,,F,49.50,Singapore,Ms,92642957
+11702,Alfred Fang,Gold,,M,1179.50,Singapore,Mr,90019530
+11703,Satya Dixit,Bronze,,F,57.70,Singapore,Ms,91440030
+11704,Stanley Sin,Silver,,M,525.60,Singapore,Mr,87460975
+11705,Ryan Han,Gold,,M,1393.40,Singapore,Mr,91959310
+11706,Leslie Meng,Bronze,,M,91.40,Singapore,Mr,90362535
+11707,Barry Jie,Bronze,,M,229.20,Singapore,Mr,92190227
+11708,Trevor Weng,Bronze,,M,269.10,Singapore,Mr,93423258
+11709,Margery Zhu,Bronze,,F,95.60,Singapore,Ms,89873783
+11710,Kenneth Wei,Gold,,M,919.60,Singapore,Mr,91082484
+11711,Ashley So,Bronze,,M,164.30,Singapore,Mr,88943193
+11712,Colin Yin,Silver,,M,226.60,Singapore,Mr,91888769
+11713,Ian Chan,Silver,,M,548.10,Singapore,Mr,92400336
+11714,Peggy Tanaka,Silver,,F,511.50,Singapore,Ms,86363610
+11715,Simon Lim,Bronze,,M,8.10,Singapore,Mr,89248558
+11716,Phillip Dai,Gold,,M,509.80,Singapore,Mr,90735259
+11717,Nellie Sun,Silver,,F,536.30,Singapore,Ms,91375822
+11718,Damien So,Gold,,M,860.40,Singapore,Mr,91991146
+11719,Cyril Chang,Silver,,F,400.20,Singapore,Ms,91603007
+11720,Hilary Ching,Bronze,,F,232.80,Singapore,Ms,92397267
+11721,Kimaya Goda,Bronze,,F,83.40,Singapore,Ms,87988268
+11722,Nathan Cheng,Gold,,M,905.40,Singapore,Mr,93680157
+11723,Amanda Wang,Silver,,F,506.80,Singapore,Ms,93995243
+11724,Dennis Seo,Gold,,M,1323.10,Singapore,Mr,86213292
+11725,Tony Wang,Gold,,M,745.70,Singapore,Mr,86087401
+11726,Moksh Dua,Bronze,,M,5.50,Singapore,Mr,86867138
+11727,Janet An,Bronze,,F,262.20,Singapore,Ms,88583880
+11728,Audrey Wu,Silver,,F,337.30,Singapore,Ms,91998892
+11729,Agnes Ngai,Bronze,,F,174.20,Singapore,Ms,87952173
+11730,Robin Zhuo,Bronze,,M,4.80,Singapore,Mr,87364534
+11731,Jacqueline Ge,Gold,,F,840.00,Singapore,Ms,92666724
+11732,Julia Lang,Bronze,,F,38.50,Singapore,Ms,91066448
+11733,Patricia Teh,Gold,,F,592.10,Singapore,Ms,90756128
+11734,Simon Cheung,Silver,,M,293.50,Singapore,Mr,89110914
+11735,Nigel Neo,Bronze,,M,65.00,Singapore,Mr,93090237
+11736,Bruce Jia,Bronze,,M,281.10,Singapore,Mr,87410788
+11737,Owen Kumar,Bronze,,M,67.30,Singapore,Mr,88097035
+11738,Richard Koh,Silver,,M,269.30,Singapore,Mr,88576370
+11739,Arthur Sim,Gold,,M,1267.30,Singapore,Mr,92727980
+11740,Antony Lim,Gold,,M,970.60,Singapore,Mr,88805797
+11741,Trevor Zhang,Silver,,M,236.50,Singapore,Mr,89925835
+11742,Wendy Soon,Gold,,F,1259.90,Singapore,Ms,93253355
+11743,Sarah Yeow,Silver,,F,599.50,Singapore,Ms,87650474
+11744,Sarah Pan,Bronze,,F,258.70,Singapore,Ms,89271420
+11745,Dale Zhong,Gold,,M,639.80,Singapore,Mr,88160676
+11746,Philip Seng,Bronze,,M,196.40,Singapore,Mr,86860963
+11747,Douglas Ho,Bronze,,M,208.70,Singapore,Mr,88885806
+11748,Francis Hong,Gold,,M,1307.40,Singapore,Mr,86302633
+11749,Muriel Han,Silver,,F,643.90,Singapore,Ms,90296583
+11750,Anthony Kan,Gold,,M,1051.90,Singapore,Mr,92982047
+11751,Penelope Jie,Gold,,F,663.20,Singapore,Ms,90932985
+11752,Mavis Lou,Gold,,F,1409.70,Singapore,Ms,92102525
+11753,Catherine Lian,Bronze,,F,106.20,Singapore,Ms,89443515
+11754,Colin Lui,Gold,,M,1091.60,Singapore,Mr,91862831
+11755,Kerry Cheung,Gold,,F,1409.30,Singapore,Ms,93178484
+11756,Kimberley Zhang,Silver,,F,336.40,Singapore,Ms,90123139
+11757,Mehar Baig,Bronze,,F,226.50,Singapore,Ms,87068376
+11758,Caroline Sim,Gold,,F,505.30,Singapore,Ms,86208844
+11759,Hollie Kwee,Bronze,,F,69.70,Singapore,Ms,89760924
+11760,Susan Shi,Silver,,F,434.40,Singapore,Ms,87352707
+11761,Doris Ching,Bronze,,F,64.60,Singapore,Ms,88904941
+11762,Sarah Li,Silver,,F,293.70,Singapore,Ms,91960650
+11763,Ann Qi,Silver,,F,372.90,Singapore,Ms,87785100
+11764,Alice Boon,Gold,,F,1456.50,Singapore,Ms,86027013
+11765,Dominic Liu,Bronze,,M,202.60,Singapore,Mr,91319243
+11766,Ivan Soh,Silver,,M,283.00,Singapore,Mr,92395774
+11767,Marina Cheah,Bronze,,F,49.30,Singapore,Ms,87473065
+11768,Joe Jain,Gold,,M,1038.20,Singapore,Mr,86779812
+11769,Rachel Chong,Silver,,F,289.50,Singapore,Ms,88643691
+11770,Alexander Bao,Bronze,,M,239.60,Singapore,Mr,89344227
+11771,Arjun Dixit,Gold,,M,832.60,Singapore,Mr,91575174
+11772,Josephine Weng,Silver,,F,610.10,Singapore,Ms,88226378
+11773,Kim Kan,Bronze,,F,284.40,Singapore,Ms,88966688
+11774,Bradley Ow,Bronze,,M,82.80,Singapore,Mr,86045148
+11775,Diana Tham,Gold,,F,899.20,Singapore,Ms,93933859
+11776,Carole Chang,Silver,,F,210.80,Singapore,Ms,92839925
+11777,Ernest Chew,Bronze,,M,44.60,Singapore,Mr,89979013
+11778,Hilary Koh,Bronze,,F,173.50,Singapore,Ms,92311975
+11779,Bertha Wang,Silver,,F,334.70,Singapore,Ms,91948614
+11780,Philip Yip,Bronze,,M,247.00,Singapore,Mr,86360885
+11781,Violet Seah,Bronze,,F,250.60,Singapore,Ms,93329636
+11782,Angela Kwon,Silver,,F,529.50,Singapore,Ms,90301148
+11783,Ida Ng,Silver,,F,695.10,Singapore,Ms,93565376
+11784,Garry Lao,Bronze,,M,118.00,Singapore,Mr,93966476
+11785,Jeremy Yung,Bronze,,M,153.20,Singapore,Mr,87316761
+11786,Patricia Chow,Silver,,F,279.50,Singapore,Ms,86563111
+11787,Satya Misra,Bronze,,F,157.20,Singapore,Ms,90681292
+11788,Robert Lai,Silver,,M,638.80,Singapore,Mr,93148180
+11789,Colin Khoo,Bronze,,M,128.70,Singapore,Mr,91215160
+11790,Natasha Hua,Bronze,,F,156.40,Singapore,Ms,90747805
+11791,Lydia Poon,Bronze,,F,87.10,Singapore,Ms,89633487
+11792,Meera Bahri,Silver,,F,504.30,Singapore,Ms,87764391
+11793,Donald Hui,Bronze,,M,263.30,Singapore,Mr,91297046
+11794,Freda Cao,Silver,,F,253.80,Singapore,Ms,86169226
+11795,Vincent Yuan,Gold,,M,1157.50,Singapore,Mr,86641778
+11796,Veronica Kim,Silver,,F,419.00,Singapore,Ms,87252415
+11797,Samuel Bi,Bronze,,M,238.30,Singapore,Mr,89046863
+11798,Winifred Yung,Gold,,F,1152.60,Singapore,Ms,86551795
+11799,Howard Wang,Silver,,M,316.40,Singapore,Mr,88817127
+11800,Cameron Kwon,Bronze,,M,227.40,Singapore,Mr,93040369
+11801,Marc Zhuo,Silver,,M,491.70,Singapore,Mr,93208372
+11802,Nihira Menon,Gold,,F,1302.50,Singapore,Ms,92214476
+11803,Gordon Choy,Bronze,,M,130.70,Singapore,Mr,89102881
+11804,Lawrence Cui,Silver,,M,419.70,Singapore,Mr,88972374
+11805,Vasu Munshi,Silver,,M,479.10,Singapore,Mr,89018474
+11806,June Toh,Gold,,F,1392.20,Singapore,Ms,92242723
+11807,Ibrahim Daoud,Silver,,M,320.80,Singapore,Mr,89934826
+11808,Esther Chow,Silver,,F,438.60,Singapore,Ms,90900500
+11809,Marilyn Hong,Silver,,F,207.00,Singapore,Ms,90700595
+11810,Elaine Chionh,Bronze,,F,145.70,Singapore,Ms,88651525
+11811,Annie Yi,Gold,,F,965.60,Singapore,Ms,89195382
+11812,Kay Choong,Gold,,F,1070.30,Singapore,Ms,92590244
+11813,Marie Xu,Silver,,F,669.00,Singapore,Ms,87680489
+11814,Angela Kumar,Silver,,F,234.10,Singapore,Ms,87289429
+11815,Helen Zhang,Silver,,F,583.70,Singapore,Ms,88615273
+11816,Gavin You,Gold,,M,698.80,Singapore,Mr,86978572
+11817,Alan Hong,Gold,,M,918.30,Singapore,Mr,87311783
+11818,Terry Lye,Gold,,M,950.20,Singapore,Mr,92072121
+11819,Allan Si,Gold,,M,1186.80,Singapore,Mr,87390106
+11820,Fiona Yao,Gold,,F,707.10,Singapore,Ms,93711757
+11821,Gwendoline Lay,Gold,,F,660.70,Singapore,Ms,89475390
+11822,Anne Chou,Bronze,,F,88.60,Singapore,Ms,90445470
+11823,Daisy Goh,Silver,,F,565.60,Singapore,Ms,93291670
+11824,Gillian Qiu,Silver,,F,377.40,Singapore,Ms,89911098
+11825,Terry Leng,Gold,,M,642.40,Singapore,Mr,93502834
+11826,Agnes Yang,Gold,,F,1310.80,Singapore,Ms,88677517
+11827,Robyn Bao,Bronze,,F,82.90,Singapore,Ms,91344012
+11828,Irene Toh,Gold,,F,1417.00,Singapore,Ms,93610654
+11829,Ian Han,Silver,,M,611.30,Singapore,Mr,88891428
+11830,Imran Hafeez,Bronze,,M,21.10,Singapore,Mr,90305420
+11831,Andrew Hu,Silver,,M,334.60,Singapore,Mr,93254062
+11832,Amulya Dora,Bronze,,F,286.40,Singapore,Ms,88503650
+11833,Nathan Gong,Gold,,M,677.40,Singapore,Mr,91869837
+11834,Angela Chan,Gold,,F,1001.50,Singapore,Ms,88413275
+11835,Gareth ,Bronze,,M,279.50,Singapore,Mr,93534209
+11836,Shirley Ye,Bronze,,F,242.60,Singapore,Ms,87738766
+11837,Jane Fu,Bronze,,F,289.30,Singapore,Ms,89581340
+11838,Kathleen Jin,Bronze,,F,263.80,Singapore,Ms,92866150
+11839,Rita Foo,Silver,,F,679.50,Singapore,Ms,87421036
+11840,Cynthia Xue,Bronze,,F,36.40,Singapore,Ms,86341287
+11841,Ellen Han,Gold,,F,1050.10,Singapore,Ms,92286872
+11842,Gerard Ni,Bronze,,M,152.20,Singapore,Mr,87840940
+11843,Dennis Lin,Silver,,M,325.80,Singapore,Mr,93155216
+11844,Brett Tao,Bronze,,M,13.00,Singapore,Mr,91539447
+11845,Christian Quek,Gold,,M,565.10,Singapore,Mr,88241443
+11846,Dawn Jin,Bronze,,F,47.10,Singapore,Ms,93881780
+11847,Lindsey Kwa,Bronze,,F,290.20,Singapore,Ms,91358992
+11848,Patrick Ee,Bronze,,M,199.60,Singapore,Mr,86335412
+11849,Peter Au,Gold,,M,862.40,Singapore,Mr,90489392
+11850,Marcus Sheng,Gold,,M,663.20,Singapore,Mr,92766065
+11851,Violet Mun,Silver,,F,324.70,Singapore,Ms,89079120
+11852,Charlie Sui,Bronze,,M,194.00,Singapore,Mr,90802673
+11853,Edmund Leng,Bronze,,M,76.00,Singapore,Mr,91167852
+11854,Carly Qin,Bronze,,F,189.90,Singapore,Ms,87915301
+11855,Jane Ping,Bronze,,F,43.40,Singapore,Ms,88935580
+11856,Arthur So,Silver,,M,411.10,Singapore,Mr,87818054
+11857,Adam Kwan,Silver,,M,324.20,Singapore,Mr,93713495
+11858,Clifford Xiong,Silver,,M,507.70,Singapore,Mr,91425641
+11859,Constance Kong,Bronze,,F,135.90,Singapore,Ms,86664394
+11860,Lynn Yin,Bronze,,F,289.70,Singapore,Ms,87910132
+11861,Dennis Ying,Bronze,,M,189.90,Singapore,Mr,89377715
+11862,Hubert Ge,Gold,,M,822.80,Singapore,Mr,89265584
+11863,Charlotte Bi,Bronze,,F,233.40,Singapore,Ms,89664384
+11864,Glenn Jung,Bronze,,M,92.80,Singapore,Mr,86939372
+11865,Rachael Chiu,Bronze,,F,53.10,Singapore,Ms,93440267
+11866,Tracy Yuan,Silver,,F,607.30,Singapore,Ms,92582285
+11867,Mark Poon,Silver,,M,336.90,Singapore,Mr,86019071
+11868,Ronald Hao,Silver,,M,590.00,Singapore,Mr,88839747
+11869,Liam Hao,Silver,,M,478.30,Singapore,Mr,89002058
+11870,Olive Jing,Gold,,F,510.60,Singapore,Ms,93028606
+11871,Liam Lei,Bronze,,M,230.10,Singapore,Mr,92860869
+11872,Irene Tang,Bronze,,F,22.30,Singapore,Ms,89418008
+11873,Elsie Leong,Bronze,,F,37.10,Singapore,Ms,89460685
+11874,Peter Tai,Bronze,,M,55.20,Singapore,Mr,87444957
+11875,Jennifer Lye,Silver,,F,401.70,Singapore,Ms,93128317
+11876,Jade Zhuang,Bronze,,F,164.10,Singapore,Ms,87153626
+11877,Akhil Misra,Bronze,,M,144.20,Singapore,Mr,86939555
+11878,Daniel Ow,Silver,,M,439.90,Singapore,Mr,91392220
+11879,Younus Mansoor,Bronze,,M,83.20,Singapore,Mr,89421338
+11880,Theresa Kwan,Silver,,F,666.50,Singapore,Ms,90723182
+11881,Carole Tee,Gold,,F,966.70,Singapore,Ms,87713898
+11882,Nichola Aung,Gold,,F,1134.30,Singapore,Ms,93389087
+11883,Adam Chan,Silver,,M,391.00,Singapore,Mr,87394938
+11884,Louis Tsui,Gold,,M,1479.60,Singapore,Mr,88058359
+11885,Millicent Tan,Bronze,,F,23.50,Singapore,Ms,88560702
+11886,Elizabeth Lin,Silver,,F,462.60,Singapore,Ms,88192953
+11887,Geoffrey Siu,Silver,,M,258.60,Singapore,Mr,89560892
+11888,Eric Kong,Gold,,M,501.00,Singapore,Mr,92975877
+11889,Elaine Au,Silver,,F,356.90,Singapore,Ms,89623861
+11890,Dorothy Pak,Gold,,F,1059.60,Singapore,Ms,88805898
+11891,Tara Gu,Bronze,,F,103.00,Singapore,Ms,90032474
+11892,Maurice Ying,Gold,,M,1478.00,Singapore,Mr,91426851
+11893,Craig Phang,Gold,,M,1159.90,Singapore,Mr,88293808
+11894,Salima Basha,Gold,,F,1279.50,Singapore,Ms,87073056
+11895,Sybil Fu,Silver,,F,222.50,Singapore,Ms,90672646
+11896,Nigel Choo,Bronze,,M,289.20,Singapore,Mr,87058614
+11897,Ivor Mak,Bronze,,M,164.00,Singapore,Mr,89861527
+11898,Jacqueline Wang,Silver,,F,511.60,Singapore,Ms,90471635
+11899,Lee Choong,Bronze,,M,294.00,Singapore,Mr,86304811
+11900,Yahya Ibrahim,Bronze,,M,8.30,Singapore,Mr,92839019
+11901,Ellen Sim,Gold,,F,701.20,Singapore,Ms,87667969
+11902,Shannon Seow,Silver,,F,692.50,Singapore,Ms,88537509
+11903,Jeremy Zhong,Bronze,,M,151.40,Singapore,Mr,89999055
+11904,Jasmine Shao,Silver,,F,203.70,Singapore,Ms,86489809
+11905,Ronald Phang,Bronze,,M,13.60,Singapore,Mr,88604325
+11906,Nicole Xiang,Gold,,F,1485.70,Singapore,Ms,92412358
+11907,Denise Xin,Bronze,,F,155.00,Singapore,Ms,86620335
+11908,Norma Kan,Silver,,F,496.50,Singapore,Ms,90563262
+11909,Ishaaq Shariff,Silver,,M,548.20,Singapore,Mr,88494600
+11910,Fiona Mok,Gold,,F,882.90,Singapore,Ms,91377962
+11911,Beryl Wong,Gold,,F,1258.00,Singapore,Ms,92897764
+11912,Elliott Tsang,Gold,,M,1054.10,Singapore,Mr,92894597
+11913,Denis Tee,Gold,,M,1017.00,Singapore,Mr,86437382
+11914,Bethan Mao,Gold,,F,635.30,Singapore,Ms,92289494
+11915,Victoria Lau,Silver,,F,510.80,Singapore,Ms,91645641
+11916,Charlene Dai,Silver,,F,255.10,Singapore,Ms,86368025
+11917,George Cao,Bronze,,M,133.50,Singapore,Mr,93549916
+11918,Katherine Min,Silver,,F,585.70,Singapore,Ms,86201918
+11919,Gareth Han,Bronze,,M,203.40,Singapore,Mr,92953850
+11920,Ann Low,Bronze,,F,152.80,Singapore,Ms,90948841
+11921,Lily Wang,Silver,,F,574.90,Singapore,Ms,88528800
+11922,Ranbir Gola,Bronze,,M,234.90,Singapore,Mr,87672009
+11923,Grace Shum,Bronze,,F,98.50,Singapore,Ms,91587083
+11924,Sheila Fok,Gold,,F,589.40,Singapore,Ms,88491009
+11925,Fred Ng,Silver,,M,591.60,Singapore,Mr,87027530
+11926,Beryl Jia,Bronze,,F,19.70,Singapore,Ms,93590312
+11927,Timothy Loke,Bronze,,M,225.60,Singapore,Mr,89391267
+11928,Claire Wu,Silver,,F,238.80,Singapore,Ms,87097996
+11929,Stephen Shang,Bronze,,M,280.50,Singapore,Mr,87871630
+11930,Anthony He,Silver,,M,280.50,Singapore,Mr,89461593
+11931,Julian Aung,Gold,,M,507.60,Singapore,Mr,87948419
+11932,Peter Gan,Bronze,,M,190.90,Singapore,Mr,93742804
+11933,Robert Sim,Bronze,,M,270.10,Singapore,Mr,88953685
+11934,Andrea Foo,Bronze,,F,61.70,Singapore,Ms,89837175
+11935,Janet Lim,Gold,,F,738.00,Singapore,Ms,91996344
+11936,Karl Seow,Gold,,M,853.80,Singapore,Mr,91939988
+11937,Stephanie Yong,Silver,,F,282.70,Singapore,Ms,92903039
+11938,Kairav Bhakta,Gold,,M,512.00,Singapore,Mr,87227917
+11939,Nigel Quek,Gold,,M,722.80,Singapore,Mr,89103169
+11940,Lee Kwa,Bronze,,M,46.50,Singapore,Mr,88846849
+11941,Steven Poh,Silver,,M,456.70,Singapore,Mr,91823922
+11942,Arthur Poon,Silver,,M,338.00,Singapore,Mr,88314240
+11943,Gordon Tanaka,Gold,,M,504.00,Singapore,Mr,88840980
+11944,Arnold Huang,Gold,,M,1391.80,Singapore,Mr,90209363
+11945,Neil Pang,Bronze,,M,91.70,Singapore,Mr,88106289
+11946,Rosemary Wan,Gold,,F,1411.60,Singapore,Ms,92567584
+11947,Colin Lau,Bronze,,M,120.40,Singapore,Mr,92633643
+11948,Samuel Yim,Bronze,,M,125.70,Singapore,Mr,86293740
+11949,Colin Cho,Bronze,,M,171.50,Singapore,Mr,93295132
+11950,Jonathan Poh,Bronze,,M,231.50,Singapore,Mr,93778220
+11951,Thomas Xiang,Gold,,M,1300.30,Singapore,Mr,90554531
+11952,Gordon Qu,Silver,,M,678.40,Singapore,Mr,89801832
+11953,Joyce Yang,Gold,,F,610.50,Singapore,Ms,90977725
+11954,Marion Xu,Bronze,,F,94.60,Singapore,Ms,92942172
+11955,Sharon Fan,Bronze,,F,93.40,Singapore,Ms,89614352
+11956,Dennis Ho,Silver,,M,379.00,Singapore,Mr,87084816
+11957,Graeme Kwong,Gold,,M,1057.20,Singapore,Mr,88447548
+11958,Peter Kim,Bronze,,M,135.30,Singapore,Mr,93933728
+11959,Janet Ma,Bronze,,F,48.80,Singapore,Ms,87784089
+11960,Christina Ko,Bronze,,F,2.10,Singapore,Ms,90240977
+11961,Jessica Ji,Bronze,,F,206.80,Singapore,Ms,90301507
+11962,Phyllis Liu,Gold,,F,574.40,Singapore,Ms,89932313
+11963,Alan Sze,Gold,,M,1204.00,Singapore,Mr,91494886
+11964,Malcolm Pang,Gold,,M,1201.20,Singapore,Mr,90779520
+11965,Stewart Hou,Bronze,,M,122.80,Singapore,Mr,90360276
+11966,Edward Lu,Bronze,,M,74.80,Singapore,Mr,91414306
+11967,Brian Ban,Bronze,,M,259.60,Singapore,Mr,89500703
+11968,Arthur Zhan,Bronze,,M,52.90,Singapore,Mr,86986976
+11969,Doreen Yap,Silver,,F,301.20,Singapore,Ms,90896356
+11970,Desmond Hou,Bronze,,M,277.10,Singapore,Mr,92385548
+11971,Adam Mao,Gold,,M,1373.10,Singapore,Mr,89891505
+11972,Luke Yim,Bronze,,M,252.00,Singapore,Mr,88501354
+11973,Walter Kwa,Bronze,,M,163.10,Singapore,Mr,93321042
+11974,Caroline Xie,Bronze,,F,203.00,Singapore,Ms,91726120
+11975,Lilian Lai,Silver,,F,275.20,Singapore,Ms,88430135
+11976,Sheila Wei,Silver,,F,578.60,Singapore,Ms,93023191
+11977,David Chin,Gold,,M,1497.30,Singapore,Mr,92613988
+11978,Adrian Kumar,Bronze,,M,139.80,Singapore,Mr,86766628
+11979,Robin Jiang,Gold,,M,1092.50,Singapore,Mr,93823233
+11980,Shane Zhang,Gold,,M,1302.90,Singapore,Mr,93899001
+11981,David Neo,Gold,,M,1319.40,Singapore,Mr,91207518
+11982,Pamela Chong,Gold,,F,930.90,Singapore,Ms,91182306
+11983,Alfred Xue,Bronze,,M,40.40,Singapore,Mr,90343411
+11984,Laurence Toh,Bronze,,M,161.50,Singapore,Mr,93433179
+11985,Stephen Jiang,Gold,,M,1412.00,Singapore,Mr,90074099
+11986,Leonard Neo,Bronze,,M,199.30,Singapore,Mr,93270632
+11987,Daphne Ow,Silver,,F,374.40,Singapore,Ms,91318473
+11988,Cecil Tao,Bronze,,M,140.70,Singapore,Mr,88236102
+11989,Angela Tu,Bronze,,F,49.60,Singapore,Ms,91658582
+11990,Kenneth Ang,Silver,,M,530.40,Singapore,Mr,87044688
+11991,Bridget Mu,Bronze,,F,246.50,Singapore,Ms,92269992
+11992,Jason Hua,Silver,,M,435.80,Singapore,Mr,88435206
+11993,Mark Min,Silver,,M,208.40,Singapore,Mr,88233855
+11994,Margaret Chao,Silver,,F,598.90,Singapore,Ms,89449693
+11995,Trevor Jing,Bronze,,M,36.90,Singapore,Mr,88890021
+11996,Gilbert Pong,Bronze,,M,99.70,Singapore,Mr,90478916
+11997,Graham Heng,Bronze,,M,237.20,Singapore,Mr,93339527
+11998,Suzanne Low,Silver,,F,372.80,Singapore,Ms,86015405
+11999,James Cui,Silver,,M,241.80,Singapore,Mr,90119482
+12000,Clive Zhai,Gold,,M,1138.50,Singapore,Mr,93120145
+12001,Hector Fu,Silver,,M,554.50,Singapore,Mr,86990509
+12002,Joshua Shao,Silver,,M,361.60,Singapore,Mr,86961809
+12003,Ruby Tsui,Bronze,,F,18.80,Singapore,Ms,89699947
+12004,Denis Yap,Silver,,M,450.40,Singapore,Mr,93633755
+12005,Sandra Toh,Bronze,,F,210.90,Singapore,Ms,87676299
+12006,Deborah Huang,Silver,,F,337.20,Singapore,Ms,90617014
+12007,Paige Huang,Gold,,F,802.30,Singapore,Ms,91783852
+12008,Karl Ng,Silver,,M,294.20,Singapore,Mr,92148968
+12009,Gerald Jang,Silver,,M,434.70,Singapore,Mr,90737496
+12010,Margaret Tai,Gold,,F,1445.40,Singapore,Ms,93950217
+12011,Marian Zhuang,Gold,,F,1105.40,Singapore,Ms,92412431
+12012,Violet Son,Silver,,F,405.40,Singapore,Ms,86770782
+12013,Dennis Hua,Silver,,M,380.30,Singapore,Mr,90425631
+12014,Nevaeh Goswami,Silver,,F,352.50,Singapore,Ms,90333450
+12015,Teresa Sun,Silver,,F,453.20,Singapore,Ms,89660469
+12016,Sam Mu,Gold,,M,1431.40,Singapore,Mr,88142527
+12017,Evelyn Pei,Bronze,,F,1.80,Singapore,Ms,93986999
+12018,Eileen Tun,Gold,,F,986.00,Singapore,Ms,92563913
+12019,Garry Hua,Gold,,M,1177.20,Singapore,Mr,86581862
+12020,Ashleigh Xiong,Silver,,F,476.10,Singapore,Ms,92701162
+12021,Kevin Shen,Bronze,,M,173.50,Singapore,Mr,87761532
+12022,Ryan Loo,Bronze,,M,36.30,Singapore,Mr,86326654
+12023,Lakshmi Bahl,Bronze,,F,210.10,Singapore,Ms,87011348
+12024,Norma Ming,Bronze,,F,224.70,Singapore,Ms,90608380
+12025,Kieran Gu,Bronze,,M,150.60,Singapore,Mr,89166747
+12026,Ellie An,Bronze,,F,160.40,Singapore,Ms,92733784
+12027,Rachael Tan,Silver,,F,475.70,Singapore,Ms,90828794
+12028,Philip Ang,Gold,,M,1254.30,Singapore,Mr,88079831
+12029,Robert Ko,Silver,,M,500.20,Singapore,Mr,89402741
+12030,Heather Ke,Bronze,,F,284.20,Singapore,Ms,87591397
+12031,Wilfred Ling,Gold,,M,635.40,Singapore,Mr,93210572
+12032,Eric Kim,Gold,,M,1040.00,Singapore,Mr,93753224
+12033,Robert Lim,Gold,,M,949.40,Singapore,Mr,88185165
+12034,Linda Xing,Gold,,F,1475.40,Singapore,Ms,92543152
+12035,Gillian Lye,Silver,,F,619.40,Singapore,Ms,91333669
+12036,Gertrude Min,Gold,,F,1015.00,Singapore,Ms,89670302
+12037,Basil Leow,Bronze,,M,175.50,Singapore,Mr,93331194
+12038,Daisy Khoo,Silver,,F,488.70,Singapore,Ms,87130356
+12039,Raymond Xie,Silver,,M,267.20,Singapore,Mr,89389904
+12040,Kate Mai,Gold,,F,1186.00,Singapore,Ms,89434851
+12041,Iain Lim,Bronze,,M,104.30,Singapore,Mr,92305116
+12042,Rita Kwan,Silver,,F,421.40,Singapore,Ms,88296354
+12043,Andrew Tan,Bronze,,M,114.40,Singapore,Mr,90634848
+12044,Molly Cai,Bronze,,F,163.40,Singapore,Ms,87153825
+12045,Jason Li,Bronze,,M,181.70,Singapore,Mr,92827535
+12046,Rose Sim,Bronze,,F,286.40,Singapore,Ms,88049532
+12047,Christopher Bao,Silver,,M,501.50,Singapore,Mr,91026131
+12048,Gemma Hao,Gold,,F,911.70,Singapore,Ms,89784320
+12049,Leon Wu,Silver,,M,390.40,Singapore,Mr,91303077
+12050,Abigail Li,Gold,,F,755.90,Singapore,Ms,86166041
+12051,Bridget Chu,Gold,,F,1475.10,Singapore,Ms,90778571
+12052,Annie Sato,Silver,,F,325.00,Singapore,Ms,88697795
+12053,Geoffrey Sun,Gold,,M,691.60,Singapore,Mr,93154729
+12054,Nicholas Mak,Gold,,M,773.60,Singapore,Mr,90192460
+12055,Eleanor Tan,Bronze,,F,116.60,Singapore,Ms,90885307
+12056,Ada Zhao,Bronze,,F,249.20,Singapore,Ms,91193476
+12057,Susan Cui,Gold,,F,1148.50,Singapore,Ms,87793208
+12058,Jonathan Pang,Silver,,M,294.80,Singapore,Mr,91476338
+12059,Tom Chang,Bronze,,M,141.90,Singapore,Mr,93328189
+12060,Jonathan Seo,Silver,,M,476.50,Singapore,Mr,91611981
+12061,Freda Yun,Silver,,F,514.20,Singapore,Ms,88383459
+12062,Ida Nai,Silver,,F,533.90,Singapore,Ms,87129542
+12063,Dean Liao,Silver,,M,548.00,Singapore,Mr,93197682
+12064,Gwendoline Choo,Gold,,F,793.90,Singapore,Ms,88247297
+12065,Janice Ng,Gold,,F,691.30,Singapore,Ms,90709625
+12066,Joyce Pong,Gold,,F,1431.90,Singapore,Ms,91704907
+12067,Barrie Yao,Silver,,M,263.60,Singapore,Mr,92014531
+12068,Martin Pang,Silver,,M,428.60,Singapore,Mr,93942516
+12069,Nancy Cheong,Silver,,F,294.30,Singapore,Ms,92294032
+12070,Emma Lay,Bronze,,F,99.90,Singapore,Ms,91502894
+12071,Christopher Phua,Silver,,M,438.50,Singapore,Mr,89064237
+12072,Edna Choong,Silver,,F,237.00,Singapore,Ms,87106169
+12073,Oliver Sim,Silver,,M,552.60,Singapore,Mr,88786104
+12074,Melissa Wu,Gold,,F,1065.30,Singapore,Ms,89986347
+12075,Zahid Rahaim,Silver,,M,360.90,Singapore,Mr,89600982
+12076,Alison Yin,Bronze,,F,45.90,Singapore,Ms,87992146
+12077,Frances Eng,Silver,,F,416.00,Singapore,Ms,88133803
+12078,Patrick Hui,Bronze,,M,30.60,Singapore,Mr,90631197
+12079,Joy Sim,Silver,,F,466.90,Singapore,Ms,87777621
+12080,Barbara Kwon,Silver,,F,628.80,Singapore,Ms,87280510
+12081,June Wong,Bronze,,F,208.90,Singapore,Ms,89100496
+12082,Paul Lai,Bronze,,M,283.70,Singapore,Mr,87620751
+12083,Joe Fok,Silver,,M,667.20,Singapore,Mr,91596523
+12084,Marjorie Cheng,Gold,,F,780.10,Singapore,Ms,88786375
+12085,Elizabeth Sui,Silver,,F,454.60,Singapore,Ms,91971252
+12086,Sally Wei,Gold,,F,1293.10,Singapore,Ms,92170757
+12087,Evan Chia,Silver,,M,638.10,Singapore,Mr,93124508
+12088,Irene Yip,Gold,,F,797.70,Singapore,Ms,92268574
+12089,Herbert Yang,Gold,,M,1297.80,Singapore,Mr,91657345
+12090,Lillian Gu,Silver,,F,381.70,Singapore,Ms,86147198
+12091,Arnold Ko,Gold,,M,752.50,Singapore,Mr,86965689
+12092,Louise Au,Gold,,F,1384.40,Singapore,Ms,87559022
+12093,Florence Jang,Bronze,,F,84.60,Singapore,Ms,87124781
+12094,Ivy Loke,Silver,,F,435.10,Singapore,Ms,87995995
+12095,Dharam Singh,Silver,,M,275.50,Singapore,Mr,88754069
+12096,Louisa Sim,Gold,,F,1422.40,Singapore,Ms,93274146
+12097,Carolyn Shum,Bronze,,F,80.10,Singapore,Ms,91386074
+12098,Doris Mak,Gold,,F,1193.20,Singapore,Ms,91407322
+12099,Lee Peng,Silver,,M,467.70,Singapore,Mr,88951012
+12100,Rishi Gill,Gold,,M,1397.20,Singapore,Mr,91497397
+12101,Edward Li,Gold,,M,1361.10,Singapore,Mr,93968954
+12102,Michael Cheang,Gold,,M,605.70,Singapore,Mr,93089241
+12103,Nitin Dube,Bronze,,M,96.60,Singapore,Mr,86250181
+12104,Winifred Chia,Silver,,F,212.20,Singapore,Ms,89421233
+12105,Jake Kwee,Silver,,M,572.20,Singapore,Mr,91022291
+12106,Barbara Phua,Gold,,F,962.40,Singapore,Ms,86102390
+12107,Kathleen Lin,Silver,,F,292.90,Singapore,Ms,90206206
+12108,Callum Choong,Silver,,M,268.60,Singapore,Mr,88486088
+12109,Ronald Min,Bronze,,M,263.00,Singapore,Mr,88491251
+12110,Ben Chao,Silver,,M,610.50,Singapore,Mr,88029149
+12111,Dora Dong,Bronze,,F,87.20,Singapore,Ms,86987153
+12112,Alice Pang,Bronze,,F,28.40,Singapore,Ms,92369174
+12113,Aaron Ping,Bronze,,M,275.50,Singapore,Mr,88382288
+12114,Robin Chan,Bronze,,M,10.30,Singapore,Mr,90351770
+12115,Thelma Zhu,Gold,,F,1353.10,Singapore,Ms,91952461
+12116,Jeffrey Cheang,Bronze,,M,220.00,Singapore,Mr,88638809
+12117,Louisa Son,Bronze,,F,243.60,Singapore,Ms,92203589
+12118,Benazir Abdul,Silver,,F,273.20,Singapore,Ms,86654318
+12119,Stuart Tan,Silver,,M,500.10,Singapore,Mr,88659680
+12120,Nigel Yew,Bronze,,M,211.60,Singapore,Mr,86614592
+12121,William Fang,Silver,,M,477.40,Singapore,Mr,91185695
+12122,Sean Chan,Bronze,,M,233.20,Singapore,Mr,87099508
+12123,Kathleen Li,Bronze,,F,271.00,Singapore,Ms,90494116
+12124,Maurice Ping,Silver,,M,543.30,Singapore,Mr,89657905
+12125,Toby Yang,Silver,,M,664.20,Singapore,Mr,92275092
+12126,Yash Mutti,Bronze,,M,141.30,Singapore,Mr,86793103
+12127,Mabel Lin,Gold,,F,818.70,Singapore,Ms,86417833
+12128,Patricia Yang,Bronze,,F,257.80,Singapore,Ms,93852486
+12129,Marjorie Soe,Bronze,,F,126.10,Singapore,Ms,87146213
+12130,Dorothy Woo,Silver,,F,434.80,Singapore,Ms,89885027
+12131,Vera Ow,Bronze,,F,179.10,Singapore,Ms,91872822
+12132,Beryl Mao,Gold,,F,966.10,Singapore,Ms,89448237
+12133,Jessie Lai,Silver,,F,328.60,Singapore,Ms,87973259
+12134,Danny Xiong,Gold,,M,1067.80,Singapore,Mr,90180802
+12135,Ranchi Babu,Bronze,,F,120.30,Singapore,Ms,92559046
+12136,Arnold Bao,Silver,,M,592.70,Singapore,Mr,86011240
+12137,Veronica You,Bronze,,F,199.80,Singapore,Ms,91482346
+12138,Denise Png,Bronze,,F,27.20,Singapore,Ms,88464100
+12139,Sydney Ke,Silver,,M,221.10,Singapore,Mr,88577357
+12140,Graham So,Gold,,M,1075.40,Singapore,Mr,92605736
+12141,Louise Sim,Bronze,,F,56.10,Singapore,Ms,90896869
+12142,Doreen Peng,Gold,,F,1417.70,Singapore,Ms,91270966
+12143,Gertrude Cai,Gold,,F,756.10,Singapore,Ms,88384265
+12144,Morris Xie,Silver,,M,352.30,Singapore,Mr,93659108
+12145,Nicole Yang,Silver,,F,529.60,Singapore,Ms,93662695
+12146,Blanche Kwan,Gold,,F,591.70,Singapore,Ms,90086714
+12147,Rosemary Zeng,Gold,,F,711.80,Singapore,Ms,89281978
+12148,Damien An,Silver,,M,663.30,Singapore,Mr,91767881
+12149,Jake Tan,Silver,,M,367.30,Singapore,Mr,88348880
+12150,Thomas Cai,Silver,,M,313.00,Singapore,Mr,93537545
+12151,Edith Lui,Silver,,F,489.50,Singapore,Ms,88473227
+12152,Keith Pang,Bronze,,M,202.50,Singapore,Mr,93568075
+12153,Allan Zhuang,Bronze,,M,286.40,Singapore,Mr,88222811
+12154,Denise Lau,Bronze,,F,67.40,Singapore,Ms,91632456
+12155,Ralph Cho,Silver,,M,556.00,Singapore,Mr,93156697
+12156,Horace Goh,Gold,,M,761.80,Singapore,Mr,87015696
+12157,Bertram Zhu,Bronze,,M,120.80,Singapore,Mr,88807853
+12158,Samuel Tan,Bronze,,M,280.70,Singapore,Mr,88632558
+12159,Daphne Lwin,Bronze,,F,94.50,Singapore,Ms,92809186
+12160,Sam Xiang,Silver,,M,290.80,Singapore,Mr,92554903
+12161,Iain Win,Gold,,M,1212.60,Singapore,Mr,88718071
+12162,Phillip Choo,Bronze,,M,248.60,Singapore,Mr,93040363
+12163,Tom Law,Silver,,M,398.00,Singapore,Mr,90462186
+12164,Sarah Wang,Gold,,F,711.90,Singapore,Ms,88571005
+12165,Lily Lim,Gold,,F,547.20,Singapore,Ms,88254628
+12166,Clifford Chia,Gold,,M,1195.90,Singapore,Mr,90007481
+12167,Leanne Chang,Bronze,,F,261.20,Singapore,Ms,92165061
+12168,Wahida Rafiq,Silver,,F,620.70,Singapore,Ms,94001877
+12169,William Wong,Gold,,M,764.80,Singapore,Mr,86008151
+12170,Angela Ying,Silver,,F,503.10,Singapore,Ms,89759399
+12171,Joseph Dong,Bronze,,M,245.80,Singapore,Mr,89126239
+12172,Jessie Lu,Gold,,F,1224.00,Singapore,Ms,87151192
+12173,Bessie Kwa,Bronze,,F,271.40,Singapore,Ms,87704303
+12174,Antony Shum,Silver,,M,400.50,Singapore,Mr,88780923
+12175,Jill Zhuo,Bronze,,F,24.80,Singapore,Ms,93066196
+12176,Stephen Poon,Bronze,,M,138.00,Singapore,Mr,87084655
+12177,Bridget Sui,Bronze,,F,128.20,Singapore,Ms,93420809
+12178,Isabella Win,Gold,,F,1247.60,Singapore,Ms,87006650
+12179,Henry Li,Silver,,M,241.10,Singapore,Mr,87505739
+12180,Darren Cao,Gold,,M,770.80,Singapore,Mr,92826050
+12181,Adrian Min,Gold,,M,754.40,Singapore,Mr,86389744
+12182,Muriel Eng,Gold,,F,945.00,Singapore,Ms,88415898
+12183,Caroline Tan,Bronze,,F,162.10,Singapore,Ms,90616473
+12184,Dennis Fu,Gold,,M,1359.10,Singapore,Mr,87296200
+12185,Hayley Tan,Gold,,F,1060.20,Singapore,Ms,88112866
+12186,Anthony Loke,Bronze,,M,149.30,Singapore,Mr,88897010
+12187,Sean Miao,Silver,,M,316.00,Singapore,Mr,87148753
+12188,Rodney Cai,Silver,,M,615.00,Singapore,Mr,89247185
+12189,Lesley Duan,Gold,,F,908.20,Singapore,Ms,87698114
+12190,Shyla Warrior,Silver,,F,354.10,Singapore,Ms,88923141
+12191,Thomas Li,Silver,,M,649.00,Singapore,Mr,89264704
+12192,Vincent Sim,Silver,,M,493.20,Singapore,Mr,86096069
+12193,Wilfred Tang,Gold,,M,1465.20,Singapore,Mr,90060660
+12194,Rita Thia,Bronze,,F,124.50,Singapore,Ms,87020655
+12195,Norman Fong,Bronze,,M,136.90,Singapore,Mr,91414836
+12196,Catherine Wang,Gold,,F,792.20,Singapore,Ms,93684796
+12197,Victor Wan,Bronze,,M,159.50,Singapore,Mr,88774121
+12198,Stanley Yung,Silver,,M,475.40,Singapore,Mr,91105722
+12199,Diane Lai,Bronze,,F,203.10,Singapore,Ms,86136380
+12200,Gavin Sim,Bronze,,M,146.50,Singapore,Mr,89400127
+12201,Muriel Zhang,Silver,,F,426.00,Singapore,Ms,93753630
+12202,Conor Ren,Silver,,M,596.20,Singapore,Mr,91436852
+12203,Ivor Li,Bronze,,M,216.20,Singapore,Mr,86080632
+12204,Vera Wang,Silver,,F,455.90,Singapore,Ms,90302205
+12205,Joseph Ji,Silver,,M,312.00,Singapore,Mr,89663393
+12206,Beatrice Lim,Gold,,F,1427.30,Singapore,Ms,87778208
+12207,Walter Ma,Gold,,M,696.50,Singapore,Mr,89858846
+12208,Martin Pan,Bronze,,M,228.90,Singapore,Mr,90540115
+12209,Beatrice Cheah,Bronze,,F,0.90,Singapore,Ms,90427008
+12210,Demi Fok,Bronze,,F,46.70,Singapore,Ms,86366720
+12211,Marc Huang,Gold,,M,702.00,Singapore,Mr,86310295
+12212,Edgar Lei,Gold,,M,1372.00,Singapore,Mr,92459002
+12213,Gary Lui,Bronze,,M,49.10,Singapore,Mr,87618939
+12214,Valerie Wang,Gold,,F,557.10,Singapore,Ms,91878352
+12215,Lal Sawhney,Silver,,M,668.70,Singapore,Mr,90463901
+12216,Maurice Ge,Silver,,M,417.20,Singapore,Mr,88295782
+12217,Matthew Meng,Silver,,M,410.40,Singapore,Mr,89203666
+12218,Ruth Chai,Silver,,F,521.90,Singapore,Ms,87080904
+12219,Ernest Lin,Silver,,M,362.00,Singapore,Mr,90178649
+12220,Grace Ng,Bronze,,F,81.70,Singapore,Ms,87052756
+12221,Constance Zeng,Silver,,F,307.00,Singapore,Ms,93989673
+12222,Josephine Wong,Gold,,F,700.70,Singapore,Ms,87035264
+12223,Teresa Phua,Bronze,,F,45.10,Singapore,Ms,90906046
+12224,Richard Han,Silver,,M,571.40,Singapore,Mr,87079489
+12225,Derek Cha,Bronze,,M,42.10,Singapore,Mr,86751351
+12226,Bradley Yeung,Bronze,,M,135.20,Singapore,Mr,90414832
+12227,Ricky Cheung,Gold,,M,913.40,Singapore,Mr,90353933
+12228,Beth Hong,Silver,,F,364.50,Singapore,Ms,88070157
+12229,Martha Ni,Gold,,F,1430.30,Singapore,Ms,90863079
+12230,Leon Ke,Silver,,M,538.90,Singapore,Mr,93043960
+12231,Keith Qiu,Silver,,M,526.50,Singapore,Mr,87279688
+12232,Samuel Wei,Bronze,,M,262.70,Singapore,Mr,91386077
+12233,Barry Son,Silver,,M,523.20,Singapore,Mr,88330380
+12234,Jamie Fu,Bronze,,M,128.00,Singapore,Mr,91144085
+12235,Joyce Leung,Bronze,,F,16.70,Singapore,Ms,93483556
+12236,Hamza Farid,Silver,,M,532.90,Singapore,Mr,87167350
+12237,Malcolm Fung,Bronze,,M,265.80,Singapore,Mr,93421056
+12238,Douglas Shu,Bronze,,M,135.90,Singapore,Mr,92230449
+12239,Hilda Quek,Bronze,,F,284.80,Singapore,Ms,92747727
+12240,Sylvia Leng,Bronze,,F,103.30,Singapore,Ms,88029808
+12241,Reginald Seet,Gold,,M,514.50,Singapore,Mr,92156176
+12242,Diana Zheng,Gold,,F,1051.10,Singapore,Ms,89138450
+12243,Albert He,Silver,,M,381.10,Singapore,Mr,91766710
+12244,Vera Pang,Bronze,,F,293.30,Singapore,Ms,91583721
+12245,Rosemary Wu,Bronze,,F,208.60,Singapore,Ms,88423314
+12246,Edward Xin,Bronze,,M,138.30,Singapore,Mr,89718154
+12247,Winifred Cheong,Bronze,,F,123.60,Singapore,Ms,86317131
+12248,Ella Yu,Silver,,F,681.50,Singapore,Ms,91220245
+12249,Clarence Jiang,Silver,,M,485.30,Singapore,Mr,90962725
+12250,Frederick Cheong,Bronze,,M,146.60,Singapore,Mr,88210743
+12251,Lilian Tan,Silver,,F,603.50,Singapore,Ms,91308766
+12252,Trevor Wen,Silver,,M,640.10,Singapore,Mr,88747162
+12253,Alfred Mu,Bronze,,M,245.70,Singapore,Mr,90334759
+12254,Ann Yeow,Gold,,F,908.70,Singapore,Ms,89580062
+12255,Iain Qin,Silver,,M,558.40,Singapore,Mr,88843339
+12256,Betty Neo,Silver,,F,378.60,Singapore,Ms,89835996
+12257,Oliver Fang,Silver,,M,544.80,Singapore,Mr,86988049
+12258,Rhys Yeow,Bronze,,M,252.20,Singapore,Mr,89995962
+12259,Brian Rao,Gold,,M,767.10,Singapore,Mr,88258263
+12260,Brandon Seah,Gold,,M,555.50,Singapore,Mr,87366205
+12261,Faisal Javed,Silver,,M,448.10,Singapore,Mr,89005420
+12262,Sufian Iqbal,Gold,,M,859.80,Singapore,Mr,91539327
+12263,Rodney Seah,Silver,,M,364.70,Singapore,Mr,93323076
+12264,Pavan Bhatti,Bronze,,M,78.70,Singapore,Mr,92473636
+12265,Ada Zhan,Silver,,F,660.60,Singapore,Ms,89590712
+12266,Kevin Sha,Bronze,,M,70.50,Singapore,Mr,88606631
+12267,Caitlin Jung,Silver,,F,418.00,Singapore,Ms,87879748
+12268,Daphne Phua,Bronze,,F,298.60,Singapore,Ms,91169077
+12269,Nicholas Lam,Silver,,M,400.80,Singapore,Mr,91833072
+12270,Jack Shao,Silver,,M,215.10,Singapore,Mr,92815804
+12271,Darren Ng,Bronze,,M,127.00,Singapore,Mr,92336320
+12272,Shaun Qi,Gold,,M,980.30,Singapore,Mr,91814873
+12273,Kevin Lim,Bronze,,M,7.90,Singapore,Mr,87107908
+12274,Lynda Meng,Bronze,,F,77.70,Singapore,Ms,91415415
+12275,Dominic Chiu,Silver,,M,345.60,Singapore,Mr,91298393
+12276,Rodney ,Bronze,,M,154.80,Singapore,Mr,93751885
+12277,Jane Yew,Bronze,,F,93.60,Singapore,Ms,90919425
+12278,Nicola Rao,Gold,,F,765.20,Singapore,Ms,87697638
+12279,Habeeba Ahmed,Bronze,,F,133.40,Singapore,Ms,90123357
+12280,Malcolm Eng,Bronze,,M,193.60,Singapore,Mr,91315714
+12281,Maria Seo,Bronze,,F,136.90,Singapore,Ms,88745605
+12282,Paul Chung,Silver,,M,650.20,Singapore,Mr,93640590
+12283,Anne Wu,Gold,,F,1433.80,Singapore,Ms,86581983
+12284,Maureen Fan,Silver,,F,330.40,Singapore,Ms,91830542
+12285,Michael Sha,Silver,,M,689.60,Singapore,Mr,91192039
+12286,Gladys Ng,Bronze,,F,107.90,Singapore,Ms,90243978
+12287,Malcolm Tong,Gold,,M,623.30,Singapore,Mr,88355903
+12288,Ethel Han,Bronze,,F,162.30,Singapore,Ms,92712749
+12289,Lilian Kuang,Gold,,F,976.80,Singapore,Ms,92042370
+12290,Patrick Lang,Silver,,M,598.10,Singapore,Mr,92047403
+12291,Dorothy Wang,Bronze,,F,286.60,Singapore,Ms,91811039
+12292,Andrew Pong,Bronze,,M,185.20,Singapore,Mr,86247152
+12293,Rachel Quek,Silver,,F,641.40,Singapore,Ms,90531234
+12294,Jodie Tham,Silver,,F,342.80,Singapore,Ms,93627293
+12295,Leigh Gong,Gold,,M,1132.50,Singapore,Mr,87159937
+12296,Prabhakar Bhavsar,Gold,,M,587.00,Singapore,Mr,88342788
+12297,Minnie Kung,Bronze,,F,43.30,Singapore,Ms,88973587
+12298,Simon Kee,Silver,,M,558.80,Singapore,Mr,86017342
+12299,Abbie Han,Silver,,F,522.60,Singapore,Ms,91423539
+12300,Anne Phang,Silver,,F,635.80,Singapore,Ms,90637229
+12301,Derek See,Bronze,,M,244.40,Singapore,Mr,91481301
+12302,James Chow,Bronze,,M,107.70,Singapore,Mr,86247044
+12303,Victor Lao,Bronze,,M,14.40,Singapore,Mr,91414456
+12304,Anita Jiang,Silver,,F,608.40,Singapore,Ms,89565743
+12305,Alma He,Silver,,F,284.20,Singapore,Ms,90546380
+12306,Anthony Dai,Bronze,,M,269.60,Singapore,Mr,90096652
+12307,William Chan,Silver,,M,208.60,Singapore,Mr,92303135
+12308,Glenn Xue,Gold,,M,782.60,Singapore,Mr,93823006
+12309,Gary Aung,Gold,,M,1179.90,Singapore,Mr,90878084
+12310,Mary Foong,Gold,,F,523.70,Singapore,Ms,93937262
+12311,Max Sim,Silver,,M,374.50,Singapore,Mr,88861712
+12312,Harry Lan,Silver,,M,388.00,Singapore,Mr,92616964
+12313,George Guo,Silver,,M,275.70,Singapore,Mr,87467023
+12314,Ricky Cui,Bronze,,M,57.70,Singapore,Mr,93398144
+12315,Clara Pang,Silver,,F,257.40,Singapore,Ms,90415602
+12316,Pauline Alsagoff,Silver,,F,544.90,Singapore,Ms,89329974
+12317,Maria Jia,Gold,,F,596.00,Singapore,Ms,87354655
+12318,Hilary He,Bronze,,F,87.20,Singapore,Ms,93718904
+12319,Peggy Sze,Silver,,F,489.80,Singapore,Ms,86023354
+12320,Trevor Mao,Gold,,M,1137.30,Singapore,Mr,87153597
+12321,Malcolm Woon,Silver,,M,249.70,Singapore,Mr,91160405
+12322,Gilbert Zhao,Bronze,,M,256.80,Singapore,Mr,90756863
+12323,Mark Quek,Bronze,,M,218.20,Singapore,Mr,92199431
+12324,Ajay Minhas,Silver,,M,513.30,Singapore,Mr,90542725
+12325,Aimee Wang,Silver,,F,518.10,Singapore,Ms,93833759
+12326,Ashley Lam,Silver,,M,303.60,Singapore,Mr,90305499
+12327,Martin Zheng,Silver,,M,317.40,Singapore,Mr,89937851
+12328,Jason Chui,Bronze,,M,161.70,Singapore,Mr,90452999
+12329,Ian Koh,Silver,,M,389.00,Singapore,Mr,89789660
+12330,Martin Tee,Bronze,,M,157.90,Singapore,Mr,88578114
+12331,Sajan Chand,Bronze,,M,228.70,Singapore,Mr,88049902
+12332,Gary Cao,Silver,,M,284.90,Singapore,Mr,87939123
+12333,Vincent Mao,Gold,,M,526.70,Singapore,Mr,92326509
+12334,Catherine Jie,Bronze,,F,37.70,Singapore,Ms,88459653
+12335,Luke Ku,Silver,,M,211.70,Singapore,Mr,90586927
+12336,Norma Lang,Bronze,,F,249.50,Singapore,Ms,89807995
+12337,Freda Lao,Silver,,F,402.50,Singapore,Ms,92516937
+12338,Kenneth Lee,Gold,,M,1320.70,Singapore,Mr,90083296
+12339,Courtney Xu,Silver,,F,537.50,Singapore,Ms,88077507
+12340,Deeba Abdulla,Silver,,F,480.50,Singapore,Ms,87982918
+12341,Keith Pei,Bronze,,M,187.20,Singapore,Mr,90397534
+12342,Alice Chan,Bronze,,F,193.80,Singapore,Ms,87118357
+12343,Benjamin Tan,Gold,,M,557.60,Singapore,Mr,89567524
+12344,Pauline Seo,Bronze,,F,61.10,Singapore,Ms,91561220
+12345,Leonard Mak,Bronze,,M,287.30,Singapore,Mr,87666787
+12346,Gordon Zhao,Bronze,,M,146.40,Singapore,Mr,93176010
+12347,Hrithik Behl,Silver,,M,358.20,Singapore,Mr,91231162
+12348,Richard Ling,Bronze,,M,278.90,Singapore,Mr,88908242
+12349,Christine Meng,Silver,,F,285.30,Singapore,Ms,92037190
+12350,Victoria Khoo,Bronze,,F,57.40,Singapore,Ms,89645399
+12351,Charles Cheong,Gold,,M,555.10,Singapore,Mr,91509755
+12352,Alexander Sin,Bronze,,M,102.70,Singapore,Mr,90120309
+12353,Leonard Quan,Silver,,M,508.80,Singapore,Mr,87304404
+12354,Sydney Phua,Gold,,M,1140.80,Singapore,Mr,93525482
+12355,Jessie Neo,Gold,,F,524.70,Singapore,Ms,87870281
+12356,Howard Tao,Gold,,M,599.10,Singapore,Mr,91600442
+12357,Royston Cheng,Bronze,,M,174.70,Singapore,Mr,89557023
+12358,Lydia Ng,Bronze,,F,165.60,Singapore,Ms,93385992
+12359,Irene Yew,Silver,,F,322.30,Singapore,Ms,90599841
+12360,Jason Zhang,Silver,,M,335.80,Singapore,Mr,86786614
+12361,Rashid Khan,Bronze,,M,90.50,Singapore,Mr,88773578
+12362,Khushi Gill,Bronze,,F,92.80,Singapore,Ms,86990813
+12363,Maureen Shao,Bronze,,F,292.70,Singapore,Ms,92620442
+12364,Dawoud Jamal,Bronze,,M,238.60,Singapore,Mr,91636630
+12365,Hugh Tan,Bronze,,M,272.20,Singapore,Mr,88473937
+12366,Kathryn Yuen,Bronze,,F,236.60,Singapore,Ms,86882981
+12367,Jean Chan,Silver,,F,279.20,Singapore,Ms,93708776
+12368,Iris Png,Bronze,,F,103.60,Singapore,Ms,89138618
+12369,Wendy Chong,Bronze,,F,146.70,Singapore,Ms,93826579
+12370,Bertram Wen,Gold,,M,628.70,Singapore,Mr,93906437
+12371,Phyllis Choo,Silver,,F,337.90,Singapore,Ms,91464798
+12372,Geoffrey Ng,Bronze,,M,10.10,Singapore,Mr,91158602
+12373,Heather Teng,Gold,,F,703.10,Singapore,Ms,91828182
+12374,Christina Pei,Silver,,F,518.90,Singapore,Ms,86607030
+12375,Patrick Min,Gold,,M,1055.20,Singapore,Mr,91006414
+12376,Leslie Kuang,Silver,,M,641.90,Singapore,Mr,87125519
+12377,Gertrude Teoh,Gold,,F,646.50,Singapore,Ms,89774012
+12378,Gertrude Seah,Bronze,,F,169.30,Singapore,Ms,88846790
+12379,Thomas Cheah,Silver,,M,399.40,Singapore,Mr,93115262
+12380,Justin Liu,Bronze,,M,256.40,Singapore,Mr,86861086
+12381,Robert Guo,Gold,,M,770.90,Singapore,Mr,90469793
+12382,Raymond Yew,Gold,,M,870.40,Singapore,Mr,89704291
+12383,Elliot Tee,Silver,,M,557.60,Singapore,Mr,89351484
+12384,Brett Chang,Silver,,M,356.50,Singapore,Mr,92225757
+12385,Mabel Tang,Gold,,F,647.20,Singapore,Ms,91587009
+12386,Deepak Bawa,Gold,,M,1154.60,Singapore,Mr,88593072
+12387,Brian Ooi,Silver,,M,491.40,Singapore,Mr,92017699
+12388,Steven Zhu,Bronze,,M,149.70,Singapore,Mr,91308519
+12389,Clive Sui,Gold,,M,1107.50,Singapore,Mr,93377009
+12390,Grace Chui,Bronze,,F,56.30,Singapore,Ms,86478035
+12391,Roger Yun,Silver,,M,328.60,Singapore,Mr,86749421
+12392,Eliza Goh,Silver,,F,280.90,Singapore,Ms,87318483
+12393,Hannah Han,Bronze,,F,158.30,Singapore,Ms,88568649
+12394,Stephen Wu,Bronze,,M,2.80,Singapore,Mr,88881010
+12395,Hannah Sato,Bronze,,F,207.20,Singapore,Ms,88875508
+12396,Stephen Choi,Gold,,M,1442.90,Singapore,Mr,87095647
+12397,Lawrence Gong,Gold,,M,733.80,Singapore,Mr,87216940
+12398,Karen Xie,Gold,,F,825.60,Singapore,Ms,86846214
+12399,Sally Seet,Silver,,F,329.40,Singapore,Ms,91383587
+12400,Harriet Lye,Bronze,,F,156.90,Singapore,Ms,90965306
+12401,Craig Chu,Bronze,,M,214.60,Singapore,Mr,91706846
+12402,Jesse Ye,Bronze,,F,276.10,Singapore,Ms,87332759
+12403,Anna Zhang,Bronze,,F,97.50,Singapore,Ms,90559181
+12404,Paul Yip,Bronze,,M,263.50,Singapore,Mr,86433716
+12405,Antony Soon,Silver,,M,609.50,Singapore,Mr,92247615
+12406,Elsie Chee,Bronze,,F,219.30,Singapore,Ms,93947189
+12407,Hugh Shao,Bronze,,M,98.90,Singapore,Mr,93629352
+12408,Victor Zhuang,Gold,,M,1002.10,Singapore,Mr,93169945
+12409,Jean Chew,Silver,,F,393.60,Singapore,Ms,88721319
+12410,Janet Sin,Gold,,F,1193.90,Singapore,Ms,90622995
+12411,Dorothy Lu,Silver,,F,475.40,Singapore,Ms,86645892
+12412,Jhansi Verma,Bronze,,F,246.80,Singapore,Ms,90139874
+12413,Betty Kuang,Gold,,F,1300.10,Singapore,Ms,88856755
+12414,Fanny Tang,Bronze,,F,192.80,Singapore,Ms,86422127
+12415,Thelma Kang,Gold,,F,1259.50,Singapore,Ms,87701082
+12416,,Silver,,M,373.50,Singapore,Mr,89758786
+12417,Nancy Kai,Silver,,F,490.40,Singapore,Ms,91647286
+12418,Barbara Zou,Silver,,F,473.70,Singapore,Ms,86976855
+12419,Josephine Zheng,Silver,,F,523.50,Singapore,Ms,93791856
+12420,Helen Ang,Bronze,,F,28.00,Singapore,Ms,92335060
+12421,Albert Tang,Silver,,M,218.60,Singapore,Mr,87852094
+12422,Gerald Cai,Bronze,,M,207.30,Singapore,Mr,88775791
+12423,Sara Lee,Bronze,,F,71.10,Singapore,Ms,92286845
+12424,Judith Cheng,Bronze,,F,140.70,Singapore,Ms,88259504
+12425,Barbara Chan,Bronze,,F,75.30,Singapore,Ms,86212405
+12426,Teresa Ow,Silver,,F,304.30,Singapore,Ms,93127694
+12427,Ryan Shen,Gold,,M,633.60,Singapore,Mr,90587712
+12428,Sahara Badal,Bronze,,F,145.30,Singapore,Ms,89784135
+12429,Violet Duan,Silver,,F,548.70,Singapore,Ms,88887761
+12430,Marc Yang,Gold,,M,888.70,Singapore,Mr,88502395
+12431,Carl Fung,Silver,,M,627.60,Singapore,Mr,89362890
+12432,Teresa Qin,Bronze,,F,80.60,Singapore,Ms,92921967
+12433,Gavin Lau,Silver,,M,548.40,Singapore,Mr,90828832
+12434,Iain Pang,Silver,,M,473.50,Singapore,Mr,91345216
+12435,Derrick Shin,Silver,,M,280.70,Singapore,Mr,89665128
+12436,Geraldine Sato,Bronze,,F,188.00,Singapore,Ms,89313329
+12437,Roland Chou,Bronze,,M,295.00,Singapore,Mr,87538290
+12438,Beryl Boon,Gold,,F,1295.80,Singapore,Ms,86969905
