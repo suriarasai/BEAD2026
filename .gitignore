@@ -177,3 +177,7 @@ cython_debug/
 .idea/vcs.xml
 .idea/workspace.xml
 PythonProject/.idea/vcs.xml
+PythonProject/.idea/copilot.data.migration.edit.xml
+PythonProject/.idea/copilot.data.migration.ask2agent.xml
+PythonProject/.idea/copilot.data.migration.ask.xml
+PythonProject/.idea/copilot.data.migration.agent.xml
