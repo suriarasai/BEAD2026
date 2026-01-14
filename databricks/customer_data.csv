@@ -1,0 +1,801 @@
+customer_id,first_name,last_name,email,phone,registration_date,city,state,age,segment,annual_income,email_subscribed
+CUST_0001,FirstName1,LastName1,customer1@email.com,+1-555-157-6299,2023-03-13,San Antonio,TX,62,Standard,98802,True
+CUST_0002,FirstName2,LastName2,customer2@email.com,+1-555-689-9968,2022-01-06,Dallas,TX,56,Premium,94852,True
+CUST_0003,FirstName3,LastName3,customer3@email.com,+1-555-287-2214,2022-01-10,Los Angeles,CA,22,Premium,116221,True
+CUST_0004,FirstName4,LastName4,customer4@email.com,+1-555-630-4136,2023-04-24,San Diego,CA,20,Standard,81241,True
+CUST_0005,FirstName5,LastName5,customer5@email.com,+1-555-192-7569,2023-12-26,Phoenix,AZ,37,Standard,61996,False
+CUST_0006,FirstName6,LastName6,customer6@email.com,+1-555-619-4056,2021-11-10,Houston,TX,48,Standard,63749,True
+CUST_0007,FirstName7,LastName7,customer7@email.com,+1-555-900-7553,2023-01-18,San Jose,CA,43,Basic,130664,False
+CUST_0008,FirstName8,LastName8,customer8@email.com,+1-555-622-4126,2021-04-24,New York,NY,19,Standard,132179,True
+CUST_0009,FirstName9,LastName9,customer9@email.com,+1-555-385-2033,2021-05-26,New York,NY,52,Standard,26620,True
+CUST_0010,FirstName10,LastName10,customer10@email.com,+1-555-270-9140,2023-04-15,Dallas,TX,35,Standard,116707,True
+CUST_0011,FirstName11,LastName11,customer11@email.com,+1-555-889-9599,2023-10-11,Houston,TX,57,Standard,130025,True
+CUST_0012,FirstName12,LastName12,customer12@email.com,+1-555-969-1236,2023-02-25,New York,NY,40,Standard,88865,True
+CUST_0013,FirstName13,LastName13,customer13@email.com,+1-555-718-2032,2023-06-25,San Diego,CA,21,Basic,93476,True
+CUST_0014,FirstName14,LastName14,customer14@email.com,+1-555-488-5942,2023-12-21,Dallas,TX,67,Premium,56283,True
+CUST_0015,FirstName15,LastName15,customer15@email.com,+1-555-468-7487,2023-10-15,San Diego,CA,45,Standard,28098,False
+CUST_0016,FirstName16,LastName16,customer16@email.com,+1-555-161-6181,2023-04-29,Phoenix,AZ,55,Premium,95423,True
+CUST_0017,FirstName17,LastName17,customer17@email.com,+1-555-787-4192,2022-08-29,Chicago,IL,30,Standard,106311,True
+CUST_0018,FirstName18,LastName18,customer18@email.com,+1-555-436-6095,2023-06-29,Philadelphia,PA,36,Basic,108265,True
+CUST_0019,FirstName19,LastName19,customer19@email.com,+1-555-552-4330,2022-04-03,Chicago,IL,55,Premium,36218,False
+CUST_0020,FirstName20,LastName20,customer20@email.com,+1-555-116-7439,2021-10-07,San Diego,CA,27,Premium,55614,True
+CUST_0021,FirstName21,LastName21,customer21@email.com,+1-555-134-2392,2022-01-10,San Diego,CA,46,Standard,129500,True
+CUST_0022,FirstName22,LastName22,customer22@email.com,+1-555-216-9471,2021-03-17,San Jose,CA,43,Standard,122204,True
+CUST_0023,FirstName23,LastName23,customer23@email.com,+1-555-933-2059,2023-10-15,Chicago,IL,20,Premium,129405,True
+CUST_0024,FirstName24,LastName24,customer24@email.com,+1-555-927-7748,2022-03-02,New York,NY,36,Standard,90516,True
+CUST_0025,FirstName25,LastName25,customer25@email.com,+1-555-569-9212,2022-05-22,San Jose,CA,53,Standard,131158,True
+CUST_0026,FirstName26,LastName26,customer26@email.com,+1-555-661-4678,2023-12-31,Houston,TX,40,Basic,92203,True
+CUST_0027,FirstName27,LastName27,customer27@email.com,+1-555-323-1973,2021-10-03,Chicago,IL,64,Standard,67903,False
+CUST_0028,FirstName28,LastName28,customer28@email.com,+1-555-496-4377,2021-01-14,Chicago,IL,31,Standard,94634,False
+CUST_0029,FirstName29,LastName29,customer29@email.com,+1-555-971-1494,2023-01-17,New York,NY,50,Premium,119835,False
+CUST_0030,FirstName30,LastName30,customer30@email.com,+1-555-563-1045,2023-10-18,Philadelphia,PA,29,Standard,92593,True
+CUST_0031,FirstName31,LastName31,customer31@email.com,+1-555-841-9831,2022-10-11,New York,NY,57,Premium,113241,True
+CUST_0032,FirstName32,LastName32,customer32@email.com,+1-555-647-4427,2023-05-03,Chicago,IL,42,Basic,61365,True
+CUST_0033,FirstName33,LastName33,customer33@email.com,+1-555-872-9135,2021-11-26,Los Angeles,CA,63,Premium,141475,False
+CUST_0034,FirstName34,LastName34,customer34@email.com,+1-555-879-3050,2023-02-13,Houston,TX,61,Standard,112780,False
+CUST_0035,FirstName35,LastName35,customer35@email.com,+1-555-428-6506,2021-08-03,Phoenix,AZ,25,Standard,38515,False
+CUST_0036,FirstName36,LastName36,customer36@email.com,+1-555-435-4774,2021-08-05,Phoenix,AZ,59,Standard,29429,True
+CUST_0037,FirstName37,LastName37,customer37@email.com,+1-555-341-1641,2021-11-28,Phoenix,AZ,52,Basic,80746,True
+CUST_0038,FirstName38,LastName38,customer38@email.com,+1-555-628-4343,2022-04-03,New York,NY,26,Standard,34416,True
+CUST_0039,FirstName39,LastName39,customer39@email.com,+1-555-652-3446,2022-01-28,San Antonio,TX,19,Standard,28591,True
+CUST_0040,FirstName40,LastName40,customer40@email.com,+1-555-454-3631,2021-05-14,Phoenix,AZ,67,Basic,142025,True
+CUST_0041,FirstName41,LastName41,customer41@email.com,+1-555-246-5422,2023-10-16,San Diego,CA,48,Standard,132917,False
+CUST_0042,FirstName42,LastName42,customer42@email.com,+1-555-527-9584,2023-05-18,New York,NY,37,Basic,27395,True
+CUST_0043,FirstName43,LastName43,customer43@email.com,+1-555-899-7792,2023-11-17,San Diego,CA,37,Standard,57577,True
+CUST_0044,FirstName44,LastName44,customer44@email.com,+1-555-860-9254,2021-06-15,New York,NY,52,Basic,30965,False
+CUST_0045,FirstName45,LastName45,customer45@email.com,+1-555-725-9408,2021-06-01,Houston,TX,21,Standard,40330,False
+CUST_0046,FirstName46,LastName46,customer46@email.com,+1-555-654-2080,2022-12-09,Los Angeles,CA,53,Standard,107641,True
+CUST_0047,FirstName47,LastName47,customer47@email.com,+1-555-264-6190,2022-10-02,San Jose,CA,29,Premium,41473,True
+CUST_0048,FirstName48,LastName48,customer48@email.com,+1-555-993-9437,2022-08-31,San Jose,CA,33,Basic,49220,False
+CUST_0049,FirstName49,LastName49,customer49@email.com,+1-555-851-8041,2023-11-06,New York,NY,32,Basic,132012,False
+CUST_0050,FirstName50,LastName50,customer50@email.com,+1-555-499-2526,2022-09-04,New York,NY,58,Basic,71111,False
+CUST_0051,FirstName51,LastName51,customer51@email.com,+1-555-717-1500,2021-06-23,Houston,TX,29,Basic,114460,False
+CUST_0052,FirstName52,LastName52,customer52@email.com,+1-555-831-6190,2022-11-28,Los Angeles,CA,26,Basic,69788,False
+CUST_0053,FirstName53,LastName53,customer53@email.com,+1-555-248-8053,2021-02-15,Philadelphia,PA,19,Standard,77076,True
+CUST_0054,FirstName54,LastName54,customer54@email.com,+1-555-873-7387,2023-05-19,Dallas,TX,43,Standard,113552,True
+CUST_0055,FirstName55,LastName55,customer55@email.com,+1-555-206-4154,2022-02-01,San Diego,CA,55,Standard,62569,True
+CUST_0056,FirstName56,LastName56,customer56@email.com,+1-555-831-5289,2021-08-03,Dallas,TX,47,Standard,96713,True
+CUST_0057,FirstName57,LastName57,customer57@email.com,+1-555-790-9783,2021-11-21,San Diego,CA,30,Basic,115995,True
+CUST_0058,FirstName58,LastName58,customer58@email.com,+1-555-885-5506,2021-10-31,San Diego,CA,45,Basic,127067,True
+CUST_0059,FirstName59,LastName59,customer59@email.com,+1-555-893-6659,2023-01-03,Dallas,TX,58,Premium,63051,True
+CUST_0060,FirstName60,LastName60,customer60@email.com,+1-555-687-3292,2022-04-07,Chicago,IL,49,Standard,68769,False
+CUST_0061,FirstName61,LastName61,customer61@email.com,+1-555-155-5886,2023-04-10,Houston,TX,34,Premium,110447,True
+CUST_0062,FirstName62,LastName62,customer62@email.com,+1-555-177-5090,2022-11-29,Los Angeles,CA,32,Standard,28743,True
+CUST_0063,FirstName63,LastName63,customer63@email.com,+1-555-285-1226,2023-05-15,Dallas,TX,33,Standard,128022,True
+CUST_0064,FirstName64,LastName64,customer64@email.com,+1-555-719-6280,2023-07-16,Houston,TX,50,Basic,75897,True
+CUST_0065,FirstName65,LastName65,customer65@email.com,+1-555-129-9664,2022-04-08,San Jose,CA,62,Premium,49815,False
+CUST_0066,FirstName66,LastName66,customer66@email.com,+1-555-434-9503,2021-09-26,San Diego,CA,21,Standard,123075,True
+CUST_0067,FirstName67,LastName67,customer67@email.com,+1-555-278-8017,2021-09-06,San Jose,CA,45,Standard,104434,False
+CUST_0068,FirstName68,LastName68,customer68@email.com,+1-555-396-2331,2022-03-21,San Antonio,TX,36,Standard,72024,False
+CUST_0069,FirstName69,LastName69,customer69@email.com,+1-555-521-4611,2023-12-26,San Diego,CA,45,Basic,102681,True
+CUST_0070,FirstName70,LastName70,customer70@email.com,+1-555-725-3122,2021-11-13,Phoenix,AZ,27,Basic,117545,False
+CUST_0071,FirstName71,LastName71,customer71@email.com,+1-555-453-5130,2021-07-18,Houston,TX,51,Basic,109766,True
+CUST_0072,FirstName72,LastName72,customer72@email.com,+1-555-891-3899,2022-06-15,Houston,TX,56,Standard,38222,False
+CUST_0073,FirstName73,LastName73,customer73@email.com,+1-555-220-3466,2022-11-06,San Antonio,TX,47,Basic,134934,False
+CUST_0074,FirstName74,LastName74,customer74@email.com,+1-555-113-9120,2023-02-24,New York,NY,67,Standard,34404,True
+CUST_0075,FirstName75,LastName75,customer75@email.com,+1-555-981-4055,2023-05-14,Houston,TX,31,Basic,136186,False
+CUST_0076,FirstName76,LastName76,customer76@email.com,+1-555-182-8723,2022-09-06,New York,NY,21,Basic,139250,False
+CUST_0077,FirstName77,LastName77,customer77@email.com,+1-555-401-6386,2022-04-10,San Diego,CA,48,Premium,148447,True
+CUST_0078,FirstName78,LastName78,customer78@email.com,+1-555-509-6767,2021-01-21,San Jose,CA,56,Basic,84719,True
+CUST_0079,FirstName79,LastName79,customer79@email.com,+1-555-698-5314,2022-05-26,Dallas,TX,39,Standard,35236,False
+CUST_0080,FirstName80,LastName80,customer80@email.com,+1-555-720-9772,2023-04-12,Los Angeles,CA,50,Basic,41108,True
+CUST_0081,FirstName81,LastName81,customer81@email.com,+1-555-207-6698,2021-07-08,New York,NY,63,Standard,129775,True
+CUST_0082,FirstName82,LastName82,customer82@email.com,+1-555-992-4490,2021-10-29,San Diego,CA,56,Basic,60843,False
+CUST_0083,FirstName83,LastName83,customer83@email.com,+1-555-744-2764,2022-04-13,Chicago,IL,37,Standard,102089,True
+CUST_0084,FirstName84,LastName84,customer84@email.com,+1-555-488-4835,2022-09-30,Philadelphia,PA,67,Standard,31862,True
+CUST_0085,FirstName85,LastName85,customer85@email.com,+1-555-368-2043,2022-12-27,Houston,TX,19,Basic,79774,False
+CUST_0086,FirstName86,LastName86,customer86@email.com,+1-555-617-5227,2023-06-09,Philadelphia,PA,39,Premium,146574,True
+CUST_0087,FirstName87,LastName87,customer87@email.com,+1-555-742-5014,2023-03-06,San Antonio,TX,50,Basic,126711,True
+CUST_0088,FirstName88,LastName88,customer88@email.com,+1-555-370-5237,2023-09-02,San Diego,CA,31,Premium,32248,True
+CUST_0089,FirstName89,LastName89,customer89@email.com,+1-555-138-9115,2022-04-10,San Diego,CA,49,Standard,141680,False
+CUST_0090,FirstName90,LastName90,customer90@email.com,+1-555-290-1446,2021-06-29,New York,NY,34,Standard,80779,True
+CUST_0091,FirstName91,LastName91,customer91@email.com,+1-555-197-4980,2021-04-26,San Antonio,TX,40,Standard,148573,True
+CUST_0092,FirstName92,LastName92,customer92@email.com,+1-555-122-2128,2022-05-10,Houston,TX,52,Standard,106696,True
+CUST_0093,FirstName93,LastName93,customer93@email.com,+1-555-321-7998,2023-07-30,Chicago,IL,32,Standard,45557,True
+CUST_0094,FirstName94,LastName94,customer94@email.com,+1-555-542-3324,2023-11-08,Philadelphia,PA,57,Premium,101289,True
+CUST_0095,FirstName95,LastName95,customer95@email.com,+1-555-923-1362,2023-03-18,Philadelphia,PA,64,Basic,126559,False
+CUST_0096,FirstName96,LastName96,customer96@email.com,+1-555-588-8195,2021-02-25,Philadelphia,PA,24,Standard,99935,True
+CUST_0097,FirstName97,LastName97,customer97@email.com,+1-555-359-1925,2021-02-10,Houston,TX,41,Standard,129887,True
+CUST_0098,FirstName98,LastName98,customer98@email.com,+1-555-235-6302,2023-09-13,Philadelphia,PA,22,Standard,85252,True
+CUST_0099,FirstName99,LastName99,customer99@email.com,+1-555-638-2331,2023-08-14,Los Angeles,CA,21,Standard,35534,True
+CUST_0100,FirstName100,LastName100,customer100@email.com,+1-555-827-1071,2023-03-17,Houston,TX,45,Standard,115875,True
+CUST_0101,FirstName101,LastName101,customer101@email.com,+1-555-300-4832,2022-07-01,New York,NY,52,Standard,119182,False
+CUST_0102,FirstName102,LastName102,customer102@email.com,+1-555-478-4831,2022-07-14,Philadelphia,PA,66,Standard,104232,True
+CUST_0103,FirstName103,LastName103,customer103@email.com,+1-555-124-7911,2023-10-29,Philadelphia,PA,68,Standard,42868,True
+CUST_0104,FirstName104,LastName104,customer104@email.com,+1-555-477-5682,2022-03-13,Los Angeles,CA,57,Standard,145769,True
+CUST_0105,FirstName105,LastName105,customer105@email.com,+1-555-463-4856,2023-11-29,San Jose,CA,24,Basic,96718,True
+CUST_0106,FirstName106,LastName106,customer106@email.com,+1-555-931-7238,2023-03-30,Houston,TX,42,Premium,71996,True
+CUST_0107,FirstName107,LastName107,customer107@email.com,+1-555-915-6674,2023-01-24,San Diego,CA,69,Basic,107516,True
+CUST_0108,FirstName108,LastName108,customer108@email.com,+1-555-534-2395,2022-09-19,Los Angeles,CA,68,Standard,123756,False
+CUST_0109,FirstName109,LastName109,customer109@email.com,+1-555-338-5348,2022-08-07,San Antonio,TX,38,Standard,72664,True
+CUST_0110,FirstName110,LastName110,customer110@email.com,+1-555-933-6196,2021-03-13,San Antonio,TX,40,Basic,80420,True
+CUST_0111,FirstName111,LastName111,customer111@email.com,+1-555-690-8702,2021-06-10,Los Angeles,CA,59,Basic,45471,False
+CUST_0112,FirstName112,LastName112,customer112@email.com,+1-555-984-3049,2023-02-15,Philadelphia,PA,58,Standard,116057,True
+CUST_0113,FirstName113,LastName113,customer113@email.com,+1-555-392-7266,2021-06-29,Phoenix,AZ,52,Basic,123092,True
+CUST_0114,FirstName114,LastName114,customer114@email.com,+1-555-731-8962,2023-02-04,Los Angeles,CA,24,Standard,101700,True
+CUST_0115,FirstName115,LastName115,customer115@email.com,+1-555-758-6278,2021-04-17,Houston,TX,26,Premium,37196,True
+CUST_0116,FirstName116,LastName116,customer116@email.com,+1-555-597-2620,2023-06-15,Los Angeles,CA,50,Basic,63187,True
+CUST_0117,FirstName117,LastName117,customer117@email.com,+1-555-411-2301,2022-01-21,San Antonio,TX,63,Basic,99474,True
+CUST_0118,FirstName118,LastName118,customer118@email.com,+1-555-144-6440,2023-04-19,New York,NY,28,Basic,72458,False
+CUST_0119,FirstName119,LastName119,customer119@email.com,+1-555-573-4833,2022-09-05,Dallas,TX,29,Standard,61059,True
+CUST_0120,FirstName120,LastName120,customer120@email.com,+1-555-541-5968,2023-05-01,Phoenix,AZ,44,Premium,64386,True
+CUST_0121,FirstName121,LastName121,customer121@email.com,+1-555-669-9014,2022-05-17,San Jose,CA,34,Basic,57152,True
+CUST_0122,FirstName122,LastName122,customer122@email.com,+1-555-936-8190,2021-08-05,San Diego,CA,69,Standard,88797,True
+CUST_0123,FirstName123,LastName123,customer123@email.com,+1-555-549-9756,2022-10-08,Philadelphia,PA,52,Basic,124728,True
+CUST_0124,FirstName124,LastName124,customer124@email.com,+1-555-874-3318,2022-02-10,Philadelphia,PA,49,Basic,111978,True
+CUST_0125,FirstName125,LastName125,customer125@email.com,+1-555-437-9702,2023-04-14,Dallas,TX,30,Standard,39219,True
+CUST_0126,FirstName126,LastName126,customer126@email.com,+1-555-539-2575,2022-07-15,Phoenix,AZ,60,Standard,51567,True
+CUST_0127,FirstName127,LastName127,customer127@email.com,+1-555-944-3613,2021-02-02,San Antonio,TX,66,Standard,127735,True
+CUST_0128,FirstName128,LastName128,customer128@email.com,+1-555-445-9384,2021-12-25,San Jose,CA,49,Standard,124059,False
+CUST_0129,FirstName129,LastName129,customer129@email.com,+1-555-752-3333,2022-04-23,San Jose,CA,19,Premium,103443,False
+CUST_0130,FirstName130,LastName130,customer130@email.com,+1-555-687-4414,2021-02-19,Philadelphia,PA,47,Standard,31457,True
+CUST_0131,FirstName131,LastName131,customer131@email.com,+1-555-263-8664,2022-07-23,San Jose,CA,51,Basic,56821,False
+CUST_0132,FirstName132,LastName132,customer132@email.com,+1-555-979-9259,2021-09-27,Los Angeles,CA,18,Standard,71458,False
+CUST_0133,FirstName133,LastName133,customer133@email.com,+1-555-742-2125,2022-05-23,Dallas,TX,43,Basic,31565,True
+CUST_0134,FirstName134,LastName134,customer134@email.com,+1-555-842-4232,2022-04-23,San Diego,CA,50,Standard,94001,False
+CUST_0135,FirstName135,LastName135,customer135@email.com,+1-555-393-6755,2022-04-07,Houston,TX,38,Standard,130056,True
+CUST_0136,FirstName136,LastName136,customer136@email.com,+1-555-910-3606,2023-06-14,Chicago,IL,52,Premium,58948,True
+CUST_0137,FirstName137,LastName137,customer137@email.com,+1-555-756-6922,2022-01-31,Los Angeles,CA,27,Standard,126096,True
+CUST_0138,FirstName138,LastName138,customer138@email.com,+1-555-467-3685,2021-01-15,Chicago,IL,38,Basic,56419,True
+CUST_0139,FirstName139,LastName139,customer139@email.com,+1-555-300-7004,2021-01-05,San Antonio,TX,35,Standard,36755,True
+CUST_0140,FirstName140,LastName140,customer140@email.com,+1-555-268-1791,2022-08-09,Chicago,IL,57,Standard,113287,True
+CUST_0141,FirstName141,LastName141,customer141@email.com,+1-555-603-8408,2021-02-13,Dallas,TX,51,Standard,94329,True
+CUST_0142,FirstName142,LastName142,customer142@email.com,+1-555-139-7446,2022-08-21,Los Angeles,CA,58,Basic,94139,False
+CUST_0143,FirstName143,LastName143,customer143@email.com,+1-555-379-4811,2021-09-01,Houston,TX,53,Standard,71619,True
+CUST_0144,FirstName144,LastName144,customer144@email.com,+1-555-190-7533,2022-12-20,Houston,TX,52,Standard,44362,True
+CUST_0145,FirstName145,LastName145,customer145@email.com,+1-555-798-7211,2023-11-28,Houston,TX,53,Basic,49911,True
+CUST_0146,FirstName146,LastName146,customer146@email.com,+1-555-313-4447,2023-02-18,Los Angeles,CA,41,Standard,88001,True
+CUST_0147,FirstName147,LastName147,customer147@email.com,+1-555-158-2285,2022-09-26,Philadelphia,PA,51,Premium,108805,False
+CUST_0148,FirstName148,LastName148,customer148@email.com,+1-555-731-4022,2023-07-12,Dallas,TX,42,Premium,124851,False
+CUST_0149,FirstName149,LastName149,customer149@email.com,+1-555-444-2757,2021-04-19,San Antonio,TX,27,Standard,104180,True
+CUST_0150,FirstName150,LastName150,customer150@email.com,+1-555-290-1932,2023-07-26,Dallas,TX,31,Premium,122095,False
+CUST_0151,FirstName151,LastName151,customer151@email.com,+1-555-538-1743,2022-07-20,Chicago,IL,50,Premium,132026,True
+CUST_0152,FirstName152,LastName152,customer152@email.com,+1-555-284-8506,2022-07-16,San Diego,CA,68,Standard,55041,True
+CUST_0153,FirstName153,LastName153,customer153@email.com,+1-555-894-3479,2021-06-05,Chicago,IL,69,Basic,25434,True
+CUST_0154,FirstName154,LastName154,customer154@email.com,+1-555-974-4959,2021-03-10,New York,NY,25,Basic,136145,True
+CUST_0155,FirstName155,LastName155,customer155@email.com,+1-555-468-7867,2021-02-20,Houston,TX,33,Premium,85669,True
+CUST_0156,FirstName156,LastName156,customer156@email.com,+1-555-784-4221,2021-09-13,Los Angeles,CA,57,Standard,131941,True
+CUST_0157,FirstName157,LastName157,customer157@email.com,+1-555-668-6608,2023-01-25,Philadelphia,PA,40,Premium,97008,True
+CUST_0158,FirstName158,LastName158,customer158@email.com,+1-555-984-8230,2023-10-03,San Antonio,TX,42,Standard,77798,True
+CUST_0159,FirstName159,LastName159,customer159@email.com,+1-555-324-2600,2023-04-27,San Antonio,TX,22,Standard,70291,False
+CUST_0160,FirstName160,LastName160,customer160@email.com,+1-555-127-7030,2022-11-16,San Jose,CA,23,Basic,85611,True
+CUST_0161,FirstName161,LastName161,customer161@email.com,+1-555-198-6309,2023-11-20,Los Angeles,CA,29,Basic,40389,True
+CUST_0162,FirstName162,LastName162,customer162@email.com,+1-555-459-6774,2022-07-26,Philadelphia,PA,35,Premium,130583,False
+CUST_0163,FirstName163,LastName163,customer163@email.com,+1-555-598-4217,2023-11-11,New York,NY,54,Basic,88115,True
+CUST_0164,FirstName164,LastName164,customer164@email.com,+1-555-484-7457,2022-04-13,Dallas,TX,20,Standard,132412,False
+CUST_0165,FirstName165,LastName165,customer165@email.com,+1-555-610-6491,2021-12-05,San Antonio,TX,36,Standard,77442,True
+CUST_0166,FirstName166,LastName166,customer166@email.com,+1-555-900-6267,2021-01-27,Los Angeles,CA,57,Basic,61025,False
+CUST_0167,FirstName167,LastName167,customer167@email.com,+1-555-492-3126,2023-09-09,Dallas,TX,30,Basic,145591,True
+CUST_0168,FirstName168,LastName168,customer168@email.com,+1-555-709-3861,2022-04-19,Philadelphia,PA,60,Basic,82389,False
+CUST_0169,FirstName169,LastName169,customer169@email.com,+1-555-642-3567,2021-07-17,Houston,TX,26,Premium,77275,True
+CUST_0170,FirstName170,LastName170,customer170@email.com,+1-555-984-5962,2023-07-27,New York,NY,64,Premium,43693,True
+CUST_0171,FirstName171,LastName171,customer171@email.com,+1-555-797-2976,2021-12-23,Chicago,IL,26,Basic,125794,True
+CUST_0172,FirstName172,LastName172,customer172@email.com,+1-555-967-8425,2021-10-13,Houston,TX,53,Standard,66457,False
+CUST_0173,FirstName173,LastName173,customer173@email.com,+1-555-131-4681,2022-12-06,Los Angeles,CA,60,Standard,32501,True
+CUST_0174,FirstName174,LastName174,customer174@email.com,+1-555-512-4090,2021-09-27,San Antonio,TX,44,Basic,47564,True
+CUST_0175,FirstName175,LastName175,customer175@email.com,+1-555-127-1831,2021-07-04,San Diego,CA,35,Premium,46699,True
+CUST_0176,FirstName176,LastName176,customer176@email.com,+1-555-307-2286,2021-09-21,San Diego,CA,34,Basic,133245,True
+CUST_0177,FirstName177,LastName177,customer177@email.com,+1-555-273-3478,2022-12-23,San Diego,CA,32,Standard,129132,True
+CUST_0178,FirstName178,LastName178,customer178@email.com,+1-555-204-1693,2021-09-01,Dallas,TX,44,Basic,28491,True
+CUST_0179,FirstName179,LastName179,customer179@email.com,+1-555-811-6973,2023-03-29,New York,NY,35,Standard,79091,False
+CUST_0180,FirstName180,LastName180,customer180@email.com,+1-555-266-4657,2023-04-17,Los Angeles,CA,64,Basic,109731,True
+CUST_0181,FirstName181,LastName181,customer181@email.com,+1-555-818-5329,2022-11-23,Houston,TX,41,Standard,62869,True
+CUST_0182,FirstName182,LastName182,customer182@email.com,+1-555-344-3765,2022-06-06,New York,NY,19,Basic,104386,True
+CUST_0183,FirstName183,LastName183,customer183@email.com,+1-555-697-5118,2021-04-28,Dallas,TX,24,Basic,137666,False
+CUST_0184,FirstName184,LastName184,customer184@email.com,+1-555-874-9283,2021-07-18,San Diego,CA,36,Basic,74451,True
+CUST_0185,FirstName185,LastName185,customer185@email.com,+1-555-380-2082,2022-10-09,Philadelphia,PA,30,Standard,100093,False
+CUST_0186,FirstName186,LastName186,customer186@email.com,+1-555-161-9967,2021-12-08,Los Angeles,CA,66,Basic,39039,True
+CUST_0187,FirstName187,LastName187,customer187@email.com,+1-555-869-6825,2023-10-11,San Jose,CA,44,Premium,115726,False
+CUST_0188,FirstName188,LastName188,customer188@email.com,+1-555-511-8021,2023-04-04,San Antonio,TX,42,Premium,143819,True
+CUST_0189,FirstName189,LastName189,customer189@email.com,+1-555-929-8215,2023-11-07,San Antonio,TX,22,Basic,138005,True
+CUST_0190,FirstName190,LastName190,customer190@email.com,+1-555-530-7118,2023-08-03,San Diego,CA,44,Basic,117529,False
+CUST_0191,FirstName191,LastName191,customer191@email.com,+1-555-839-2774,2022-07-22,Dallas,TX,32,Standard,42229,True
+CUST_0192,FirstName192,LastName192,customer192@email.com,+1-555-173-8802,2022-09-10,Houston,TX,41,Standard,33155,False
+CUST_0193,FirstName193,LastName193,customer193@email.com,+1-555-682-8816,2021-07-12,New York,NY,33,Basic,119075,True
+CUST_0194,FirstName194,LastName194,customer194@email.com,+1-555-880-4722,2023-05-07,Dallas,TX,69,Standard,88140,True
+CUST_0195,FirstName195,LastName195,customer195@email.com,+1-555-964-9031,2023-09-14,Houston,TX,25,Premium,58895,True
+CUST_0196,FirstName196,LastName196,customer196@email.com,+1-555-467-3808,2021-10-27,San Antonio,TX,39,Basic,29297,True
+CUST_0197,FirstName197,LastName197,customer197@email.com,+1-555-897-1793,2022-04-09,New York,NY,63,Standard,92156,False
+CUST_0198,FirstName198,LastName198,customer198@email.com,+1-555-972-1191,2023-05-22,Phoenix,AZ,62,Standard,108323,True
+CUST_0199,FirstName199,LastName199,customer199@email.com,+1-555-476-6761,2022-12-06,Phoenix,AZ,49,Standard,68381,False
+CUST_0200,FirstName200,LastName200,customer200@email.com,+1-555-449-7831,2023-03-10,Chicago,IL,23,Standard,110180,False
+CUST_0201,FirstName201,LastName201,customer201@email.com,+1-555-163-7556,2022-03-02,Los Angeles,CA,20,Standard,116544,True
+CUST_0202,FirstName202,LastName202,customer202@email.com,+1-555-183-8061,2022-05-21,Dallas,TX,46,Basic,59364,True
+CUST_0203,FirstName203,LastName203,customer203@email.com,+1-555-856-9509,2022-11-11,New York,NY,56,Premium,112812,True
+CUST_0204,FirstName204,LastName204,customer204@email.com,+1-555-169-8327,2023-09-13,Phoenix,AZ,65,Basic,93078,False
+CUST_0205,FirstName205,LastName205,customer205@email.com,+1-555-407-7026,2023-04-15,Los Angeles,CA,42,Premium,104637,True
+CUST_0206,FirstName206,LastName206,customer206@email.com,+1-555-322-2772,2022-12-16,Chicago,IL,25,Basic,142353,True
+CUST_0207,FirstName207,LastName207,customer207@email.com,+1-555-631-3696,2021-11-03,Houston,TX,33,Standard,32704,True
+CUST_0208,FirstName208,LastName208,customer208@email.com,+1-555-649-2140,2021-02-28,Dallas,TX,36,Standard,69436,True
+CUST_0209,FirstName209,LastName209,customer209@email.com,+1-555-597-1941,2023-03-16,Phoenix,AZ,33,Basic,34966,True
+CUST_0210,FirstName210,LastName210,customer210@email.com,+1-555-459-6248,2022-03-12,San Diego,CA,49,Basic,75802,True
+CUST_0211,FirstName211,LastName211,customer211@email.com,+1-555-691-6894,2021-08-02,Houston,TX,24,Basic,119593,False
+CUST_0212,FirstName212,LastName212,customer212@email.com,+1-555-360-1703,2022-01-24,San Diego,CA,46,Standard,106008,False
+CUST_0213,FirstName213,LastName213,customer213@email.com,+1-555-377-9865,2023-11-26,Chicago,IL,34,Premium,47455,True
+CUST_0214,FirstName214,LastName214,customer214@email.com,+1-555-309-1498,2022-04-21,Dallas,TX,35,Basic,97781,False
+CUST_0215,FirstName215,LastName215,customer215@email.com,+1-555-307-6630,2021-02-27,Los Angeles,CA,34,Basic,81289,False
+CUST_0216,FirstName216,LastName216,customer216@email.com,+1-555-720-2067,2023-06-18,Chicago,IL,52,Premium,34859,True
+CUST_0217,FirstName217,LastName217,customer217@email.com,+1-555-393-9143,2023-11-08,Chicago,IL,37,Standard,123475,False
+CUST_0218,FirstName218,LastName218,customer218@email.com,+1-555-288-5076,2021-03-07,San Jose,CA,47,Standard,84314,True
+CUST_0219,FirstName219,LastName219,customer219@email.com,+1-555-460-3377,2023-08-02,New York,NY,35,Premium,145120,False
+CUST_0220,FirstName220,LastName220,customer220@email.com,+1-555-909-4030,2021-03-20,Dallas,TX,69,Standard,128909,True
+CUST_0221,FirstName221,LastName221,customer221@email.com,+1-555-459-7260,2021-10-24,San Antonio,TX,54,Premium,133982,True
+CUST_0222,FirstName222,LastName222,customer222@email.com,+1-555-863-2073,2022-06-06,San Antonio,TX,61,Standard,28599,False
+CUST_0223,FirstName223,LastName223,customer223@email.com,+1-555-130-4055,2023-11-20,Los Angeles,CA,30,Standard,129817,False
+CUST_0224,FirstName224,LastName224,customer224@email.com,+1-555-326-5466,2021-04-07,Philadelphia,PA,53,Basic,149982,True
+CUST_0225,FirstName225,LastName225,customer225@email.com,+1-555-357-4177,2022-02-28,San Antonio,TX,53,Premium,28881,True
+CUST_0226,FirstName226,LastName226,customer226@email.com,+1-555-430-5784,2022-08-22,Los Angeles,CA,19,Standard,146649,True
+CUST_0227,FirstName227,LastName227,customer227@email.com,+1-555-311-9283,2023-06-30,Dallas,TX,42,Basic,98563,False
+CUST_0228,FirstName228,LastName228,customer228@email.com,+1-555-977-3977,2023-08-28,San Jose,CA,53,Standard,77044,True
+CUST_0229,FirstName229,LastName229,customer229@email.com,+1-555-789-7141,2022-10-01,San Jose,CA,55,Standard,62193,True
+CUST_0230,FirstName230,LastName230,customer230@email.com,+1-555-566-8120,2023-04-29,Philadelphia,PA,41,Basic,81441,True
+CUST_0231,FirstName231,LastName231,customer231@email.com,+1-555-433-6539,2023-10-03,Houston,TX,23,Basic,126140,False
+CUST_0232,FirstName232,LastName232,customer232@email.com,+1-555-283-3846,2021-09-07,San Diego,CA,44,Standard,51008,True
+CUST_0233,FirstName233,LastName233,customer233@email.com,+1-555-364-1782,2022-09-19,San Diego,CA,53,Standard,63623,False
+CUST_0234,FirstName234,LastName234,customer234@email.com,+1-555-906-8813,2022-11-08,Chicago,IL,36,Basic,83704,True
+CUST_0235,FirstName235,LastName235,customer235@email.com,+1-555-718-2110,2022-10-01,San Jose,CA,20,Standard,83513,True
+CUST_0236,FirstName236,LastName236,customer236@email.com,+1-555-277-9056,2022-11-29,Philadelphia,PA,32,Standard,135228,False
+CUST_0237,FirstName237,LastName237,customer237@email.com,+1-555-112-8726,2022-05-15,San Jose,CA,40,Basic,83334,True
+CUST_0238,FirstName238,LastName238,customer238@email.com,+1-555-440-7196,2021-09-09,Chicago,IL,19,Basic,31734,True
+CUST_0239,FirstName239,LastName239,customer239@email.com,+1-555-246-8851,2021-07-17,San Antonio,TX,18,Premium,28692,True
+CUST_0240,FirstName240,LastName240,customer240@email.com,+1-555-432-7106,2023-11-02,Philadelphia,PA,55,Standard,121819,True
+CUST_0241,FirstName241,LastName241,customer241@email.com,+1-555-906-2064,2021-04-15,Los Angeles,CA,61,Standard,61725,True
+CUST_0242,FirstName242,LastName242,customer242@email.com,+1-555-629-2500,2021-09-21,New York,NY,49,Standard,77433,True
+CUST_0243,FirstName243,LastName243,customer243@email.com,+1-555-104-8959,2022-11-07,New York,NY,34,Basic,97144,True
+CUST_0244,FirstName244,LastName244,customer244@email.com,+1-555-370-7500,2021-05-05,Philadelphia,PA,32,Premium,128576,True
+CUST_0245,FirstName245,LastName245,customer245@email.com,+1-555-549-4871,2022-05-18,Philadelphia,PA,38,Basic,55802,False
+CUST_0246,FirstName246,LastName246,customer246@email.com,+1-555-389-9530,2023-01-08,Houston,TX,26,Basic,129268,False
+CUST_0247,FirstName247,LastName247,customer247@email.com,+1-555-364-3006,2022-11-17,San Diego,CA,53,Standard,143018,True
+CUST_0248,FirstName248,LastName248,customer248@email.com,+1-555-203-9432,2023-07-13,San Antonio,TX,62,Basic,32883,True
+CUST_0249,FirstName249,LastName249,customer249@email.com,+1-555-882-5055,2023-03-25,Chicago,IL,69,Standard,118885,True
+CUST_0250,FirstName250,LastName250,customer250@email.com,+1-555-507-9709,2023-12-28,Houston,TX,48,Basic,72310,True
+CUST_0251,FirstName251,LastName251,customer251@email.com,+1-555-469-2376,2022-01-22,San Jose,CA,65,Standard,83249,False
+CUST_0252,FirstName252,LastName252,customer252@email.com,+1-555-239-2976,2023-08-21,Phoenix,AZ,61,Basic,130899,True
+CUST_0253,FirstName253,LastName253,customer253@email.com,+1-555-987-9046,2022-02-04,Phoenix,AZ,29,Standard,75235,True
+CUST_0254,FirstName254,LastName254,customer254@email.com,+1-555-172-2099,2023-05-25,Phoenix,AZ,31,Basic,110333,False
+CUST_0255,FirstName255,LastName255,customer255@email.com,+1-555-801-6125,2021-09-16,San Jose,CA,23,Standard,135996,True
+CUST_0256,FirstName256,LastName256,customer256@email.com,+1-555-963-5105,2021-03-31,San Diego,CA,40,Basic,106046,True
+CUST_0257,FirstName257,LastName257,customer257@email.com,+1-555-154-9737,2021-01-30,Phoenix,AZ,58,Standard,59837,False
+CUST_0258,FirstName258,LastName258,customer258@email.com,+1-555-371-2811,2022-09-09,Phoenix,AZ,60,Standard,74777,True
+CUST_0259,FirstName259,LastName259,customer259@email.com,+1-555-494-9142,2021-07-26,Phoenix,AZ,46,Premium,130155,True
+CUST_0260,FirstName260,LastName260,customer260@email.com,+1-555-963-9359,2023-05-05,Chicago,IL,55,Standard,43366,True
+CUST_0261,FirstName261,LastName261,customer261@email.com,+1-555-370-1343,2023-12-11,San Jose,CA,29,Standard,34449,True
+CUST_0262,FirstName262,LastName262,customer262@email.com,+1-555-755-5988,2021-09-24,Philadelphia,PA,26,Premium,99642,True
+CUST_0263,FirstName263,LastName263,customer263@email.com,+1-555-345-6977,2022-04-29,Phoenix,AZ,25,Standard,43642,True
+CUST_0264,FirstName264,LastName264,customer264@email.com,+1-555-812-3493,2021-03-27,San Antonio,TX,61,Standard,66091,True
+CUST_0265,FirstName265,LastName265,customer265@email.com,+1-555-146-3804,2023-09-15,Philadelphia,PA,28,Basic,112063,False
+CUST_0266,FirstName266,LastName266,customer266@email.com,+1-555-385-8680,2021-12-06,Phoenix,AZ,39,Basic,145388,False
+CUST_0267,FirstName267,LastName267,customer267@email.com,+1-555-448-5507,2022-08-26,San Diego,CA,33,Basic,126771,False
+CUST_0268,FirstName268,LastName268,customer268@email.com,+1-555-536-1703,2022-11-05,San Antonio,TX,40,Standard,96792,True
+CUST_0269,FirstName269,LastName269,customer269@email.com,+1-555-884-1305,2023-07-25,Chicago,IL,43,Standard,84547,True
+CUST_0270,FirstName270,LastName270,customer270@email.com,+1-555-896-3670,2022-02-07,Philadelphia,PA,49,Basic,82520,True
+CUST_0271,FirstName271,LastName271,customer271@email.com,+1-555-406-1750,2021-10-28,Chicago,IL,54,Standard,81586,True
+CUST_0272,FirstName272,LastName272,customer272@email.com,+1-555-166-6768,2022-04-28,Philadelphia,PA,45,Standard,62850,True
+CUST_0273,FirstName273,LastName273,customer273@email.com,+1-555-504-2725,2021-02-07,Phoenix,AZ,63,Basic,33496,False
+CUST_0274,FirstName274,LastName274,customer274@email.com,+1-555-820-3807,2021-08-21,Phoenix,AZ,56,Standard,145989,True
+CUST_0275,FirstName275,LastName275,customer275@email.com,+1-555-680-3567,2021-08-05,Dallas,TX,66,Standard,62690,True
+CUST_0276,FirstName276,LastName276,customer276@email.com,+1-555-410-6274,2023-04-27,Houston,TX,30,Standard,40797,False
+CUST_0277,FirstName277,LastName277,customer277@email.com,+1-555-243-7598,2021-02-08,San Jose,CA,65,Standard,146754,True
+CUST_0278,FirstName278,LastName278,customer278@email.com,+1-555-306-5029,2022-01-10,Chicago,IL,67,Standard,68826,True
+CUST_0279,FirstName279,LastName279,customer279@email.com,+1-555-387-2593,2022-12-02,San Diego,CA,56,Standard,45529,True
+CUST_0280,FirstName280,LastName280,customer280@email.com,+1-555-761-3612,2023-05-04,Chicago,IL,38,Standard,26908,False
+CUST_0281,FirstName281,LastName281,customer281@email.com,+1-555-665-8681,2023-05-31,San Antonio,TX,21,Premium,95499,True
+CUST_0282,FirstName282,LastName282,customer282@email.com,+1-555-660-8815,2022-08-24,San Jose,CA,45,Basic,130620,False
+CUST_0283,FirstName283,LastName283,customer283@email.com,+1-555-115-2129,2022-06-04,Phoenix,AZ,44,Basic,53305,False
+CUST_0284,FirstName284,LastName284,customer284@email.com,+1-555-958-6200,2021-11-04,Phoenix,AZ,57,Standard,31385,True
+CUST_0285,FirstName285,LastName285,customer285@email.com,+1-555-460-9424,2022-12-05,Phoenix,AZ,51,Standard,124254,True
+CUST_0286,FirstName286,LastName286,customer286@email.com,+1-555-902-3944,2022-12-19,Philadelphia,PA,65,Basic,49892,True
+CUST_0287,FirstName287,LastName287,customer287@email.com,+1-555-957-8518,2022-10-30,Los Angeles,CA,44,Basic,38065,True
+CUST_0288,FirstName288,LastName288,customer288@email.com,+1-555-790-3688,2022-06-12,Houston,TX,44,Basic,30149,False
+CUST_0289,FirstName289,LastName289,customer289@email.com,+1-555-525-6891,2022-11-08,New York,NY,32,Standard,70511,True
+CUST_0290,FirstName290,LastName290,customer290@email.com,+1-555-722-4037,2021-03-20,San Antonio,TX,59,Standard,35222,True
+CUST_0291,FirstName291,LastName291,customer291@email.com,+1-555-137-6581,2022-01-22,Chicago,IL,65,Standard,115352,False
+CUST_0292,FirstName292,LastName292,customer292@email.com,+1-555-397-3779,2022-07-16,Philadelphia,PA,29,Standard,108597,False
+CUST_0293,FirstName293,LastName293,customer293@email.com,+1-555-181-8211,2023-02-19,Houston,TX,19,Standard,31416,True
+CUST_0294,FirstName294,LastName294,customer294@email.com,+1-555-157-3612,2023-03-01,Chicago,IL,18,Standard,122507,True
+CUST_0295,FirstName295,LastName295,customer295@email.com,+1-555-920-2995,2023-02-05,Los Angeles,CA,27,Standard,105636,True
+CUST_0296,FirstName296,LastName296,customer296@email.com,+1-555-314-9590,2023-11-13,Houston,TX,43,Standard,45860,True
+CUST_0297,FirstName297,LastName297,customer297@email.com,+1-555-555-9360,2021-10-22,San Diego,CA,23,Premium,65078,True
+CUST_0298,FirstName298,LastName298,customer298@email.com,+1-555-396-8123,2021-08-19,Dallas,TX,27,Premium,117995,True
+CUST_0299,FirstName299,LastName299,customer299@email.com,+1-555-292-1400,2021-03-19,Dallas,TX,62,Standard,55982,True
+CUST_0300,FirstName300,LastName300,customer300@email.com,+1-555-621-2824,2021-09-16,Phoenix,AZ,63,Standard,135853,False
+CUST_0301,FirstName301,LastName301,customer301@email.com,+1-555-964-8868,2022-09-23,San Diego,CA,21,Standard,130372,True
+CUST_0302,FirstName302,LastName302,customer302@email.com,+1-555-724-5312,2022-12-28,Los Angeles,CA,18,Standard,114934,True
+CUST_0303,FirstName303,LastName303,customer303@email.com,+1-555-488-6153,2021-02-06,Philadelphia,PA,56,Standard,115941,True
+CUST_0304,FirstName304,LastName304,customer304@email.com,+1-555-700-7903,2023-06-18,San Antonio,TX,20,Standard,60249,True
+CUST_0305,FirstName305,LastName305,customer305@email.com,+1-555-650-4684,2021-02-01,San Antonio,TX,69,Basic,94187,True
+CUST_0306,FirstName306,LastName306,customer306@email.com,+1-555-176-5830,2021-09-27,Los Angeles,CA,50,Standard,72387,True
+CUST_0307,FirstName307,LastName307,customer307@email.com,+1-555-255-1016,2022-06-28,Dallas,TX,40,Standard,75697,True
+CUST_0308,FirstName308,LastName308,customer308@email.com,+1-555-319-4240,2021-04-26,Chicago,IL,32,Standard,81105,True
+CUST_0309,FirstName309,LastName309,customer309@email.com,+1-555-682-9347,2023-05-27,New York,NY,55,Standard,115576,True
+CUST_0310,FirstName310,LastName310,customer310@email.com,+1-555-430-2374,2021-08-08,Phoenix,AZ,21,Standard,94939,True
+CUST_0311,FirstName311,LastName311,customer311@email.com,+1-555-896-4892,2021-08-10,Houston,TX,46,Standard,126553,False
+CUST_0312,FirstName312,LastName312,customer312@email.com,+1-555-332-3379,2022-11-14,San Jose,CA,47,Premium,66120,True
+CUST_0313,FirstName313,LastName313,customer313@email.com,+1-555-996-5592,2021-10-05,Phoenix,AZ,60,Standard,103478,True
+CUST_0314,FirstName314,LastName314,customer314@email.com,+1-555-131-5281,2022-03-14,Philadelphia,PA,63,Basic,54945,True
+CUST_0315,FirstName315,LastName315,customer315@email.com,+1-555-101-8361,2021-10-06,San Antonio,TX,55,Standard,111940,False
+CUST_0316,FirstName316,LastName316,customer316@email.com,+1-555-682-1284,2022-01-15,Chicago,IL,54,Basic,35467,False
+CUST_0317,FirstName317,LastName317,customer317@email.com,+1-555-917-5800,2022-06-12,Los Angeles,CA,35,Basic,85135,True
+CUST_0318,FirstName318,LastName318,customer318@email.com,+1-555-820-3731,2022-05-19,New York,NY,27,Premium,65455,False
+CUST_0319,FirstName319,LastName319,customer319@email.com,+1-555-857-2795,2023-01-06,Chicago,IL,61,Standard,106363,False
+CUST_0320,FirstName320,LastName320,customer320@email.com,+1-555-380-7947,2021-02-24,San Jose,CA,24,Basic,84886,True
+CUST_0321,FirstName321,LastName321,customer321@email.com,+1-555-307-6458,2022-03-10,Dallas,TX,21,Standard,119576,True
+CUST_0322,FirstName322,LastName322,customer322@email.com,+1-555-656-7387,2022-02-27,Dallas,TX,31,Basic,106288,True
+CUST_0323,FirstName323,LastName323,customer323@email.com,+1-555-951-5167,2021-06-27,Phoenix,AZ,49,Basic,51296,True
+CUST_0324,FirstName324,LastName324,customer324@email.com,+1-555-962-9490,2021-08-09,San Jose,CA,46,Standard,52115,True
+CUST_0325,FirstName325,LastName325,customer325@email.com,+1-555-785-8225,2023-12-07,Phoenix,AZ,48,Standard,145055,True
+CUST_0326,FirstName326,LastName326,customer326@email.com,+1-555-861-2436,2023-07-15,Chicago,IL,67,Standard,115485,False
+CUST_0327,FirstName327,LastName327,customer327@email.com,+1-555-641-7212,2021-06-05,San Jose,CA,52,Standard,147238,True
+CUST_0328,FirstName328,LastName328,customer328@email.com,+1-555-190-6543,2021-03-04,Houston,TX,46,Basic,109117,True
+CUST_0329,FirstName329,LastName329,customer329@email.com,+1-555-215-5799,2023-05-31,Phoenix,AZ,21,Standard,149713,True
+CUST_0330,FirstName330,LastName330,customer330@email.com,+1-555-115-9302,2021-11-22,San Antonio,TX,57,Standard,60194,False
+CUST_0331,FirstName331,LastName331,customer331@email.com,+1-555-766-6316,2021-09-26,Houston,TX,68,Premium,54954,True
+CUST_0332,FirstName332,LastName332,customer332@email.com,+1-555-801-7229,2022-01-25,San Jose,CA,41,Basic,127517,True
+CUST_0333,FirstName333,LastName333,customer333@email.com,+1-555-139-2184,2023-06-01,San Antonio,TX,42,Premium,137734,True
+CUST_0334,FirstName334,LastName334,customer334@email.com,+1-555-565-5383,2023-08-31,San Jose,CA,50,Standard,39735,True
+CUST_0335,FirstName335,LastName335,customer335@email.com,+1-555-563-5854,2021-05-16,San Jose,CA,28,Standard,28773,True
+CUST_0336,FirstName336,LastName336,customer336@email.com,+1-555-948-5127,2023-03-17,San Jose,CA,25,Basic,81503,False
+CUST_0337,FirstName337,LastName337,customer337@email.com,+1-555-970-5681,2021-03-15,San Antonio,TX,53,Standard,123417,False
+CUST_0338,FirstName338,LastName338,customer338@email.com,+1-555-337-2196,2021-11-26,Chicago,IL,32,Basic,125956,False
+CUST_0339,FirstName339,LastName339,customer339@email.com,+1-555-365-8054,2022-07-16,New York,NY,61,Standard,111843,True
+CUST_0340,FirstName340,LastName340,customer340@email.com,+1-555-713-9754,2022-01-15,San Jose,CA,53,Basic,40154,True
+CUST_0341,FirstName341,LastName341,customer341@email.com,+1-555-830-5352,2021-07-24,Dallas,TX,34,Standard,45449,True
+CUST_0342,FirstName342,LastName342,customer342@email.com,+1-555-358-3087,2021-07-06,New York,NY,42,Premium,128841,True
+CUST_0343,FirstName343,LastName343,customer343@email.com,+1-555-632-6084,2021-01-09,Houston,TX,42,Premium,103872,True
+CUST_0344,FirstName344,LastName344,customer344@email.com,+1-555-924-3596,2022-12-03,San Jose,CA,33,Standard,114751,False
+CUST_0345,FirstName345,LastName345,customer345@email.com,+1-555-970-6267,2022-10-11,San Antonio,TX,40,Basic,42245,True
+CUST_0346,FirstName346,LastName346,customer346@email.com,+1-555-761-2622,2021-04-23,San Antonio,TX,32,Standard,43316,False
+CUST_0347,FirstName347,LastName347,customer347@email.com,+1-555-506-3656,2022-04-11,San Diego,CA,51,Premium,129162,True
+CUST_0348,FirstName348,LastName348,customer348@email.com,+1-555-723-6962,2023-02-21,Los Angeles,CA,30,Standard,33758,True
+CUST_0349,FirstName349,LastName349,customer349@email.com,+1-555-279-6905,2022-08-19,San Jose,CA,44,Basic,74769,True
+CUST_0350,FirstName350,LastName350,customer350@email.com,+1-555-280-1468,2021-06-11,San Antonio,TX,35,Standard,119467,True
+CUST_0351,FirstName351,LastName351,customer351@email.com,+1-555-944-4006,2022-06-21,San Diego,CA,44,Basic,84184,True
+CUST_0352,FirstName352,LastName352,customer352@email.com,+1-555-356-2191,2023-05-01,Houston,TX,34,Premium,133558,True
+CUST_0353,FirstName353,LastName353,customer353@email.com,+1-555-515-1304,2021-10-31,San Antonio,TX,21,Premium,133931,False
+CUST_0354,FirstName354,LastName354,customer354@email.com,+1-555-804-9366,2022-03-31,Dallas,TX,23,Basic,84331,True
+CUST_0355,FirstName355,LastName355,customer355@email.com,+1-555-427-9783,2023-01-28,Chicago,IL,52,Standard,130626,True
+CUST_0356,FirstName356,LastName356,customer356@email.com,+1-555-947-7441,2021-12-29,Phoenix,AZ,63,Premium,104314,False
+CUST_0357,FirstName357,LastName357,customer357@email.com,+1-555-983-4956,2022-10-12,Phoenix,AZ,43,Standard,142782,True
+CUST_0358,FirstName358,LastName358,customer358@email.com,+1-555-375-4675,2023-06-24,New York,NY,61,Standard,118847,False
+CUST_0359,FirstName359,LastName359,customer359@email.com,+1-555-976-5848,2023-07-05,Dallas,TX,34,Standard,73402,True
+CUST_0360,FirstName360,LastName360,customer360@email.com,+1-555-869-3940,2023-05-15,San Jose,CA,21,Basic,49283,True
+CUST_0361,FirstName361,LastName361,customer361@email.com,+1-555-192-5355,2022-04-16,San Diego,CA,55,Premium,96442,True
+CUST_0362,FirstName362,LastName362,customer362@email.com,+1-555-471-9261,2022-04-29,Chicago,IL,40,Basic,107174,True
+CUST_0363,FirstName363,LastName363,customer363@email.com,+1-555-794-7356,2022-11-23,San Diego,CA,48,Basic,82443,True
+CUST_0364,FirstName364,LastName364,customer364@email.com,+1-555-574-9303,2021-11-04,Philadelphia,PA,40,Premium,86196,True
+CUST_0365,FirstName365,LastName365,customer365@email.com,+1-555-554-3285,2021-03-31,San Diego,CA,56,Basic,78974,True
+CUST_0366,FirstName366,LastName366,customer366@email.com,+1-555-501-8149,2023-10-19,San Jose,CA,27,Standard,145473,False
+CUST_0367,FirstName367,LastName367,customer367@email.com,+1-555-145-7673,2021-07-16,New York,NY,30,Premium,122031,True
+CUST_0368,FirstName368,LastName368,customer368@email.com,+1-555-787-5670,2021-12-01,Dallas,TX,57,Standard,112054,False
+CUST_0369,FirstName369,LastName369,customer369@email.com,+1-555-418-8559,2022-04-23,Dallas,TX,48,Standard,25366,False
+CUST_0370,FirstName370,LastName370,customer370@email.com,+1-555-562-1012,2022-01-13,Houston,TX,41,Standard,90499,False
+CUST_0371,FirstName371,LastName371,customer371@email.com,+1-555-800-1256,2022-01-11,Dallas,TX,42,Basic,106439,False
+CUST_0372,FirstName372,LastName372,customer372@email.com,+1-555-251-9026,2021-02-01,San Diego,CA,21,Basic,75460,True
+CUST_0373,FirstName373,LastName373,customer373@email.com,+1-555-247-5016,2022-06-26,San Jose,CA,54,Standard,115027,False
+CUST_0374,FirstName374,LastName374,customer374@email.com,+1-555-964-1398,2023-01-18,New York,NY,34,Premium,93531,True
+CUST_0375,FirstName375,LastName375,customer375@email.com,+1-555-570-1160,2022-05-22,Dallas,TX,50,Basic,61672,True
+CUST_0376,FirstName376,LastName376,customer376@email.com,+1-555-922-5880,2022-12-05,Dallas,TX,38,Standard,74282,True
+CUST_0377,FirstName377,LastName377,customer377@email.com,+1-555-840-5876,2022-06-20,San Jose,CA,61,Standard,71994,False
+CUST_0378,FirstName378,LastName378,customer378@email.com,+1-555-825-4044,2022-08-11,Houston,TX,47,Standard,44420,True
+CUST_0379,FirstName379,LastName379,customer379@email.com,+1-555-885-2210,2023-01-11,San Jose,CA,44,Premium,35046,True
+CUST_0380,FirstName380,LastName380,customer380@email.com,+1-555-186-9125,2023-03-13,Philadelphia,PA,21,Premium,70452,False
+CUST_0381,FirstName381,LastName381,customer381@email.com,+1-555-274-7023,2022-07-15,San Diego,CA,41,Standard,31360,True
+CUST_0382,FirstName382,LastName382,customer382@email.com,+1-555-618-1268,2023-10-13,San Diego,CA,44,Premium,96011,True
+CUST_0383,FirstName383,LastName383,customer383@email.com,+1-555-736-1500,2023-09-09,New York,NY,69,Standard,106256,True
+CUST_0384,FirstName384,LastName384,customer384@email.com,+1-555-728-7613,2023-11-04,San Diego,CA,35,Standard,101202,True
+CUST_0385,FirstName385,LastName385,customer385@email.com,+1-555-345-3436,2022-05-30,Houston,TX,27,Basic,104199,True
+CUST_0386,FirstName386,LastName386,customer386@email.com,+1-555-766-6718,2022-04-05,Phoenix,AZ,50,Premium,129639,False
+CUST_0387,FirstName387,LastName387,customer387@email.com,+1-555-276-7704,2022-03-04,San Diego,CA,66,Standard,84998,True
+CUST_0388,FirstName388,LastName388,customer388@email.com,+1-555-975-9389,2021-06-28,New York,NY,26,Basic,46148,False
+CUST_0389,FirstName389,LastName389,customer389@email.com,+1-555-894-8943,2021-03-13,Houston,TX,38,Standard,140158,True
+CUST_0390,FirstName390,LastName390,customer390@email.com,+1-555-287-3954,2023-08-27,San Antonio,TX,32,Basic,39860,True
+CUST_0391,FirstName391,LastName391,customer391@email.com,+1-555-617-2343,2023-02-14,San Diego,CA,56,Standard,122813,True
+CUST_0392,FirstName392,LastName392,customer392@email.com,+1-555-804-7542,2023-05-02,San Antonio,TX,43,Standard,115488,True
+CUST_0393,FirstName393,LastName393,customer393@email.com,+1-555-688-4477,2022-08-30,Chicago,IL,32,Standard,51671,True
+CUST_0394,FirstName394,LastName394,customer394@email.com,+1-555-229-5389,2021-06-22,San Jose,CA,57,Basic,132535,False
+CUST_0395,FirstName395,LastName395,customer395@email.com,+1-555-870-3555,2023-10-01,Philadelphia,PA,19,Standard,90994,True
+CUST_0396,FirstName396,LastName396,customer396@email.com,+1-555-353-2920,2022-09-18,New York,NY,61,Standard,96834,True
+CUST_0397,FirstName397,LastName397,customer397@email.com,+1-555-641-5310,2023-11-17,Chicago,IL,19,Premium,32711,True
+CUST_0398,FirstName398,LastName398,customer398@email.com,+1-555-654-7627,2023-07-28,Chicago,IL,34,Basic,107168,True
+CUST_0399,FirstName399,LastName399,customer399@email.com,+1-555-885-5930,2023-05-29,San Diego,CA,56,Basic,89435,False
+CUST_0400,FirstName400,LastName400,customer400@email.com,+1-555-893-1677,2023-04-03,New York,NY,39,Basic,131948,True
+CUST_0401,FirstName401,LastName401,customer401@email.com,+1-555-214-5146,2023-09-22,Dallas,TX,66,Standard,41139,True
+CUST_0402,FirstName402,LastName402,customer402@email.com,+1-555-949-8980,2023-06-07,Philadelphia,PA,39,Premium,132954,True
+CUST_0403,FirstName403,LastName403,customer403@email.com,+1-555-699-2853,2022-10-25,Houston,TX,67,Standard,26868,False
+CUST_0404,FirstName404,LastName404,customer404@email.com,+1-555-218-8089,2023-06-22,New York,NY,41,Premium,43940,True
+CUST_0405,FirstName405,LastName405,customer405@email.com,+1-555-557-3021,2021-05-29,Phoenix,AZ,23,Basic,35473,False
+CUST_0406,FirstName406,LastName406,customer406@email.com,+1-555-494-1713,2021-07-16,Dallas,TX,34,Basic,49798,True
+CUST_0407,FirstName407,LastName407,customer407@email.com,+1-555-356-1653,2022-06-14,Los Angeles,CA,25,Standard,48118,False
+CUST_0408,FirstName408,LastName408,customer408@email.com,+1-555-440-3857,2022-07-28,New York,NY,18,Basic,118749,False
+CUST_0409,FirstName409,LastName409,customer409@email.com,+1-555-249-3737,2021-02-08,San Antonio,TX,62,Standard,26607,False
+CUST_0410,FirstName410,LastName410,customer410@email.com,+1-555-686-7333,2021-09-01,Philadelphia,PA,50,Basic,34047,True
+CUST_0411,FirstName411,LastName411,customer411@email.com,+1-555-182-6783,2023-04-10,Phoenix,AZ,51,Standard,74336,True
+CUST_0412,FirstName412,LastName412,customer412@email.com,+1-555-734-2002,2021-09-21,New York,NY,45,Standard,89320,True
+CUST_0413,FirstName413,LastName413,customer413@email.com,+1-555-493-2617,2022-10-07,San Jose,CA,38,Standard,30250,True
+CUST_0414,FirstName414,LastName414,customer414@email.com,+1-555-683-4600,2023-02-01,New York,NY,26,Standard,86040,True
+CUST_0415,FirstName415,LastName415,customer415@email.com,+1-555-857-1282,2021-04-21,San Antonio,TX,25,Standard,104566,True
+CUST_0416,FirstName416,LastName416,customer416@email.com,+1-555-441-8409,2023-12-07,Los Angeles,CA,27,Standard,62664,False
+CUST_0417,FirstName417,LastName417,customer417@email.com,+1-555-624-7276,2023-03-25,Houston,TX,69,Standard,105869,True
+CUST_0418,FirstName418,LastName418,customer418@email.com,+1-555-158-3636,2022-09-09,San Jose,CA,61,Premium,142302,True
+CUST_0419,FirstName419,LastName419,customer419@email.com,+1-555-184-4797,2023-06-23,Houston,TX,68,Standard,47820,True
+CUST_0420,FirstName420,LastName420,customer420@email.com,+1-555-128-4190,2023-02-26,New York,NY,69,Premium,86572,True
+CUST_0421,FirstName421,LastName421,customer421@email.com,+1-555-633-4787,2022-10-08,New York,NY,21,Standard,114023,False
+CUST_0422,FirstName422,LastName422,customer422@email.com,+1-555-846-5852,2023-07-22,San Jose,CA,57,Basic,70704,True
+CUST_0423,FirstName423,LastName423,customer423@email.com,+1-555-727-3054,2023-09-19,Chicago,IL,47,Standard,43226,False
+CUST_0424,FirstName424,LastName424,customer424@email.com,+1-555-672-9313,2021-03-14,San Jose,CA,64,Standard,77189,True
+CUST_0425,FirstName425,LastName425,customer425@email.com,+1-555-437-9128,2022-12-03,Dallas,TX,20,Standard,76567,True
+CUST_0426,FirstName426,LastName426,customer426@email.com,+1-555-652-6003,2022-12-22,Dallas,TX,46,Basic,96779,True
+CUST_0427,FirstName427,LastName427,customer427@email.com,+1-555-945-7437,2021-12-15,Houston,TX,34,Basic,141003,True
+CUST_0428,FirstName428,LastName428,customer428@email.com,+1-555-972-7659,2022-04-29,Dallas,TX,46,Premium,31661,True
+CUST_0429,FirstName429,LastName429,customer429@email.com,+1-555-982-1064,2022-02-27,New York,NY,18,Basic,63892,True
+CUST_0430,FirstName430,LastName430,customer430@email.com,+1-555-793-7659,2023-03-12,Philadelphia,PA,40,Standard,40064,False
+CUST_0431,FirstName431,LastName431,customer431@email.com,+1-555-474-6619,2022-08-09,Chicago,IL,69,Standard,137192,True
+CUST_0432,FirstName432,LastName432,customer432@email.com,+1-555-916-6397,2023-07-03,Los Angeles,CA,39,Premium,108336,False
+CUST_0433,FirstName433,LastName433,customer433@email.com,+1-555-859-4597,2023-08-17,Philadelphia,PA,50,Basic,87408,True
+CUST_0434,FirstName434,LastName434,customer434@email.com,+1-555-997-4490,2022-12-28,Chicago,IL,53,Standard,140675,True
+CUST_0435,FirstName435,LastName435,customer435@email.com,+1-555-873-7301,2021-09-17,San Jose,CA,63,Premium,116626,True
+CUST_0436,FirstName436,LastName436,customer436@email.com,+1-555-678-4959,2023-01-16,San Jose,CA,43,Basic,145026,True
+CUST_0437,FirstName437,LastName437,customer437@email.com,+1-555-446-5911,2022-03-29,San Diego,CA,47,Standard,138018,True
+CUST_0438,FirstName438,LastName438,customer438@email.com,+1-555-183-1191,2022-03-04,Los Angeles,CA,58,Standard,96428,False
+CUST_0439,FirstName439,LastName439,customer439@email.com,+1-555-205-2941,2021-05-16,Philadelphia,PA,63,Standard,48908,True
+CUST_0440,FirstName440,LastName440,customer440@email.com,+1-555-634-3121,2022-01-24,Chicago,IL,22,Basic,49657,True
+CUST_0441,FirstName441,LastName441,customer441@email.com,+1-555-613-2878,2023-09-18,Phoenix,AZ,49,Premium,73447,False
+CUST_0442,FirstName442,LastName442,customer442@email.com,+1-555-693-6852,2022-10-02,San Antonio,TX,40,Premium,94806,False
+CUST_0443,FirstName443,LastName443,customer443@email.com,+1-555-162-2783,2021-12-14,New York,NY,56,Standard,42426,True
+CUST_0444,FirstName444,LastName444,customer444@email.com,+1-555-936-2234,2022-09-25,San Diego,CA,18,Standard,108514,True
+CUST_0445,FirstName445,LastName445,customer445@email.com,+1-555-268-1968,2023-08-13,Phoenix,AZ,67,Standard,51720,True
+CUST_0446,FirstName446,LastName446,customer446@email.com,+1-555-965-9734,2023-12-17,San Jose,CA,69,Standard,37197,False
+CUST_0447,FirstName447,LastName447,customer447@email.com,+1-555-321-3555,2023-06-23,San Jose,CA,37,Premium,92271,True
+CUST_0448,FirstName448,LastName448,customer448@email.com,+1-555-964-5840,2021-08-14,San Diego,CA,62,Basic,124546,True
+CUST_0449,FirstName449,LastName449,customer449@email.com,+1-555-947-8160,2022-03-28,New York,NY,48,Basic,36123,False
+CUST_0450,FirstName450,LastName450,customer450@email.com,+1-555-947-3025,2023-05-15,Phoenix,AZ,32,Standard,111743,True
+CUST_0451,FirstName451,LastName451,customer451@email.com,+1-555-932-1539,2022-08-27,New York,NY,53,Basic,47343,True
+CUST_0452,FirstName452,LastName452,customer452@email.com,+1-555-173-3758,2022-07-17,New York,NY,29,Standard,73720,True
+CUST_0453,FirstName453,LastName453,customer453@email.com,+1-555-147-3364,2023-02-21,Los Angeles,CA,34,Standard,37864,True
+CUST_0454,FirstName454,LastName454,customer454@email.com,+1-555-854-9594,2023-11-26,Chicago,IL,60,Premium,100955,True
+CUST_0455,FirstName455,LastName455,customer455@email.com,+1-555-225-1062,2023-08-01,Houston,TX,29,Premium,112858,True
+CUST_0456,FirstName456,LastName456,customer456@email.com,+1-555-148-9849,2021-02-03,New York,NY,46,Standard,142720,True
+CUST_0457,FirstName457,LastName457,customer457@email.com,+1-555-109-6796,2021-11-11,Philadelphia,PA,50,Standard,70693,True
+CUST_0458,FirstName458,LastName458,customer458@email.com,+1-555-725-8700,2021-03-29,San Antonio,TX,37,Standard,94336,True
+CUST_0459,FirstName459,LastName459,customer459@email.com,+1-555-843-9433,2023-06-30,San Diego,CA,23,Standard,97651,True
+CUST_0460,FirstName460,LastName460,customer460@email.com,+1-555-514-4368,2023-02-20,New York,NY,43,Standard,49942,False
+CUST_0461,FirstName461,LastName461,customer461@email.com,+1-555-631-4521,2022-03-16,Los Angeles,CA,53,Basic,41277,True
+CUST_0462,FirstName462,LastName462,customer462@email.com,+1-555-775-5477,2022-08-31,Houston,TX,50,Standard,34457,False
+CUST_0463,FirstName463,LastName463,customer463@email.com,+1-555-518-2653,2023-07-16,Philadelphia,PA,24,Standard,87325,True
+CUST_0464,FirstName464,LastName464,customer464@email.com,+1-555-961-7940,2021-03-28,Dallas,TX,48,Standard,138810,True
+CUST_0465,FirstName465,LastName465,customer465@email.com,+1-555-222-5789,2023-08-19,Dallas,TX,25,Premium,95886,False
+CUST_0466,FirstName466,LastName466,customer466@email.com,+1-555-375-3959,2021-05-10,Houston,TX,20,Standard,37342,True
+CUST_0467,FirstName467,LastName467,customer467@email.com,+1-555-864-9833,2023-11-16,Dallas,TX,68,Standard,54473,True
+CUST_0468,FirstName468,LastName468,customer468@email.com,+1-555-917-4480,2022-07-21,Houston,TX,37,Standard,67381,False
+CUST_0469,FirstName469,LastName469,customer469@email.com,+1-555-303-3372,2023-10-01,San Antonio,TX,19,Standard,91909,True
+CUST_0470,FirstName470,LastName470,customer470@email.com,+1-555-912-3482,2023-08-15,Philadelphia,PA,59,Standard,32837,True
+CUST_0471,FirstName471,LastName471,customer471@email.com,+1-555-802-8142,2023-06-10,Phoenix,AZ,28,Standard,48412,True
+CUST_0472,FirstName472,LastName472,customer472@email.com,+1-555-794-5021,2021-03-26,San Antonio,TX,64,Standard,99490,True
+CUST_0473,FirstName473,LastName473,customer473@email.com,+1-555-783-3846,2023-10-02,Los Angeles,CA,47,Standard,46021,True
+CUST_0474,FirstName474,LastName474,customer474@email.com,+1-555-652-3732,2022-12-09,Phoenix,AZ,27,Standard,124997,True
+CUST_0475,FirstName475,LastName475,customer475@email.com,+1-555-971-8166,2021-03-26,Phoenix,AZ,62,Standard,95227,False
+CUST_0476,FirstName476,LastName476,customer476@email.com,+1-555-991-6919,2023-10-11,Philadelphia,PA,23,Standard,146124,False
+CUST_0477,FirstName477,LastName477,customer477@email.com,+1-555-858-2979,2023-09-11,Houston,TX,26,Standard,43302,True
+CUST_0478,FirstName478,LastName478,customer478@email.com,+1-555-781-1394,2021-01-26,Philadelphia,PA,54,Standard,58290,True
+CUST_0479,FirstName479,LastName479,customer479@email.com,+1-555-544-7230,2023-03-13,Philadelphia,PA,18,Basic,113731,True
+CUST_0480,FirstName480,LastName480,customer480@email.com,+1-555-793-8108,2021-10-13,San Jose,CA,66,Standard,30837,True
+CUST_0481,FirstName481,LastName481,customer481@email.com,+1-555-387-5426,2023-10-21,San Diego,CA,62,Premium,60319,True
+CUST_0482,FirstName482,LastName482,customer482@email.com,+1-555-851-5862,2021-06-28,Phoenix,AZ,45,Basic,48733,True
+CUST_0483,FirstName483,LastName483,customer483@email.com,+1-555-625-2292,2021-07-16,San Diego,CA,60,Standard,111706,True
+CUST_0484,FirstName484,LastName484,customer484@email.com,+1-555-181-6176,2022-03-23,San Jose,CA,24,Standard,82391,False
+CUST_0485,FirstName485,LastName485,customer485@email.com,+1-555-603-5722,2022-01-11,New York,NY,20,Standard,141777,True
+CUST_0486,FirstName486,LastName486,customer486@email.com,+1-555-708-5885,2023-03-30,New York,NY,69,Premium,103978,True
+CUST_0487,FirstName487,LastName487,customer487@email.com,+1-555-607-6769,2022-08-21,Dallas,TX,66,Standard,61085,False
+CUST_0488,FirstName488,LastName488,customer488@email.com,+1-555-507-5552,2021-01-21,San Antonio,TX,61,Standard,148144,False
+CUST_0489,FirstName489,LastName489,customer489@email.com,+1-555-647-4317,2021-08-15,Houston,TX,26,Standard,101868,True
+CUST_0490,FirstName490,LastName490,customer490@email.com,+1-555-974-8775,2022-12-24,San Diego,CA,30,Standard,52946,False
+CUST_0491,FirstName491,LastName491,customer491@email.com,+1-555-832-8398,2021-08-11,Dallas,TX,38,Basic,58193,False
+CUST_0492,FirstName492,LastName492,customer492@email.com,+1-555-176-2300,2022-08-31,New York,NY,41,Premium,76116,True
+CUST_0493,FirstName493,LastName493,customer493@email.com,+1-555-730-3039,2022-05-07,Dallas,TX,50,Basic,101945,True
+CUST_0494,FirstName494,LastName494,customer494@email.com,+1-555-834-1777,2022-11-22,Dallas,TX,64,Basic,125722,False
+CUST_0495,FirstName495,LastName495,customer495@email.com,+1-555-736-6269,2021-06-16,San Diego,CA,37,Premium,132562,False
+CUST_0496,FirstName496,LastName496,customer496@email.com,+1-555-773-6885,2023-11-21,Phoenix,AZ,19,Basic,51309,True
+CUST_0497,FirstName497,LastName497,customer497@email.com,+1-555-498-8660,2021-06-12,San Antonio,TX,23,Standard,71659,False
+CUST_0498,FirstName498,LastName498,customer498@email.com,+1-555-831-8145,2021-04-20,Chicago,IL,55,Standard,117680,False
+CUST_0499,FirstName499,LastName499,customer499@email.com,+1-555-683-1569,2022-08-08,Houston,TX,45,Premium,114848,True
+CUST_0500,FirstName500,LastName500,customer500@email.com,+1-555-173-4089,2021-05-16,New York,NY,52,Basic,41433,True
+CUST_0501,FirstName501,LastName501,customer501@email.com,+1-555-402-2165,2023-01-01,Philadelphia,PA,24,Standard,90950,True
+CUST_0502,FirstName502,LastName502,customer502@email.com,+1-555-862-4356,2023-01-28,New York,NY,66,Standard,40231,True
+CUST_0503,FirstName503,LastName503,customer503@email.com,+1-555-168-9707,2023-11-15,Dallas,TX,61,Basic,116576,True
+CUST_0504,FirstName504,LastName504,customer504@email.com,+1-555-789-5752,2022-12-08,San Jose,CA,27,Standard,135282,True
+CUST_0505,FirstName505,LastName505,customer505@email.com,+1-555-204-2345,2023-07-17,San Antonio,TX,68,Standard,113567,False
+CUST_0506,FirstName506,LastName506,customer506@email.com,+1-555-362-4360,2022-12-10,San Diego,CA,66,Basic,28625,True
+CUST_0507,FirstName507,LastName507,customer507@email.com,+1-555-996-9814,2023-08-25,Philadelphia,PA,50,Premium,144414,False
+CUST_0508,FirstName508,LastName508,customer508@email.com,+1-555-384-9583,2021-11-04,San Jose,CA,51,Standard,70852,False
+CUST_0509,FirstName509,LastName509,customer509@email.com,+1-555-920-9315,2021-06-14,Phoenix,AZ,69,Standard,50099,True
+CUST_0510,FirstName510,LastName510,customer510@email.com,+1-555-170-2210,2022-10-19,Los Angeles,CA,20,Premium,102989,True
+CUST_0511,FirstName511,LastName511,customer511@email.com,+1-555-857-5758,2022-05-13,Los Angeles,CA,38,Premium,114333,False
+CUST_0512,FirstName512,LastName512,customer512@email.com,+1-555-120-1256,2022-12-09,Phoenix,AZ,32,Standard,31590,False
+CUST_0513,FirstName513,LastName513,customer513@email.com,+1-555-735-4873,2022-08-18,Los Angeles,CA,23,Basic,90029,False
+CUST_0514,FirstName514,LastName514,customer514@email.com,+1-555-985-9066,2023-02-14,New York,NY,42,Standard,103352,True
+CUST_0515,FirstName515,LastName515,customer515@email.com,+1-555-795-9117,2022-09-05,San Jose,CA,40,Standard,104900,True
+CUST_0516,FirstName516,LastName516,customer516@email.com,+1-555-216-1615,2021-02-23,Philadelphia,PA,62,Standard,141254,True
+CUST_0517,FirstName517,LastName517,customer517@email.com,+1-555-294-3339,2022-12-02,Phoenix,AZ,22,Basic,113627,True
+CUST_0518,FirstName518,LastName518,customer518@email.com,+1-555-985-3271,2022-01-14,San Jose,CA,40,Standard,139797,True
+CUST_0519,FirstName519,LastName519,customer519@email.com,+1-555-825-1305,2022-07-07,San Jose,CA,69,Standard,25958,True
+CUST_0520,FirstName520,LastName520,customer520@email.com,+1-555-729-8020,2022-09-13,Chicago,IL,48,Standard,84315,True
+CUST_0521,FirstName521,LastName521,customer521@email.com,+1-555-254-6691,2023-04-15,Los Angeles,CA,27,Standard,120698,True
+CUST_0522,FirstName522,LastName522,customer522@email.com,+1-555-212-9948,2021-06-28,San Diego,CA,18,Premium,49734,True
+CUST_0523,FirstName523,LastName523,customer523@email.com,+1-555-350-2542,2023-11-20,New York,NY,45,Premium,92690,True
+CUST_0524,FirstName524,LastName524,customer524@email.com,+1-555-882-2222,2023-09-18,Philadelphia,PA,60,Premium,139512,True
+CUST_0525,FirstName525,LastName525,customer525@email.com,+1-555-672-8476,2023-07-07,San Diego,CA,43,Standard,125695,False
+CUST_0526,FirstName526,LastName526,customer526@email.com,+1-555-998-3078,2021-10-04,Phoenix,AZ,44,Basic,108040,True
+CUST_0527,FirstName527,LastName527,customer527@email.com,+1-555-548-5307,2022-04-21,Phoenix,AZ,29,Standard,134601,True
+CUST_0528,FirstName528,LastName528,customer528@email.com,+1-555-562-7171,2021-04-08,Dallas,TX,26,Premium,146657,True
+CUST_0529,FirstName529,LastName529,customer529@email.com,+1-555-417-1018,2022-03-26,San Diego,CA,34,Standard,63345,True
+CUST_0530,FirstName530,LastName530,customer530@email.com,+1-555-723-7387,2022-02-16,Philadelphia,PA,67,Basic,123818,False
+CUST_0531,FirstName531,LastName531,customer531@email.com,+1-555-904-7861,2022-01-29,Phoenix,AZ,32,Premium,71728,False
+CUST_0532,FirstName532,LastName532,customer532@email.com,+1-555-923-9793,2022-01-24,Dallas,TX,25,Basic,81152,True
+CUST_0533,FirstName533,LastName533,customer533@email.com,+1-555-595-8689,2022-10-11,San Jose,CA,26,Basic,48010,False
+CUST_0534,FirstName534,LastName534,customer534@email.com,+1-555-718-1549,2023-09-18,Chicago,IL,23,Standard,69846,True
+CUST_0535,FirstName535,LastName535,customer535@email.com,+1-555-549-7205,2023-04-26,Phoenix,AZ,40,Standard,38869,True
+CUST_0536,FirstName536,LastName536,customer536@email.com,+1-555-123-6776,2023-05-02,Houston,TX,42,Basic,54814,True
+CUST_0537,FirstName537,LastName537,customer537@email.com,+1-555-667-4130,2021-06-27,Philadelphia,PA,22,Premium,119633,True
+CUST_0538,FirstName538,LastName538,customer538@email.com,+1-555-658-3968,2022-05-01,Dallas,TX,55,Standard,68755,True
+CUST_0539,FirstName539,LastName539,customer539@email.com,+1-555-735-7023,2021-11-05,Los Angeles,CA,30,Standard,138893,True
+CUST_0540,FirstName540,LastName540,customer540@email.com,+1-555-350-5230,2021-04-18,New York,NY,43,Premium,35928,False
+CUST_0541,FirstName541,LastName541,customer541@email.com,+1-555-946-6412,2021-04-12,Dallas,TX,35,Standard,81321,True
+CUST_0542,FirstName542,LastName542,customer542@email.com,+1-555-722-3224,2023-10-24,San Antonio,TX,18,Premium,88964,False
+CUST_0543,FirstName543,LastName543,customer543@email.com,+1-555-272-3783,2021-08-08,Phoenix,AZ,23,Premium,44192,True
+CUST_0544,FirstName544,LastName544,customer544@email.com,+1-555-822-4091,2023-03-09,Los Angeles,CA,40,Premium,103311,False
+CUST_0545,FirstName545,LastName545,customer545@email.com,+1-555-774-6833,2021-11-09,Houston,TX,31,Standard,125349,True
+CUST_0546,FirstName546,LastName546,customer546@email.com,+1-555-356-7162,2021-02-02,Houston,TX,41,Premium,41035,True
+CUST_0547,FirstName547,LastName547,customer547@email.com,+1-555-819-4187,2021-05-17,San Antonio,TX,37,Standard,109217,True
+CUST_0548,FirstName548,LastName548,customer548@email.com,+1-555-942-4544,2021-10-05,Chicago,IL,59,Basic,91504,True
+CUST_0549,FirstName549,LastName549,customer549@email.com,+1-555-615-5364,2021-06-30,Chicago,IL,61,Basic,52256,False
+CUST_0550,FirstName550,LastName550,customer550@email.com,+1-555-162-2054,2023-01-13,Philadelphia,PA,27,Basic,121102,True
+CUST_0551,FirstName551,LastName551,customer551@email.com,+1-555-655-9022,2022-10-13,Philadelphia,PA,18,Standard,107048,True
+CUST_0552,FirstName552,LastName552,customer552@email.com,+1-555-236-8622,2021-08-19,New York,NY,34,Basic,126860,True
+CUST_0553,FirstName553,LastName553,customer553@email.com,+1-555-186-4903,2023-11-23,Houston,TX,47,Basic,50476,False
+CUST_0554,FirstName554,LastName554,customer554@email.com,+1-555-269-4245,2022-04-11,Philadelphia,PA,43,Basic,50063,False
+CUST_0555,FirstName555,LastName555,customer555@email.com,+1-555-125-5075,2023-08-08,Philadelphia,PA,61,Standard,70606,True
+CUST_0556,FirstName556,LastName556,customer556@email.com,+1-555-985-7959,2023-02-28,Dallas,TX,43,Standard,114891,False
+CUST_0557,FirstName557,LastName557,customer557@email.com,+1-555-504-3705,2021-08-21,San Jose,CA,32,Standard,102994,True
+CUST_0558,FirstName558,LastName558,customer558@email.com,+1-555-987-2264,2021-05-16,Phoenix,AZ,41,Basic,31577,False
+CUST_0559,FirstName559,LastName559,customer559@email.com,+1-555-461-2218,2021-02-03,Los Angeles,CA,47,Standard,75822,True
+CUST_0560,FirstName560,LastName560,customer560@email.com,+1-555-447-2277,2021-05-27,San Jose,CA,32,Standard,76324,True
+CUST_0561,FirstName561,LastName561,customer561@email.com,+1-555-704-3939,2021-05-11,Los Angeles,CA,23,Standard,68739,True
+CUST_0562,FirstName562,LastName562,customer562@email.com,+1-555-272-2212,2023-11-10,Chicago,IL,19,Premium,102991,False
+CUST_0563,FirstName563,LastName563,customer563@email.com,+1-555-469-1949,2023-08-21,Houston,TX,32,Standard,61668,True
+CUST_0564,FirstName564,LastName564,customer564@email.com,+1-555-918-3246,2022-09-06,Chicago,IL,62,Premium,113896,True
+CUST_0565,FirstName565,LastName565,customer565@email.com,+1-555-337-6399,2022-05-21,Chicago,IL,18,Standard,65204,True
+CUST_0566,FirstName566,LastName566,customer566@email.com,+1-555-779-9086,2022-09-04,San Jose,CA,52,Basic,56558,True
+CUST_0567,FirstName567,LastName567,customer567@email.com,+1-555-658-3896,2022-08-01,Dallas,TX,56,Premium,139382,True
+CUST_0568,FirstName568,LastName568,customer568@email.com,+1-555-120-4325,2021-05-20,San Antonio,TX,43,Standard,82505,True
+CUST_0569,FirstName569,LastName569,customer569@email.com,+1-555-679-2477,2021-08-13,Philadelphia,PA,40,Premium,32551,True
+CUST_0570,FirstName570,LastName570,customer570@email.com,+1-555-240-2157,2023-04-20,San Antonio,TX,24,Basic,148546,True
+CUST_0571,FirstName571,LastName571,customer571@email.com,+1-555-611-9441,2023-06-13,Los Angeles,CA,40,Standard,66559,True
+CUST_0572,FirstName572,LastName572,customer572@email.com,+1-555-116-6413,2023-04-16,Phoenix,AZ,27,Premium,91778,True
+CUST_0573,FirstName573,LastName573,customer573@email.com,+1-555-151-4395,2021-09-05,Philadelphia,PA,65,Standard,33039,True
+CUST_0574,FirstName574,LastName574,customer574@email.com,+1-555-344-8615,2023-04-06,New York,NY,62,Standard,41057,True
+CUST_0575,FirstName575,LastName575,customer575@email.com,+1-555-577-9906,2023-11-03,Los Angeles,CA,30,Standard,97855,False
+CUST_0576,FirstName576,LastName576,customer576@email.com,+1-555-232-9909,2023-08-10,Philadelphia,PA,55,Standard,30704,True
+CUST_0577,FirstName577,LastName577,customer577@email.com,+1-555-320-2333,2021-08-25,Phoenix,AZ,39,Standard,138883,False
+CUST_0578,FirstName578,LastName578,customer578@email.com,+1-555-905-7827,2023-01-17,Dallas,TX,23,Premium,64695,False
+CUST_0579,FirstName579,LastName579,customer579@email.com,+1-555-742-8874,2021-08-14,New York,NY,54,Standard,149284,True
+CUST_0580,FirstName580,LastName580,customer580@email.com,+1-555-938-6171,2021-06-15,New York,NY,47,Standard,140725,False
+CUST_0581,FirstName581,LastName581,customer581@email.com,+1-555-140-2161,2022-08-25,Dallas,TX,23,Standard,73122,True
+CUST_0582,FirstName582,LastName582,customer582@email.com,+1-555-997-9974,2023-09-06,Philadelphia,PA,34,Standard,53756,False
+CUST_0583,FirstName583,LastName583,customer583@email.com,+1-555-812-3455,2021-05-18,Los Angeles,CA,36,Standard,36447,False
+CUST_0584,FirstName584,LastName584,customer584@email.com,+1-555-762-6253,2022-01-31,Los Angeles,CA,51,Premium,27589,True
+CUST_0585,FirstName585,LastName585,customer585@email.com,+1-555-267-4415,2021-06-19,Los Angeles,CA,66,Standard,78987,False
+CUST_0586,FirstName586,LastName586,customer586@email.com,+1-555-556-7844,2023-01-05,New York,NY,36,Premium,127269,False
+CUST_0587,FirstName587,LastName587,customer587@email.com,+1-555-736-1111,2021-08-19,Philadelphia,PA,33,Standard,56578,True
+CUST_0588,FirstName588,LastName588,customer588@email.com,+1-555-314-6983,2022-01-27,San Diego,CA,60,Standard,85197,False
+CUST_0589,FirstName589,LastName589,customer589@email.com,+1-555-364-7407,2023-08-10,Houston,TX,63,Standard,128623,True
+CUST_0590,FirstName590,LastName590,customer590@email.com,+1-555-870-1098,2023-08-22,Philadelphia,PA,36,Premium,143025,False
+CUST_0591,FirstName591,LastName591,customer591@email.com,+1-555-827-4528,2023-10-17,Los Angeles,CA,64,Standard,38698,True
+CUST_0592,FirstName592,LastName592,customer592@email.com,+1-555-735-7013,2022-08-09,Los Angeles,CA,46,Premium,38300,True
+CUST_0593,FirstName593,LastName593,customer593@email.com,+1-555-759-2101,2021-12-12,Houston,TX,62,Basic,38615,True
+CUST_0594,FirstName594,LastName594,customer594@email.com,+1-555-804-1981,2021-03-20,Chicago,IL,51,Standard,115855,False
+CUST_0595,FirstName595,LastName595,customer595@email.com,+1-555-305-4897,2022-01-10,San Jose,CA,58,Standard,142616,True
+CUST_0596,FirstName596,LastName596,customer596@email.com,+1-555-632-3569,2022-09-24,San Jose,CA,42,Standard,119805,False
+CUST_0597,FirstName597,LastName597,customer597@email.com,+1-555-320-6091,2023-01-04,Los Angeles,CA,38,Standard,122919,False
+CUST_0598,FirstName598,LastName598,customer598@email.com,+1-555-731-3945,2023-12-25,San Jose,CA,26,Standard,92628,False
+CUST_0599,FirstName599,LastName599,customer599@email.com,+1-555-908-2112,2023-10-14,San Jose,CA,43,Standard,73355,True
+CUST_0600,FirstName600,LastName600,customer600@email.com,+1-555-198-8473,2023-12-27,Dallas,TX,57,Basic,96246,True
+CUST_0601,FirstName601,LastName601,customer601@email.com,+1-555-500-8872,2022-05-03,San Jose,CA,62,Basic,105972,False
+CUST_0602,FirstName602,LastName602,customer602@email.com,+1-555-781-1517,2023-05-11,Dallas,TX,22,Standard,123120,True
+CUST_0603,FirstName603,LastName603,customer603@email.com,+1-555-459-8436,2021-01-08,San Jose,CA,36,Standard,46552,True
+CUST_0604,FirstName604,LastName604,customer604@email.com,+1-555-958-1570,2023-04-30,Los Angeles,CA,69,Premium,132278,False
+CUST_0605,FirstName605,LastName605,customer605@email.com,+1-555-885-8735,2023-02-12,San Antonio,TX,28,Standard,136578,True
+CUST_0606,FirstName606,LastName606,customer606@email.com,+1-555-101-4283,2022-06-24,Los Angeles,CA,21,Basic,83391,True
+CUST_0607,FirstName607,LastName607,customer607@email.com,+1-555-275-4500,2023-01-12,San Jose,CA,46,Standard,62377,True
+CUST_0608,FirstName608,LastName608,customer608@email.com,+1-555-363-9168,2021-10-01,New York,NY,34,Premium,56941,True
+CUST_0609,FirstName609,LastName609,customer609@email.com,+1-555-117-1063,2021-03-05,Los Angeles,CA,59,Premium,29858,True
+CUST_0610,FirstName610,LastName610,customer610@email.com,+1-555-543-3473,2022-03-19,Houston,TX,44,Standard,90985,True
+CUST_0611,FirstName611,LastName611,customer611@email.com,+1-555-969-7079,2022-08-22,San Antonio,TX,50,Basic,28659,True
+CUST_0612,FirstName612,LastName612,customer612@email.com,+1-555-149-8592,2023-04-22,New York,NY,27,Standard,148870,True
+CUST_0613,FirstName613,LastName613,customer613@email.com,+1-555-986-1832,2022-01-23,Houston,TX,61,Standard,141526,False
+CUST_0614,FirstName614,LastName614,customer614@email.com,+1-555-708-1891,2023-11-28,Chicago,IL,38,Standard,79435,True
+CUST_0615,FirstName615,LastName615,customer615@email.com,+1-555-392-2793,2021-11-05,Philadelphia,PA,22,Basic,82266,True
+CUST_0616,FirstName616,LastName616,customer616@email.com,+1-555-158-3778,2023-12-26,Houston,TX,67,Basic,149556,True
+CUST_0617,FirstName617,LastName617,customer617@email.com,+1-555-749-8911,2021-08-06,Dallas,TX,42,Basic,43055,True
+CUST_0618,FirstName618,LastName618,customer618@email.com,+1-555-912-3138,2023-07-07,New York,NY,57,Basic,61253,False
+CUST_0619,FirstName619,LastName619,customer619@email.com,+1-555-821-2321,2022-11-16,Chicago,IL,22,Basic,104045,True
+CUST_0620,FirstName620,LastName620,customer620@email.com,+1-555-970-4412,2022-10-10,San Diego,CA,35,Standard,88209,False
+CUST_0621,FirstName621,LastName621,customer621@email.com,+1-555-127-8163,2021-02-13,San Antonio,TX,56,Standard,44276,True
+CUST_0622,FirstName622,LastName622,customer622@email.com,+1-555-759-5999,2022-11-03,San Diego,CA,68,Premium,38181,True
+CUST_0623,FirstName623,LastName623,customer623@email.com,+1-555-116-6848,2021-05-29,San Diego,CA,51,Standard,137813,True
+CUST_0624,FirstName624,LastName624,customer624@email.com,+1-555-202-8881,2022-02-19,Dallas,TX,41,Standard,136732,True
+CUST_0625,FirstName625,LastName625,customer625@email.com,+1-555-166-2607,2022-06-02,Los Angeles,CA,48,Premium,81305,False
+CUST_0626,FirstName626,LastName626,customer626@email.com,+1-555-783-8645,2021-03-08,New York,NY,63,Standard,121447,True
+CUST_0627,FirstName627,LastName627,customer627@email.com,+1-555-162-1771,2021-03-12,Phoenix,AZ,42,Standard,51245,True
+CUST_0628,FirstName628,LastName628,customer628@email.com,+1-555-293-4944,2023-06-30,Chicago,IL,57,Premium,96839,True
+CUST_0629,FirstName629,LastName629,customer629@email.com,+1-555-353-5378,2023-07-14,Los Angeles,CA,56,Standard,102521,False
+CUST_0630,FirstName630,LastName630,customer630@email.com,+1-555-833-1097,2021-04-01,Houston,TX,25,Basic,101313,False
+CUST_0631,FirstName631,LastName631,customer631@email.com,+1-555-557-3223,2021-03-21,Chicago,IL,27,Standard,144206,False
+CUST_0632,FirstName632,LastName632,customer632@email.com,+1-555-431-8485,2022-07-30,Chicago,IL,30,Standard,120320,True
+CUST_0633,FirstName633,LastName633,customer633@email.com,+1-555-906-2949,2021-02-11,Phoenix,AZ,22,Basic,76306,False
+CUST_0634,FirstName634,LastName634,customer634@email.com,+1-555-233-5815,2022-05-21,Dallas,TX,19,Basic,59488,True
+CUST_0635,FirstName635,LastName635,customer635@email.com,+1-555-996-3066,2023-07-22,San Antonio,TX,63,Premium,79327,True
+CUST_0636,FirstName636,LastName636,customer636@email.com,+1-555-178-6781,2021-03-23,New York,NY,58,Premium,71052,True
+CUST_0637,FirstName637,LastName637,customer637@email.com,+1-555-567-9088,2023-06-07,San Jose,CA,38,Basic,107036,True
+CUST_0638,FirstName638,LastName638,customer638@email.com,+1-555-283-9127,2022-04-11,San Antonio,TX,37,Basic,53395,True
+CUST_0639,FirstName639,LastName639,customer639@email.com,+1-555-686-7799,2022-05-18,Chicago,IL,40,Standard,48371,True
+CUST_0640,FirstName640,LastName640,customer640@email.com,+1-555-863-6527,2023-04-15,Los Angeles,CA,46,Premium,70537,False
+CUST_0641,FirstName641,LastName641,customer641@email.com,+1-555-420-6416,2023-09-05,Los Angeles,CA,58,Premium,68030,False
+CUST_0642,FirstName642,LastName642,customer642@email.com,+1-555-292-3728,2023-04-15,San Antonio,TX,37,Standard,95474,True
+CUST_0643,FirstName643,LastName643,customer643@email.com,+1-555-740-4685,2023-05-11,Philadelphia,PA,34,Premium,65352,True
+CUST_0644,FirstName644,LastName644,customer644@email.com,+1-555-486-9641,2021-10-14,Phoenix,AZ,52,Standard,35895,True
+CUST_0645,FirstName645,LastName645,customer645@email.com,+1-555-367-9444,2023-04-07,Los Angeles,CA,29,Basic,91535,True
+CUST_0646,FirstName646,LastName646,customer646@email.com,+1-555-537-6352,2021-11-12,Houston,TX,66,Standard,87399,True
+CUST_0647,FirstName647,LastName647,customer647@email.com,+1-555-929-9791,2023-04-19,San Antonio,TX,41,Premium,118515,False
+CUST_0648,FirstName648,LastName648,customer648@email.com,+1-555-870-1862,2021-07-01,Dallas,TX,65,Basic,42603,False
+CUST_0649,FirstName649,LastName649,customer649@email.com,+1-555-974-6849,2022-03-23,San Jose,CA,46,Standard,70724,True
+CUST_0650,FirstName650,LastName650,customer650@email.com,+1-555-901-4323,2021-03-11,Houston,TX,19,Standard,147898,True
+CUST_0651,FirstName651,LastName651,customer651@email.com,+1-555-557-4948,2022-04-17,Phoenix,AZ,65,Standard,38155,True
+CUST_0652,FirstName652,LastName652,customer652@email.com,+1-555-915-3326,2022-10-31,San Jose,CA,44,Basic,34734,True
+CUST_0653,FirstName653,LastName653,customer653@email.com,+1-555-305-8354,2021-04-19,Houston,TX,61,Standard,141118,True
+CUST_0654,FirstName654,LastName654,customer654@email.com,+1-555-497-9582,2022-06-04,Phoenix,AZ,26,Premium,101688,False
+CUST_0655,FirstName655,LastName655,customer655@email.com,+1-555-285-9077,2021-03-27,San Jose,CA,26,Basic,67113,False
+CUST_0656,FirstName656,LastName656,customer656@email.com,+1-555-368-9836,2021-10-22,Los Angeles,CA,67,Premium,73503,True
+CUST_0657,FirstName657,LastName657,customer657@email.com,+1-555-253-5864,2021-04-21,San Diego,CA,45,Standard,139222,True
+CUST_0658,FirstName658,LastName658,customer658@email.com,+1-555-798-1381,2021-04-16,Los Angeles,CA,66,Standard,26316,True
+CUST_0659,FirstName659,LastName659,customer659@email.com,+1-555-575-1906,2023-03-31,Phoenix,AZ,60,Standard,48102,True
+CUST_0660,FirstName660,LastName660,customer660@email.com,+1-555-313-1942,2022-04-08,San Antonio,TX,57,Basic,44693,False
+CUST_0661,FirstName661,LastName661,customer661@email.com,+1-555-420-3106,2022-11-01,Dallas,TX,55,Standard,85666,False
+CUST_0662,FirstName662,LastName662,customer662@email.com,+1-555-451-8856,2021-05-26,Los Angeles,CA,49,Basic,76500,True
+CUST_0663,FirstName663,LastName663,customer663@email.com,+1-555-913-1479,2021-04-10,Phoenix,AZ,48,Standard,104789,True
+CUST_0664,FirstName664,LastName664,customer664@email.com,+1-555-187-9764,2023-09-01,Dallas,TX,63,Basic,74314,True
+CUST_0665,FirstName665,LastName665,customer665@email.com,+1-555-807-5298,2021-10-28,Philadelphia,PA,64,Standard,144191,False
+CUST_0666,FirstName666,LastName666,customer666@email.com,+1-555-416-2502,2023-07-19,San Antonio,TX,54,Standard,129134,True
+CUST_0667,FirstName667,LastName667,customer667@email.com,+1-555-527-8871,2021-06-15,Houston,TX,30,Basic,139527,True
+CUST_0668,FirstName668,LastName668,customer668@email.com,+1-555-598-6376,2021-04-08,Los Angeles,CA,60,Premium,102918,False
+CUST_0669,FirstName669,LastName669,customer669@email.com,+1-555-918-4577,2021-07-07,New York,NY,56,Basic,149576,True
+CUST_0670,FirstName670,LastName670,customer670@email.com,+1-555-756-6828,2022-05-04,Los Angeles,CA,57,Standard,47340,False
+CUST_0671,FirstName671,LastName671,customer671@email.com,+1-555-103-1177,2022-06-09,New York,NY,59,Standard,112834,True
+CUST_0672,FirstName672,LastName672,customer672@email.com,+1-555-643-6392,2023-11-07,San Diego,CA,51,Basic,104845,True
+CUST_0673,FirstName673,LastName673,customer673@email.com,+1-555-661-9623,2022-11-25,Los Angeles,CA,56,Standard,99710,False
+CUST_0674,FirstName674,LastName674,customer674@email.com,+1-555-926-4312,2023-06-16,Phoenix,AZ,27,Basic,124992,True
+CUST_0675,FirstName675,LastName675,customer675@email.com,+1-555-351-8541,2022-01-10,Los Angeles,CA,31,Basic,54473,False
+CUST_0676,FirstName676,LastName676,customer676@email.com,+1-555-861-4749,2023-04-02,Dallas,TX,59,Standard,98391,True
+CUST_0677,FirstName677,LastName677,customer677@email.com,+1-555-961-1399,2023-07-01,Chicago,IL,48,Standard,137923,True
+CUST_0678,FirstName678,LastName678,customer678@email.com,+1-555-914-5509,2022-11-22,Los Angeles,CA,53,Standard,127428,False
+CUST_0679,FirstName679,LastName679,customer679@email.com,+1-555-549-1379,2022-10-23,San Diego,CA,63,Premium,85342,True
+CUST_0680,FirstName680,LastName680,customer680@email.com,+1-555-180-8216,2022-12-28,Dallas,TX,18,Standard,129303,True
+CUST_0681,FirstName681,LastName681,customer681@email.com,+1-555-699-8288,2022-02-20,Chicago,IL,20,Premium,106122,False
+CUST_0682,FirstName682,LastName682,customer682@email.com,+1-555-170-7191,2023-02-14,Chicago,IL,68,Premium,29934,False
+CUST_0683,FirstName683,LastName683,customer683@email.com,+1-555-312-4894,2021-11-26,Dallas,TX,58,Basic,52424,True
+CUST_0684,FirstName684,LastName684,customer684@email.com,+1-555-886-2732,2023-04-10,Houston,TX,46,Standard,54815,True
+CUST_0685,FirstName685,LastName685,customer685@email.com,+1-555-157-8994,2023-02-12,San Jose,CA,29,Premium,124020,False
+CUST_0686,FirstName686,LastName686,customer686@email.com,+1-555-857-5094,2021-05-23,New York,NY,60,Standard,146907,True
+CUST_0687,FirstName687,LastName687,customer687@email.com,+1-555-313-3018,2023-01-17,San Diego,CA,68,Standard,81987,True
+CUST_0688,FirstName688,LastName688,customer688@email.com,+1-555-461-8147,2023-10-29,Phoenix,AZ,34,Premium,46961,True
+CUST_0689,FirstName689,LastName689,customer689@email.com,+1-555-320-3416,2023-02-21,San Jose,CA,44,Basic,102219,True
+CUST_0690,FirstName690,LastName690,customer690@email.com,+1-555-314-8097,2022-02-21,Chicago,IL,35,Premium,99460,False
+CUST_0691,FirstName691,LastName691,customer691@email.com,+1-555-331-5930,2021-08-04,San Jose,CA,19,Standard,74554,False
+CUST_0692,FirstName692,LastName692,customer692@email.com,+1-555-272-8935,2021-03-06,Philadelphia,PA,69,Premium,36240,False
+CUST_0693,FirstName693,LastName693,customer693@email.com,+1-555-312-2694,2022-02-05,Phoenix,AZ,65,Premium,138057,True
+CUST_0694,FirstName694,LastName694,customer694@email.com,+1-555-585-6087,2022-05-24,San Jose,CA,65,Basic,34835,False
+CUST_0695,FirstName695,LastName695,customer695@email.com,+1-555-826-9463,2023-04-18,San Jose,CA,42,Premium,50381,True
+CUST_0696,FirstName696,LastName696,customer696@email.com,+1-555-334-4171,2023-06-02,San Diego,CA,33,Basic,113652,True
+CUST_0697,FirstName697,LastName697,customer697@email.com,+1-555-661-2990,2021-10-01,San Antonio,TX,69,Basic,91794,False
+CUST_0698,FirstName698,LastName698,customer698@email.com,+1-555-536-5222,2022-07-26,New York,NY,46,Premium,25637,True
+CUST_0699,FirstName699,LastName699,customer699@email.com,+1-555-700-8257,2021-10-24,Phoenix,AZ,57,Standard,123463,False
+CUST_0700,FirstName700,LastName700,customer700@email.com,+1-555-873-1580,2022-02-03,Chicago,IL,35,Standard,62242,True
+CUST_0701,FirstName701,LastName701,customer701@email.com,+1-555-332-2394,2023-08-22,Los Angeles,CA,43,Standard,94998,True
+CUST_0702,FirstName702,LastName702,customer702@email.com,+1-555-315-1724,2022-08-13,San Jose,CA,65,Basic,65478,False
+CUST_0703,FirstName703,LastName703,customer703@email.com,+1-555-182-1390,2023-09-12,San Antonio,TX,64,Premium,133924,True
+CUST_0704,FirstName704,LastName704,customer704@email.com,+1-555-498-4572,2022-08-27,Philadelphia,PA,20,Standard,74028,True
+CUST_0705,FirstName705,LastName705,customer705@email.com,+1-555-367-7773,2021-01-10,San Diego,CA,20,Standard,34622,True
+CUST_0706,FirstName706,LastName706,customer706@email.com,+1-555-186-6086,2021-04-07,Philadelphia,PA,30,Standard,79754,False
+CUST_0707,FirstName707,LastName707,customer707@email.com,+1-555-396-4497,2023-02-04,Philadelphia,PA,64,Standard,118517,True
+CUST_0708,FirstName708,LastName708,customer708@email.com,+1-555-637-2821,2022-11-02,San Diego,CA,51,Basic,81388,True
+CUST_0709,FirstName709,LastName709,customer709@email.com,+1-555-378-8597,2022-07-27,San Jose,CA,66,Standard,31107,True
+CUST_0710,FirstName710,LastName710,customer710@email.com,+1-555-988-9361,2023-06-18,Phoenix,AZ,65,Standard,43632,True
+CUST_0711,FirstName711,LastName711,customer711@email.com,+1-555-901-2688,2023-04-07,San Jose,CA,59,Premium,121920,False
+CUST_0712,FirstName712,LastName712,customer712@email.com,+1-555-615-3796,2021-03-14,Chicago,IL,55,Premium,89022,True
+CUST_0713,FirstName713,LastName713,customer713@email.com,+1-555-604-9100,2023-05-29,San Diego,CA,62,Standard,35886,True
+CUST_0714,FirstName714,LastName714,customer714@email.com,+1-555-225-3392,2021-05-13,Phoenix,AZ,34,Premium,80942,False
+CUST_0715,FirstName715,LastName715,customer715@email.com,+1-555-727-3438,2023-03-29,Chicago,IL,57,Basic,97177,False
+CUST_0716,FirstName716,LastName716,customer716@email.com,+1-555-963-1679,2022-03-25,Philadelphia,PA,61,Basic,131446,False
+CUST_0717,FirstName717,LastName717,customer717@email.com,+1-555-722-3995,2023-03-29,New York,NY,69,Standard,51515,True
+CUST_0718,FirstName718,LastName718,customer718@email.com,+1-555-676-5779,2023-11-20,San Diego,CA,55,Basic,89067,True
+CUST_0719,FirstName719,LastName719,customer719@email.com,+1-555-564-4563,2023-06-20,San Diego,CA,63,Basic,106163,False
+CUST_0720,FirstName720,LastName720,customer720@email.com,+1-555-807-2967,2023-06-17,Los Angeles,CA,27,Basic,86829,True
+CUST_0721,FirstName721,LastName721,customer721@email.com,+1-555-493-5778,2023-01-24,Chicago,IL,36,Premium,65315,True
+CUST_0722,FirstName722,LastName722,customer722@email.com,+1-555-265-7160,2021-10-07,Philadelphia,PA,39,Standard,139165,True
+CUST_0723,FirstName723,LastName723,customer723@email.com,+1-555-933-7558,2022-10-13,Philadelphia,PA,65,Standard,78678,True
+CUST_0724,FirstName724,LastName724,customer724@email.com,+1-555-523-4801,2023-11-13,Houston,TX,42,Premium,35148,True
+CUST_0725,FirstName725,LastName725,customer725@email.com,+1-555-305-2633,2021-10-05,New York,NY,43,Premium,33149,True
+CUST_0726,FirstName726,LastName726,customer726@email.com,+1-555-327-2506,2022-08-15,Philadelphia,PA,23,Basic,85805,True
+CUST_0727,FirstName727,LastName727,customer727@email.com,+1-555-609-7798,2022-03-01,Philadelphia,PA,43,Standard,102751,True
+CUST_0728,FirstName728,LastName728,customer728@email.com,+1-555-314-2982,2023-12-18,Dallas,TX,26,Basic,110490,True
+CUST_0729,FirstName729,LastName729,customer729@email.com,+1-555-674-3419,2023-11-09,New York,NY,38,Basic,32312,False
+CUST_0730,FirstName730,LastName730,customer730@email.com,+1-555-932-2066,2021-11-18,Chicago,IL,27,Standard,103711,True
+CUST_0731,FirstName731,LastName731,customer731@email.com,+1-555-666-7891,2022-09-23,Houston,TX,43,Basic,100852,True
+CUST_0732,FirstName732,LastName732,customer732@email.com,+1-555-284-3563,2022-03-16,San Antonio,TX,60,Basic,93745,True
+CUST_0733,FirstName733,LastName733,customer733@email.com,+1-555-518-4543,2023-10-28,Houston,TX,56,Basic,119483,True
+CUST_0734,FirstName734,LastName734,customer734@email.com,+1-555-788-3329,2022-07-25,San Antonio,TX,53,Basic,147850,True
+CUST_0735,FirstName735,LastName735,customer735@email.com,+1-555-849-6292,2023-05-18,New York,NY,62,Standard,73990,False
+CUST_0736,FirstName736,LastName736,customer736@email.com,+1-555-610-4917,2021-10-05,San Antonio,TX,29,Standard,71586,False
+CUST_0737,FirstName737,LastName737,customer737@email.com,+1-555-922-6969,2022-09-29,Dallas,TX,60,Premium,143504,False
+CUST_0738,FirstName738,LastName738,customer738@email.com,+1-555-337-3451,2023-07-31,Philadelphia,PA,42,Basic,121951,False
+CUST_0739,FirstName739,LastName739,customer739@email.com,+1-555-154-2186,2021-05-03,New York,NY,31,Standard,49248,True
+CUST_0740,FirstName740,LastName740,customer740@email.com,+1-555-212-3472,2022-06-30,San Jose,CA,39,Premium,130754,True
+CUST_0741,FirstName741,LastName741,customer741@email.com,+1-555-281-7792,2021-06-04,Phoenix,AZ,36,Standard,70987,True
+CUST_0742,FirstName742,LastName742,customer742@email.com,+1-555-592-2702,2023-11-30,Philadelphia,PA,24,Standard,47219,False
+CUST_0743,FirstName743,LastName743,customer743@email.com,+1-555-299-7732,2023-02-03,Dallas,TX,36,Premium,149809,False
+CUST_0744,FirstName744,LastName744,customer744@email.com,+1-555-576-8543,2021-08-15,San Jose,CA,29,Basic,54607,True
+CUST_0745,FirstName745,LastName745,customer745@email.com,+1-555-421-2432,2023-04-18,San Jose,CA,24,Premium,98967,True
+CUST_0746,FirstName746,LastName746,customer746@email.com,+1-555-403-3162,2022-02-24,New York,NY,40,Premium,127406,True
+CUST_0747,FirstName747,LastName747,customer747@email.com,+1-555-515-6243,2021-06-28,New York,NY,39,Basic,96435,True
+CUST_0748,FirstName748,LastName748,customer748@email.com,+1-555-497-8466,2021-09-01,San Antonio,TX,58,Standard,42907,True
+CUST_0749,FirstName749,LastName749,customer749@email.com,+1-555-784-4671,2021-01-01,Dallas,TX,51,Basic,105634,True
+CUST_0750,FirstName750,LastName750,customer750@email.com,+1-555-236-2982,2022-04-10,San Antonio,TX,52,Premium,107606,True
+CUST_0751,FirstName751,LastName751,customer751@email.com,+1-555-979-7208,2023-06-29,Chicago,IL,22,Standard,40409,False
+CUST_0752,FirstName752,LastName752,customer752@email.com,+1-555-668-8951,2021-04-25,Philadelphia,PA,19,Standard,27988,False
+CUST_0753,FirstName753,LastName753,customer753@email.com,+1-555-301-4574,2023-08-26,Philadelphia,PA,50,Standard,56368,True
+CUST_0754,FirstName754,LastName754,customer754@email.com,+1-555-577-8126,2022-07-14,Los Angeles,CA,28,Standard,63418,True
+CUST_0755,FirstName755,LastName755,customer755@email.com,+1-555-368-4708,2021-03-15,San Diego,CA,69,Premium,67721,True
+CUST_0756,FirstName756,LastName756,customer756@email.com,+1-555-275-7092,2021-05-06,New York,NY,41,Standard,34182,True
+CUST_0757,FirstName757,LastName757,customer757@email.com,+1-555-482-6760,2021-03-26,San Antonio,TX,32,Basic,113909,True
+CUST_0758,FirstName758,LastName758,customer758@email.com,+1-555-713-2031,2023-07-18,Houston,TX,43,Basic,112919,True
+CUST_0759,FirstName759,LastName759,customer759@email.com,+1-555-839-6129,2021-10-31,Chicago,IL,69,Basic,25163,True
+CUST_0760,FirstName760,LastName760,customer760@email.com,+1-555-170-2877,2023-09-23,Los Angeles,CA,49,Standard,82255,False
+CUST_0761,FirstName761,LastName761,customer761@email.com,+1-555-222-9018,2021-11-02,Phoenix,AZ,26,Basic,112663,True
+CUST_0762,FirstName762,LastName762,customer762@email.com,+1-555-214-1994,2023-04-02,Dallas,TX,48,Basic,32670,False
+CUST_0763,FirstName763,LastName763,customer763@email.com,+1-555-712-7045,2023-07-22,San Diego,CA,49,Premium,136794,True
+CUST_0764,FirstName764,LastName764,customer764@email.com,+1-555-300-7192,2023-07-05,Phoenix,AZ,36,Standard,96942,True
+CUST_0765,FirstName765,LastName765,customer765@email.com,+1-555-490-7154,2021-12-10,Dallas,TX,26,Standard,102608,False
+CUST_0766,FirstName766,LastName766,customer766@email.com,+1-555-643-4672,2023-03-19,Chicago,IL,62,Standard,94015,True
+CUST_0767,FirstName767,LastName767,customer767@email.com,+1-555-679-8356,2021-02-21,San Antonio,TX,29,Standard,84965,True
+CUST_0768,FirstName768,LastName768,customer768@email.com,+1-555-430-6620,2023-10-01,San Jose,CA,60,Premium,145920,True
+CUST_0769,FirstName769,LastName769,customer769@email.com,+1-555-599-9982,2021-08-26,Dallas,TX,38,Standard,85466,True
+CUST_0770,FirstName770,LastName770,customer770@email.com,+1-555-328-1149,2021-10-28,San Jose,CA,68,Premium,69488,True
+CUST_0771,FirstName771,LastName771,customer771@email.com,+1-555-273-8769,2022-06-11,San Jose,CA,38,Premium,94483,False
+CUST_0772,FirstName772,LastName772,customer772@email.com,+1-555-623-3263,2023-03-30,Philadelphia,PA,30,Standard,91113,False
+CUST_0773,FirstName773,LastName773,customer773@email.com,+1-555-470-2229,2022-12-17,San Antonio,TX,47,Premium,54418,False
+CUST_0774,FirstName774,LastName774,customer774@email.com,+1-555-590-3712,2023-01-17,Los Angeles,CA,21,Standard,136372,True
+CUST_0775,FirstName775,LastName775,customer775@email.com,+1-555-968-7466,2022-01-19,San Jose,CA,33,Basic,115807,True
+CUST_0776,FirstName776,LastName776,customer776@email.com,+1-555-164-8877,2021-02-01,New York,NY,44,Basic,116614,True
+CUST_0777,FirstName777,LastName777,customer777@email.com,+1-555-232-2928,2023-10-09,Los Angeles,CA,37,Basic,71972,False
+CUST_0778,FirstName778,LastName778,customer778@email.com,+1-555-641-6244,2022-08-08,San Antonio,TX,35,Basic,141436,False
+CUST_0779,FirstName779,LastName779,customer779@email.com,+1-555-974-4093,2021-06-06,Phoenix,AZ,31,Basic,83786,True
+CUST_0780,FirstName780,LastName780,customer780@email.com,+1-555-799-6689,2022-07-26,Philadelphia,PA,20,Standard,115417,False
+CUST_0781,FirstName781,LastName781,customer781@email.com,+1-555-835-6105,2022-02-25,Phoenix,AZ,64,Standard,109834,False
+CUST_0782,FirstName782,LastName782,customer782@email.com,+1-555-651-6716,2021-10-08,Phoenix,AZ,63,Standard,81165,True
+CUST_0783,FirstName783,LastName783,customer783@email.com,+1-555-936-6380,2021-01-19,Dallas,TX,42,Basic,79941,True
+CUST_0784,FirstName784,LastName784,customer784@email.com,+1-555-117-3452,2022-09-16,San Antonio,TX,48,Premium,97158,True
+CUST_0785,FirstName785,LastName785,customer785@email.com,+1-555-417-4462,2021-01-08,New York,NY,24,Premium,48440,True
+CUST_0786,FirstName786,LastName786,customer786@email.com,+1-555-652-7589,2022-11-20,Philadelphia,PA,67,Standard,60011,True
+CUST_0787,FirstName787,LastName787,customer787@email.com,+1-555-761-4236,2022-09-20,Phoenix,AZ,28,Standard,99216,True
+CUST_0788,FirstName788,LastName788,customer788@email.com,+1-555-166-6644,2022-01-09,Houston,TX,45,Basic,115762,False
+CUST_0789,FirstName789,LastName789,customer789@email.com,+1-555-884-4375,2021-12-07,San Antonio,TX,31,Standard,84488,True
+CUST_0790,FirstName790,LastName790,customer790@email.com,+1-555-748-5172,2022-03-25,Los Angeles,CA,54,Standard,38740,True
+CUST_0791,FirstName791,LastName791,customer791@email.com,+1-555-753-4326,2023-10-19,San Antonio,TX,23,Standard,108442,True
+CUST_0792,FirstName792,LastName792,customer792@email.com,+1-555-747-5887,2023-12-06,Philadelphia,PA,20,Standard,121256,False
+CUST_0793,FirstName793,LastName793,customer793@email.com,+1-555-237-5139,2022-04-05,San Jose,CA,65,Premium,81023,True
+CUST_0794,FirstName794,LastName794,customer794@email.com,+1-555-333-3910,2021-08-01,San Diego,CA,64,Standard,101095,True
+CUST_0795,FirstName795,LastName795,customer795@email.com,+1-555-682-4943,2021-07-29,Chicago,IL,42,Standard,58645,False
+CUST_0796,FirstName796,LastName796,customer796@email.com,+1-555-850-3523,2022-03-28,Philadelphia,PA,39,Premium,53478,True
+CUST_0797,FirstName797,LastName797,customer797@email.com,+1-555-373-9149,2023-07-12,Los Angeles,CA,31,Standard,136857,False
+CUST_0798,FirstName798,LastName798,customer798@email.com,+1-555-790-5319,2022-04-29,New York,NY,31,Premium,84228,True
+CUST_0799,FirstName799,LastName799,customer799@email.com,+1-555-557-7518,2022-10-06,San Diego,CA,45,Standard,94838,False
+CUST_0800,FirstName800,LastName800,customer800@email.com,+1-555-192-2181,2023-07-06,New York,NY,57,Premium,66811,False

@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,supplier,price,cost,weight_kg,launch_date,discontinued,rating,num_reviews
+PROD_0001,Books Product 1,Books,Brand_10,Supplier_15,39.02,17.78,7.25,2022-05-15,False,4.8,248
+PROD_0002,Books Product 2,Books,Brand_1,Supplier_17,34.36,16.17,6.47,2020-12-05,False,2.8,288
+PROD_0003,Home & Garden Product 3,Home & Garden,Brand_12,Supplier_13,380.64,193.51,1.39,2020-06-08,False,4.3,208
+PROD_0004,Sports & Outdoors Product 4,Sports & Outdoors,Brand_5,Supplier_5,133.64,87.81,4.18,2023-07-21,False,3.5,204
+PROD_0005,Clothing Product 5,Clothing,Brand_5,Supplier_2,16.75,10.57,8.31,2020-06-27,False,4.3,489
+PROD_0006,Sports & Outdoors Product 6,Sports & Outdoors,Brand_4,Supplier_16,236.81,133.33,8.8,2022-04-07,False,4.5,465
+PROD_0007,Books Product 7,Books,Brand_1,Supplier_1,42.31,29.49,1.18,2021-02-22,True,3.6,265
+PROD_0008,Clothing Product 8,Clothing,Brand_15,Supplier_8,113.27,78.23,2.43,2022-06-30,False,3.3,300
+PROD_0009,Beauty & Personal Care Product 9,Beauty & Personal Care,Brand_11,Supplier_25,55.66,31.6,6.45,2022-02-23,False,3.1,72
+PROD_0010,Sports & Outdoors Product 10,Sports & Outdoors,Brand_10,Supplier_4,199.96,122.45,1.25,2021-10-23,False,4.6,418
+PROD_0011,Electronics Product 11,Electronics,Brand_2,Supplier_25,579.41,257.23,3.98,2023-01-25,False,3.6,396
+PROD_0012,Home & Garden Product 12,Home & Garden,Brand_1,Supplier_25,42.0,21.36,3.75,2021-08-15,False,4.6,101
+PROD_0013,Beauty & Personal Care Product 13,Beauty & Personal Care,Brand_2,Supplier_13,25.47,14.84,6.12,2021-04-29,False,3.7,111
+PROD_0014,Electronics Product 14,Electronics,Brand_4,Supplier_5,533.72,302.45,1.77,2022-04-17,False,3.3,436
+PROD_0015,Clothing Product 15,Clothing,Brand_10,Supplier_12,76.05,32.49,8.59,2021-06-14,False,3.8,367
+PROD_0016,Beauty & Personal Care Product 16,Beauty & Personal Care,Brand_12,Supplier_1,17.34,11.92,0.88,2021-09-27,True,2.7,410
+PROD_0017,Sports & Outdoors Product 17,Sports & Outdoors,Brand_6,Supplier_18,84.86,52.35,2.45,2022-05-13,False,2.7,165
+PROD_0018,Books Product 18,Books,Brand_3,Supplier_3,11.0,7.42,4.54,2020-08-04,False,4.1,479
+PROD_0019,Sports & Outdoors Product 19,Sports & Outdoors,Brand_13,Supplier_25,136.42,76.22,5.74,2023-03-22,False,4.5,244
+PROD_0020,Electronics Product 20,Electronics,Brand_5,Supplier_3,707.79,364.03,2.23,2022-07-27,False,3.8,74
+PROD_0021,Sports & Outdoors Product 21,Sports & Outdoors,Brand_2,Supplier_15,182.3,79.42,9.69,2021-12-04,False,3.8,423
+PROD_0022,Books Product 22,Books,Brand_10,Supplier_14,12.56,5.25,3.66,2023-03-23,False,4.9,176
+PROD_0023,Sports & Outdoors Product 23,Sports & Outdoors,Brand_10,Supplier_25,126.85,56.53,1.66,2023-03-04,False,3.4,258
+PROD_0024,Beauty & Personal Care Product 24,Beauty & Personal Care,Brand_2,Supplier_15,52.17,23.9,9.9,2022-02-21,False,3.8,461
+PROD_0025,Books Product 25,Books,Brand_9,Supplier_11,21.0,10.56,2.69,2020-11-17,False,3.3,137
+PROD_0026,Clothing Product 26,Clothing,Brand_7,Supplier_21,128.21,79.82,1.74,2020-10-15,False,4.0,384
+PROD_0027,Sports & Outdoors Product 27,Sports & Outdoors,Brand_15,Supplier_9,157.76,71.64,6.62,2021-02-10,False,4.3,181
+PROD_0028,Books Product 28,Books,Brand_1,Supplier_18,37.69,22.19,6.72,2021-05-05,False,2.6,326
+PROD_0029,Beauty & Personal Care Product 29,Beauty & Personal Care,Brand_12,Supplier_12,28.46,12.47,9.92,2021-05-31,False,3.5,180
+PROD_0030,Electronics Product 30,Electronics,Brand_13,Supplier_9,353.45,180.74,0.21,2021-04-28,False,4.5,267
+PROD_0031,Books Product 31,Books,Brand_3,Supplier_8,30.03,13.55,0.3,2022-07-14,False,4.8,428
+PROD_0032,Sports & Outdoors Product 32,Sports & Outdoors,Brand_10,Supplier_15,43.63,23.2,2.39,2021-02-04,False,4.6,376
+PROD_0033,Home & Garden Product 33,Home & Garden,Brand_11,Supplier_1,157.92,98.36,3.57,2022-10-14,False,4.6,75
+PROD_0034,Home & Garden Product 34,Home & Garden,Brand_14,Supplier_14,115.9,56.01,4.72,2021-10-22,False,2.8,146
+PROD_0035,Electronics Product 35,Electronics,Brand_11,Supplier_2,175.43,101.01,2.63,2021-11-12,False,4.9,133
+PROD_0036,Beauty & Personal Care Product 36,Beauty & Personal Care,Brand_10,Supplier_16,44.39,26.48,1.49,2022-10-01,False,3.2,267
+PROD_0037,Beauty & Personal Care Product 37,Beauty & Personal Care,Brand_5,Supplier_19,21.37,8.96,6.11,2021-05-07,False,4.1,451
+PROD_0038,Electronics Product 38,Electronics,Brand_13,Supplier_12,222.4,143.49,6.8,2020-08-02,False,4.3,117
+PROD_0039,Books Product 39,Books,Brand_5,Supplier_16,14.54,7.38,2.42,2020-12-12,False,2.6,141
+PROD_0040,Home & Garden Product 40,Home & Garden,Brand_6,Supplier_25,112.7,46.89,7.9,2021-12-17,False,3.5,493
+PROD_0041,Clothing Product 41,Clothing,Brand_8,Supplier_8,149.57,98.37,0.6,2021-11-02,False,3.4,183
+PROD_0042,Electronics Product 42,Electronics,Brand_7,Supplier_10,220.79,119.35,9.24,2020-01-24,False,3.9,461
+PROD_0043,Electronics Product 43,Electronics,Brand_15,Supplier_23,355.06,200.37,1.75,2022-01-18,False,4.2,161
+PROD_0044,Sports & Outdoors Product 44,Sports & Outdoors,Brand_5,Supplier_12,88.65,49.13,0.54,2021-11-11,False,2.8,299
+PROD_0045,Beauty & Personal Care Product 45,Beauty & Personal Care,Brand_13,Supplier_9,13.86,6.34,0.31,2023-04-03,False,4.4,437
+PROD_0046,Electronics Product 46,Electronics,Brand_12,Supplier_6,139.3,62.54,9.16,2023-11-19,False,4.4,219
+PROD_0047,Home & Garden Product 47,Home & Garden,Brand_2,Supplier_1,121.31,67.85,5.77,2021-05-25,False,4.7,179
+PROD_0048,Clothing Product 48,Clothing,Brand_13,Supplier_24,94.38,55.16,0.31,2021-11-04,False,3.5,408
+PROD_0049,Beauty & Personal Care Product 49,Beauty & Personal Care,Brand_5,Supplier_21,76.92,33.55,9.36,2023-07-16,False,4.8,5
+PROD_0050,Books Product 50,Books,Brand_12,Supplier_11,15.81,8.08,2.77,2020-11-26,False,2.7,34
+PROD_0051,Electronics Product 51,Electronics,Brand_9,Supplier_17,631.14,302.39,1.75,2023-01-15,True,3.7,441
+PROD_0052,Clothing Product 52,Clothing,Brand_2,Supplier_19,125.66,64.61,0.39,2020-08-30,False,4.1,430
+PROD_0053,Books Product 53,Books,Brand_1,Supplier_10,43.68,28.99,6.22,2020-06-14,False,4.7,237
+PROD_0054,Electronics Product 54,Electronics,Brand_1,Supplier_2,654.18,456.18,9.66,2020-12-30,False,2.7,399
+PROD_0055,Books Product 55,Books,Brand_7,Supplier_20,40.74,25.53,9.39,2021-08-21,True,3.2,483
+PROD_0056,Books Product 56,Books,Brand_4,Supplier_22,9.84,5.39,0.87,2022-01-14,False,3.6,468
+PROD_0057,Clothing Product 57,Clothing,Brand_6,Supplier_17,21.42,12.69,7.36,2021-08-14,False,3.8,32
+PROD_0058,Home & Garden Product 58,Home & Garden,Brand_8,Supplier_18,189.53,121.27,1.57,2021-12-01,False,4.3,229
+PROD_0059,Electronics Product 59,Electronics,Brand_12,Supplier_1,390.31,255.82,0.43,2023-02-08,False,3.4,202
+PROD_0060,Clothing Product 60,Clothing,Brand_7,Supplier_25,115.1,70.09,2.45,2023-02-08,False,4.0,487
+PROD_0061,Sports & Outdoors Product 61,Sports & Outdoors,Brand_12,Supplier_23,21.0,11.9,3.41,2023-04-08,False,4.8,329
+PROD_0062,Beauty & Personal Care Product 62,Beauty & Personal Care,Brand_14,Supplier_3,44.62,26.27,5.41,2021-05-10,False,4.7,249
+PROD_0063,Electronics Product 63,Electronics,Brand_9,Supplier_24,271.68,181.75,2.77,2023-01-11,False,4.9,54
+PROD_0064,Home & Garden Product 64,Home & Garden,Brand_6,Supplier_6,374.38,243.53,6.79,2023-03-11,False,4.1,296
+PROD_0065,Clothing Product 65,Clothing,Brand_6,Supplier_7,49.17,31.61,7.04,2022-01-02,False,3.0,471
+PROD_0066,Clothing Product 66,Clothing,Brand_5,Supplier_8,63.45,43.59,0.94,2020-03-19,False,4.5,444
+PROD_0067,Sports & Outdoors Product 67,Sports & Outdoors,Brand_7,Supplier_8,206.22,133.42,1.4,2022-01-13,True,3.0,7
+PROD_0068,Sports & Outdoors Product 68,Sports & Outdoors,Brand_4,Supplier_17,177.41,78.29,2.01,2022-08-03,False,4.0,84
+PROD_0069,Beauty & Personal Care Product 69,Beauty & Personal Care,Brand_4,Supplier_1,65.58,33.25,9.79,2023-06-21,False,4.7,18
+PROD_0070,Clothing Product 70,Clothing,Brand_2,Supplier_13,50.81,34.34,6.81,2022-06-03,False,4.2,133
+PROD_0071,Books Product 71,Books,Brand_3,Supplier_1,38.54,20.63,2.47,2022-11-02,False,4.5,84
+PROD_0072,Books Product 72,Books,Brand_1,Supplier_5,21.05,11.87,4.91,2021-02-11,False,2.5,442
+PROD_0073,Home & Garden Product 73,Home & Garden,Brand_13,Supplier_18,291.67,163.6,6.27,2020-05-25,False,4.4,86
+PROD_0074,Clothing Product 74,Clothing,Brand_2,Supplier_19,19.27,12.64,8.91,2023-07-21,False,4.5,486
+PROD_0075,Beauty & Personal Care Product 75,Beauty & Personal Care,Brand_8,Supplier_24,70.08,45.37,9.73,2020-06-17,True,4.9,22
+PROD_0076,Books Product 76,Books,Brand_13,Supplier_20,27.14,12.44,8.13,2021-09-09,False,3.6,494
+PROD_0077,Beauty & Personal Care Product 77,Beauty & Personal Care,Brand_7,Supplier_9,45.32,23.12,8.76,2023-10-19,False,5.0,34
+PROD_0078,Clothing Product 78,Clothing,Brand_5,Supplier_21,60.25,26.17,5.01,2021-11-15,False,4.3,15
+PROD_0079,Books Product 79,Books,Brand_8,Supplier_13,31.29,18.71,9.09,2021-12-02,False,3.3,375
+PROD_0080,Electronics Product 80,Electronics,Brand_10,Supplier_13,585.42,236.47,7.82,2023-03-19,False,4.4,166
+PROD_0081,Sports & Outdoors Product 81,Sports & Outdoors,Brand_7,Supplier_20,175.54,103.97,9.67,2023-06-14,False,3.2,295
+PROD_0082,Electronics Product 82,Electronics,Brand_8,Supplier_22,743.55,337.29,4.35,2022-01-15,False,3.4,173
+PROD_0083,Home & Garden Product 83,Home & Garden,Brand_6,Supplier_15,148.72,98.62,2.16,2023-02-08,False,3.8,92
+PROD_0084,Home & Garden Product 84,Home & Garden,Brand_5,Supplier_1,237.06,126.05,7.33,2023-06-16,False,3.9,88
+PROD_0085,Sports & Outdoors Product 85,Sports & Outdoors,Brand_10,Supplier_4,51.84,35.83,1.21,2022-06-17,False,4.5,344
+PROD_0086,Electronics Product 86,Electronics,Brand_12,Supplier_3,290.45,166.01,5.55,2022-12-09,False,4.5,327
+PROD_0087,Electronics Product 87,Electronics,Brand_6,Supplier_22,175.22,71.12,0.34,2022-05-19,False,3.9,191
+PROD_0088,Electronics Product 88,Electronics,Brand_11,Supplier_13,120.19,62.49,7.37,2021-07-22,False,3.1,63
+PROD_0089,Beauty & Personal Care Product 89,Beauty & Personal Care,Brand_1,Supplier_4,78.84,32.14,2.71,2020-03-01,False,2.9,396
+PROD_0090,Clothing Product 90,Clothing,Brand_9,Supplier_7,57.51,33.23,7.79,2020-01-02,False,4.1,178
+PROD_0091,Books Product 91,Books,Brand_9,Supplier_4,12.44,5.77,7.26,2022-06-25,False,4.6,241
+PROD_0092,Beauty & Personal Care Product 92,Beauty & Personal Care,Brand_9,Supplier_11,20.13,9.9,3.13,2020-07-17,False,3.6,94
+PROD_0093,Sports & Outdoors Product 93,Sports & Outdoors,Brand_8,Supplier_20,128.55,60.49,9.5,2021-07-07,False,2.9,69
+PROD_0094,Sports & Outdoors Product 94,Sports & Outdoors,Brand_11,Supplier_16,197.76,92.1,5.5,2021-06-30,False,2.6,294
+PROD_0095,Clothing Product 95,Clothing,Brand_5,Supplier_14,143.6,68.82,4.81,2022-03-16,True,3.5,34
+PROD_0096,Sports & Outdoors Product 96,Sports & Outdoors,Brand_1,Supplier_5,210.59,92.55,4.56,2023-07-03,False,3.8,285
+PROD_0097,Clothing Product 97,Clothing,Brand_11,Supplier_24,23.0,15.81,7.48,2023-12-12,False,2.9,5
+PROD_0098,Clothing Product 98,Clothing,Brand_10,Supplier_10,71.66,42.74,7.3,2020-08-01,False,3.2,49
+PROD_0099,Electronics Product 99,Electronics,Brand_12,Supplier_12,293.45,127.0,7.99,2022-01-25,False,4.4,378
+PROD_0100,Clothing Product 100,Clothing,Brand_14,Supplier_12,122.66,61.54,2.3,2022-03-07,False,3.3,325
+PROD_0101,Books Product 101,Books,Brand_9,Supplier_21,11.15,5.51,3.75,2023-10-10,False,3.6,26
+PROD_0102,Electronics Product 102,Electronics,Brand_7,Supplier_2,769.99,485.42,3.9,2022-08-07,False,4.3,335
+PROD_0103,Electronics Product 103,Electronics,Brand_9,Supplier_14,625.7,345.1,3.08,2023-04-09,False,3.2,282
+PROD_0104,Clothing Product 104,Clothing,Brand_10,Supplier_6,23.0,11.53,6.9,2022-03-06,False,3.8,248
+PROD_0105,Sports & Outdoors Product 105,Sports & Outdoors,Brand_15,Supplier_20,130.76,78.61,9.14,2022-05-26,False,2.9,397
+PROD_0106,Home & Garden Product 106,Home & Garden,Brand_9,Supplier_7,145.0,72.53,6.51,2022-07-26,False,3.7,386
+PROD_0107,Books Product 107,Books,Brand_15,Supplier_11,38.75,22.35,6.52,2023-06-21,False,4.9,361
+PROD_0108,Clothing Product 108,Clothing,Brand_4,Supplier_13,66.08,41.54,2.83,2021-01-09,False,2.9,244
+PROD_0109,Sports & Outdoors Product 109,Sports & Outdoors,Brand_12,Supplier_22,71.5,38.42,6.07,2020-05-08,False,4.2,353
+PROD_0110,Beauty & Personal Care Product 110,Beauty & Personal Care,Brand_15,Supplier_16,36.22,21.6,0.73,2020-06-03,True,2.6,98
+PROD_0111,Sports & Outdoors Product 111,Sports & Outdoors,Brand_15,Supplier_20,213.48,107.54,5.97,2022-04-07,False,3.6,144
+PROD_0112,Electronics Product 112,Electronics,Brand_12,Supplier_6,59.46,24.3,2.19,2020-07-04,True,4.0,151
+PROD_0113,Books Product 113,Books,Brand_13,Supplier_21,16.15,8.37,3.8,2022-01-01,False,3.3,59
+PROD_0114,Clothing Product 114,Clothing,Brand_5,Supplier_18,37.1,20.84,1.09,2020-12-01,False,4.0,379
+PROD_0115,Clothing Product 115,Clothing,Brand_7,Supplier_25,120.03,63.33,9.77,2023-08-16,False,3.3,142
+PROD_0116,Home & Garden Product 116,Home & Garden,Brand_12,Supplier_13,214.53,106.2,0.42,2023-10-19,False,4.5,167
+PROD_0117,Beauty & Personal Care Product 117,Beauty & Personal Care,Brand_8,Supplier_19,15.56,10.66,9.5,2020-02-19,False,2.8,491
+PROD_0118,Books Product 118,Books,Brand_5,Supplier_16,30.83,13.58,8.12,2020-01-04,False,2.8,136
+PROD_0119,Clothing Product 119,Clothing,Brand_9,Supplier_16,140.5,81.52,7.65,2020-09-19,False,3.9,223
+PROD_0120,Home & Garden Product 120,Home & Garden,Brand_3,Supplier_7,252.9,144.85,9.91,2022-04-06,False,4.5,141
+PROD_0121,Clothing Product 121,Clothing,Brand_13,Supplier_24,124.41,60.96,1.22,2021-07-18,False,4.2,387
+PROD_0122,Beauty & Personal Care Product 122,Beauty & Personal Care,Brand_2,Supplier_8,46.18,30.79,1.25,2020-12-19,False,3.6,70
+PROD_0123,Home & Garden Product 123,Home & Garden,Brand_4,Supplier_9,331.51,206.62,2.23,2023-08-21,False,3.8,92
+PROD_0124,Electronics Product 124,Electronics,Brand_1,Supplier_15,358.09,201.87,9.02,2022-12-02,False,3.6,489
+PROD_0125,Beauty & Personal Care Product 125,Beauty & Personal Care,Brand_13,Supplier_9,40.51,18.02,7.45,2022-01-06,False,3.7,339
+PROD_0126,Electronics Product 126,Electronics,Brand_15,Supplier_21,285.06,191.2,1.99,2022-01-29,True,2.6,297
+PROD_0127,Beauty & Personal Care Product 127,Beauty & Personal Care,Brand_5,Supplier_20,20.15,10.51,2.03,2022-04-23,False,5.0,247
+PROD_0128,Beauty & Personal Care Product 128,Beauty & Personal Care,Brand_1,Supplier_2,32.07,21.51,5.52,2022-09-20,False,4.8,389
+PROD_0129,Beauty & Personal Care Product 129,Beauty & Personal Care,Brand_10,Supplier_7,13.3,5.86,2.53,2022-10-30,False,3.7,66
+PROD_0130,Electronics Product 130,Electronics,Brand_2,Supplier_25,795.63,344.79,6.85,2020-03-28,False,4.3,370
+PROD_0131,Books Product 131,Books,Brand_11,Supplier_7,21.83,9.64,7.52,2021-09-12,False,3.8,208
+PROD_0132,Sports & Outdoors Product 132,Sports & Outdoors,Brand_15,Supplier_22,164.16,94.9,2.85,2021-02-12,False,3.6,94
+PROD_0133,Sports & Outdoors Product 133,Sports & Outdoors,Brand_2,Supplier_17,92.4,45.83,1.23,2021-07-01,False,3.0,51
+PROD_0134,Home & Garden Product 134,Home & Garden,Brand_5,Supplier_3,158.0,66.06,2.44,2023-03-13,False,3.9,286
+PROD_0135,Books Product 135,Books,Brand_2,Supplier_3,11.32,5.26,2.86,2021-05-17,False,3.9,269
+PROD_0136,Beauty & Personal Care Product 136,Beauty & Personal Care,Brand_5,Supplier_24,54.99,27.36,8.36,2022-08-24,False,4.0,394
+PROD_0137,Home & Garden Product 137,Home & Garden,Brand_5,Supplier_18,306.16,184.04,2.63,2020-11-04,False,2.7,105
+PROD_0138,Beauty & Personal Care Product 138,Beauty & Personal Care,Brand_13,Supplier_16,25.4,14.79,4.45,2021-03-30,False,2.9,80
+PROD_0139,Electronics Product 139,Electronics,Brand_14,Supplier_15,647.61,288.72,1.09,2023-02-20,False,4.4,429
+PROD_0140,Clothing Product 140,Clothing,Brand_4,Supplier_14,56.85,35.49,6.61,2022-10-14,False,4.5,487
+PROD_0141,Home & Garden Product 141,Home & Garden,Brand_12,Supplier_18,168.04,109.13,2.54,2022-10-23,False,4.5,94
+PROD_0142,Beauty & Personal Care Product 142,Beauty & Personal Care,Brand_3,Supplier_15,59.76,37.02,4.39,2023-09-24,False,4.4,462
+PROD_0143,Home & Garden Product 143,Home & Garden,Brand_14,Supplier_20,385.42,176.32,0.46,2020-01-11,False,3.3,393
+PROD_0144,Electronics Product 144,Electronics,Brand_14,Supplier_21,172.73,109.35,8.9,2023-08-04,False,4.6,208
+PROD_0145,Home & Garden Product 145,Home & Garden,Brand_6,Supplier_11,214.69,148.09,6.87,2021-11-15,False,4.3,498
+PROD_0146,Beauty & Personal Care Product 146,Beauty & Personal Care,Brand_4,Supplier_4,17.92,7.75,1.5,2023-09-06,False,4.8,50
+PROD_0147,Home & Garden Product 147,Home & Garden,Brand_14,Supplier_7,281.77,156.29,4.04,2020-12-30,True,3.9,90
+PROD_0148,Clothing Product 148,Clothing,Brand_14,Supplier_22,115.66,61.75,8.54,2022-07-10,False,4.4,411
+PROD_0149,Electronics Product 149,Electronics,Brand_3,Supplier_1,718.64,302.86,1.01,2022-08-12,False,4.9,496
+PROD_0150,Home & Garden Product 150,Home & Garden,Brand_14,Supplier_10,100.78,44.81,3.44,2022-08-16,False,4.4,332
+PROD_0151,Beauty & Personal Care Product 151,Beauty & Personal Care,Brand_6,Supplier_9,50.48,32.81,1.03,2022-07-25,False,2.5,189
+PROD_0152,Books Product 152,Books,Brand_1,Supplier_4,31.05,16.56,8.9,2021-01-08,False,4.8,136
+PROD_0153,Clothing Product 153,Clothing,Brand_4,Supplier_17,82.96,41.37,9.95,2021-05-19,False,2.5,452
+PROD_0154,Clothing Product 154,Clothing,Brand_8,Supplier_12,37.76,23.68,5.58,2021-03-13,False,4.4,293
+PROD_0155,Books Product 155,Books,Brand_3,Supplier_9,16.28,7.86,6.63,2020-12-09,False,2.6,113
+PROD_0156,Beauty & Personal Care Product 156,Beauty & Personal Care,Brand_13,Supplier_25,28.72,19.67,7.1,2023-09-22,False,4.6,422
+PROD_0157,Beauty & Personal Care Product 157,Beauty & Personal Care,Brand_4,Supplier_11,64.91,40.55,3.19,2023-01-05,False,3.6,446
+PROD_0158,Books Product 158,Books,Brand_3,Supplier_25,38.42,20.82,1.09,2023-01-23,False,3.6,282
+PROD_0159,Electronics Product 159,Electronics,Brand_4,Supplier_2,226.47,100.89,8.84,2021-07-21,False,4.9,105
+PROD_0160,Books Product 160,Books,Brand_2,Supplier_2,29.49,17.92,2.63,2022-09-28,False,4.6,397
+PROD_0161,Clothing Product 161,Clothing,Brand_10,Supplier_4,72.01,34.28,9.86,2023-03-21,False,3.0,385
+PROD_0162,Books Product 162,Books,Brand_4,Supplier_11,43.51,20.7,4.3,2021-09-03,False,2.8,456
+PROD_0163,Clothing Product 163,Clothing,Brand_1,Supplier_20,34.04,23.51,9.0,2021-10-15,False,3.6,72
+PROD_0164,Clothing Product 164,Clothing,Brand_9,Supplier_4,50.71,21.3,3.2,2020-05-10,False,3.3,53
+PROD_0165,Electronics Product 165,Electronics,Brand_7,Supplier_10,244.01,150.84,2.57,2023-07-03,False,2.7,342
+PROD_0166,Sports & Outdoors Product 166,Sports & Outdoors,Brand_13,Supplier_19,102.48,41.27,5.65,2023-03-26,False,4.2,7
+PROD_0167,Home & Garden Product 167,Home & Garden,Brand_4,Supplier_1,278.18,131.56,7.96,2022-05-11,False,4.9,33
+PROD_0168,Books Product 168,Books,Brand_14,Supplier_2,27.91,11.44,1.58,2020-10-30,False,3.9,195
+PROD_0169,Home & Garden Product 169,Home & Garden,Brand_6,Supplier_23,59.99,31.87,3.53,2021-04-25,False,3.7,76
+PROD_0170,Electronics Product 170,Electronics,Brand_2,Supplier_6,128.74,89.76,0.93,2022-11-21,False,4.8,188
+PROD_0171,Clothing Product 171,Clothing,Brand_14,Supplier_18,43.45,27.44,2.61,2023-04-20,False,2.7,73
+PROD_0172,Clothing Product 172,Clothing,Brand_7,Supplier_17,77.55,42.61,3.08,2021-08-29,False,3.9,230
+PROD_0173,Beauty & Personal Care Product 173,Beauty & Personal Care,Brand_13,Supplier_18,43.39,21.99,9.23,2021-07-26,False,2.8,56
+PROD_0174,Books Product 174,Books,Brand_7,Supplier_22,38.19,18.1,1.67,2022-01-19,False,3.9,178
+PROD_0175,Home & Garden Product 175,Home & Garden,Brand_14,Supplier_19,64.66,34.32,3.15,2022-05-07,True,4.2,429
+PROD_0176,Beauty & Personal Care Product 176,Beauty & Personal Care,Brand_10,Supplier_1,27.54,13.94,4.99,2022-12-26,False,3.5,183
+PROD_0177,Sports & Outdoors Product 177,Sports & Outdoors,Brand_11,Supplier_17,134.9,82.65,7.63,2022-06-20,False,2.6,449
+PROD_0178,Home & Garden Product 178,Home & Garden,Brand_6,Supplier_17,279.68,119.86,9.43,2020-02-01,False,2.6,291
+PROD_0179,Home & Garden Product 179,Home & Garden,Brand_10,Supplier_6,242.88,133.62,1.38,2021-08-27,False,3.1,19
+PROD_0180,Electronics Product 180,Electronics,Brand_2,Supplier_10,371.97,239.65,8.52,2020-02-28,False,4.3,276
+PROD_0181,Beauty & Personal Care Product 181,Beauty & Personal Care,Brand_13,Supplier_14,38.83,17.52,2.2,2023-09-26,False,5.0,359
+PROD_0182,Books Product 182,Books,Brand_9,Supplier_22,33.35,20.39,6.48,2022-06-02,False,2.5,411
+PROD_0183,Home & Garden Product 183,Home & Garden,Brand_11,Supplier_5,333.41,145.69,6.65,2023-04-07,False,3.1,86
+PROD_0184,Sports & Outdoors Product 184,Sports & Outdoors,Brand_8,Supplier_18,48.66,26.47,0.32,2023-04-03,False,4.6,22
+PROD_0185,Beauty & Personal Care Product 185,Beauty & Personal Care,Brand_4,Supplier_8,25.92,12.38,8.05,2023-06-25,False,4.4,172
+PROD_0186,Electronics Product 186,Electronics,Brand_8,Supplier_4,693.98,310.24,6.85,2023-09-12,True,4.7,187
+PROD_0187,Electronics Product 187,Electronics,Brand_5,Supplier_2,333.52,141.15,2.95,2022-11-07,False,3.7,495
+PROD_0188,Clothing Product 188,Clothing,Brand_4,Supplier_1,37.08,23.03,1.16,2020-02-11,False,2.5,259
+PROD_0189,Books Product 189,Books,Brand_14,Supplier_15,27.1,12.98,5.59,2022-08-12,False,4.1,460
+PROD_0190,Books Product 190,Books,Brand_12,Supplier_1,34.12,19.44,0.35,2022-12-01,False,4.9,211
+PROD_0191,Books Product 191,Books,Brand_14,Supplier_12,26.69,11.77,4.14,2023-09-19,False,2.5,4
+PROD_0192,Sports & Outdoors Product 192,Sports & Outdoors,Brand_2,Supplier_20,243.15,166.08,5.71,2022-10-17,True,2.8,410
+PROD_0193,Books Product 193,Books,Brand_7,Supplier_21,31.31,20.44,4.53,2021-08-04,False,4.1,400
+PROD_0194,Clothing Product 194,Clothing,Brand_7,Supplier_7,51.82,30.96,7.05,2020-05-15,False,3.7,448
+PROD_0195,Home & Garden Product 195,Home & Garden,Brand_12,Supplier_17,266.68,181.65,1.08,2020-03-19,False,2.9,114
+PROD_0196,Clothing Product 196,Clothing,Brand_13,Supplier_5,77.59,40.23,5.34,2023-01-30,False,4.5,182
+PROD_0197,Electronics Product 197,Electronics,Brand_2,Supplier_25,77.55,49.61,2.3,2022-09-07,False,3.3,455
+PROD_0198,Books Product 198,Books,Brand_12,Supplier_20,43.3,21.6,7.73,2022-02-18,False,3.4,74
+PROD_0199,Beauty & Personal Care Product 199,Beauty & Personal Care,Brand_14,Supplier_6,30.09,15.23,9.82,2022-03-14,False,4.4,426
+PROD_0200,Home & Garden Product 200,Home & Garden,Brand_2,Supplier_21,167.54,85.11,7.48,2020-12-23,True,2.7,127
+PROD_0201,Beauty & Personal Care Product 201,Beauty & Personal Care,Brand_2,Supplier_18,67.64,40.82,7.22,2021-04-01,False,3.6,266
+PROD_0202,Beauty & Personal Care Product 202,Beauty & Personal Care,Brand_8,Supplier_18,30.74,14.51,6.3,2022-11-08,False,4.0,57
+PROD_0203,Electronics Product 203,Electronics,Brand_1,Supplier_12,337.52,191.03,6.46,2020-04-12,False,2.8,416
+PROD_0204,Books Product 204,Books,Brand_11,Supplier_4,18.71,12.48,9.24,2020-11-13,False,4.2,446
+PROD_0205,Electronics Product 205,Electronics,Brand_15,Supplier_16,554.36,360.75,6.17,2022-03-07,False,3.1,286
+PROD_0206,Electronics Product 206,Electronics,Brand_14,Supplier_11,391.53,221.66,8.04,2022-12-16,True,3.5,296
+PROD_0207,Electronics Product 207,Electronics,Brand_10,Supplier_23,644.08,400.09,2.44,2022-05-03,False,3.4,458
+PROD_0208,Books Product 208,Books,Brand_8,Supplier_7,9.97,6.13,8.31,2020-02-27,False,3.5,83
+PROD_0209,Sports & Outdoors Product 209,Sports & Outdoors,Brand_5,Supplier_15,193.19,119.85,6.91,2021-10-18,False,4.3,338
+PROD_0210,Beauty & Personal Care Product 210,Beauty & Personal Care,Brand_6,Supplier_5,47.89,23.05,9.8,2022-11-20,False,4.9,481
+PROD_0211,Books Product 211,Books,Brand_5,Supplier_4,28.95,18.1,8.56,2020-09-18,False,4.4,68
+PROD_0212,Books Product 212,Books,Brand_15,Supplier_19,44.46,23.41,0.45,2021-02-19,False,3.6,217
+PROD_0213,Home & Garden Product 213,Home & Garden,Brand_8,Supplier_16,225.1,112.74,8.99,2023-02-02,False,3.0,73
+PROD_0214,Sports & Outdoors Product 214,Sports & Outdoors,Brand_12,Supplier_4,193.21,133.04,1.73,2020-03-23,False,4.9,203
+PROD_0215,Clothing Product 215,Clothing,Brand_4,Supplier_6,111.36,73.73,0.42,2022-05-20,False,3.5,356
+PROD_0216,Beauty & Personal Care Product 216,Beauty & Personal Care,Brand_1,Supplier_24,61.56,39.27,5.42,2022-05-11,False,5.0,235
+PROD_0217,Books Product 217,Books,Brand_13,Supplier_9,34.85,17.35,7.22,2021-08-28,False,3.7,357
+PROD_0218,Clothing Product 218,Clothing,Brand_7,Supplier_1,63.2,41.54,1.59,2023-05-30,False,3.9,380
+PROD_0219,Books Product 219,Books,Brand_4,Supplier_19,9.63,4.92,6.59,2021-01-02,False,4.9,213
+PROD_0220,Home & Garden Product 220,Home & Garden,Brand_8,Supplier_6,112.89,58.59,9.22,2021-07-18,False,3.3,187
+PROD_0221,Home & Garden Product 221,Home & Garden,Brand_1,Supplier_8,355.73,159.55,7.16,2022-10-13,False,4.5,374
+PROD_0222,Home & Garden Product 222,Home & Garden,Brand_9,Supplier_16,321.46,151.24,3.7,2021-10-16,False,4.9,468
+PROD_0223,Sports & Outdoors Product 223,Sports & Outdoors,Brand_10,Supplier_25,134.48,77.21,8.41,2021-01-16,False,5.0,326
+PROD_0224,Electronics Product 224,Electronics,Brand_4,Supplier_18,320.75,208.25,9.36,2023-09-19,True,3.6,368
+PROD_0225,Home & Garden Product 225,Home & Garden,Brand_11,Supplier_24,391.55,248.64,0.36,2021-09-05,False,5.0,249
+PROD_0226,Beauty & Personal Care Product 226,Beauty & Personal Care,Brand_7,Supplier_2,77.47,40.18,6.42,2023-08-30,False,3.4,302
+PROD_0227,Sports & Outdoors Product 227,Sports & Outdoors,Brand_8,Supplier_16,34.61,16.71,7.39,2021-12-02,False,4.9,388
+PROD_0228,Electronics Product 228,Electronics,Brand_1,Supplier_3,529.03,303.08,6.48,2023-06-17,False,4.9,84
+PROD_0229,Clothing Product 229,Clothing,Brand_10,Supplier_5,87.12,42.32,0.4,2020-11-19,False,3.0,278
+PROD_0230,Electronics Product 230,Electronics,Brand_9,Supplier_12,222.4,108.36,9.12,2022-01-02,True,2.6,182
+PROD_0231,Sports & Outdoors Product 231,Sports & Outdoors,Brand_8,Supplier_1,221.69,96.58,0.25,2023-08-16,False,3.3,475
+PROD_0232,Home & Garden Product 232,Home & Garden,Brand_3,Supplier_11,303.46,151.51,5.16,2023-04-16,False,4.0,112
+PROD_0233,Sports & Outdoors Product 233,Sports & Outdoors,Brand_14,Supplier_15,188.85,108.92,9.03,2023-05-04,False,2.6,373
+PROD_0234,Electronics Product 234,Electronics,Brand_1,Supplier_19,577.05,286.25,8.63,2023-11-16,False,4.0,215
+PROD_0235,Electronics Product 235,Electronics,Brand_15,Supplier_25,496.66,315.76,3.57,2022-11-16,False,3.1,57
+PROD_0236,Sports & Outdoors Product 236,Sports & Outdoors,Brand_3,Supplier_17,75.85,40.83,8.77,2023-11-03,False,3.4,223
+PROD_0237,Sports & Outdoors Product 237,Sports & Outdoors,Brand_13,Supplier_4,32.3,17.86,4.28,2023-09-27,False,3.0,382
+PROD_0238,Electronics Product 238,Electronics,Brand_5,Supplier_21,743.48,417.54,7.75,2022-09-12,False,4.6,486
+PROD_0239,Clothing Product 239,Clothing,Brand_9,Supplier_13,77.92,41.9,9.5,2021-12-03,False,3.6,9
+PROD_0240,Electronics Product 240,Electronics,Brand_10,Supplier_23,382.55,156.14,5.19,2022-12-31,False,3.1,493
+PROD_0241,Books Product 241,Books,Brand_8,Supplier_11,23.94,16.24,4.98,2020-05-13,False,3.6,457
+PROD_0242,Sports & Outdoors Product 242,Sports & Outdoors,Brand_9,Supplier_21,176.9,101.21,8.67,2022-12-10,True,3.3,249
+PROD_0243,Clothing Product 243,Clothing,Brand_4,Supplier_10,111.7,65.15,2.89,2021-05-11,False,3.2,172
+PROD_0244,Electronics Product 244,Electronics,Brand_15,Supplier_11,516.46,356.33,0.42,2021-09-08,False,4.5,417
+PROD_0245,Electronics Product 245,Electronics,Brand_15,Supplier_25,269.3,177.74,1.32,2021-01-04,False,2.8,351
+PROD_0246,Clothing Product 246,Clothing,Brand_12,Supplier_8,35.99,20.76,2.47,2023-09-04,False,3.9,384
+PROD_0247,Books Product 247,Books,Brand_10,Supplier_15,22.93,10.84,9.15,2022-07-13,False,5.0,10
+PROD_0248,Home & Garden Product 248,Home & Garden,Brand_10,Supplier_24,261.81,134.99,0.11,2023-08-18,False,4.3,489
+PROD_0249,Electronics Product 249,Electronics,Brand_1,Supplier_20,139.55,68.8,2.63,2021-11-04,False,4.2,483
+PROD_0250,Sports & Outdoors Product 250,Sports & Outdoors,Brand_13,Supplier_3,22.22,10.36,0.35,2020-08-26,False,3.4,316
+PROD_0251,Books Product 251,Books,Brand_15,Supplier_11,35.43,20.62,9.26,2020-09-04,False,2.6,499
+PROD_0252,Beauty & Personal Care Product 252,Beauty & Personal Care,Brand_3,Supplier_9,79.1,46.94,7.54,2020-06-27,False,2.8,395
+PROD_0253,Beauty & Personal Care Product 253,Beauty & Personal Care,Brand_8,Supplier_13,17.33,7.94,0.63,2023-02-16,False,4.7,153
+PROD_0254,Home & Garden Product 254,Home & Garden,Brand_13,Supplier_4,248.86,100.35,4.5,2022-05-19,False,4.2,437
+PROD_0255,Home & Garden Product 255,Home & Garden,Brand_15,Supplier_17,304.43,152.64,1.27,2021-09-15,False,3.3,481
+PROD_0256,Books Product 256,Books,Brand_6,Supplier_24,26.06,16.08,8.63,2021-10-19,False,4.6,339
+PROD_0257,Beauty & Personal Care Product 257,Beauty & Personal Care,Brand_10,Supplier_10,64.26,29.43,1.13,2021-09-08,False,4.3,372
+PROD_0258,Home & Garden Product 258,Home & Garden,Brand_7,Supplier_14,306.65,170.06,7.38,2022-05-05,False,3.3,14
+PROD_0259,Beauty & Personal Care Product 259,Beauty & Personal Care,Brand_3,Supplier_14,61.73,29.35,5.66,2022-12-22,False,4.6,232
+PROD_0260,Beauty & Personal Care Product 260,Beauty & Personal Care,Brand_11,Supplier_11,20.89,9.65,7.82,2020-10-27,False,3.8,148
+PROD_0261,Electronics Product 261,Electronics,Brand_4,Supplier_15,722.27,371.67,6.02,2023-04-22,False,3.9,261
+PROD_0262,Beauty & Personal Care Product 262,Beauty & Personal Care,Brand_2,Supplier_12,62.21,28.11,4.25,2020-06-17,False,3.6,69
+PROD_0263,Beauty & Personal Care Product 263,Beauty & Personal Care,Brand_15,Supplier_11,66.66,30.39,1.92,2021-01-14,False,3.9,283
+PROD_0264,Beauty & Personal Care Product 264,Beauty & Personal Care,Brand_11,Supplier_12,17.01,11.45,4.13,2021-09-10,False,3.2,353
+PROD_0265,Electronics Product 265,Electronics,Brand_14,Supplier_13,703.09,348.03,1.12,2020-02-03,False,4.2,48
+PROD_0266,Home & Garden Product 266,Home & Garden,Brand_8,Supplier_2,67.07,43.6,1.55,2021-08-12,False,3.5,249
+PROD_0267,Sports & Outdoors Product 267,Sports & Outdoors,Brand_8,Supplier_3,143.02,86.58,8.64,2023-11-16,False,4.9,381
+PROD_0268,Sports & Outdoors Product 268,Sports & Outdoors,Brand_4,Supplier_6,20.77,10.68,6.33,2020-09-20,False,3.9,253
+PROD_0269,Beauty & Personal Care Product 269,Beauty & Personal Care,Brand_4,Supplier_22,31.87,14.74,1.45,2022-06-29,False,3.6,245
+PROD_0270,Beauty & Personal Care Product 270,Beauty & Personal Care,Brand_1,Supplier_16,47.61,19.31,2.68,2020-06-15,False,3.7,101
+PROD_0271,Clothing Product 271,Clothing,Brand_3,Supplier_8,18.99,9.56,3.87,2023-11-05,False,2.9,452
+PROD_0272,Electronics Product 272,Electronics,Brand_9,Supplier_12,759.15,388.75,0.45,2021-12-28,False,4.0,13
+PROD_0273,Home & Garden Product 273,Home & Garden,Brand_6,Supplier_5,139.88,83.93,3.99,2020-03-18,False,4.6,141
+PROD_0274,Sports & Outdoors Product 274,Sports & Outdoors,Brand_2,Supplier_4,95.6,41.72,0.13,2023-08-08,True,4.6,22
+PROD_0275,Clothing Product 275,Clothing,Brand_5,Supplier_6,43.04,24.18,4.17,2020-11-04,False,2.8,415
+PROD_0276,Beauty & Personal Care Product 276,Beauty & Personal Care,Brand_15,Supplier_17,42.46,27.14,1.83,2022-08-26,False,3.5,290
+PROD_0277,Sports & Outdoors Product 277,Sports & Outdoors,Brand_5,Supplier_9,141.56,86.01,3.84,2021-12-01,False,2.7,283
+PROD_0278,Sports & Outdoors Product 278,Sports & Outdoors,Brand_2,Supplier_23,213.11,92.85,0.89,2020-10-07,True,5.0,390
+PROD_0279,Electronics Product 279,Electronics,Brand_5,Supplier_25,296.57,126.78,4.23,2020-11-27,False,3.4,189
+PROD_0280,Sports & Outdoors Product 280,Sports & Outdoors,Brand_9,Supplier_21,118.01,59.3,3.03,2020-07-20,False,3.4,309
+PROD_0281,Clothing Product 281,Clothing,Brand_8,Supplier_7,117.86,60.06,9.28,2020-12-08,False,2.9,158
+PROD_0282,Clothing Product 282,Clothing,Brand_11,Supplier_10,47.62,27.46,6.12,2022-11-21,False,3.0,242
+PROD_0283,Electronics Product 283,Electronics,Brand_4,Supplier_8,190.16,107.85,8.94,2021-11-09,False,2.9,11
+PROD_0284,Electronics Product 284,Electronics,Brand_7,Supplier_3,443.6,256.8,7.48,2020-11-20,False,4.7,493
+PROD_0285,Sports & Outdoors Product 285,Sports & Outdoors,Brand_14,Supplier_17,237.7,100.2,6.01,2020-04-26,False,4.1,286
+PROD_0286,Electronics Product 286,Electronics,Brand_8,Supplier_24,72.36,50.33,6.99,2020-08-10,False,4.2,278
+PROD_0287,Home & Garden Product 287,Home & Garden,Brand_6,Supplier_24,346.84,164.81,6.36,2023-07-04,False,4.8,416
+PROD_0288,Sports & Outdoors Product 288,Sports & Outdoors,Brand_11,Supplier_2,127.5,76.72,3.32,2021-03-27,False,4.6,136
+PROD_0289,Beauty & Personal Care Product 289,Beauty & Personal Care,Brand_5,Supplier_14,48.07,33.24,1.69,2023-06-28,False,3.5,262
+PROD_0290,Home & Garden Product 290,Home & Garden,Brand_5,Supplier_4,156.18,84.66,7.04,2020-11-10,False,2.7,82
+PROD_0291,Sports & Outdoors Product 291,Sports & Outdoors,Brand_15,Supplier_23,90.38,46.79,0.94,2020-03-31,False,4.5,138
+PROD_0292,Sports & Outdoors Product 292,Sports & Outdoors,Brand_10,Supplier_10,213.78,146.74,7.36,2020-05-17,False,4.8,452
+PROD_0293,Sports & Outdoors Product 293,Sports & Outdoors,Brand_1,Supplier_5,196.68,120.16,0.94,2020-04-16,False,4.3,46
+PROD_0294,Sports & Outdoors Product 294,Sports & Outdoors,Brand_1,Supplier_15,101.8,53.97,1.81,2020-03-06,False,3.7,468
+PROD_0295,Home & Garden Product 295,Home & Garden,Brand_2,Supplier_18,292.75,126.16,5.07,2020-08-30,False,5.0,222
+PROD_0296,Clothing Product 296,Clothing,Brand_13,Supplier_14,92.73,60.76,0.53,2022-02-24,True,2.8,376
+PROD_0297,Books Product 297,Books,Brand_5,Supplier_3,12.61,6.95,2.25,2023-02-28,False,4.3,35
+PROD_0298,Clothing Product 298,Clothing,Brand_12,Supplier_19,68.4,34.29,1.89,2023-01-14,False,2.8,274
+PROD_0299,Electronics Product 299,Electronics,Brand_1,Supplier_13,322.12,137.12,3.45,2022-06-14,False,4.8,243
+PROD_0300,Electronics Product 300,Electronics,Brand_2,Supplier_19,340.34,141.87,4.11,2023-02-16,False,3.2,110
