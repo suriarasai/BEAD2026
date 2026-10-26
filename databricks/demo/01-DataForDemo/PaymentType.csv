@@ -1,0 +1,7 @@
+PaymentTypeID,TypeName
+1,Cash
+2,Credit Card
+3,Debit Card
+4,PayNow
+5,GrabPay
+6,Nets
