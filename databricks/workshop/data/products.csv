@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price,unit_cost
+1,Laptop,Electronics,TechPro,1299.0,780.0
+2,Smartphone,Electronics,TechPro,899.0,500.0
+3,Wireless Headphones,Electronics,SoundMax,149.0,60.0
+4,Tablet,Electronics,TechPro,649.0,360.0
+5,Smartwatch,Electronics,TechPro,299.0,130.0
+6,Men's T-Shirt,Clothing,FashionX,29.9,8.0
+7,Women's Dress,Clothing,FashionX,79.9,22.0
+8,Running Shoes,Clothing,SpeedStep,119.0,45.0
+9,Denim Jeans,Clothing,FashionX,89.9,28.0
+10,Winter Jacket,Clothing,WarmWear,199.0,75.0
+11,Coffee Maker,Home & Living,BrewMaster,89.0,35.0
+12,Air Purifier,Home & Living,CleanAir,249.0,100.0
+13,Desk Lamp,Home & Living,LumiLight,39.9,12.0
+14,Bed Sheets Set,Home & Living,ComfortHome,69.9,22.0
+15,Non-stick Pan,Home & Living,KitchenPro,49.9,16.0
+16,Data Engineering Handbook,Books,TechBooks,59.9,15.0
+17,Python Cookbook,Books,TechBooks,44.9,12.0
+18,SQL Mastery Guide,Books,TechBooks,34.9,9.0
+19,Yoga Mat,Sports,FitLife,35.0,10.0
+20,Resistance Bands Set,Sports,FitLife,25.0,7.0

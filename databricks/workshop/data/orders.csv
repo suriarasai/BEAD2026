@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,status,payment_method,shipping_city,shipping_country
+1,32,2024-05-07,Shipped,Credit Card,Bangkok,Thailand
+2,11,2024-01-24,Shipped,PayNow,Singapore,Singapore
+3,30,2023-10-20,Cancelled,Bank Transfer,Hanoi,Vietnam
+4,43,2024-05-13,Completed,PayNow,Jakarta,Indonesia
+5,14,2023-03-01,Cancelled,Bank Transfer,Vientiane,Laos
+6,4,2023-11-18,Completed,Bank Transfer,Singapore,Singapore
+7,31,2024-05-29,Completed,Credit Card,Phnom Penh,Cambodia
+8,33,2023-03-24,Completed,Bank Transfer,Jakarta,Indonesia
+9,5,2024-11-22,Shipped,Credit Card,Bangkok,Thailand
+10,37,2023-09-10,Processing,Credit Card,Vientiane,Laos
+11,40,2023-03-25,Cancelled,Bank Transfer,Hanoi,Vietnam
+12,37,2024-06-19,Completed,Debit Card,Ho Chi Minh City,Vietnam
+13,43,2023-11-18,Completed,GrabPay,Bangkok,Thailand
+14,9,2024-11-18,Shipped,PayNow,Manila,Philippines
+15,49,2023-03-16,Shipped,Bank Transfer,Singapore,Singapore
+16,37,2023-04-13,Processing,Debit Card,Kuala Lumpur,Malaysia
+17,33,2023-09-29,Completed,Credit Card,Jakarta,Indonesia
+18,16,2024-01-14,Completed,GrabPay,Manila,Philippines
+19,35,2024-12-21,Processing,Bank Transfer,Manila,Philippines
+20,1,2024-11-14,Completed,Credit Card,Phnom Penh,Cambodia
+21,9,2023-09-28,Completed,Bank Transfer,Kuala Lumpur,Malaysia
+22,10,2023-10-06,Processing,Debit Card,Manila,Philippines
+23,46,2023-12-18,Cancelled,PayNow,Bangkok,Thailand
+24,33,2024-05-15,Completed,Credit Card,Manila,Philippines
+25,41,2024-03-09,Completed,Credit Card,Manila,Philippines
+26,22,2023-05-14,Completed,GrabPay,Manila,Philippines
+27,36,2024-12-23,Processing,Credit Card,Hanoi,Vietnam
+28,8,2023-03-19,Processing,Credit Card,Jakarta,Indonesia
+29,24,2024-08-19,Completed,GrabPay,Phnom Penh,Cambodia
+30,9,2023-02-12,Completed,Credit Card,Manila,Philippines
+31,23,2023-08-04,Cancelled,Credit Card,Bangkok,Thailand
+32,23,2024-07-27,Processing,Debit Card,Hanoi,Vietnam
+33,16,2023-06-16,Shipped,Credit Card,Jakarta,Indonesia
+34,12,2023-12-07,Cancelled,Debit Card,Hanoi,Vietnam
+35,18,2023-06-13,Shipped,Credit Card,Kuala Lumpur,Malaysia
+36,31,2023-08-16,Shipped,PayNow,Bangkok,Thailand
+37,20,2023-08-22,Completed,Debit Card,Bangkok,Thailand
+38,26,2023-12-03,Completed,PayNow,Manila,Philippines
+39,23,2024-10-18,Shipped,Bank Transfer,Phnom Penh,Cambodia
+40,22,2023-01-29,Completed,Debit Card,Kuala Lumpur,Malaysia
+41,38,2023-09-29,Completed,Bank Transfer,Singapore,Singapore
+42,28,2023-12-20,Shipped,Bank Transfer,Ho Chi Minh City,Vietnam
+43,33,2023-04-29,Processing,Debit Card,Hanoi,Vietnam
+44,17,2023-02-15,Completed,Bank Transfer,Hanoi,Vietnam
+45,35,2024-12-04,Completed,GrabPay,Bangkok,Thailand
+46,5,2024-11-11,Processing,PayNow,Ho Chi Minh City,Vietnam
+47,43,2023-05-08,Processing,PayNow,Manila,Philippines
+48,43,2024-02-23,Shipped,PayNow,Ho Chi Minh City,Vietnam
+49,36,2023-05-11,Shipped,GrabPay,Bangkok,Thailand
+50,44,2023-06-28,Processing,PayNow,Vientiane,Laos
+51,26,2024-07-15,Completed,PayNow,Singapore,Singapore
+52,14,2024-03-16,Processing,PayNow,Vientiane,Laos
+53,30,2024-03-28,Cancelled,Debit Card,Yangon,Myanmar
+54,33,2024-04-29,Cancelled,Credit Card,Jakarta,Indonesia
+55,19,2024-06-11,Completed,Credit Card,Vientiane,Laos
+56,49,2023-08-29,Completed,Debit Card,Manila,Philippines
+57,10,2023-01-26,Completed,GrabPay,Singapore,Singapore
+58,40,2023-03-16,Shipped,Bank Transfer,Yangon,Myanmar
+59,13,2024-12-14,Shipped,GrabPay,Hanoi,Vietnam
+60,16,2023-06-01,Completed,GrabPay,Singapore,Singapore
+61,15,2023-06-30,Shipped,Credit Card,Phnom Penh,Cambodia
+62,36,2023-09-13,Shipped,Debit Card,Kuala Lumpur,Malaysia
+63,30,2024-11-14,Processing,Bank Transfer,Phnom Penh,Cambodia
+64,21,2024-03-29,Cancelled,Bank Transfer,Vientiane,Laos
+65,28,2024-07-15,Completed,GrabPay,Yangon,Myanmar
+66,29,2023-09-23,Cancelled,PayNow,Bangkok,Thailand
+67,50,2024-06-17,Cancelled,Debit Card,Yangon,Myanmar
+68,18,2024-03-26,Cancelled,PayNow,Kuala Lumpur,Malaysia
+69,16,2023-10-06,Completed,Bank Transfer,Ho Chi Minh City,Vietnam
+70,6,2023-05-22,Completed,GrabPay,Jakarta,Indonesia
+71,45,2023-06-06,Completed,GrabPay,Bangkok,Thailand
+72,27,2023-12-05,Shipped,GrabPay,Phnom Penh,Cambodia
+73,4,2023-07-31,Shipped,Bank Transfer,Hanoi,Vietnam
+74,45,2023-01-21,Shipped,GrabPay,Vientiane,Laos
+75,1,2023-12-27,Shipped,GrabPay,Manila,Philippines
+76,35,2024-07-13,Completed,GrabPay,Vientiane,Laos
+77,15,2023-10-07,Shipped,Credit Card,Hanoi,Vietnam
+78,25,2023-12-11,Cancelled,Debit Card,Hanoi,Vietnam
+79,30,2023-05-11,Processing,Credit Card,Vientiane,Laos
+80,26,2024-08-29,Cancelled,Credit Card,Vientiane,Laos
+81,6,2024-10-20,Completed,GrabPay,Hanoi,Vietnam
+82,12,2023-02-21,Shipped,PayNow,Manila,Philippines
+83,14,2024-04-10,Completed,GrabPay,Ho Chi Minh City,Vietnam
+84,18,2024-03-07,Completed,GrabPay,Manila,Philippines
+85,2,2024-07-06,Completed,Debit Card,Singapore,Singapore
+86,42,2023-03-12,Completed,Debit Card,Singapore,Singapore
+87,13,2023-01-21,Completed,Debit Card,Vientiane,Laos
+88,9,2024-04-29,Processing,Debit Card,Kuala Lumpur,Malaysia
+89,30,2024-12-17,Completed,Debit Card,Manila,Philippines
+90,39,2024-09-13,Completed,PayNow,Kuala Lumpur,Malaysia
+91,7,2024-08-15,Completed,Bank Transfer,Singapore,Singapore
+92,44,2024-01-20,Cancelled,Debit Card,Hanoi,Vietnam
+93,5,2024-08-29,Completed,PayNow,Bangkok,Thailand
+94,44,2024-09-06,Processing,Credit Card,Kuala Lumpur,Malaysia
+95,23,2024-06-29,Cancelled,PayNow,Hanoi,Vietnam
+96,5,2024-06-02,Completed,GrabPay,Ho Chi Minh City,Vietnam
+97,32,2023-04-19,Completed,GrabPay,Hanoi,Vietnam
+98,46,2023-06-06,Completed,Bank Transfer,Hanoi,Vietnam
+99,42,2023-10-04,Processing,GrabPay,Vientiane,Laos
+100,30,2024-03-22,Completed,PayNow,Vientiane,Laos
+101,16,2023-03-30,Shipped,Debit Card,Manila,Philippines
+102,49,2024-04-20,Processing,GrabPay,Vientiane,Laos
+103,22,2023-01-30,Completed,Debit Card,Yangon,Myanmar
+104,32,2023-08-06,Completed,PayNow,Ho Chi Minh City,Vietnam
+105,18,2024-09-02,Processing,Credit Card,Manila,Philippines
+106,34,2023-07-15,Completed,GrabPay,Kuala Lumpur,Malaysia
+107,32,2024-07-22,Cancelled,GrabPay,Bangkok,Thailand
+108,42,2024-12-29,Shipped,Credit Card,Yangon,Myanmar
+109,6,2023-10-29,Shipped,Debit Card,Bangkok,Thailand
+110,20,2024-11-10,Completed,GrabPay,Vientiane,Laos
+111,36,2024-06-27,Shipped,Bank Transfer,Ho Chi Minh City,Vietnam
+112,22,2023-12-27,Completed,PayNow,Yangon,Myanmar
+113,17,2023-08-25,Cancelled,Debit Card,Kuala Lumpur,Malaysia
+114,21,2023-05-03,Cancelled,Debit Card,Phnom Penh,Cambodia
+115,13,2023-08-10,Completed,Bank Transfer,Yangon,Myanmar
+116,49,2024-06-21,Completed,Credit Card,Vientiane,Laos
+117,13,2023-10-31,Completed,Debit Card,Bangkok,Thailand
+118,20,2023-01-15,Completed,PayNow,Phnom Penh,Cambodia
+119,3,2023-02-25,Completed,Debit Card,Phnom Penh,Cambodia
+120,41,2024-05-17,Completed,Bank Transfer,Kuala Lumpur,Malaysia
+121,19,2024-04-25,Shipped,PayNow,Yangon,Myanmar
+122,12,2023-02-22,Shipped,Credit Card,Manila,Philippines
+123,5,2024-02-15,Completed,Bank Transfer,Yangon,Myanmar
+124,41,2024-12-03,Completed,Debit Card,Singapore,Singapore
+125,37,2023-11-08,Completed,Credit Card,Kuala Lumpur,Malaysia
+126,36,2024-03-02,Processing,Bank Transfer,Vientiane,Laos
+127,15,2024-06-19,Shipped,GrabPay,Hanoi,Vietnam
+128,20,2024-08-25,Completed,Bank Transfer,Hanoi,Vietnam
+129,40,2023-03-03,Cancelled,Credit Card,Vientiane,Laos
+130,49,2023-08-01,Completed,Credit Card,Bangkok,Thailand
+131,11,2023-09-03,Processing,Credit Card,Jakarta,Indonesia
+132,11,2023-01-03,Shipped,Bank Transfer,Hanoi,Vietnam
+133,31,2023-10-26,Completed,PayNow,Singapore,Singapore
+134,46,2023-10-17,Completed,Debit Card,Yangon,Myanmar
+135,17,2024-10-02,Cancelled,Debit Card,Vientiane,Laos
+136,28,2023-04-28,Completed,Debit Card,Phnom Penh,Cambodia
+137,18,2023-05-26,Completed,Debit Card,Kuala Lumpur,Malaysia
+138,20,2024-09-01,Completed,GrabPay,Vientiane,Laos
+139,8,2024-04-24,Cancelled,GrabPay,Manila,Philippines
+140,18,2024-05-27,Shipped,GrabPay,Phnom Penh,Cambodia
+141,6,2024-09-04,Shipped,PayNow,Singapore,Singapore
+142,39,2023-09-14,Completed,Debit Card,Singapore,Singapore
+143,44,2024-08-12,Completed,PayNow,Vientiane,Laos
+144,37,2023-02-11,Shipped,Bank Transfer,Jakarta,Indonesia
+145,42,2024-03-28,Completed,Bank Transfer,Manila,Philippines
+146,28,2024-10-12,Completed,GrabPay,Yangon,Myanmar
+147,23,2024-02-23,Completed,Credit Card,Ho Chi Minh City,Vietnam
+148,11,2023-12-04,Cancelled,GrabPay,Hanoi,Vietnam
+149,19,2024-11-09,Processing,Credit Card,Hanoi,Vietnam
+150,30,2023-04-01,Completed,PayNow,Ho Chi Minh City,Vietnam
+151,8,2024-02-18,Completed,Bank Transfer,Phnom Penh,Cambodia
+152,30,2024-02-28,Completed,Bank Transfer,Singapore,Singapore
+153,24,2024-09-29,Cancelled,GrabPay,Yangon,Myanmar
+154,49,2023-02-22,Completed,Bank Transfer,Bangkok,Thailand
+155,9,2023-10-22,Cancelled,GrabPay,Yangon,Myanmar
+156,8,2023-01-30,Completed,Debit Card,Vientiane,Laos
+157,20,2024-07-18,Processing,GrabPay,Singapore,Singapore
+158,6,2023-08-19,Shipped,Credit Card,Kuala Lumpur,Malaysia
+159,42,2023-06-07,Cancelled,PayNow,Yangon,Myanmar
+160,33,2024-12-23,Shipped,GrabPay,Manila,Philippines
+161,31,2023-09-07,Processing,Debit Card,Yangon,Myanmar
+162,25,2023-07-15,Processing,Debit Card,Vientiane,Laos
+163,5,2023-10-10,Completed,Bank Transfer,Hanoi,Vietnam
+164,18,2023-01-03,Cancelled,PayNow,Manila,Philippines
+165,38,2024-08-16,Completed,GrabPay,Yangon,Myanmar
+166,35,2024-05-10,Completed,Bank Transfer,Ho Chi Minh City,Vietnam
+167,49,2024-07-10,Shipped,PayNow,Hanoi,Vietnam
+168,13,2024-12-15,Processing,GrabPay,Bangkok,Thailand
+169,15,2024-02-25,Completed,GrabPay,Singapore,Singapore
+170,46,2024-01-26,Cancelled,Debit Card,Hanoi,Vietnam
+171,32,2023-02-07,Processing,Bank Transfer,Jakarta,Indonesia
+172,22,2023-04-13,Completed,Bank Transfer,Yangon,Myanmar
+173,30,2023-01-16,Shipped,Debit Card,Jakarta,Indonesia
+174,5,2024-04-25,Completed,Bank Transfer,Manila,Philippines
+175,45,2024-02-12,Completed,Bank Transfer,Kuala Lumpur,Malaysia
+176,25,2023-11-21,Processing,Credit Card,Yangon,Myanmar
+177,40,2023-03-12,Cancelled,PayNow,Bangkok,Thailand
+178,15,2023-04-03,Completed,Credit Card,Hanoi,Vietnam
+179,29,2023-06-20,Completed,Credit Card,Manila,Philippines
+180,21,2023-02-27,Completed,PayNow,Manila,Philippines
+181,28,2023-05-30,Processing,GrabPay,Bangkok,Thailand
+182,37,2024-11-29,Completed,Debit Card,Jakarta,Indonesia
+183,6,2024-09-16,Processing,Debit Card,Hanoi,Vietnam
+184,32,2024-08-20,Completed,GrabPay,Jakarta,Indonesia
+185,41,2023-09-18,Completed,Credit Card,Yangon,Myanmar
+186,30,2023-10-22,Completed,Credit Card,Phnom Penh,Cambodia
+187,29,2023-12-20,Completed,GrabPay,Vientiane,Laos
+188,45,2023-09-14,Completed,Debit Card,Yangon,Myanmar
+189,25,2024-05-09,Completed,GrabPay,Kuala Lumpur,Malaysia
+190,37,2024-01-03,Completed,PayNow,Vientiane,Laos
+191,2,2024-11-05,Completed,Credit Card,Hanoi,Vietnam
+192,37,2024-12-03,Processing,GrabPay,Singapore,Singapore
+193,19,2023-08-24,Completed,Debit Card,Vientiane,Laos
+194,41,2023-07-14,Completed,Debit Card,Vientiane,Laos
+195,41,2023-04-10,Completed,GrabPay,Singapore,Singapore
+196,3,2024-08-16,Cancelled,Debit Card,Ho Chi Minh City,Vietnam
+197,6,2023-10-30,Cancelled,GrabPay,Ho Chi Minh City,Vietnam
+198,12,2023-07-25,Processing,PayNow,Jakarta,Indonesia
+199,34,2024-05-28,Completed,PayNow,Manila,Philippines
+200,31,2023-10-30,Completed,GrabPay,Ho Chi Minh City,Vietnam

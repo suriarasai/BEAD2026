@@ -1,0 +1,504 @@
+{
+  "datasets": [
+    {
+      "name": "99c94c0b",
+      "displayName": "LineChart",
+      "queryLines": [
+        "-- LINE CHART: Monthly Booking Volume & Average Fare\r\n",
+        "SELECT\r\n",
+        "    DATE_TRUNC('month',\r\n",
+        "      TO_TIMESTAMP(BookingDateTime, 'd/M/yyyy H:mm')\r\n",
+        "    )                             AS booking_month,\r\n",
+        "    COUNT(*)                      AS total_bookings,\r\n",
+        "    ROUND(AVG(Fare), 2)           AS avg_fare,\r\n",
+        "    ROUND(AVG(Distance), 2)       AS avg_distance\r\n",
+        "FROM booking\r\n",
+        "GROUP BY booking_month\r\n",
+        "ORDER BY booking_month;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Line\r\n",
+        "--   X-axis      : booking_month\r\n",
+        "--   Y-axis      : total_bookings  (left axis)\r\n",
+        "--   Y-axis 2    : avg_fare        (right axis, optional)\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "54c3ed29",
+      "displayName": "BarChartVert",
+      "queryLines": [
+        "-- BAR CHART: Revenue Metrics by Taxi Type\r\n",
+        "SELECT\r\n",
+        "    tt.TypeName                    AS taxi_type,\r\n",
+        "    COUNT(*)                       AS total_rides,\r\n",
+        "    ROUND(AVG(b.Fare), 2)         AS avg_fare,\r\n",
+        "    ROUND(SUM(b.Fare), 2)         AS total_revenue,\r\n",
+        "    ROUND(AVG(b.Distance), 2)     AS avg_distance\r\n",
+        "FROM booking b\r\n",
+        "JOIN taxi t   ON b.TaxiID = t.TaxiID\r\n",
+        "JOIN taxi_type tt ON t.TaxiTypeID = tt.TaxiTypeID\r\n",
+        "GROUP BY tt.TypeName\r\n",
+        "ORDER BY total_revenue DESC;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Bar (vertical)\r\n",
+        "--   X-axis      : taxi_type\r\n",
+        "--   Y-axis      : avg_fare  and/or  total_rides\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "5aff4fa4",
+      "displayName": "Geographic",
+      "queryLines": [
+        "-- MAP: Pickup Hotspots by Location\r\n",
+        "SELECT\r\n",
+        "    p.PlaceName,\r\n",
+        "    p.Latitude,\r\n",
+        "    p.Longitude,\r\n",
+        "    COUNT(*)                       AS pickup_count,\r\n",
+        "    ROUND(AVG(b.Fare), 2)         AS avg_fare,\r\n",
+        "    ROUND(AVG(b.Distance), 2)     AS avg_distance\r\n",
+        "FROM booking b\r\n",
+        "JOIN place p ON b.PickupPlaceID = p.PlaceID\r\n",
+        "GROUP BY p.PlaceName, p.Latitude, p.Longitude\r\n",
+        "ORDER BY pickup_count DESC;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Map (Markers)\r\n",
+        "--   Latitude    : Latitude\r\n",
+        "--   Longitude   : Longitude\r\n",
+        "--   Label       : PlaceName\r\n",
+        "--   Size / Color: pickup_count\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "bbd08dec",
+      "displayName": "PieChart",
+      "queryLines": [
+        "-- PIE / DONUT CHART: Membership Category Distribution\r\n",
+        "SELECT\r\n",
+        "    CASE MemberCategory\r\n",
+        "      WHEN 'A' THEN 'Gold'\r\n",
+        "      WHEN 'B' THEN 'Silver'\r\n",
+        "      WHEN 'C' THEN 'Bronze'\r\n",
+        "      ELSE MemberCategory\r\n",
+        "    END                            AS membership_tier,\r\n",
+        "    COUNT(*)                       AS passenger_count,\r\n",
+        "    ROUND(COUNT(*) * 100.0\r\n",
+        "      / SUM(COUNT(*)) OVER(), 1)   AS percentage\r\n",
+        "FROM passengers\r\n",
+        "GROUP BY MemberCategory\r\n",
+        "ORDER BY passenger_count DESC;\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Pie  (or Donut)\r\n",
+        "--   Label       : membership_tier\r\n",
+        "--   Value       : passenger_count\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "1c81a73f",
+      "displayName": "Histogram",
+      "queryLines": [
+        "-- HISTOGRAM: Trip Distance Distribution (2 km bins)\r\n",
+        "SELECT\r\n",
+        "    FLOOR(Distance / 2) * 2       AS distance_bin_start,\r\n",
+        "    CONCAT(\r\n",
+        "      CAST(FLOOR(Distance / 2) * 2 AS INT), '-',\r\n",
+        "      CAST(FLOOR(Distance / 2) * 2 + 2 AS INT), ' km'\r\n",
+        "    )                              AS distance_range,\r\n",
+        "    COUNT(*)                       AS trip_count\r\n",
+        "FROM booking\r\n",
+        "WHERE Distance BETWEEN 0 AND 50\r\n",
+        "GROUP BY distance_bin_start, distance_range\r\n",
+        "ORDER BY distance_bin_start;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Bar  (contiguous bars = histogram)\r\n",
+        "--   X-axis      : distance_range\r\n",
+        "--   Y-axis      : trip_count\r\n",
+        "--   Tip: Remove bar gap to look like a histogram\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "bf193573",
+      "displayName": "ScatterPlot",
+      "queryLines": [
+        "-- SCATTER PLOT: Distance vs Fare (sampled for performance)\r\n",
+        "SELECT\r\n",
+        "    b.Distance,\r\n",
+        "    b.Fare,\r\n",
+        "    tt.TypeName                    AS taxi_type\r\n",
+        "FROM booking b\r\n",
+        "JOIN taxi t   ON b.TaxiID = t.TaxiID\r\n",
+        "JOIN taxi_type tt ON t.TaxiTypeID = tt.TaxiTypeID\r\n",
+        "WHERE b.Distance > 0 AND b.Fare > 0\r\n",
+        "ORDER BY RAND()\r\n",
+        "LIMIT 5000;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Scatter\r\n",
+        "--   X-axis      : Distance\r\n",
+        "--   Y-axis      : Fare\r\n",
+        "--   Color / Group : taxi_type\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "faf0362b",
+      "displayName": "BoxPlot",
+      "queryLines": [
+        "-- BOX PLOT: Fare Distribution by Taxi Type\r\n",
+        "SELECT\r\n",
+        "    tt.TypeName                    AS taxi_type,\r\n",
+        "    b.Fare\r\n",
+        "FROM booking b\r\n",
+        "JOIN taxi t   ON b.TaxiID = t.TaxiID\r\n",
+        "JOIN taxi_type tt ON t.TaxiTypeID = tt.TaxiTypeID\r\n",
+        "WHERE b.Fare > 0\r\n",
+        "ORDER BY RAND()\r\n",
+        "LIMIT 20000;\r\n",
+        "\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Box Plot\r\n",
+        "--   X-axis (group) : taxi_type\r\n",
+        "--   Y-axis (value) : Fare\r\n",
+        "--   Databricks auto-computes median, Q1, Q3, whiskers\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    },
+    {
+      "name": "ff55287e",
+      "displayName": "TreeMap",
+      "queryLines": [
+        "-- TREEMAP: Revenue by Taxi Type > Vehicle Model\r\n",
+        "SELECT\r\n",
+        "    tt.TypeName                    AS taxi_type,\r\n",
+        "    t.Model                        AS vehicle_model,\r\n",
+        "    COUNT(*)                       AS total_rides,\r\n",
+        "    ROUND(SUM(b.Fare), 2)         AS total_revenue,\r\n",
+        "    ROUND(AVG(b.Fare), 2)         AS avg_fare\r\n",
+        "FROM booking b\r\n",
+        "JOIN taxi t   ON b.TaxiID = t.TaxiID\r\n",
+        "JOIN taxi_type tt ON t.TaxiTypeID = tt.TaxiTypeID\r\n",
+        "GROUP BY tt.TypeName, t.Model\r\n",
+        "ORDER BY total_revenue DESC;\r\n",
+        "-- Dashboard config:\r\n",
+        "--   Chart type  : Treemap\r\n",
+        "--   Group 1 (parent) : taxi_type\r\n",
+        "--   Group 2 (child)  : vehicle_model\r\n",
+        "--   Size              : total_revenue\r\n",
+        "--   Color             : avg_fare\r\n"
+      ],
+      "catalog": "workspace",
+      "schema": "rebu"
+    }
+  ],
+  "pages": [
+    {
+      "name": "63b58967",
+      "displayName": "SimpleDashboard",
+      "layout": [
+        {
+          "widget": {
+            "name": "dae7d68d",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "99c94c0b",
+                  "fields": [
+                    {
+                      "name": "monthly(booking_month)",
+                      "expression": "DATE_TRUNC(\"MONTH\", `booking_month`)"
+                    },
+                    {
+                      "name": "sum(total_bookings)",
+                      "expression": "SUM(`total_bookings`)"
+                    },
+                    {
+                      "name": "sum(avg_fare)",
+                      "expression": "SUM(`avg_fare`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "showTitle": true,
+                "showDescription": true
+              },
+              "widgetType": "line",
+              "encodings": {
+                "x": {
+                  "fieldName": "monthly(booking_month)",
+                  "scale": {
+                    "type": "temporal"
+                  }
+                },
+                "y": {
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "fields": [
+                    {
+                      "fieldName": "sum(total_bookings)"
+                    },
+                    {
+                      "fieldName": "sum(avg_fare)"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 2,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "6d489ef6",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "54c3ed29",
+                  "fields": [
+                    {
+                      "name": "taxi_type",
+                      "expression": "`taxi_type`"
+                    },
+                    {
+                      "name": "avg_fare",
+                      "expression": "`avg_fare`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "showTitle": true,
+                "showDescription": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "taxi_type",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "avg_fare",
+                  "format": {
+                    "type": "number-plain",
+                    "abbreviation": "compact",
+                    "decimalPlaces": {
+                      "type": "max",
+                      "places": 2
+                    }
+                  },
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 0,
+            "width": 3,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "55709648",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "5aff4fa4",
+                  "fields": [
+                    {
+                      "name": "Latitude",
+                      "expression": "`Latitude`"
+                    },
+                    {
+                      "name": "Longitude",
+                      "expression": "`Longitude`"
+                    }
+                  ],
+                  "disaggregated": true
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "showTitle": true,
+                "showDescription": true
+              },
+              "mark": {
+                "size": -0.9
+              },
+              "widgetType": "symbol-map",
+              "encodings": {
+                "coordinates": {
+                  "latitude": {
+                    "fieldName": "Latitude"
+                  },
+                  "longitude": {
+                    "fieldName": "Longitude"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 3,
+            "y": 12,
+            "width": 9,
+            "height": 15
+          }
+        },
+        {
+          "widget": {
+            "name": "c416d649",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "1c81a73f",
+                  "fields": [
+                    {
+                      "name": "distance_range",
+                      "expression": "`distance_range`"
+                    },
+                    {
+                      "name": "sum(trip_count)",
+                      "expression": "SUM(`trip_count`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "histogram",
+              "encodings": {
+                "x": {
+                  "fieldName": "distance_range",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "sum(trip_count)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 6,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "e7f8cdd3",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "bf193573",
+                  "fields": [
+                    {
+                      "name": "Fare",
+                      "expression": "`Fare`"
+                    },
+                    {
+                      "name": "sum(Distance)",
+                      "expression": "SUM(`Distance`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "showTitle": true,
+                "showDescription": true
+              },
+              "widgetType": "scatter",
+              "encodings": {
+                "x": {
+                  "fieldName": "Fare",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "sum(Distance)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                }
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 0,
+            "width": 5,
+            "height": 6
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    },
+    {
+      "name": "0594371b",
+      "displayName": "Global Filters",
+      "pageType": "PAGE_TYPE_GLOBAL_FILTERS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED"
+    },
+    "applyModeEnabled": false
+  }
+}

@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,city,country,registration_date,age,gender,membership_tier
+1,Alice,Tan,alice.tan@email.com,Kuala Lumpur,Malaysia,2022-10-17,23,Female,Silver
+2,Bob,Lee,bob.lee@email.com,Jakarta,Indonesia,2021-08-17,28,Male,Platinum
+3,Charlie,Lim,charlie.lim@email.com,Singapore,Singapore,2021-02-02,27,Male,Silver
+4,Diana,Ng,diana.ng@email.com,Vientiane,Laos,2022-06-02,23,Male,Platinum
+5,Eve,Chan,eve.chan@email.com,Yangon,Myanmar,2021-08-14,59,Female,Bronze
+6,Frank,Wong,frank.wong@email.com,Jakarta,Indonesia,2023-02-17,49,Female,Gold
+7,Grace,Chen,grace.chen@email.com,Bangkok,Thailand,2021-06-09,43,Male,Bronze
+8,Henry,Kumar,henry.kumar@email.com,Kuala Lumpur,Malaysia,2022-01-25,44,Female,Gold
+9,Iris,Singh,iris.singh@email.com,Singapore,Singapore,2023-04-07,51,Male,Platinum
+10,Jack,Ali,jack.ali@email.com,Phnom Penh,Cambodia,2021-03-22,40,Female,Silver
+11,Karen,Brown,karen.brown@email.com,Kuala Lumpur,Malaysia,2022-12-23,24,Male,Gold
+12,Leo,Smith,leo.smith@email.com,Bangkok,Thailand,2021-03-23,28,Female,Gold
+13,Mia,Jones,mia.jones@email.com,Ho Chi Minh City,Vietnam,2022-04-10,32,Female,Gold
+14,Noah,Davis,noah.davis@email.com,Manila,Philippines,2021-08-03,65,Male,Silver
+15,Olivia,Wilson,olivia.wilson@email.com,Bangkok,Thailand,2022-07-01,32,Female,Platinum
+16,Paul,Moore,paul.moore@email.com,Phnom Penh,Cambodia,2021-10-04,36,Female,Bronze
+17,Quinn,Taylor,quinn.taylor@email.com,Singapore,Singapore,2021-08-23,42,Female,Gold
+18,Rachel,Anderson,rachel.anderson@email.com,Bangkok,Thailand,2021-03-09,58,Female,Silver
+19,Sam,Thomas,sam.thomas@email.com,Yangon,Myanmar,2022-11-03,47,Female,Silver
+20,Tina,Jackson,tina.jackson@email.com,Jakarta,Indonesia,2021-09-29,37,Female,Platinum
+21,Uma,White,uma.white@email.com,Vientiane,Laos,2023-07-09,47,Female,Silver
+22,Victor,Harris,victor.harris@email.com,Phnom Penh,Cambodia,2021-05-22,53,Male,Bronze
+23,Wendy,Martin,wendy.martin@email.com,Kuala Lumpur,Malaysia,2023-06-01,31,Male,Platinum
+24,Xander,Thompson,xander.thompson@email.com,Kuala Lumpur,Malaysia,2022-09-03,46,Female,Platinum
+25,Yara,Garcia,yara.garcia@email.com,Manila,Philippines,2022-06-26,57,Male,Bronze
+26,Zach,Martinez,zach.martinez@email.com,Phnom Penh,Cambodia,2022-11-30,39,Female,Bronze
+27,Amy,Robinson,amy.robinson@email.com,Hanoi,Vietnam,2021-10-28,32,Female,Bronze
+28,Brian,Clark,brian.clark@email.com,Manila,Philippines,2023-09-04,54,Male,Bronze
+29,Chloe,Lewis,chloe.lewis@email.com,Manila,Philippines,2023-06-11,62,Male,Silver
+30,David,Walker,david.walker@email.com,Jakarta,Indonesia,2022-01-18,56,Male,Gold
+31,Emma,Hall,emma.hall@email.com,Singapore,Singapore,2022-05-16,29,Female,Gold
+32,Felix,Allen,felix.allen@email.com,Singapore,Singapore,2021-09-03,37,Male,Bronze
+33,Gina,Young,gina.young@email.com,Yangon,Myanmar,2023-01-20,26,Male,Silver
+34,Hank,King,hank.king@email.com,Yangon,Myanmar,2022-11-07,57,Male,Gold
+35,Isla,Wright,isla.wright@email.com,Vientiane,Laos,2022-06-25,49,Male,Silver
+36,Jake,Scott,jake.scott@email.com,Manila,Philippines,2023-01-01,47,Female,Platinum
+37,Lily,Torres,lily.torres@email.com,Phnom Penh,Cambodia,2023-07-11,50,Male,Silver
+38,Mike,Nguyen,mike.nguyen@email.com,Kuala Lumpur,Malaysia,2021-08-19,43,Male,Silver
+39,Nora,Hill,nora.hill@email.com,Bangkok,Thailand,2022-08-26,22,Male,Bronze
+40,Owen,Flores,owen.flores@email.com,Kuala Lumpur,Malaysia,2021-08-23,24,Female,Bronze
+41,Pam,Green,pam.green@email.com,Bangkok,Thailand,2022-06-11,39,Female,Silver
+42,Rex,Adams,rex.adams@email.com,Jakarta,Indonesia,2022-07-07,58,Female,Silver
+43,Sara,Nelson,sara.nelson@email.com,Yangon,Myanmar,2023-03-15,48,Male,Bronze
+44,Tom,Baker,tom.baker@email.com,Hanoi,Vietnam,2021-04-10,44,Female,Platinum
+45,Una,Carter,una.carter@email.com,Singapore,Singapore,2022-04-24,65,Male,Bronze
+46,Vince,Mitchell,vince.mitchell@email.com,Ho Chi Minh City,Vietnam,2022-02-17,28,Male,Silver
+47,Wren,Perez,wren.perez@email.com,Phnom Penh,Cambodia,2021-07-14,50,Male,Platinum
+48,Xena,Roberts,xena.roberts@email.com,Manila,Philippines,2021-07-07,51,Male,Bronze
+49,Yuri,Turner,yuri.turner@email.com,Phnom Penh,Cambodia,2022-03-30,28,Male,Bronze
+50,Zoe,Phillips,zoe.phillips@email.com,Kuala Lumpur,Malaysia,2023-09-20,37,Male,Platinum
