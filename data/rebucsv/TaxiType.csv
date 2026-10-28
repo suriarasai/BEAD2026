@@ -1,0 +1,6 @@
+TaxiTypeID,TypeName,BaseFare,PerKmRate,Capacity
+1,Standard,3.9,0.55,4
+2,Premier,5.0,0.65,4
+3,Limo,8.0,0.85,4
+4,6-Seater,5.5,0.7,6
+5,Wheelchair Accessible,4.5,0.6,4

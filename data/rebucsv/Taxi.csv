@@ -1,0 +1,401 @@
+TaxiID,LicensePlate,TaxiTypeID,Model,YearManufactured,Status
+1,EFE1420F,1,Toyota Camry,2021,Maintenance
+2,EHH5981U,2,Toyota Corolla Altis,2023,Active
+3,SKD9416D,1,Toyota Corolla Altis,2021,Active
+4,GRK4595L,1,Mercedes E-Class,2017,Active
+5,EBK6610S,3,Toyota Camry,2019,Active
+6,EQL9178S,4,Toyota Corolla Altis,2022,Active
+7,EZW8670J,4,Honda Civic,2019,Active
+8,SHK9643Q,3,Volkswagen Passat,2015,Active
+9,SYK2110Z,4,Hyundai Avante,2022,Active
+10,SND8375U,5,Toyota Camry,2015,Active
+11,GTG7397F,3,Volkswagen Passat,2021,Active
+12,GNY0774Z,4,Nissan Sylphy,2024,Active
+13,SGZ3800R,3,Volkswagen Passat,2024,Active
+14,EUD7226Y,2,Mazda 3,2017,Active
+15,EYH1417P,3,Nissan Sylphy,2022,Active
+16,SCL8790T,4,BMW 5 Series,2015,Active
+17,GQQ8346C,3,BMW 5 Series,2019,Active
+18,SEH0455H,1,Toyota Prius,2024,Active
+19,GVU6392M,1,Kia Cerato,2024,Maintenance
+20,SMY7782A,4,Mercedes E-Class,2021,Maintenance
+21,GNK0670K,5,Toyota Prius,2021,Maintenance
+22,GBV1887J,3,Hyundai Ioniq,2022,Active
+23,EHW1214F,3,Kia Cerato,2015,Active
+24,GMP1749R,1,Mazda 3,2023,Active
+25,ELE4952E,1,Nissan Sylphy,2021,Maintenance
+26,GMG6998T,2,BMW 5 Series,2020,Maintenance
+27,GMP9671E,1,Volkswagen Passat,2023,Active
+28,STA7546P,3,Honda Civic,2015,Maintenance
+29,EXM7744B,1,Nissan Sylphy,2023,Active
+30,SQH3783H,2,Volkswagen Passat,2021,Active
+31,GSM9556X,1,Volkswagen Passat,2015,Active
+32,EYF4850M,2,Honda Civic,2018,Maintenance
+33,EGZ2213K,2,Mercedes E-Class,2017,Active
+34,GCX7749J,2,Kia Cerato,2015,Active
+35,GTY0755H,4,Nissan Sylphy,2024,Active
+36,SVX5990C,5,Nissan Sylphy,2018,Active
+37,SMR0890R,1,Toyota Camry,2017,Maintenance
+38,GZJ4205P,2,Toyota Corolla Altis,2018,Active
+39,SRG5410P,1,Toyota Prius,2018,Active
+40,SHX1609Q,4,Hyundai Avante,2018,Active
+41,GHK1956M,1,Nissan Sylphy,2021,Active
+42,GLS2449C,4,Hyundai Avante,2016,Active
+43,SFU0124U,4,Toyota Corolla Altis,2019,Active
+44,GWL9957K,2,Hyundai Avante,2024,Active
+45,EZG0348M,2,Hyundai Avante,2016,Active
+46,GQK7994F,2,Honda Civic,2018,Active
+47,GAX1340A,4,BMW 5 Series,2021,Maintenance
+48,EWL7092U,2,BMW 5 Series,2023,Active
+49,SPT1353L,2,Mercedes E-Class,2024,Active
+50,SPB3123W,3,Toyota Prius,2017,Maintenance
+51,GDM3212Z,2,Toyota Corolla Altis,2024,Active
+52,ETD2735N,3,BMW 5 Series,2022,Active
+53,GXJ4568C,5,BMW 5 Series,2015,Active
+54,GHR5743P,5,BMW 5 Series,2021,Active
+55,SPA7863V,1,Mercedes E-Class,2019,Active
+56,EXG8942F,4,Hyundai Ioniq,2018,Active
+57,SXJ1125T,1,Toyota Corolla Altis,2021,Active
+58,ETK8225K,5,Toyota Camry,2017,Active
+59,EUB8213D,2,Nissan Sylphy,2019,Maintenance
+60,EXG0136V,5,BMW 5 Series,2020,Active
+61,GJF9830X,4,Toyota Camry,2015,Maintenance
+62,GCH9496X,2,Toyota Prius,2023,Active
+63,SDC0144F,2,Toyota Prius,2015,Maintenance
+64,SYQ4046J,3,Volkswagen Passat,2015,Maintenance
+65,GCQ5189E,4,Hyundai Ioniq,2016,Active
+66,GHN4103W,4,Kia Cerato,2018,Active
+67,GMD9966R,3,Kia Cerato,2015,Maintenance
+68,GMV7672Y,2,Mazda 3,2022,Active
+69,ERW8439V,1,Nissan Sylphy,2024,Active
+70,ENT0855N,2,Honda Civic,2015,Maintenance
+71,EVT2190Y,5,Hyundai Ioniq,2024,Active
+72,EDK8508V,2,Honda Civic,2018,Maintenance
+73,GMY4586F,1,Volkswagen Passat,2016,Active
+74,SRD8533B,3,Toyota Prius,2016,Maintenance
+75,SGM2069U,3,Volkswagen Passat,2023,Active
+76,GXY0285E,5,Kia Cerato,2017,Active
+77,GLM2432M,2,Nissan Sylphy,2019,Active
+78,STD3839Y,4,Mercedes E-Class,2018,Active
+79,GEL5261P,1,Honda Civic,2024,Maintenance
+80,SXX5879W,3,Toyota Corolla Altis,2021,Maintenance
+81,GRP0751U,3,Nissan Sylphy,2017,Active
+82,SLZ6354V,1,Kia Cerato,2018,Maintenance
+83,SXB3388A,1,Toyota Camry,2023,Active
+84,SLJ7711S,5,Toyota Camry,2015,Active
+85,EKZ7121D,5,Volkswagen Passat,2015,Active
+86,EXH8028M,3,Hyundai Avante,2021,Active
+87,GRS4062N,5,Honda Civic,2018,Active
+88,GQU5610T,3,Toyota Camry,2020,Active
+89,SLH9781M,1,Toyota Camry,2024,Maintenance
+90,GVM8720N,3,Toyota Corolla Altis,2018,Active
+91,GRJ4472P,1,Toyota Camry,2024,Active
+92,GZS3842G,1,Toyota Prius,2019,Active
+93,GXW9694P,5,Hyundai Ioniq,2023,Active
+94,SAR8814N,2,Hyundai Ioniq,2022,Active
+95,EFC7803V,1,Volkswagen Passat,2018,Active
+96,SJR0241Z,3,Mazda 3,2021,Active
+97,SBQ8582C,4,Toyota Corolla Altis,2019,Active
+98,ECL6755U,2,Kia Cerato,2021,Active
+99,EZM4088F,2,Mazda 3,2015,Active
+100,SPY5733X,1,Toyota Corolla Altis,2024,Active
+101,SWT2472S,2,BMW 5 Series,2023,Active
+102,EAD0220A,3,Hyundai Ioniq,2020,Active
+103,SGX8871D,3,Kia Cerato,2015,Active
+104,EDV2646H,4,Toyota Camry,2022,Active
+105,EGP5441E,5,Toyota Prius,2018,Active
+106,EBX3572W,5,Mercedes E-Class,2018,Active
+107,GSU7583T,3,Nissan Sylphy,2021,Maintenance
+108,ELL8012G,1,BMW 5 Series,2019,Maintenance
+109,EGJ8704L,5,Hyundai Avante,2017,Active
+110,EUQ6518S,2,Mazda 3,2023,Active
+111,EPR8276H,4,Toyota Prius,2016,Maintenance
+112,GQV1845M,5,Toyota Corolla Altis,2023,Active
+113,EMM9794C,3,Honda Civic,2019,Active
+114,EJL8788Z,3,Hyundai Avante,2015,Maintenance
+115,EKR7609X,5,Kia Cerato,2020,Active
+116,SQQ4781C,5,Mazda 3,2023,Active
+117,GGH8089B,3,Mazda 3,2017,Maintenance
+118,ELF1621D,5,Hyundai Avante,2024,Maintenance
+119,EJD2624Y,1,Mercedes E-Class,2024,Maintenance
+120,SAV2175F,4,Toyota Corolla Altis,2017,Active
+121,GZA5334U,2,Volkswagen Passat,2016,Active
+122,SNH9946N,2,Honda Civic,2016,Active
+123,SAH7423X,2,Toyota Corolla Altis,2022,Active
+124,EDM2754C,2,Toyota Corolla Altis,2018,Maintenance
+125,GVP8958E,2,Mazda 3,2020,Active
+126,EXJ2968P,4,Kia Cerato,2024,Active
+127,GGL9449C,1,Toyota Prius,2015,Maintenance
+128,ERX1451K,3,Hyundai Avante,2024,Active
+129,EBP0121C,1,Kia Cerato,2015,Active
+130,SNL7212B,5,Nissan Sylphy,2023,Active
+131,EHJ6356M,5,Hyundai Ioniq,2023,Active
+132,GDB0647B,5,Mazda 3,2024,Active
+133,SMW9646H,4,Toyota Camry,2016,Active
+134,ERM5891U,2,BMW 5 Series,2019,Active
+135,SMQ6783V,2,Toyota Corolla Altis,2022,Active
+136,EUH0683K,1,Kia Cerato,2024,Maintenance
+137,SJS2688Z,4,BMW 5 Series,2015,Active
+138,GPW2331G,5,Kia Cerato,2016,Active
+139,SLM9692Z,2,Hyundai Avante,2016,Active
+140,GZT7652M,1,Toyota Corolla Altis,2023,Active
+141,SKC4586R,2,Toyota Corolla Altis,2020,Active
+142,GVJ8875N,3,Hyundai Ioniq,2017,Active
+143,ESS7137B,1,Toyota Corolla Altis,2024,Active
+144,SPS3430N,3,Toyota Corolla Altis,2018,Active
+145,ENK4319E,3,Mercedes E-Class,2019,Active
+146,GWL1362U,2,Hyundai Avante,2024,Active
+147,SLK1146S,5,BMW 5 Series,2015,Active
+148,GQK2323F,4,Toyota Camry,2018,Active
+149,EGT1310S,3,BMW 5 Series,2018,Maintenance
+150,EUN5817L,2,Toyota Camry,2016,Active
+151,EZY0741N,4,Honda Civic,2022,Active
+152,SUK6972X,1,Toyota Camry,2016,Maintenance
+153,GQR0388E,2,BMW 5 Series,2015,Active
+154,SBL7727Z,5,Toyota Prius,2024,Active
+155,EVQ7346C,1,Toyota Prius,2024,Active
+156,SXZ1996P,3,Kia Cerato,2016,Active
+157,ELG9548G,2,Toyota Corolla Altis,2022,Maintenance
+158,SQQ5888C,1,Volkswagen Passat,2021,Active
+159,SFG0431D,1,Mazda 3,2017,Active
+160,STQ1708Q,4,Honda Civic,2017,Active
+161,EQS4963P,3,Honda Civic,2019,Active
+162,SUV3651X,5,BMW 5 Series,2015,Active
+163,EGS0281H,1,Toyota Prius,2021,Active
+164,SFN3219N,1,Mazda 3,2018,Maintenance
+165,SUL8896X,5,Toyota Camry,2024,Active
+166,SAQ0226H,3,Toyota Camry,2021,Maintenance
+167,SXM4477F,1,Kia Cerato,2021,Active
+168,EHA1149K,1,Toyota Prius,2019,Active
+169,SJX4665S,4,Honda Civic,2023,Maintenance
+170,EKD4406E,2,Mercedes E-Class,2018,Active
+171,SCU3591N,5,Honda Civic,2018,Active
+172,SEE7043H,5,Volkswagen Passat,2020,Active
+173,SFE9912B,5,Nissan Sylphy,2018,Active
+174,EKP3406A,1,Toyota Prius,2017,Active
+175,SPG3493N,3,BMW 5 Series,2023,Active
+176,GYM7291R,1,Toyota Prius,2024,Active
+177,SDW1596G,3,Nissan Sylphy,2018,Active
+178,STC9859J,5,Hyundai Avante,2022,Active
+179,SZH5277C,3,BMW 5 Series,2022,Active
+180,STY2514M,5,Honda Civic,2017,Maintenance
+181,GXW3647V,4,Hyundai Ioniq,2017,Active
+182,SXJ8154Z,4,Nissan Sylphy,2019,Maintenance
+183,GLG3802S,5,Volkswagen Passat,2022,Active
+184,SLX2907V,4,Toyota Corolla Altis,2020,Active
+185,EEM5476F,1,Hyundai Ioniq,2015,Active
+186,EKJ9938Y,5,Hyundai Ioniq,2018,Active
+187,EYQ2843E,2,Hyundai Ioniq,2019,Maintenance
+188,GMF1232R,3,Volkswagen Passat,2021,Active
+189,EDX4550V,3,BMW 5 Series,2021,Maintenance
+190,GME7884E,5,Nissan Sylphy,2024,Active
+191,GMG7546L,4,Honda Civic,2023,Active
+192,ERQ9014C,1,Hyundai Avante,2022,Maintenance
+193,GKK0337C,5,Mercedes E-Class,2021,Active
+194,ENY7712D,5,Volkswagen Passat,2020,Maintenance
+195,GWT2574Z,5,Hyundai Ioniq,2019,Active
+196,SMR6571U,5,BMW 5 Series,2018,Active
+197,GEA1346B,2,BMW 5 Series,2017,Active
+198,GAL7580G,1,Volkswagen Passat,2015,Active
+199,EKU1073R,1,Nissan Sylphy,2022,Active
+200,STZ9790U,5,Kia Cerato,2016,Active
+201,SYC6171G,5,BMW 5 Series,2018,Active
+202,SWM4736E,5,Kia Cerato,2020,Maintenance
+203,SUB3142J,4,Honda Civic,2023,Active
+204,SUH4931Y,5,Hyundai Avante,2021,Active
+205,GAH3794A,3,Hyundai Ioniq,2019,Active
+206,EEZ8809C,2,Honda Civic,2021,Active
+207,GLU8607C,1,Honda Civic,2015,Active
+208,SMM3974A,5,Toyota Corolla Altis,2019,Active
+209,SJM6772G,3,Nissan Sylphy,2017,Active
+210,GHP3152B,2,Toyota Corolla Altis,2016,Active
+211,GJM2666H,4,Toyota Camry,2023,Active
+212,EYD2167J,2,Mercedes E-Class,2020,Active
+213,EXZ7436Q,5,Nissan Sylphy,2019,Maintenance
+214,SAG9527S,1,Toyota Camry,2022,Active
+215,SRJ5669T,3,Toyota Corolla Altis,2023,Active
+216,GVX5005X,3,Volkswagen Passat,2018,Active
+217,EBW7068D,4,Honda Civic,2017,Active
+218,SFB4165W,2,Nissan Sylphy,2024,Active
+219,SRH7284Y,4,Volkswagen Passat,2016,Active
+220,SGT4084K,5,Mercedes E-Class,2023,Maintenance
+221,ENM5693G,3,Toyota Prius,2021,Active
+222,ELT2693Z,4,Mercedes E-Class,2024,Active
+223,ELL2936D,3,Honda Civic,2019,Active
+224,SZY4963L,1,Hyundai Ioniq,2018,Active
+225,EFQ2183Z,1,Kia Cerato,2016,Active
+226,GNF6992K,1,Mercedes E-Class,2016,Active
+227,EGD4444R,2,Toyota Camry,2023,Active
+228,ETV6265F,5,Hyundai Ioniq,2024,Active
+229,GDK9413Z,3,BMW 5 Series,2019,Maintenance
+230,EHZ1979N,3,Kia Cerato,2024,Maintenance
+231,SNX2534C,1,Kia Cerato,2015,Active
+232,SKU3096M,5,Toyota Camry,2019,Active
+233,SVE3933T,2,Hyundai Avante,2017,Active
+234,EGV9232U,4,BMW 5 Series,2022,Active
+235,EES2374F,3,Mazda 3,2024,Active
+236,GCK3387P,1,Kia Cerato,2020,Active
+237,EUV8044Y,3,Mazda 3,2019,Maintenance
+238,EJT2672A,5,BMW 5 Series,2018,Active
+239,GAC5105E,1,Mercedes E-Class,2022,Maintenance
+240,GVD5724U,4,Hyundai Avante,2024,Active
+241,EJH2520R,2,Mercedes E-Class,2017,Maintenance
+242,STF7125M,2,Volkswagen Passat,2016,Maintenance
+243,GWZ0309Q,5,Toyota Corolla Altis,2017,Active
+244,EYD5441D,1,Toyota Corolla Altis,2018,Active
+245,GPR4065V,4,Toyota Corolla Altis,2024,Active
+246,EYU1375L,5,Kia Cerato,2017,Maintenance
+247,GTB5324Y,2,Hyundai Avante,2016,Active
+248,GBX9696G,4,Nissan Sylphy,2021,Active
+249,ETE8656U,2,Honda Civic,2016,Active
+250,SBL8206P,4,Toyota Camry,2024,Active
+251,GZZ7920T,1,Mazda 3,2015,Active
+252,SBR8016D,4,Toyota Camry,2015,Active
+253,EDN7656U,3,Volkswagen Passat,2017,Active
+254,EXY9781E,5,Hyundai Avante,2021,Active
+255,EVY7115R,1,Mercedes E-Class,2023,Maintenance
+256,GTZ3495A,4,Toyota Corolla Altis,2023,Active
+257,SKK6158Q,3,BMW 5 Series,2018,Maintenance
+258,SVC0426V,2,Honda Civic,2024,Active
+259,SRB6690U,4,Volkswagen Passat,2020,Active
+260,EFN0945C,3,Hyundai Ioniq,2021,Active
+261,GFU4857G,2,Mazda 3,2022,Maintenance
+262,EPU7619N,2,Nissan Sylphy,2022,Active
+263,EZB7422Z,1,Mercedes E-Class,2022,Active
+264,GZX4899X,2,Honda Civic,2021,Active
+265,EQW1389Y,5,Volkswagen Passat,2020,Active
+266,GDH9387K,3,Honda Civic,2020,Active
+267,GLQ7811H,3,Hyundai Avante,2021,Active
+268,EDN2690J,1,Nissan Sylphy,2020,Active
+269,GTJ0510H,3,Honda Civic,2020,Maintenance
+270,SHV1310H,5,Toyota Camry,2016,Active
+271,SQV6100L,1,BMW 5 Series,2015,Maintenance
+272,SDX0892S,2,Mazda 3,2020,Active
+273,SBK6211Y,3,Volkswagen Passat,2024,Active
+274,SCM9303D,5,BMW 5 Series,2015,Active
+275,ETF3961B,3,Kia Cerato,2019,Active
+276,SKJ6538U,1,Toyota Prius,2024,Maintenance
+277,SUT5386L,2,Mercedes E-Class,2015,Active
+278,SFV9550C,3,Hyundai Avante,2017,Maintenance
+279,GUJ3743U,1,Mazda 3,2017,Active
+280,SZM5279M,5,Mazda 3,2021,Active
+281,SCG5590B,4,Honda Civic,2017,Active
+282,SED4754M,1,Kia Cerato,2019,Active
+283,GUD0930S,3,Mazda 3,2024,Active
+284,ELT8934Y,1,Hyundai Ioniq,2024,Active
+285,EVN2025A,5,Hyundai Avante,2015,Active
+286,GDM0997A,5,Hyundai Avante,2023,Active
+287,GDH7341U,4,Toyota Camry,2024,Active
+288,ELE1437R,5,Hyundai Ioniq,2021,Active
+289,GFT9499G,2,Volkswagen Passat,2015,Active
+290,GBA3897C,2,Hyundai Avante,2023,Maintenance
+291,EBW5853Z,2,Honda Civic,2022,Active
+292,GCS0916E,2,Toyota Prius,2021,Maintenance
+293,EFU8645H,4,Mercedes E-Class,2015,Active
+294,SCY1362W,3,Toyota Camry,2016,Active
+295,EPH3461N,3,Hyundai Ioniq,2016,Active
+296,SJM4802X,2,Volkswagen Passat,2019,Active
+297,SAE2621C,1,Mercedes E-Class,2020,Maintenance
+298,GSP8251G,1,Honda Civic,2022,Active
+299,SLP7499W,5,Toyota Corolla Altis,2015,Active
+300,GZA0508J,1,Mercedes E-Class,2020,Active
+301,SBY3418B,4,Mazda 3,2018,Active
+302,ESW2730T,3,Mercedes E-Class,2022,Active
+303,GTY6803M,5,Hyundai Ioniq,2015,Maintenance
+304,EPP7860Z,5,Mazda 3,2022,Active
+305,SAE3502C,3,Toyota Camry,2015,Active
+306,SDC4767B,4,Nissan Sylphy,2017,Active
+307,GVA2123U,3,Volkswagen Passat,2023,Active
+308,GDT1265B,4,Nissan Sylphy,2021,Active
+309,EYS8250M,4,Toyota Camry,2016,Active
+310,EYV2201K,5,Hyundai Ioniq,2019,Active
+311,EQX8600X,5,Volkswagen Passat,2020,Active
+312,EDH0225J,3,Toyota Corolla Altis,2019,Maintenance
+313,GNT1558K,1,Nissan Sylphy,2024,Active
+314,EZJ6749Y,2,Honda Civic,2019,Active
+315,SHM4621W,1,Kia Cerato,2018,Active
+316,SGN9254A,5,BMW 5 Series,2017,Maintenance
+317,EMR8070C,3,Toyota Corolla Altis,2024,Maintenance
+318,EUU0354J,1,Honda Civic,2020,Active
+319,SKZ4244Z,4,Toyota Prius,2023,Active
+320,GKE9280E,2,Volkswagen Passat,2022,Maintenance
+321,EPC9202Q,5,Honda Civic,2024,Active
+322,GEB6372R,5,Nissan Sylphy,2023,Maintenance
+323,GGE0533F,4,Kia Cerato,2020,Active
+324,SCQ5105J,5,Hyundai Ioniq,2023,Active
+325,GDE4259F,1,Toyota Camry,2016,Active
+326,SHV0283U,2,Mercedes E-Class,2023,Maintenance
+327,GCU3429K,1,Mercedes E-Class,2020,Active
+328,GTA2084B,1,Hyundai Ioniq,2024,Active
+329,GCW2236R,1,Nissan Sylphy,2018,Maintenance
+330,SQL1053K,1,Kia Cerato,2018,Maintenance
+331,EST4742E,2,Toyota Corolla Altis,2019,Active
+332,GHG5882C,1,Hyundai Ioniq,2024,Active
+333,STM7083C,1,Mazda 3,2021,Maintenance
+334,GXS8874U,3,Nissan Sylphy,2015,Active
+335,EVL1955S,1,Kia Cerato,2018,Active
+336,EDV9560R,4,Hyundai Avante,2021,Active
+337,GBV4406W,1,Toyota Prius,2024,Active
+338,EZR2056B,3,Hyundai Avante,2020,Active
+339,GBV9196K,1,Hyundai Avante,2017,Maintenance
+340,EHP2383Q,4,Hyundai Avante,2017,Active
+341,GHX1516W,2,Mazda 3,2016,Active
+342,EFX6778X,2,Kia Cerato,2016,Active
+343,SLN2866C,4,Toyota Camry,2023,Active
+344,SNU9640B,2,Hyundai Ioniq,2023,Active
+345,ENU6469X,3,Volkswagen Passat,2017,Active
+346,SFS5597M,2,Mazda 3,2017,Active
+347,EBA7206X,5,Nissan Sylphy,2023,Active
+348,GGL2628W,2,BMW 5 Series,2024,Active
+349,SHQ7637R,5,Nissan Sylphy,2020,Active
+350,ERC1057U,2,Mercedes E-Class,2016,Active
+351,SKN3756L,1,Hyundai Avante,2019,Active
+352,SJE8754N,4,Kia Cerato,2020,Active
+353,EGA0549M,3,Nissan Sylphy,2024,Maintenance
+354,GRA6490V,3,Toyota Camry,2024,Active
+355,SJB5939M,3,Mercedes E-Class,2015,Active
+356,GLS1493X,4,Nissan Sylphy,2017,Active
+357,EUR9974A,5,Hyundai Avante,2021,Active
+358,GGA4680P,5,Nissan Sylphy,2021,Active
+359,GVJ9820F,3,Honda Civic,2023,Active
+360,GZJ7652E,3,Toyota Prius,2017,Active
+361,EWM5744X,1,Kia Cerato,2020,Active
+362,EWR5857W,4,Toyota Prius,2024,Maintenance
+363,ERW8021X,5,Toyota Corolla Altis,2024,Maintenance
+364,GWW2386J,1,Toyota Prius,2017,Active
+365,SRF2111L,5,Nissan Sylphy,2018,Active
+366,GXQ1392J,3,Honda Civic,2017,Active
+367,SDE3598D,5,Mercedes E-Class,2017,Active
+368,GFN3566T,3,Nissan Sylphy,2020,Maintenance
+369,GTY3153K,2,Nissan Sylphy,2023,Active
+370,SUF4653E,3,Toyota Corolla Altis,2022,Active
+371,ETR8769N,5,Hyundai Ioniq,2021,Active
+372,EYK2416L,1,Honda Civic,2017,Active
+373,ECU6049H,3,Volkswagen Passat,2020,Active
+374,ELN3580M,2,Honda Civic,2017,Active
+375,EXU1751B,5,Mazda 3,2021,Active
+376,GWA4167D,4,BMW 5 Series,2017,Active
+377,GQU2175V,2,Mazda 3,2021,Active
+378,GAS7399P,4,Mazda 3,2024,Active
+379,EUA7415U,5,Toyota Camry,2024,Maintenance
+380,EWM2250T,1,Honda Civic,2015,Active
+381,GDQ9401V,5,Nissan Sylphy,2024,Active
+382,EPR5953A,4,Honda Civic,2022,Active
+383,EJB2713Y,4,Toyota Prius,2020,Maintenance
+384,GCM2407C,1,Volkswagen Passat,2022,Active
+385,SDK0565P,2,Mercedes E-Class,2021,Maintenance
+386,SFJ6230N,3,Mazda 3,2016,Active
+387,SAJ2395N,4,Mercedes E-Class,2017,Maintenance
+388,GXN3005R,1,Honda Civic,2019,Active
+389,GNZ9792Y,1,Honda Civic,2019,Active
+390,GJK2032K,2,Hyundai Ioniq,2017,Maintenance
+391,GAU9035C,2,BMW 5 Series,2024,Active
+392,GAU1691L,3,Mazda 3,2022,Active
+393,ELT9705S,5,Mercedes E-Class,2016,Active
+394,GZN5063V,3,BMW 5 Series,2021,Active
+395,GEP7792M,1,Toyota Prius,2024,Active
+396,GYD0309R,5,Honda Civic,2016,Active
+397,SYX0252N,3,Hyundai Avante,2022,Maintenance
+398,ESP3622R,5,Mercedes E-Class,2018,Maintenance
+399,GYW2408V,4,Toyota Corolla Altis,2018,Active
+400,SWU5088K,1,Volkswagen Passat,2022,Active
