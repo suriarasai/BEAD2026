@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "6"
+# ///
 # MAGIC %md
 # MAGIC # Taxi Fleet Exploratory Data Analysis
 # MAGIC
@@ -13,6 +17,10 @@
 
 # MAGIC %md
 # MAGIC ## 1. Setup and Data Loading
+
+# COMMAND ----------
+
+!pip install seaborn
 
 # COMMAND ----------
 

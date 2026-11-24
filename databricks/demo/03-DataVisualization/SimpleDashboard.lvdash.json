@@ -12,7 +12,7 @@
         "    COUNT(*)                      AS total_bookings,\r\n",
         "    ROUND(AVG(Fare), 2)           AS avg_fare,\r\n",
         "    ROUND(AVG(Distance), 2)       AS avg_distance\r\n",
-        "FROM booking\r\n",
+        "FROM rebu.booking\r\n",
         "GROUP BY booking_month\r\n",
         "ORDER BY booking_month;\r\n",
         "\r\n",
@@ -493,6 +493,11 @@
       "displayName": "Global Filters",
       "pageType": "PAGE_TYPE_GLOBAL_FILTERS",
       "layoutVersion": "GRID_V1"
+    },
+    {
+      "name": "b2869a54",
+      "displayName": "Untitled page",
+      "pageType": "PAGE_TYPE_CANVAS"
     }
   ],
   "uiSettings": {
